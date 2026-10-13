@@ -1,0 +1,194 @@
+{
+  "chuong": 5,
+  "ten_chuong": "Marketing cho doanh nghiệp mới",
+  "muc_tieu": [
+    "Vận dụng được quy trình STP cho dự án",
+    "Xây dựng được chân dung khách hàng và USP",
+    "Thiết kế được bộ nhận diện thương hiệu",
+    "Triển khai được 4P/7P đúng định vị, trung thực"
+  ],
+  "slide_them": {
+    "bia": {
+      "loi_doc": "Cô xin chào các em! Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em quay lại với học phần Khởi sự doanh nghiệp. Ở Chương bốn, chúng ta đã tìm hiểu bốn loại hình doanh nghiệp theo Luật Doanh nghiệp, phân biệt trách nhiệm hữu hạn với trách nhiệm vô hạn, và cách chọn mô hình pháp lý phù hợp với năng lực, nguồn vốn và mức rủi ro của mình. Hôm nay chúng ta bước vào Chương năm — chương cuối cùng của học phần: Marketing cho doanh nghiệp mới."
+    },
+    "muc_tieu": {
+      "loi_doc": "Sau chương này, các em cần đạt bốn mục tiêu. Thứ nhất, vận dụng được quy trình STP cho dự án của mình. Thứ hai, xây dựng được chân dung khách hàng và điểm bán hàng độc nhất, USP. Thứ ba, thiết kế được một bộ nhận diện thương hiệu nhất quán. Và thứ tư, triển khai được 4P, 7P bám sát định vị và trung thực với khách hàng."
+    },
+    "noi_dung": {
+      "loi_doc": "Chương năm gồm hai chủ đề. Chủ đề năm chấm một: Thị trường mục tiêu, định vị và đối tượng khách hàng, tức STP. Chủ đề năm chấm hai: Xây dựng nhãn hiệu và Marketing hỗn hợp, gồm bộ nhận diện thương hiệu, 4P và 7P. Cuối chương có ôn tập, tình huống minh họa và tổng kết. Bây giờ chúng ta bắt đầu với chủ đề thứ nhất."
+    },
+    "dang_o_dau": {
+      "the": [
+        {
+          "tieu_de": "✓ Đã học — Chủ đề 5.1",
+          "noi_dung": "STP: phân khúc thị trường, chọn khách hàng mục tiêu, dựng chân dung khách hàng, định vị bằng USP trong thị trường ngách."
+        },
+        {
+          "tieu_de": "▶ Đang học — Chủ đề 5.2",
+          "noi_dung": "Bộ nhận diện và câu chuyện thương hiệu, Marketing 0 đồng, 4P, 7P, đạo đức Marketing, Brand Loyalty và Marketing số."
+        },
+        {
+          "tieu_de": "○ Sắp học — Ôn tập và tình huống",
+          "noi_dung": "Năm câu hỏi ôn tập, tình huống minh họa gốm đỏ Vĩnh Long, tổng kết chương và tài liệu học tập."
+        },
+        {
+          "tieu_de": "Mạch nối cả học phần",
+          "noi_dung": "Chương 1–4: ý tưởng, cơ hội, vốn, mô hình pháp lý. Chương 5 đưa sản phẩm đến khách hàng — mảnh cuối cho bài thu hoạch."
+        }
+      ],
+      "loi_doc": "Trước khi sang chủ đề mới, chúng ta xem mình đang ở đâu. Ở chủ đề năm chấm một, các em đã học ba bước STP — phân khúc thị trường, chọn thị trường mục tiêu và định vị — để biết rõ mình nói với ai, nói điều gì. Bây giờ là chủ đề năm chấm hai: biến định vị thành thương hiệu và hành động. Sau đó là ôn tập và tình huống."
+    },
+    "cau_hoi_on_tap": {
+      "cau": [
+        "Vì sao phải làm STP trước khi thiết kế logo hay định giá sản phẩm?",
+        "Ngoài độ tuổi và thu nhập, chân dung khách hàng cần làm rõ thêm điều gì?",
+        "USP là gì, và vì sao doanh nghiệp mới nên chọn thị trường ngách?",
+        "Khi nào nên dùng giá xâm nhập, khi nào nên dùng giá hớt váng?",
+        "Greenwashing là gì, và vì sao định vị gian dối gây hại cho thương hiệu?"
+      ],
+      "loi_doc": "Bây giờ các em hãy dừng video và tự trả lời năm câu hỏi ôn tập trên màn hình. Đừng chỉ nhớ định nghĩa — với mỗi câu, hãy thử lấy một ví dụ từ chính ý tưởng kinh doanh của mình. Trả lời xong, chúng ta cùng sang tình huống minh họa."
+    },
+    "tinh_huong": {
+      "the": [
+        {
+          "tieu_de": "Bối cảnh",
+          "noi_dung": "Ví dụ minh họa, không phải dữ liệu thật: dự án gốm đỏ Vĩnh Long định vị 'nung truyền thống, thiết kế hiện đại' cho người trẻ đô thị."
+        },
+        {
+          "tieu_de": "Vấn đề",
+          "noi_dung": "Đơn hàng chậm. Nhóm muốn giảm giá sâu, khuyến mãi liên tục, quảng cáo đại trà mọi kênh, ghi 'nung lò truyền thống' cả cho hàng nung lò điện."
+        },
+        {
+          "tieu_de": "Câu hỏi 1",
+          "noi_dung": "Các quyết định này có khớp với định vị và khách hàng mục tiêu đã chọn không? Vì sao?"
+        },
+        {
+          "tieu_de": "Câu hỏi 2",
+          "noi_dung": "Đề xuất lại 4P để vừa bán được hàng, vừa trung thực về cách nung và câu chuyện làng nghề."
+        }
+      ],
+      "loi_doc": "Tình huống sau là ví dụ minh họa để giảng dạy, không phải dữ liệu thật: dự án gốm đỏ Vĩnh Long định vị là giữ kỹ thuật nung truyền thống, khoác thiết kế hiện đại cho người trẻ đô thị. Khi đơn hàng chậm, nhóm muốn giảm giá thật sâu, khuyến mãi liên tục, quảng cáo đại trà trên mọi kênh, và ghi 'nung lò truyền thống' cho cả hàng nung lò điện. Các em hãy trả lời: những quyết định này có khớp với định vị và khách hàng mục tiêu không; và em sẽ đề xuất lại 4P thế nào để vừa bán được hàng, vừa trung thực."
+    },
+    "tong_ket": {
+      "the": [
+        {
+          "tieu_de": "STP đi trước mọi hoạt động",
+          "noi_dung": "Phân khúc, chọn khách hàng mục tiêu, rồi mới định vị bằng USP trong một thị trường ngách vừa sức doanh nghiệp."
+        },
+        {
+          "tieu_de": "Thương hiệu là sự nhất quán",
+          "noi_dung": "Logo, slogan, màu sắc và câu chuyện thương hiệu thật cùng truyền tải một giá trị đã định vị."
+        },
+        {
+          "tieu_de": "4P, 7P phải trung thực",
+          "noi_dung": "Sản phẩm, giá, kênh, chiêu thị phản ánh đúng định vị; tránh greenwashing và quảng cáo phóng đại."
+        },
+        {
+          "tieu_de": "Việc cần làm",
+          "noi_dung": "Làm bài tập tự đánh giá hai chủ đề, bài ôn tập tự luận, và đưa STP cùng 4P vào kế hoạch kinh doanh của bài thu hoạch."
+        }
+      ],
+      "loi_doc": "Tổng kết Chương năm, các em nhớ ba điều. Một, STP luôn đi trước. Hai, thương hiệu là sự nhất quán giữa logo, slogan, màu sắc và một câu chuyện thật. Ba, 4P hay 7P phải phản ánh đúng định vị và luôn trung thực. Việc cần làm: bài tập tự đánh giá hai chủ đề, bài ôn tập tự luận, và đưa STP cùng 4P vào bài thu hoạch."
+    },
+    "tai_lieu": {
+      "loi_doc": "Các em đọc thêm các nội dung về Marketing trong giáo trình chính: Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga, tái bản lần thứ hai, và tài liệu tư vấn Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số của Trường Đại học Bách Khoa Hà Nội."
+    },
+    "ket": {
+      "loi_doc": "Vậy là chúng ta đã đi hết năm chương: từ ý tưởng, cơ hội, vốn, mô hình, đến Marketing đưa sản phẩm tới khách hàng. Cô cảm ơn các em đã đồng hành cùng học phần Khởi sự doanh nghiệp. Chúc các em làm tốt bài thu hoạch, và chúc dự án khởi nghiệp của các em, dù còn trên giấy hay đã triển khai, thật nhiều thành công!"
+    }
+  },
+  "on_tap_tu_luan": [
+    {
+      "muc": "5.1 — Thị trường mục tiêu, định vị và đối tượng khách hàng (STP)",
+      "cau_hoi": "Chọn một nông sản hoặc sản phẩm thủ công của địa phương em (giả định). Hãy phân khúc thị trường của sản phẩm theo hai tiêu chí phù hợp, chọn một phân khúc làm thị trường mục tiêu và giải thích lựa chọn dựa trên nguồn lực của một doanh nghiệp mới. Nếu bỏ qua bước phân khúc mà đi thẳng vào quảng bá, doanh nghiệp sẽ gặp hệ quả gì?",
+      "tu_kiem": [
+        "Hai tiêu chí phân khúc được chọn có lý do, cho ra các nhóm khách hàng khác nhau rõ rệt",
+        "Lựa chọn thị trường mục tiêu được biện luận bằng nguồn lực và giá trị nhóm đó mang lại, không chỉ vì 'đông khách'",
+        "Nêu được hệ quả cụ thể của việc bỏ qua phân khúc (thông điệp loãng, chi phí Marketing phân tán)"
+      ],
+      "dap_an": [
+        "Ví dụ một sản phẩm giả định là bánh tráng thủ công: có thể phân khúc theo địa lý (khách tại địa phương — khách ở đô thị xa) kết hợp theo hành vi (mua dùng hằng ngày — mua làm quà). Hai tiêu chí này cho ra những nhóm có nhu cầu khác hẳn nhau về bao bì, giá và kênh mua.",
+        "Doanh nghiệp mới, ít vốn, có thể chọn nhóm 'khách đô thị mua làm quà' vì nhóm này coi trọng nguồn gốc và câu chuyện sản phẩm, chấp nhận mức giá cao hơn, và có thể tiếp cận qua mạng xã hội mà không cần mở cửa hàng. Lập luận phải xuất phát từ nguồn lực mình có, không phải từ việc nhóm nào đông nhất.",
+        "Bỏ qua phân khúc thì doanh nghiệp không biết mình đang nói với ai: thông điệp phải chung chung để 'vừa lòng tất cả', chi phí quảng bá rải ra nhiều nhóm khó tiếp cận, và định vị sau đó sẽ mơ hồ — đúng sai lầm 'có sản phẩm rồi mới tính bán cho ai' mà chủ đề đã cảnh báo."
+      ]
+    },
+    {
+      "muc": "5.1 — Thị trường mục tiêu, định vị và đối tượng khách hàng (STP)",
+      "cau_hoi": "Một nhóm sinh viên (giả định) muốn mở dịch vụ giao cơm trưa cho nhân viên văn phòng. Hãy dựng chân dung khách hàng mục tiêu của nhóm, trong đó có ít nhất hai 'nỗi đau' (pain points) cụ thể. Sau đó cho biết chân dung này làm thay đổi nội dung quảng cáo và lựa chọn kênh truyền thông của nhóm như thế nào.",
+      "tu_kiem": [
+        "Chân dung có cả yếu tố nhân khẩu học lẫn thói quen, sở thích, không dừng ở độ tuổi và thu nhập",
+        "Nỗi đau cụ thể, gắn với việc sản phẩm có thể giải quyết",
+        "Chỉ ra được mối nối từ chân dung khách hàng sang thông điệp và kênh truyền thông"
+      ],
+      "dap_an": [
+        "Chân dung gợi ý: nhân viên văn phòng khoảng 25 đến 40 tuổi, làm việc ở khu trung tâm, thời gian nghỉ trưa ngắn, quen đặt hàng qua điện thoại, quan tâm đến bữa ăn đủ chất. Nỗi đau: không có thời gian ra ngoài ăn hoặc nấu mang theo; lo ngại vệ sinh của hàng quán; ăn ngoài lâu ngày bị ngán vì ít thay đổi.",
+        "Từ chân dung này, nội dung quảng cáo không nên chỉ nói 'cơm ngon, giá rẻ', mà nhấn vào giao đúng giờ, thực đơn thay đổi theo ngày, nguồn nguyên liệu rõ ràng. Kênh phù hợp là các nhóm chat, hội nhóm của tòa nhà văn phòng hoặc tiếp cận trực tiếp bộ phận hành chính công ty, thay vì quảng cáo đại trà. Chân dung khách hàng càng cụ thể thì câu định vị ở bước Positioning càng dễ viết và càng chạm đúng mong muốn của khách hàng."
+      ]
+    },
+    {
+      "muc": "5.1 — Thị trường mục tiêu, định vị và đối tượng khách hàng (STP)",
+      "cau_hoi": "Một nhóm khởi nghiệp tuyên bố: 'Sản phẩm của chúng tôi chất lượng tốt, giá hợp lý, phục vụ mọi người.' Hãy phân tích vì sao câu này chưa phải là một định vị. Dùng bước phân tích đối thủ cạnh tranh, em đề xuất nhóm nên tìm USP và thị trường ngách như thế nào? Đâu là ranh giới giữa định vị khác biệt và định vị gian dối?",
+      "tu_kiem": [
+        "Chỉ ra được câu tuyên bố thiếu khách hàng mục tiêu và thiếu điểm khác biệt so với đối thủ",
+        "Mô tả cách phân tích đối thủ để chọn một góc độ khác biệt chưa ai khai thác",
+        "Nêu rõ ranh giới đạo đức: định vị phải dựa trên điều có thật, kiểm chứng được"
+      ],
+      "dap_an": [
+        "Câu tuyên bố trên không nói dành cho ai và không trả lời được câu hỏi 'vì sao chọn mình chứ không chọn đối thủ' — đối thủ nào cũng có thể nói như vậy. 'Phục vụ mọi người' còn đi ngược với Targeting: doanh nghiệp mới nguồn lực hạn hẹp không thể làm hài lòng tất cả.",
+        "Nhóm nên liệt kê vài đối thủ trực tiếp, xem họ đang nhấn mạnh điều gì trong quảng cáo, rồi tìm một nhu cầu của một nhóm khách cụ thể mà đối thủ chưa phục vụ tốt — đó là ngách để xây USP. Ranh giới đạo đức: USP phải là điều sản phẩm thật sự có và chứng minh được; tự xưng 'hữu cơ' hay 'thủ công truyền thống' khi không đúng là định vị gian dối, sớm muộn sẽ bị phát hiện và làm mất uy tín."
+      ]
+    },
+    {
+      "muc": "5.2 — Xây dựng nhãn hiệu và Marketing hỗn hợp",
+      "cau_hoi": "Dựa trên định vị minh họa của chị Hoa ('món ăn vặt lành mạnh, nguồn gốc rõ ràng từ nông dân Vĩnh Long'), hãy đề xuất một slogan, định hướng màu sắc chủ đạo và dàn ý một câu chuyện thương hiệu. Giải thích vì sao các thành phần này nhất quán với định vị, và điều gì khiến một câu chuyện thương hiệu trở nên chân thực thay vì sáo rỗng.",
+      "tu_kiem": [
+        "Slogan ngắn, dễ nhớ và truyền tải đúng giá trị cốt lõi đã định vị",
+        "Màu sắc và câu chuyện thương hiệu được giải thích bằng định vị, không chỉ vì 'đẹp'",
+        "Phân biệt được câu chuyện thật, có chi tiết kiểm chứng được, với quảng cáo khoác chi tiết văn hóa cho có"
+      ],
+      "dap_an": [
+        "Đây là bài tập trên ví dụ minh họa, không phải thương hiệu thật. Một slogan gợi ý: 'Khoai quê Vĩnh Long — ăn vặt lành, rõ nguồn gốc'. Màu chủ đạo có thể là tông tím của khoai lang kết hợp màu xanh lá gợi cảm giác tự nhiên, sạch — màu được chọn vì gắn với sản phẩm và giá trị 'lành mạnh', không phải chọn ngẫu nhiên.",
+        "Dàn ý câu chuyện: người trồng khoai ở Bình Tân, vì sao chị Hoa bắt đầu chế biến, quy trình làm thủ công, cam kết về nguồn gốc. Câu chuyện chân thực khi các chi tiết đều có thật và khách hàng có thể kiểm chứng (hình ảnh ruộng khoai, quy trình làm bánh); câu chuyện sáo rỗng là khi chỉ dùng vài từ 'quê hương', 'truyền thống' mà không gắn với điều gì doanh nghiệp thật sự làm."
+      ]
+    },
+    {
+      "muc": "5.2 — Xây dựng nhãn hiệu và Marketing hỗn hợp",
+      "cau_hoi": "So sánh hai sản phẩm minh họa của học phần: bánh khoai lang đóng gói của chị Hoa và bình gốm đỏ thiết kế mới của dự án gốm đỏ Vĩnh Long. Với mỗi sản phẩm, em chọn chiến lược giá nào và kênh phân phối, chiêu thị chính nào? Giải thích lựa chọn dựa trên khách hàng mục tiêu, và chỉ ra rủi ro nếu hai sản phẩm đổi chiến lược giá cho nhau.",
+      "tu_kiem": [
+        "Chọn chiến lược giá có lý do gắn với Targeting và tính độc đáo của sản phẩm",
+        "Kênh Place và Promotion phù hợp với thói quen của khách hàng mục tiêu",
+        "Phân tích được rủi ro khi chiến lược giá lệch với định vị"
+      ],
+      "dap_an": [
+        "Bánh khoai lang là món ăn vặt mua thường xuyên, khách văn phòng có nhiều lựa chọn thay thế, nên giá xâm nhập — mức vừa phải để thu hút khách đầu tiên — hợp lý hơn; kênh chính là trang cá nhân và các hội nhóm ăn sạch trên Facebook, nơi khách hỏi nhau về nguồn gốc. Bình gốm thiết kế mới có tính độc đáo, nhắm người trẻ đô thị yêu nội thất mang dấu ấn văn hóa, nên có thể dùng giá hớt váng; kênh phù hợp là nội dung hình ảnh, video về làng nghề và quy trình làm gốm.",
+        "Nếu đổi cho nhau: bánh khoai định giá cao ngay từ đầu khi thương hiệu còn mới sẽ khó có khách đầu tiên; bình gốm bán giá rẻ sẽ làm khách nghi ngờ chất lượng và mâu thuẫn với định vị 'giữ kỹ thuật truyền thống, thiết kế hiện đại'. Cả hai đều là ví dụ minh họa dựng ra để giảng dạy, không có số liệu giá thật."
+      ]
+    },
+    {
+      "muc": "5.2 — Xây dựng nhãn hiệu và Marketing hỗn hợp",
+      "cau_hoi": "Một hộ gia đình người dân tộc thiểu số (giả định) muốn mở dịch vụ homestay kết hợp trải nghiệm văn hóa. Hãy phân tích ba yếu tố People, Process và Physical Evidence trong 7P cho dịch vụ này. Hộ gia đình nên dùng phản hồi khách hàng và Marketing số thế nào để xây dựng lòng trung thành, mà không 'tô vẽ' bản sắc văn hóa?",
+      "tu_kiem": [
+        "Phân tích đủ ba yếu tố People, Process, Physical Evidence với ví dụ cụ thể cho homestay",
+        "Đưa ra cách thu và dùng Feedback để điều chỉnh dịch vụ, gắn với Brand Loyalty",
+        "Nêu rõ yêu cầu trung thực về bản sắc văn hóa, tránh quảng cáo phóng đại"
+      ],
+      "dap_an": [
+        "People: người trong gia đình trực tiếp đón khách, hướng dẫn và giải thích phong tục — sự nhiệt tình và hiểu biết văn hóa quyết định trải nghiệm. Process: chương trình trong ngày mạch lạc, từ đón khách, bữa ăn, hoạt động trải nghiệm đến tiễn khách, tránh để khách chờ đợi hay lộn xộn. Physical Evidence: nhà ở, đồ dùng, món ăn phản ánh đúng văn hóa bản địa, vệ sinh sạch sẽ — những gì khách nhìn và chạm được để đánh giá một dịch vụ vô hình.",
+        "Sau mỗi lượt khách, hộ nên hỏi ý kiến và đọc kỹ đánh giá trên mạng, coi đó là dữ liệu để sửa dịch vụ chứ không né tránh; chia sẻ đều đặn hình ảnh, video thật về đời sống và hoạt động của gia đình trên mạng xã hội để giữ liên hệ với khách cũ. Không được dàn dựng nghi lễ, trang phục hay câu chuyện không đúng với cộng đồng mình chỉ để hấp dẫn khách — bản sắc thật mới là lợi thế bền vững, vì nó không thể bị 'bóc mẽ'."
+      ]
+    },
+    {
+      "muc": "Tổng hợp — Chương 5 và bài thu hoạch",
+      "cau_hoi": "Với kế hoạch kinh doanh giả định em đang chuẩn bị cho bài thu hoạch, hãy viết phần Marketing gồm: tóm tắt STP và một câu định vị; 4P (hoặc 7P nếu là dịch vụ); một kế hoạch truyền thông ít tốn kém có dùng công cụ số để đo lường. Chỉ ra ít nhất hai điểm phần Marketing này phải khớp với các chương trước (ý tưởng và khách hàng ở Chương 2, chi phí và vốn ở Chương 3, mô hình pháp lý ở Chương 4).",
+      "tu_kiem": [
+        "STP, câu định vị và 4P/7P nhất quán với nhau, không mâu thuẫn",
+        "Kế hoạch truyền thông khả thi với nguồn lực doanh nghiệp mới, có cách đo lường bằng công cụ số",
+        "Liên kết được ít nhất hai điểm với các chương trước (ví dụ giá bán phải bù được chi phí, kênh bán phù hợp mô hình pháp lý)"
+      ],
+      "dap_an": [
+        "Bài làm tốt bắt đầu từ khách hàng mục tiêu và nỗi đau đã xác định khi đánh giá ý tưởng ở Chương 2, rồi viết một câu định vị trả lời 'dành cho ai, khác đối thủ ở điểm nào'. 4P (hoặc 7P) phải suy ra từ định vị đó: chiến lược giá phù hợp với mức nhạy cảm giá của khách hàng mục tiêu, kênh phân phối và chiêu thị đúng nơi khách hàng hay lui tới.",
+        "Kế hoạch truyền thông nên theo tinh thần Marketing 0 đồng: kể câu chuyện thật đều đặn trên một hai kênh phù hợp, dùng Facebook Insights, Google Analytics hoặc Google Trends để theo dõi và điều chỉnh. Mối nối với các chương trước: giá bán phải bù được định phí, biến phí và hướng tới điểm hòa vốn đã tính ở Chương 3; ngân sách Marketing phải nằm trong kế hoạch dòng tiền; kênh bán và quy mô hoạt động phải phù hợp với loại hình doanh nghiệp hoặc hình thức đăng ký đã chọn ở Chương 4. Mọi tuyên bố trong quảng cáo phải trung thực, không phóng đại."
+      ]
+    }
+  ]
+}

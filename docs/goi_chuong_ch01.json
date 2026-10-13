@@ -1,0 +1,194 @@
+{
+  "chuong": 1,
+  "ten_chuong": "Tổng quan về khởi sự doanh nghiệp",
+  "muc_tieu": [
+    "Hiểu được khởi nghiệp khác kinh doanh thông thường",
+    "Kiểm chứng được ý tưởng theo Lean Start-up",
+    "Nêu được bốn phần của kế hoạch kinh doanh",
+    "Khai thác được thế mạnh và hệ sinh thái"
+  ],
+  "slide_them": {
+    "bia": {
+      "loi_doc": "Cô xin chào các em. Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em đến với học phần Khởi sự doanh nghiệp, mã học phần EC1606. Hôm nay chúng ta bắt đầu với Chương một — Tổng quan về khởi sự doanh nghiệp. Trước khi bàn đến vốn, mô hình hay marketing, các em cần hiểu khởi nghiệp là gì, một ý tưởng tốt ra đời và được kiểm chứng như thế nào, và ai có thể đồng hành cùng mình trên con đường đó."
+    },
+    "muc_tieu": {
+      "loi_doc": "Đây là bốn mục tiêu của chương. Học xong Chương một, các em cần hiểu được khởi nghiệp khác một hoạt động kinh doanh chỉ sao chép mô hình có sẵn ở đâu; kiểm chứng được một ý tưởng theo tinh thần khởi nghiệp tinh gọn; nêu được bốn phần cơ bản của một bản kế hoạch kinh doanh; và khai thác được thế mạnh địa phương cùng hệ sinh thái khởi nghiệp xung quanh mình."
+    },
+    "noi_dung": {
+      "loi_doc": "Chương một gồm hai chủ đề. Chủ đề thứ nhất: Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh. Chủ đề thứ hai: Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp. Cuối chương có câu hỏi ôn tập, một tình huống minh họa và phần tổng kết. Bây giờ chúng ta bắt đầu với chủ đề thứ nhất."
+    },
+    "dang_o_dau": {
+      "the": [
+        {
+          "tieu_de": "✓ Đã học — Chủ đề 1.1",
+          "noi_dung": "Khởi nghiệp và đổi mới sáng tạo, Lean Start-up, tiêu chí và cách kiểm chứng ý tưởng, vai trò và bốn phần của kế hoạch kinh doanh."
+        },
+        {
+          "tieu_de": "▶ Đang học — Chủ đề 1.2",
+          "noi_dung": "Khởi nghiệp cho phụ nữ, người dân tộc thiểu số; khởi nghiệp xanh, xã hội; rủi ro, đạo đức kinh doanh; hệ sinh thái và công cụ số."
+        },
+        {
+          "tieu_de": "○ Sắp học — Ôn tập và tình huống",
+          "noi_dung": "Năm câu hỏi ôn tập, một tình huống minh họa về chị Hoa, tổng kết chương và tài liệu học tập."
+        },
+        {
+          "tieu_de": "Mạch nối với chương sau",
+          "noi_dung": "Chương 1 cho ta ý tưởng và cách kiểm chứng; Chương 2 dạy đánh giá cơ hội bài bản để phát triển kế hoạch kinh doanh."
+        }
+      ],
+      "loi_doc": "Chúng ta cùng xem mình đang ở đâu trong chương. Ở chủ đề thứ nhất, các em đã học khái niệm khởi nghiệp và đổi mới sáng tạo, tinh thần khởi nghiệp tinh gọn, cách chọn và kiểm chứng một ý tưởng, cùng vai trò và bốn phần của kế hoạch kinh doanh. Bây giờ là chủ đề thứ hai, dành cho khởi nghiệp của phụ nữ và người dân tộc thiểu số. Sau đó là phần ôn tập và tình huống. Đây là nền để Chương hai dạy các em đánh giá cơ hội kinh doanh."
+    },
+    "cau_hoi_on_tap": {
+      "cau": [
+        "Khởi nghiệp khác kinh doanh thông thường ở điểm nào? Cho một ví dụ của riêng em.",
+        "Vì sao nên làm MVP và bán thử trước khi vay vốn đầu tư lớn?",
+        "Kế hoạch kinh doanh gồm bốn phần nào? Vì sao phần tóm tắt thường viết sau cùng?",
+        "Một dự án vừa là khởi nghiệp xanh vừa là khởi nghiệp xã hội cần có đặc điểm gì?",
+        "Ở địa phương em, ai trong hệ sinh thái khởi nghiệp có thể hỗ trợ người mới bắt đầu?"
+      ],
+      "loi_doc": "Để tự kiểm tra, các em dừng video và thử trả lời năm câu hỏi trên màn hình. Hai câu đầu ôn lại khái niệm khởi nghiệp và cách kiểm chứng ý tưởng bằng sản phẩm khả dụng tối thiểu. Câu thứ ba là về kế hoạch kinh doanh. Hai câu cuối gắn với chủ đề thứ hai: khởi nghiệp xanh, khởi nghiệp xã hội và hệ sinh thái khởi nghiệp. Các em cố gắng trả lời bằng ví dụ của chính mình, đừng chép lại ví dụ trong bài."
+    },
+    "tinh_huong": {
+      "the": [
+        {
+          "tieu_de": "Bối cảnh",
+          "noi_dung": "Ví dụ minh họa: chị Hoa ở Bình Tân bán thử mẻ bánh khoai đầu tiên qua một nhóm Facebook địa phương, phản hồi khá tích cực."
+        },
+        {
+          "tieu_de": "Vấn đề",
+          "noi_dung": "Chị muốn vay vốn mua máy sấy lớn ngay, chỉ bán qua một kênh, và chưa viết ra kế hoạch kinh doanh nào."
+        },
+        {
+          "tieu_de": "Câu hỏi 1",
+          "noi_dung": "Theo tinh thần Lean Start-up, chị Hoa nên kiểm chứng thêm điều gì trước khi quyết định vay vốn?"
+        },
+        {
+          "tieu_de": "Câu hỏi 2",
+          "noi_dung": "Rủi ro nào chị cần lường trước? Hệ sinh thái và công cụ số nào giúp chị giảm rủi ro?"
+        }
+      ],
+      "loi_doc": "Bây giờ chúng ta cùng vận dụng cả chương vào một tình huống. Cô nhắc lại: đây là ví dụ minh họa dựng ra để giảng dạy, không phải chuyện thật. Chị Hoa ở Bình Tân đã làm thử mẻ bánh khoai đầu tiên, đăng bán trên một nhóm Facebook địa phương và nhận được phản hồi khá tích cực. Phấn khởi, chị muốn vay vốn mua ngay máy sấy lớn, dù mới bán qua một kênh và chưa có kế hoạch kinh doanh. Các em suy nghĩ hai câu hỏi. Một, theo tinh thần khởi nghiệp tinh gọn, chị nên kiểm chứng thêm điều gì trước khi vay vốn — chẳng hạn khách có quay lại mua lần hai không? Hai, chị đang đối mặt những rủi ro nào, và hội phụ nữ hay công cụ số có thể giúp chị thế nào?"
+    },
+    "tong_ket": {
+      "the": [
+        {
+          "tieu_de": "Khởi nghiệp: đổi mới có kiểm chứng",
+          "noi_dung": "Khởi nghiệp khác kinh doanh thông thường ở đổi mới sáng tạo và rủi ro có tính toán; ý tưởng phải từ nhu cầu thật, kiểm chứng bằng MVP."
+        },
+        {
+          "tieu_de": "Kế hoạch kinh doanh: bản lộ trình",
+          "noi_dung": "Bốn phần: tóm tắt, sản phẩm, thị trường, tài chính. Vừa định hướng cho mình, vừa là căn cứ gọi vốn, cần linh hoạt điều chỉnh."
+        },
+        {
+          "tieu_de": "Dựa thế mạnh, không đi một mình",
+          "noi_dung": "Khởi nghiệp từ bản sắc địa phương; theo hướng xanh, xã hội; giữ đạo đức, lường rủi ro; tận dụng hệ sinh thái và công cụ số."
+        },
+        {
+          "tieu_de": "Việc cần làm",
+          "noi_dung": "Làm bài tập tự đánh giá hai chủ đề, trả lời bài ôn tập tự luận Chương 1, ghi lại một ý tưởng cho bài thu hoạch."
+        }
+      ],
+      "loi_doc": "Khép lại Chương một, các em nhớ ba điều. Một, khởi nghiệp là đổi mới sáng tạo với rủi ro có tính toán, và ý tưởng tốt phải từ nhu cầu thật, được kiểm chứng trước khi đầu tư lớn. Hai, kế hoạch kinh doanh là bản lộ trình bắt buộc, vừa định hướng cho chính mình, vừa là căn cứ để gọi vốn. Ba, hãy khởi nghiệp từ thế mạnh địa phương, giữ đạo đức kinh doanh và đừng đi một mình. Việc cần làm: làm bài tập tự đánh giá, bài ôn tập tự luận, và ghi lại ý tưởng cho bài thu hoạch cuối học phần."
+    },
+    "tai_lieu": {
+      "loi_doc": "Các em đọc Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga, Nhà xuất bản Đại học Kinh tế Quốc dân. Với chủ đề thứ hai, đọc thêm tài liệu Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số của Trường Đại học Bách khoa Hà Nội."
+    },
+    "ket": {
+      "loi_doc": "Cảm ơn các em đã theo dõi Chương một. Chúc các em tìm được một ý tưởng thật sự khiến mình muốn bắt tay vào làm. Hẹn gặp lại các em ở Chương hai — Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh. Chào các em."
+    }
+  },
+  "on_tap_tu_luan": [
+    {
+      "muc": "1.1 — Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh",
+      "cau_hoi": "Hai người cùng mở cơ sở bán bánh khoai lang: người thứ nhất làm đúng theo công thức của một tiệm đã nổi tiếng; người thứ hai thiết kế dòng bánh khoai đóng gói mới, nhận đặt hàng qua mạng và giao tận nơi cho khách ở thành thị. Theo em, ai đang khởi nghiệp theo nghĩa của học phần, ai đang kinh doanh thông thường? Lập luận dựa trên bốn hướng đổi mới sáng tạo đã học, và cho biết người thứ hai cần làm gì để 'sáng tạo' trở thành 'đổi mới'.",
+      "tu_kiem": [
+        "Nêu đúng tiêu chí phân biệt: ý tưởng mới, tiềm năng tăng trưởng, tinh thần chấp nhận rủi ro — không phải số vốn ban đầu",
+        "Chỉ ra cụ thể người thứ hai đổi mới theo hướng nào (sản phẩm, quy trình, Marketing, mô hình kinh doanh)",
+        "Phân biệt được sáng tạo (nghĩ ra ý tưởng) và đổi mới (biến ý tưởng thành giá trị thực tế cho khách hàng)"
+      ],
+      "dap_an": [
+        "Người thứ nhất đang kinh doanh thông thường: lặp lại một mô hình đã thành công ở nơi khác. Cách làm này không sai và có thể sinh lời, nhưng không mang 'cái mới' và khó tăng trưởng nhanh vượt ra ngoài quy mô một cơ sở. Điểm phân biệt không nằm ở số vốn — cả hai có thể bỏ vốn như nhau — mà ở việc có tạo ra giá trị mới và dám chấp nhận rủi ro có tính toán hay không.",
+        "Người thứ hai có dấu hiệu khởi nghiệp: đổi mới sản phẩm (dòng bánh đóng gói mới), đổi mới Marketing và kênh bán (đặt hàng qua mạng, nhắm khách thành thị), và có thể đổi mới mô hình kinh doanh (bán trực tiếp, không qua trung gian). Tuy vậy, đến lúc này mới chỉ là sáng tạo — một ý tưởng. Để trở thành đổi mới, người này phải đưa sản phẩm đến khách hàng thật, ví dụ bán thử một mẻ nhỏ theo tinh thần Lean Start-up, đo xem khách có mua và quay lại không, rồi điều chỉnh. Có ý tưởng mà không triển khai được thì chưa gọi là đổi mới."
+      ]
+    },
+    {
+      "muc": "1.1 — Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh",
+      "cau_hoi": "Chọn một ý tưởng kinh doanh nhỏ quanh trường hoặc ở quê em. Thiết kế một MVP (sản phẩm khả dụng tối thiểu) và một kế hoạch kiểm chứng trong khoảng hai tuần: em sẽ làm gì, đo những chỉ báo nào, và kết quả như thế nào sẽ khiến em dừng, điều chỉnh hay tiếp tục đầu tư?",
+      "tu_kiem": [
+        "MVP thật sự tối thiểu, chi phí thấp, đủ để khách hàng thật trải nghiệm — không phải sản phẩm hoàn chỉnh thu nhỏ",
+        "Có chỉ báo đo được (số đơn đặt, số khách quay lại, phản hồi cụ thể), không chỉ 'xem khách thích không'",
+        "Nêu rõ ngưỡng ra quyết định: khi nào dừng, khi nào sửa, khi nào mở rộng"
+      ],
+      "dap_an": [
+        "Ví dụ: ý tưởng giao cơm trưa cho sinh viên ở ký túc xá. MVP không phải là một ứng dụng đặt món, mà là một nhóm Zalo nhận đơn thủ công, nấu ở quy mô nhỏ với hai, ba món cố định, giao trong một khung giờ. Trước khi bắt đầu, có thể xem sơ bộ xu hướng tìm kiếm và hỏi trực tiếp vài chục bạn xem họ có sẵn sàng trả tiền không.",
+        "Trong hai tuần, đo: số đơn mỗi ngày, tỷ lệ người đặt lần hai, các phàn nàn lặp lại (giao trễ, món nguội, giá). Quy tắc ra quyết định đặt trước: nếu gần như không có người đặt lại thì dừng hoặc đổi hướng; nếu có người đặt lại nhưng phàn nàn tập trung vào một khâu thì sửa khâu đó và thử thêm một vòng; nếu số đơn ổn định và tăng dần thì mới tính đến đầu tư lớn hơn. Ngưỡng cụ thể do sinh viên tự đặt, miễn là đặt trước khi thử, để quyết định dựa trên dữ liệu thay vì cảm tính."
+      ]
+    },
+    {
+      "muc": "1.1 — Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh",
+      "cau_hoi": "Một người bạn nói: 'Kế hoạch kinh doanh chỉ cần khi đi vay ngân hàng, làm nhỏ thì không cần.' Em phản biện ý kiến này thế nào? Sau đó lập dàn ý bốn phần cho một bản kế hoạch kinh doanh sơ lược của chị Hoa (ví dụ minh họa), chỉ rõ phần nào nên viết sau cùng và vì sao.",
+      "tu_kiem": [
+        "Nêu đủ hai vai trò: định hướng cho chính người khởi nghiệp và làm căn cứ gọi vốn",
+        "Dàn ý đủ bốn phần: tóm tắt, sản phẩm/dịch vụ, phân tích thị trường, kế hoạch tài chính",
+        "Giải thích đúng vì sao tóm tắt viết sau cùng; ghi rõ số liệu (nếu có) là giả định"
+      ],
+      "dap_an": [
+        "Ý kiến này chỉ thấy một nửa vai trò của kế hoạch kinh doanh. Ngoài việc làm căn cứ gọi vốn, kế hoạch còn định hướng cho chính người khởi nghiệp: buộc họ suy nghĩ thấu đáo về sản phẩm, khách hàng, chi phí trước khi bỏ tiền thật. Với người ít vốn, mỗi sai lầm càng đắt, nên kế hoạch — dù chỉ vài trang — càng cần. Kế hoạch cũng nên linh hoạt, điều chỉnh khi thị trường thay đổi.",
+        "Dàn ý cho chị Hoa (ví dụ minh họa): (1) Tóm tắt dự án — vài đoạn cô đọng toàn bộ kế hoạch; (2) Sản phẩm — bánh, mứt khoai lang đóng gói, giải quyết việc bán thô bị ép giá, khác đối thủ ở nguồn gốc rõ ràng từ vùng trồng; (3) Thị trường — người tiêu dùng thành thị quan tâm thực phẩm sạch, bán qua mạng xã hội, đối thủ là các sản phẩm khoai chế biến khác; (4) Tài chính — vốn ban đầu, giá bán, doanh thu dự kiến, thời điểm hòa vốn (mọi con số đều là giả định để giảng dạy).",
+        "Phần tóm tắt đặt ở đầu nhưng nên viết sau cùng, vì nó cô đọng ba phần còn lại; chỉ khi đã viết xong sản phẩm, thị trường và tài chính thì mới tóm tắt chính xác được. Kế hoạch cũng cần trả lời rõ: bán gì, bán cho ai, vì sao khách chọn mình — và nghĩ sớm đến bảo vệ nhãn hiệu, bao bì."
+      ]
+    },
+    {
+      "muc": "1.2 — Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+      "cau_hoi": "Dự án gốm đỏ Vĩnh Long (ví dụ minh họa) được xem là kết hợp khởi nghiệp xanh và khởi nghiệp xã hội. Hãy chỉ ra từng yếu tố của dự án thuộc hướng nào. Nếu nhóm khởi nghiệp đứng trước lựa chọn đổi sang bao bì nhựa rẻ hơn để giảm chi phí, em khuyên họ thế nào?",
+      "tu_kiem": [
+        "Phân loại đúng: yếu tố xanh (bao bì thân thiện, sản xuất ít ô nhiễm) và yếu tố xã hội (việc làm cho thợ gốm, bảo tồn nghề)",
+        "Thấy được 'xanh' vừa là trách nhiệm vừa là lợi thế cạnh tranh, gắn với câu chuyện của sản phẩm",
+        "Lời khuyên cân nhắc cả lợi nhuận, con người và môi trường, không trả lời một chiều"
+      ],
+      "dap_an": [
+        "Yếu tố khởi nghiệp xanh: dùng vật liệu đóng gói thân thiện môi trường, hướng tới quy trình sản xuất ít gây ô nhiễm. Yếu tố khởi nghiệp xã hội: tạo việc làm cho nhiều hộ thợ gốm thay vì làm riêng lẻ, bảo tồn một nghề truyền thống đang mai một. Giữ kỹ thuật nung truyền thống là bản sắc khó sao chép — lợi thế cạnh tranh tự nhiên của dự án.",
+        "Về bao bì nhựa: đổi sang nhựa rẻ có thể giảm chi phí ngắn hạn, nhưng làm mất một phần câu chuyện 'xanh' — lý do khiến khách thành thị sẵn sàng trả giá cao hơn và nhà đầu tư đánh giá cao dự án. Lời khuyên hợp lý là tìm cách giảm chi phí ở khâu khác (đặt mua bao bì theo lô lớn hơn, đơn giản hóa thiết kế, dùng vật liệu địa phương) trước khi hy sinh yếu tố xanh; nếu buộc phải đổi thì phải trung thực với khách hàng, không tiếp tục quảng bá là sản phẩm xanh. Một dự án bền vững cân bằng lợi nhuận, con người và môi trường."
+      ]
+    },
+    {
+      "muc": "1.2 — Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+      "cau_hoi": "Với một dự án khởi nghiệp do em tự chọn, nêu ba nhóm rủi ro đã học, mỗi nhóm kèm một phương án ứng phó cụ thể. Sau đó mô tả một tình huống trong dự án mà áp lực lợi nhuận có thể đẩy người làm đến chỗ thiếu trung thực, và cách em giữ đạo đức kinh doanh trong tình huống đó.",
+      "tu_kiem": [
+        "Đủ ba nhóm rủi ro: tài chính, thị trường, đội ngũ/phụ thuộc — mỗi nhóm có phương án cụ thể, không chung chung",
+        "Tình huống đạo đức cụ thể, gắn với dự án (quảng cáo sai, che giấu chất lượng...)",
+        "Thể hiện tư duy xem thất bại là dữ liệu và trung thực ở cả hai chiều: với khách hàng và với chính mình"
+      ],
+      "dap_an": [
+        "Ví dụ dự án bán đặc sản sấy khô qua mạng. Rủi ro tài chính: thiếu vốn lưu động khi doanh thu chưa ổn định — ứng phó bằng cách bắt đầu nhỏ, giữ một khoản dự phòng, chưa mua máy móc lớn khi chưa kiểm chứng. Rủi ro thị trường: đánh giá sai nhu cầu — ứng phó bằng bán thử, đo số đơn và tỷ lệ mua lại trước khi mở rộng. Rủi ro đội ngũ và phụ thuộc: chỉ bán qua một kênh hoặc một khách sỉ — ứng phó bằng mở thêm kênh dần dần, phân công rõ trong nhóm.",
+        "Tình huống đạo đức: khi đơn tăng nhanh mà nguyên liệu sạch không đủ, có thể bị cám dỗ trộn nguyên liệu không rõ nguồn gốc nhưng vẫn ghi 'sạch, có nguồn gốc'. Giữ đạo đức nghĩa là nhận ít đơn hơn hoặc báo khách thời gian chờ lâu hơn, không quảng cáo sai sự thật; đồng thời trung thực với chính mình về năng lực sản xuất thực tế. Nếu vì thế mà mất một phần doanh thu, đó là dữ liệu để lên kế hoạch nguồn nguyên liệu tốt hơn, không phải lý do bỏ cuộc."
+      ]
+    },
+    {
+      "muc": "1.2 — Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+      "cau_hoi": "Hãy mô tả 'bản đồ hệ sinh thái khởi nghiệp' cho một phụ nữ ở địa phương em muốn khởi nghiệp từ sản vật quê nhà: những tổ chức hoặc người nào có thể hỗ trợ, và mỗi bên hỗ trợ được gì? Chọn hai công cụ số và cho biết mỗi công cụ nên dùng ở giai đoạn nào của dự án.",
+      "tu_kiem": [
+        "Bản đồ có nhiều loại mắt xích: trường đại học, quỹ hỗ trợ, hội phụ nữ, chương trình của chính quyền địa phương, cộng đồng người khởi nghiệp",
+        "Nêu rõ mỗi bên hỗ trợ gì (kiến thức, vốn, kết nối, kinh nghiệm), không chỉ liệt kê tên",
+        "Công cụ số gắn với giai đoạn cụ thể (thử nghiệm ý tưởng, bán hàng, quảng bá, làm việc nhóm)"
+      ],
+      "dap_an": [
+        "Bản đồ gợi ý: hội phụ nữ địa phương — kết nối, chia sẻ kinh nghiệm, giới thiệu các nguồn hỗ trợ dành cho phụ nữ; chương trình hỗ trợ khởi nghiệp của chính quyền cấp huyện, cấp tỉnh — thông tin chính sách, có thể có hỗ trợ vốn hoặc tập huấn; trường đại học — kiến thức, tư vấn, sinh viên hỗ trợ thiết kế, truyền thông; các quỹ hỗ trợ khởi nghiệp — vốn và cố vấn; cộng đồng người khởi nghiệp đi trước — kinh nghiệm thực tế, giúp tránh sai lầm phổ biến. Sinh viên nên tìm hiểu nguồn cụ thể ở địa phương mình, không bịa tên tổ chức.",
+        "Công cụ số: mạng xã hội dùng ở giai đoạn ý tưởng để thử phản ứng thị trường với chi phí gần như bằng không; công cụ thiết kế trực tuyến như Canva dùng khi làm bao bì, hình ảnh quảng bá; sàn thương mại điện tử dùng khi đã kiểm chứng và cần bán rộng hơn mà không cần mặt bằng; công cụ làm việc nhóm trên nền tảng đám mây dùng xuyên suốt để phối hợp các thành viên."
+      ]
+    },
+    {
+      "muc": "Câu hỏi tích hợp — Chương 1 và bài thu hoạch",
+      "cau_hoi": "Bài thu hoạch cuối học phần yêu cầu em xây dựng một kế hoạch kinh doanh giả định. Dựa trên Chương 1, hãy phác thảo bước khởi đầu cho kế hoạch đó: ý tưởng em chọn và nhu cầu thật mà nó giải quyết; vì sao ý tưởng phù hợp với năng lực và thế mạnh địa phương của em; em sẽ kiểm chứng nó bằng MVP nào; dự án có yếu tố xanh hoặc xã hội nào; và hai mắt xích trong hệ sinh thái khởi nghiệp em sẽ tận dụng.",
+      "tu_kiem": [
+        "Ý tưởng bắt nguồn từ nhu cầu chưa được đáp ứng, áp dụng đủ bốn tiêu chí của ý tưởng tốt",
+        "Có kế hoạch kiểm chứng cụ thể trước khi đầu tư lớn, gắn với tinh thần Lean Start-up",
+        "Liên kết được nội dung chủ đề 1.2: thế mạnh địa phương, yếu tố xanh/xã hội, đạo đức, hệ sinh thái"
+      ],
+      "dap_an": [
+        "Bài làm tốt bắt đầu bằng một nhu cầu quan sát được, không phải từ sở thích hay sao chép đối thủ, rồi đối chiếu bốn tiêu chí: nhu cầu thật, khả thi với nguồn lực của bản thân và nhóm, có khách sẵn sàng trả tiền, mang lại lợi ích cụ thể. Sinh viên nên chọn ý tưởng vừa sức hơn là ý tưởng 'hoành tráng', và nêu sơ bộ đối thủ, thị trường mục tiêu.",
+        "Phần kiểm chứng cần một MVP chi phí thấp và chỉ báo đo được, như đã học ở chủ đề 1.1. Phần liên hệ chủ đề 1.2 nêu thế mạnh hoặc bản sắc địa phương làm lợi thế khó sao chép, một yếu tố xanh hoặc xã hội có thật trong mô hình (không gắn thêm cho đẹp), một rủi ro chính kèm phương án, và hai mắt xích hệ sinh thái cụ thể. Đây là khung ban đầu; các chương sau sẽ bổ sung đánh giá cơ hội, vốn, mô hình kinh doanh và marketing để hoàn thiện bài thu hoạch."
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 """Gộp 5 cặp tệp kich_ban_chu_de_ch0N.json / slide_noi_dung_chu_de_ch0N.json
 (mỗi cặp do một agent viết riêng cho một chương, tránh đụng độ ghi đồng thời)
 thành hai tệp tổng docs/kich_ban_chu_de.json và docs/slide_noi_dung_chu_de.json
-mà tools/dung_bai_giang.py đọc.
+mà tools/dung_goi_chuong.py đọc.
 
 Chạy: python3 tools/gop_chu_de.py
 """

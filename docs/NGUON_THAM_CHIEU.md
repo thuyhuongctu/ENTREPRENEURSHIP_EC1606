@@ -10,7 +10,11 @@ khớp nhau. KHÔNG tự bịa số liệu/tên khác với tài liệu này.
 - Mã học phần: **EC1606** — 02 tín chỉ (100% lý thuyết, không thực hành/đồ án)
 - Giảng viên phụ trách chính: Đỗ Thùy Hương, Nguyễn Hùng Cường
 - Giảng viên cùng giảng dạy: Nguyễn Thị Hồng Nga, Nguyễn Duy Tân
-- Đơn vị: Trường Đại học Sư phạm Kỹ thuật Vĩnh Long (VLUTE)
+- Đơn vị: Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh
+  Long (VLUTE — trước là Trường Đại học Sư phạm Kỹ thuật Vĩnh Long; khoa
+  trước là Khoa Kinh tế - Luật). Đề cương đã duyệt và QĐ 55 mang tên cũ vì
+  ban hành trước khi đổi tên — trích nguyên văn thì giữ tên cũ, nội dung mới
+  viết thì dùng tên mới.
 - Không có học phần tiên quyết/học trước/song hành
 
 ### Mục tiêu học phần (nguyên văn đề cương)
@@ -116,8 +120,10 @@ huống học tập).
   dưới 2,5cm (Điều 20).
 - Slide: ≤10 dòng/slide, ≤20 từ/dòng, không viết toàn văn, 12-18 slide/tiết
   học (tối đa 30), ≤4 màu/slide, slide cuối chốt nội dung, có dấu ấn đơn vị
-  đào tạo ở chân trang — **ghi "Trường ĐH Sư phạm Kỹ thuật Vĩnh Long · Khởi
-  sự doanh nghiệp (EC1606)"**, KHÔNG ghi tên bất kỳ ứng dụng nào (Điều 18).
+  đào tạo — slide dựng trên khuôn VLUTE (`assets/mau/MAU_SLIDE_VLUTE.pptx`)
+  nên mọi trang có tên trường + khoa ở đầu trang và "Học liệu số · Khởi sự
+  doanh nghiệp (EC1606)" ở chân trang; KHÔNG ghi tên bất kỳ ứng dụng nào
+  (Điều 18).
 - Video bài giảng mỗi chủ đề: 7-15 phút/clip (Phụ lục 1, mục 2.1 cấp độ
   chương) — không dưới 7 phút, không quá 15 phút.
 - Không ghi "EnQuiz" hay tên ứng dụng nào ở bất kỳ đâu trong repo này.

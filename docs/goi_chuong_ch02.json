@@ -1,0 +1,193 @@
+{
+  "chuong": 2,
+  "ten_chuong": "Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh",
+  "muc_tieu": [
+    "Phân biệt được ý tưởng với cơ hội",
+    "Xác định được nỗi đau, chân dung khách hàng",
+    "Đánh giá được khả thi, đối thủ, rào cản",
+    "Ra được quyết định dựa trên dữ liệu"
+  ],
+  "slide_them": {
+    "bia": {
+      "loi_doc": "Cô xin chào các em. Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em quay lại với học phần Khởi sự doanh nghiệp. Ở Chương 1, chúng ta đã tìm hiểu khởi nghiệp là gì, thế nào là ý tưởng tốt, vai trò của kế hoạch kinh doanh và hệ sinh thái khởi nghiệp. Hôm nay chúng ta bước sang Chương 2 — Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh."
+    },
+    "muc_tieu": {
+      "loi_doc": "Sau chương này, các em cần đạt bốn mục tiêu. Một, phân biệt được ý tưởng kinh doanh với cơ hội kinh doanh. Hai, xác định được nỗi đau và chân dung khách hàng. Ba, đánh giá được tính khả thi, đối thủ cạnh tranh và rào cản gia nhập. Bốn, ra được quyết định dựa trên dữ liệu thực tế, có tính đến đạo đức kinh doanh."
+    },
+    "noi_dung": {
+      "loi_doc": "Chương 2 gồm hai chủ đề. Chủ đề 2.1 — Xác định ý tưởng, sản phẩm và đối tượng khách hàng. Chủ đề 2.2 — Đánh giá cơ hội phát triển dự án. Cuối chương có năm câu hỏi ôn tập, một tình huống minh họa, phần tổng kết và tài liệu học tập. Bây giờ chúng ta bắt đầu với Chủ đề 2.1."
+    },
+    "dang_o_dau": {
+      "the": [
+        {
+          "tieu_de": "✓ Đã học — Chủ đề 2.1",
+          "noi_dung": "Phân biệt ý tưởng với cơ hội; xác định nỗi đau khách hàng, giải pháp dự án, chân dung khách hàng và điểm bán hàng độc nhất (USP)."
+        },
+        {
+          "tieu_de": "▶ Đang học — Chủ đề 2.2",
+          "noi_dung": "Đánh giá cơ hội: khả thi kinh tế, kỹ thuật, đối thủ, rào cản gia nhập, nguồn lực bản thân, đạo đức và dữ liệu thực tế."
+        },
+        {
+          "tieu_de": "○ Sắp học — Ôn tập và tình huống",
+          "noi_dung": "Năm câu hỏi ôn tập, một tình huống minh họa, tổng kết chương và tài liệu học tập."
+        },
+        {
+          "tieu_de": "Mạch nối với Chương 3",
+          "noi_dung": "Ý tưởng đã qua sàng lọc ở Chương 2 là cơ sở để Chương 3 bàn về huy động vốn và các chỉ số tài chính."
+        }
+      ],
+      "loi_doc": "Chào các em quay lại với Chương 2. Chúng ta cùng xem mình đang ở đâu. Ở Chủ đề 2.1, các em đã học cách tìm nỗi đau khách hàng, mô tả giải pháp dự án, xây dựng chân dung khách hàng và điểm bán hàng độc nhất. Nhưng một ý tưởng dù rõ ràng vẫn chưa chắc là cơ hội đáng theo đuổi, nên bây giờ chúng ta học cách đánh giá cơ hội. Sau đó là ôn tập, tình huống và tổng kết. Ý tưởng đã sàng lọc ở chương này là cơ sở để Chương 3 bàn về huy động vốn."
+    },
+    "cau_hoi_on_tap": {
+      "cau": [
+        "Vì sao một ý tưởng hay vẫn chưa chắc là cơ hội kinh doanh?",
+        "Nỗi đau khách hàng khác điều người khởi nghiệp tự tưởng tượng ở điểm nào?",
+        "Chân dung khách hàng cần những lớp thông tin nào, và vì sao?",
+        "Vì sao tính khả thi kinh tế phải xét cả dòng tiền theo thời gian?",
+        "Khi nào nên chọn thị trường ngách thay vì đối đầu các đối thủ lớn?"
+      ],
+      "loi_doc": "Các em hãy dừng video và thử trả lời năm câu hỏi trên màn hình: vì sao ý tưởng hay chưa chắc là cơ hội; nỗi đau khách hàng khác điều mình tưởng tượng ở đâu; chân dung khách hàng cần những lớp thông tin nào; vì sao khả thi kinh tế phải xét dòng tiền; và khi nào nên chọn thị trường ngách. Câu nào còn lúng túng, các em xem lại slide tương ứng."
+    },
+    "tinh_huong": {
+      "the": [
+        {
+          "tieu_de": "Bối cảnh",
+          "noi_dung": "Ví dụ minh họa: một nhóm sinh viên muốn bán đồ trang trí gốm đỏ Vĩnh Long, thiết kế hiện đại, qua mạng xã hội cho khách thành thị."
+        },
+        {
+          "tieu_de": "Vấn đề",
+          "noi_dung": "Nhóm chưa hỏi ý kiến khách hàng nào, chưa tính chi phí vận chuyển hàng dễ vỡ, trong khi trên mạng đã có vài cửa hàng gốm bán giá rẻ."
+        },
+        {
+          "tieu_de": "Câu hỏi 1",
+          "noi_dung": "Nhóm cần thu thập dữ liệu gì để kiểm chứng nỗi đau và chân dung khách hàng?"
+        },
+        {
+          "tieu_de": "Câu hỏi 2",
+          "noi_dung": "Nên đánh giá khả thi kỹ thuật, kinh tế và lợi thế cạnh tranh bền vững của nhóm như thế nào?"
+        }
+      ],
+      "loi_doc": "Bây giờ chúng ta phân tích một tình huống. Cô nhấn mạnh: đây là ví dụ minh họa dựng ra để giảng dạy, không phải câu chuyện thật. Một nhóm sinh viên muốn bán đồ trang trí gốm đỏ Vĩnh Long, thiết kế hiện đại, qua mạng xã hội cho khách thành thị. Nhưng nhóm chưa hỏi ý kiến khách hàng nào, chưa tính chi phí vận chuyển hàng dễ vỡ, trong khi trên mạng đã có vài cửa hàng gốm bán giá rẻ. Câu hỏi một: nhóm cần thu thập dữ liệu gì để kiểm chứng nỗi đau và chân dung khách hàng? Câu hỏi hai: nên đánh giá khả thi kỹ thuật, kinh tế và lợi thế cạnh tranh bền vững của nhóm thế nào? Gợi ý: nghĩ đến việc thử bán một lô nhỏ, và đến bản sắc làng nghề thay vì giá rẻ."
+    },
+    "tong_ket": {
+      "the": [
+        {
+          "tieu_de": "Ý tưởng chưa phải cơ hội",
+          "noi_dung": "Ý tưởng chỉ thành cơ hội khi nhu cầu thật của thị trường gặp năng lực thực thi của nhóm khởi nghiệp."
+        },
+        {
+          "tieu_de": "Bắt đầu từ khách hàng",
+          "noi_dung": "Hiểu nỗi đau trước, thiết kế giải pháp sau; mô tả chân dung khách hàng cụ thể và xác định điểm bán hàng độc nhất."
+        },
+        {
+          "tieu_de": "Đánh giá có hệ thống",
+          "noi_dung": "Xét khả thi kinh tế, kỹ thuật, đối thủ, rào cản, nguồn lực bản thân, đạo đức; quyết định dựa trên dữ liệu thực tế."
+        },
+        {
+          "tieu_de": "Việc cần làm",
+          "noi_dung": "Làm bài tập tự đánh giá cuối hai chủ đề và bài ôn tập tự luận Chương 2."
+        }
+      ],
+      "loi_doc": "Khép lại Chương 2, các em nhớ ba ý chính. Một, ý tưởng chỉ trở thành cơ hội khi nhu cầu thật của thị trường gặp năng lực thực thi của nhóm. Hai, bắt đầu từ khách hàng: hiểu nỗi đau trước, thiết kế giải pháp sau. Ba, đánh giá cơ hội là quá trình sàng lọc có hệ thống, quyết định dựa trên dữ liệu chứ không dựa vào cảm tính. Việc cần làm: hoàn thành bài tập tự đánh giá của hai chủ đề và bài ôn tập tự luận của chương."
+    },
+    "tai_lieu": {
+      "loi_doc": "Để học sâu hơn, các em đọc giáo trình chính: Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga, năm hai nghìn không trăm hai mươi tư; và tham khảo tài liệu Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số của Trường Đại học Bách Khoa Hà Nội."
+    },
+    "ket": {
+      "loi_doc": "Cảm ơn các em đã theo dõi Chương 2. Hãy giữ lại ý tưởng mình đã sàng lọc, vì chúng ta sẽ còn dùng tới nó. Hẹn gặp lại các em ở Chương 3 — Một số kỹ thuật huy động vốn. Chúc các em học tốt!"
+    }
+  },
+  "on_tap_tu_luan": [
+    {
+      "muc": "2.1 — Xác định ý tưởng, sản phẩm và đối tượng khách hàng",
+      "cau_hoi": "Một bạn cùng lớp khẳng định: \"Ý tưởng của mình rất mới, chưa ai làm, nên chắc chắn là một cơ hội kinh doanh.\" Em có đồng ý không? Dùng điều kiện giao thoa giữa nhu cầu thị trường và năng lực thực thi để phản biện, kèm một ví dụ do em tự chọn.",
+      "tu_kiem": [
+        "Phân biệt đúng ý tưởng sơ khai với cơ hội đã qua sàng lọc",
+        "Chỉ ra \"mới\" không đồng nghĩa với có nhu cầu thật hay có năng lực làm",
+        "Ví dụ tự chọn được phân tích đủ cả hai vế: nhu cầu và năng lực"
+      ],
+      "dap_an": [
+        "Không đồng ý hoàn toàn. Ý tưởng kinh doanh chỉ là sự sáng tạo sơ khai; nó trở thành cơ hội kinh doanh khi đã qua sàng lọc và cho thấy có sự giao thoa giữa nhu cầu thực tế của thị trường với năng lực thực thi của chính nhóm. Tính mới không chứng minh được vế nào: một sản phẩm chưa ai làm có thể đơn giản là vì chưa ai cần, hoặc vì làm ra quá khó và quá tốn kém.",
+        "Bài làm tốt sẽ lấy một ví dụ cụ thể (ví dụ một ứng dụng đặt món mới lạ) và kiểm tra lần lượt: có bằng chứng nào cho thấy khách hàng đang gặp vấn đề mà ứng dụng giải quyết không; nhóm có đủ kỹ năng, vốn, thời gian và mạng lưới để làm ra sản phẩm với chất lượng ổn định không. Thiếu một trong hai vế thì đó chưa phải cơ hội của nhóm, dù ý tưởng rất mới."
+      ]
+    },
+    {
+      "muc": "2.1 — Xác định ý tưởng, sản phẩm và đối tượng khách hàng",
+      "cau_hoi": "Chọn một sản phẩm hoặc dịch vụ em thường dùng (đồ uống, đồ dùng học tập, ứng dụng trên điện thoại...) và mô tả lại nó bằng ba câu hỏi của chủ đề: nỗi đau là gì, giải pháp là gì, khách hàng là ai. Sau đó chỉ ra một chỗ trong mô tả của em đang dựa vào phỏng đoán, và cách kiểm chứng chỗ đó.",
+      "tu_kiem": [
+        "Trả lời đủ và cụ thể cả ba câu hỏi, không mô tả chung chung",
+        "Nỗi đau được nêu từ góc nhìn khách hàng, không phải từ tính năng sản phẩm",
+        "Chỉ ra đúng một giả định chưa kiểm chứng và một cách thu thập dữ liệu khả thi"
+      ],
+      "dap_an": [
+        "Bài làm tốt viết nỗi đau như một khó khăn thật của người dùng (ví dụ: sinh viên cần đồ uống rẻ, mua nhanh trong giờ nghỉ ngắn giữa hai tiết), giải pháp như giá trị mang lại chứ không chỉ liệt kê tính năng, và khách hàng như một nhóm có đặc điểm rõ ràng. Thứ tự đúng là nỗi đau trước, giải pháp sau — tránh lỗi xây giải pháp trước rồi mới đi tìm vấn đề để gán vào.",
+        "Phần tự phản biện là phần quan trọng nhất: sinh viên cần nhận ra ít nhất một điều mình đang \"nghĩ là khách hàng muốn\" mà chưa hỏi ai, và đề xuất cách kiểm chứng cụ thể như phỏng vấn vài khách hàng, khảo sát nhỏ, quan sát hành vi mua tại chỗ hoặc thử bán một lượng nhỏ."
+      ]
+    },
+    {
+      "muc": "2.1 — Xác định ý tưởng, sản phẩm và đối tượng khách hàng",
+      "cau_hoi": "Viết một chân dung khách hàng (Customer Persona) cho một dự án kinh doanh giả định của em, gồm đủ bốn lớp: nhân khẩu học, hành vi, vị trí địa lý và ít nhất một nhu cầu tiềm ẩn. Từ chân dung đó, em rút ra điểm bán hàng độc nhất (USP) nào cho sản phẩm?",
+      "tu_kiem": [
+        "Persona có đủ bốn lớp thông tin, cụ thể đến mức hình dung được một người",
+        "Nhu cầu tiềm ẩn là điều khách chưa nói ra, không lặp lại nhu cầu đã nêu",
+        "USP gắn trực tiếp với persona và khác biệt so với sản phẩm hiện có"
+      ],
+      "dap_an": [
+        "Persona tốt không dừng ở \"ai cũng có thể mua\": nó nêu độ tuổi, nghề nghiệp, mức thu nhập (nhân khẩu học); họ tìm, chọn và mua sản phẩm ở đâu, khi nào, chịu ảnh hưởng bởi điều gì (hành vi); họ sống ở đâu và điều đó quyết định kênh phân phối ra sao (vị trí địa lý); và một nhu cầu họ thực sự có nhưng chưa nói ra hoặc chưa nhận ra (nhu cầu tiềm ẩn).",
+        "USP phải trả lời câu hỏi \"vì sao người này chọn mình thay vì sản phẩm đang có\". Ví dụ, với persona là người đi làm bận rộn, quan tâm thực phẩm sạch, USP có thể là sản phẩm ghi rõ nguồn gốc và đóng gói tiện mang theo. USP không nhất thiết là sản phẩm hoàn toàn mới, chỉ cần khác biệt hoặc tốt hơn ở điểm persona quan tâm."
+      ]
+    },
+    {
+      "muc": "2.2 — Đánh giá cơ hội phát triển dự án",
+      "cau_hoi": "Vì sao một dự án có lãi trên giấy vẫn có thể phải đóng cửa chỉ sau vài tháng? Giải thích bằng khái niệm tính khả thi kinh tế và dòng tiền, rồi đề xuất hai việc người khởi nghiệp nên chuẩn bị trước khi bắt đầu.",
+      "tu_kiem": [
+        "Phân biệt được \"có lãi\" với \"duy trì được dòng tiền\"",
+        "Giải thích được giai đoạn đầu doanh thu thấp mà chi phí vẫn phát sinh đều",
+        "Hai đề xuất cụ thể, làm được trước khi khởi sự"
+      ],
+      "dap_an": [
+        "Tính khả thi kinh tế không chỉ là dự án có tạo ra lợi nhuận hay không, mà còn là khả năng duy trì dòng tiền để vượt qua giai đoạn đầu. Ở giai đoạn này, doanh thu thường thấp và tăng chậm trong khi chi phí vận hành phát sinh đều đặn mỗi tháng; nếu không có tiền dự phòng, dự án có thể cạn tiền và đóng cửa trước khi kịp đạt mức lãi đã tính trên giấy, dù ý tưởng sản phẩm hoàn toàn tốt.",
+        "Hai việc nên chuẩn bị: lập dự tính thu chi theo từng tháng cho giai đoạn đầu thay vì chỉ nhìn một con số lợi nhuận cả năm; và chuẩn bị một khoản dự phòng đủ trang trải chi phí vận hành trong vài tháng đầu (hoặc bắt đầu ở quy mô nhỏ để giảm chi phí cố định). Bài làm có thể nêu thêm việc tìm hiểu các chương trình hỗ trợ để giảm áp lực vốn ban đầu."
+      ]
+    },
+    {
+      "muc": "2.2 — Đánh giá cơ hội phát triển dự án",
+      "cau_hoi": "Chọn một thị trường quen thuộc quanh em (ví dụ quán ăn, quán cà phê hoặc dịch vụ gần trường). Phân tích hai đối thủ trực tiếp để tìm một \"khoảng trống thị trường\", và cho biết lợi thế nào của em có thể trở thành lợi thế cạnh tranh bền vững thay vì chỉ cạnh tranh bằng giá.",
+      "tu_kiem": [
+        "Nêu được cả điểm mạnh và điểm yếu của từng đối thủ",
+        "Khoảng trống là nhu cầu khách hàng chưa được đáp ứng tốt, có lý do đi kèm",
+        "Lợi thế đề xuất khó bị bắt chước, có giải thích vì sao giá rẻ không bền"
+      ],
+      "dap_an": [
+        "Mục đích phân tích đối thủ không phải để \"hạ bệ\" họ mà để tìm điểm khác biệt. Bài làm tốt lập bảng ngắn cho hai đối thủ: họ làm tốt gì, chưa làm tốt gì, khách hàng phàn nàn điều gì. Khoảng trống thị trường thường nằm ở chỗ cả hai đối thủ cùng bỏ ngỏ — ví dụ không ai phục vụ tốt khung giờ sáng sớm, hay không ai có lựa chọn phù hợp cho một nhóm khách cụ thể.",
+        "Lợi thế cạnh tranh bền vững là lợi thế khó bị sao chép: công thức riêng, mối quan hệ với nguồn nguyên liệu, bản sắc địa phương, hay sự hiểu biết sâu về một nhóm khách hàng. Cạnh tranh bằng giá không bền vì đối thủ luôn có thể hạ giá thấp hơn bất cứ lúc nào, nhất là đối thủ có nhiều vốn hơn."
+      ]
+    },
+    {
+      "muc": "2.2 — Đánh giá cơ hội phát triển dự án",
+      "cau_hoi": "Giả sử khảo sát nhỏ của nhóm em cho kết quả trái với kỳ vọng ban đầu: khách hàng không quan tâm đến điểm mà nhóm cho là hấp dẫn nhất. Theo tinh thần ra quyết định dựa trên dữ liệu, nhóm nên điều chỉnh, đổi hướng hay dừng lại? Nêu tiêu chí để chọn.",
+      "tu_kiem": [
+        "Coi dữ liệu trái kỳ vọng là thông tin có giá trị, không gạt bỏ vì cảm tính",
+        "Có tiêu chí rõ ràng để phân biệt điều chỉnh, đổi hướng và dừng",
+        "Nhận ra phát hiện sớm rẻ hơn phát hiện sau khi đã đầu tư lớn"
+      ],
+      "dap_an": [
+        "Trước hết, nhóm cần kiểm tra chất lượng dữ liệu: hỏi đúng nhóm khách hàng mục tiêu chưa, câu hỏi có dẫn dắt không, số người hỏi có quá ít không. Nếu dữ liệu đáng tin, nhóm không nên cố làm tiếp chỉ để \"chứng minh mình đúng\".",
+        "Tiêu chí gợi ý: nếu nỗi đau khách hàng vẫn đúng nhưng giải pháp chưa trúng thì điều chỉnh giải pháp; nếu nỗi đau đúng ở một nhóm khách khác thì đổi hướng sang nhóm đó; nếu không tìm thấy nỗi đau đủ lớn ở nhóm nào, hoặc nhóm không đủ nguồn lực để đáp ứng, thì dừng và tìm ý tưởng mới. Điều quan trọng là phát hiện sớm qua khảo sát luôn tốt hơn phát hiện sau khi đã đổ nhiều công sức và tiền bạc vào."
+      ]
+    },
+    {
+      "muc": "Câu tích hợp — Chương 2 và bài thu hoạch",
+      "cau_hoi": "Với ý tưởng kinh doanh giả định em dự định dùng cho bài thu hoạch cuối học phần, hãy viết phần \"Đánh giá cơ hội\" gồm: nỗi đau, giải pháp, chân dung khách hàng và USP; khả thi kinh tế, kỹ thuật, đối thủ và rào cản gia nhập; đối chiếu nguồn lực bản thân, đạo đức kinh doanh và tính bền vững. Cuối cùng, kết luận có nên theo đuổi ý tưởng không và vì sao.",
+      "tu_kiem": [
+        "Đi đủ các bước theo đúng thứ tự của quy trình đánh giá cơ hội",
+        "Mỗi nhận định có dữ liệu hoặc nguồn kiểm chứng; số liệu tự giả định được ghi rõ là giả định",
+        "Kết luận rõ ràng, nhất quán với các phân tích phía trên, có tính đến đạo đức và bền vững"
+      ],
+      "dap_an": [
+        "Bài làm tốt bắt đầu từ khách hàng (nỗi đau, chân dung, USP) rồi mới sang đánh giá: khả thi kinh tế nhìn theo dòng tiền chứ không chỉ lợi nhuận; khả thi kỹ thuật gắn với công nghệ, nguồn lực và hạ tầng thực tế; đối thủ và rào cản gia nhập được phân tích để tìm khoảng trống hoặc thị trường ngách; nguồn lực bản thân được đối chiếu thẳng thắn với những gì dự án đòi hỏi.",
+        "Phần đạo đức và bền vững cần cụ thể: thông tin trung thực về sản phẩm, đối xử công bằng với người cung ứng, không đánh đổi môi trường hay cộng đồng lấy lợi ích ngắn hạn. Kết luận \"chưa nên theo đuổi, cần điều chỉnh\" vẫn là kết luận tốt nếu được lập luận từ dữ liệu — mục tiêu là sàng lọc nghiêm túc, không phải bảo vệ ý tưởng bằng mọi giá. Phần này sẽ là nền cho các chương sau về huy động vốn, chọn mô hình kinh doanh và marketing trong bài thu hoạch."
+      ]
+    }
+  ]
+}
