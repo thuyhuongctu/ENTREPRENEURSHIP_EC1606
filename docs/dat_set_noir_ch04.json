@@ -1,0 +1,349 @@
+[
+  {
+    "slide": 1,
+    "canh_vi": "Cô Hương AI đứng giữa sân khấu tối, một luồng đèn rọi chiếu xuống, mở rộng tay chào lớp vào Chương 4.",
+    "prompt_anh": "Huong AI, the lecturer, stands alone at the centre of a dark empty stage, arms open in welcome, a single beam falling on her from above, a blank board behind her and a few small model shop buildings at her feet.",
+    "prompt_video": "Slow push-in from the back of the stage toward Huong AI, the lecturer, who opens her arms wide in greeting.",
+    "dao_cu": [
+      "bang_trong",
+      "nha_xuong"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 2,
+    "canh_vi": "Cô chỉ vào bảng trống có bốn tấm bia mục tiêu xếp hàng, mỗi bia là một mục tiêu của chương.",
+    "prompt_anh": "Huong AI, the lecturer, points at a blank board where four round target boards hang in a row, a dart already in the centre of the first one, a desk with a neat folder in front of her.",
+    "prompt_video": "Medium shot, slow pan along four target boards as Huong AI, the lecturer points to each in turn and a dart lands in the last.",
+    "dao_cu": [
+      "bia_muc_tieu",
+      "bang_trong",
+      "ban_lam_viec"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 3,
+    "canh_vi": "Cột biển chỉ đường hai nhánh dẫn lên hai bậc thang, tượng trưng hai chủ đề của chương.",
+    "prompt_anh": "A wooden signpost with two blank arrow arms stands at the foot of two short staircases, one rising left and one rising right, a small folder of papers resting against the post on a bare floor.",
+    "prompt_video": "Slow crane up from the base of the signpost, revealing the two staircases climbing away into the dark.",
+    "dao_cu": [
+      "bien_chi_duong",
+      "bac_thang",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 4,
+    "canh_vi": "Cô đứng trầm ngâm trước ngã rẽ, tay cầm cằm, cạnh chồng hồ sơ pháp lý — chọn đúng loại hình để tránh rủi ro.",
+    "prompt_anh": "Huong AI, the lecturer, stands at a fork in a path with her hand to her chin, a signpost with blank arms beside her, one path tidy and clear, the other littered with scattered papers and a tipped-over folder.",
+    "prompt_video": "Huong AI, the lecturer looks from one path to the other, hand on chin, as the camera slowly arcs around her.",
+    "dao_cu": [
+      "bien_chi_duong",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 5,
+    "canh_vi": "Nhìn từ trên xuống bàn làm việc: bốn mô hình nhà xưởng khác nhau xếp hàng, cô chỉ vào từng cái — bốn loại hình doanh nghiệp.",
+    "prompt_anh": "Seen from above, Huong AI, the lecturer, points at four small model buildings lined up on a desk: a tiny single shop, a modest two-storey office, a tall tower with many windows, and a pair of joined houses sharing one roof.",
+    "prompt_video": "High-angle shot drifting slowly across the desk as Huong AI, the lecturer taps the roof of each model building one by one.",
+    "dao_cu": [
+      "ban_lam_viec",
+      "nha_xuong"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 6,
+    "canh_vi": "Cận cảnh cân đĩa: một bên túi tiền có ổ khoá bảo vệ (hữu hạn), bên kia chồng xu lẫn chìa khoá nhà bị kéo vào (vô hạn).",
+    "prompt_anh": "Close view of a balance scale on a bare table: one pan holds a money bag sealed with a padlock, the other pan holds coin stacks with a small house key and a toy house sliding in after them.",
+    "prompt_video": "Close-up, slow dolly sideways as the unlocked pan sinks and the toy house slides onto the coin stacks.",
+    "dao_cu": [
+      "can_can",
+      "o_khoa",
+      "tui_tien",
+      "dong_xu"
+    ],
+    "tu_the": "khong_co",
+    "camera": "can",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 7,
+    "canh_vi": "Cô đứng cạnh nhóm thợ gốm quanh lò nung, mỗi người giơ một tay biểu quyết — hợp tác xã gốm đỏ Vĩnh Long.",
+    "prompt_anh": "Huong AI, the lecturer, stands with open arms beside a small group of potters gathered around a brick kiln, each potter raising one hand in an equal vote, red pottery vases drying on planks in the yard.",
+    "prompt_video": "Wide shot, slow push toward the kiln as the potters raise their hands one after another.",
+    "dao_cu": [
+      "nhom_nguoi",
+      "lo_nung",
+      "binh_gom"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "den_ban",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 8,
+    "canh_vi": "Cô cầm mô hình quầy hàng nhỏ; phía sau là dãy quầy giống hệt nhau và tập quy trình chuẩn — nhượng quyền.",
+    "prompt_anh": "Huong AI, the lecturer, holds a small model market stall in her palm, behind her a row of identical stalls stretches into the distance, a thick binder of procedures and a small coin stack on the counter beside her.",
+    "prompt_video": "Medium shot, rack focus from the stall in her hand to the identical row of stalls behind her.",
+    "dao_cu": [
+      "quay_hang",
+      "chong_tai_lieu",
+      "dong_xu"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 9,
+    "canh_vi": "Nhóm sinh viên quanh máy tính xách tay, điện thoại hiện biểu tượng giỏ hàng, thùng hàng gửi thẳng tới khách — mô hình kinh doanh số.",
+    "prompt_anh": "Huong AI, the lecturer, points at an open laptop on a long table where a small team of students works, a smartphone showing a blank shopping-cart icon beside it, and cardboard parcels sliding off the table toward a waiting customer.",
+    "prompt_video": "Huong AI, the lecturer points at the laptop while a parcel slides along the table to the customer; slow wide pan.",
+    "dao_cu": [
+      "may_tinh",
+      "dien_thoai",
+      "thung_hang",
+      "nhom_nguoi"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 10,
+    "canh_vi": "Cô mở tay trước bảng trống có ba biểu tượng tóm tắt, chậu cây nhỏ bên cạnh — tổng kết Chủ đề 1.",
+    "prompt_anh": "Huong AI, the lecturer, stands with open arms beside a blank board holding three simple icons: a balance scale, a small house with a roof, and a chain of linked shops, a potted plant on the floor next to her.",
+    "prompt_video": "Huong AI, the lecturer gestures to the board as the three icons appear one by one; slow push-in.",
+    "dao_cu": [
+      "bang_trong",
+      "chau_cay",
+      "can_can"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 11,
+    "canh_vi": "Nhìn từ trên xuống một cầu thang ba chiếu nghỉ: chiếu thứ nhất có dấu tích, chiếu giữa sáng lên, chiếu cuối còn mờ — đang ở đâu trong chương.",
+    "prompt_anh": "Seen from above, a staircase with three landings: the first landing holds a checkmark-shaped token, the middle landing glows softly with a small signpost pointing onward, the top landing is still empty and dim.",
+    "prompt_video": "High-angle shot gliding up the staircase from the first landing to the glowing middle one.",
+    "dao_cu": [
+      "bac_thang",
+      "bien_chi_duong"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 12,
+    "canh_vi": "Cận cảnh cô cầm kính lúp soi tấm bảng có nhiều biểu tượng loại hình — từ bản đồ chuyển sang chọn thật.",
+    "prompt_anh": "Close view of Huong AI, the lecturer, holding a magnifying glass up to a blank board covered in small building icons, one icon enlarged and glowing inside the lens while the others fade back.",
+    "prompt_video": "Close-up, Huong AI, the lecturer slowly moves the magnifying glass across the board and stops over one icon.",
+    "dao_cu": [
+      "kinh_lup",
+      "bang_trong"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "can",
+    "anh_sang": "den_roi",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 13,
+    "canh_vi": "Chị Hoa ngồi bên bàn, đặt đồng hồ, vài chồng xu và đống khoai lang lên cân để tự đánh giá năng lực; toà nhà cao chọc trời bên xa trông quá sức.",
+    "prompt_anh": "Hoa, a young Mekong-delta woman entrepreneur, sits at a small desk weighing a clock against a few low coin stacks on a balance scale, a pile of sweet potatoes at her feet, a distant tall office tower looming far beyond her reach.",
+    "prompt_video": "Medium shot, Hoa places a clock on the scale and glances toward the distant tower; slow push-in.",
+    "dao_cu": [
+      "can_can",
+      "dong_ho",
+      "dong_xu",
+      "khoai_lang"
+    ],
+    "tu_the": "khong_co",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 14,
+    "canh_vi": "Cận cảnh cô cầm con dấu cạnh máy tính đang mở trang đăng ký trực tuyến, hồ sơ và ổ khoá bảo hộ nhãn hiệu.",
+    "prompt_anh": "Close view of Huong AI, the lecturer, holding a rubber stamp above a neat stack of forms beside an open laptop with a blank screen, a small padlock resting on a logo-shaped token next to the papers.",
+    "prompt_video": "Close-up, Huong AI, the lecturer presses the stamp onto the forms, then the padlock clicks shut on the logo token.",
+    "dao_cu": [
+      "con_dau",
+      "may_tinh",
+      "chong_tai_lieu",
+      "o_khoa"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "can",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 15,
+    "canh_vi": "Cô dang tay giữa cộng đồng dân làng, cạnh cân cân bằng và chậu cây — đạo đức, minh bạch, bền vững.",
+    "prompt_anh": "Huong AI, the lecturer, stands with open arms among a small group of villagers in a courtyard, a perfectly level balance scale on a low table in front of them and a growing potted plant at its side.",
+    "prompt_video": "Wide shot, slow orbit around the group as the potted plant sprouts a new leaf.",
+    "dao_cu": [
+      "can_can",
+      "nhom_nguoi",
+      "chau_cay"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 16,
+    "canh_vi": "Nhìn từ trên xuống bàn họp: nhóm người chia việc trên giấy tờ, một người theo dõi điện thoại cập nhật luật.",
+    "prompt_anh": "Seen from above, a small team sits around a work table dividing a stack of folders into equal piles, each member taking one pile, while one member holds up a smartphone showing a blank alert icon.",
+    "prompt_video": "Top-down shot, folders slide into equal piles toward each member as the smartphone screen glows.",
+    "dao_cu": [
+      "nhom_nguoi",
+      "ban_lam_viec",
+      "chong_tai_lieu",
+      "dien_thoai"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 17,
+    "canh_vi": "Cô đứng giữa, chỉ sang hai phía: bên trái quầy khoai lang của chị Hoa, bên phải lò nung và bình gốm đỏ của hợp tác xã.",
+    "prompt_anh": "Huong AI, the lecturer, stands between two scenes and points to each: on the left Hoa, a young Mekong-delta woman entrepreneur, at a market stall piled with sweet potatoes, on the right a shared kiln with red pottery vases lined up in front.",
+    "prompt_video": "Wide shot, slow pan from the sweet potato stall to the kiln as Huong AI, the lecturer turns and points.",
+    "dao_cu": [
+      "khoai_lang",
+      "quay_hang",
+      "binh_gom",
+      "lo_nung"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 18,
+    "canh_vi": "Cô trầm ngâm cạnh bảng trống có ba biểu tượng: cân, con dấu và chậu cây — tổng kết Chủ đề 2.",
+    "prompt_anh": "Huong AI, the lecturer, stands with her hand to her chin beside a blank board showing three simple icons, a balance scale, a rubber stamp and a sprouting plant, a real rubber stamp resting on the ledge below.",
+    "prompt_video": "Medium shot, Huong AI, the lecturer looks thoughtfully at each icon in turn as the camera slowly drifts closer.",
+    "dao_cu": [
+      "bang_trong",
+      "con_dau",
+      "can_can"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 19,
+    "canh_vi": "Cận cảnh bàn học dưới đèn bàn: vở trắng, kính lúp và năm thẻ hình dấu hỏi xếp hàng — câu hỏi ôn tập.",
+    "prompt_anh": "Close view of a student desk under a desk lamp: an open blank notebook, a pencil, a magnifying glass and five small question-mark tokens lined up in a neat row along the edge.",
+    "prompt_video": "Close-up, slow track along the five question-mark tokens, ending on the magnifying glass over the notebook.",
+    "dao_cu": [
+      "ban_lam_viec",
+      "den_ban",
+      "kinh_lup",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "khong_co",
+    "camera": "can",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 20,
+    "canh_vi": "Chị Hoa đứng ở ngã rẽ cạnh đống khoai lang: một bên người bạn chìa tay góp vốn, một bên là quầy hàng chuỗi nhượng quyền; cô Hương trầm ngâm quan sát.",
+    "prompt_anh": "Hoa, a young Mekong-delta woman entrepreneur, stands at a signpost beside her sweet potato pile, a friend on one side offering a handshake, a branded chain stall on the other side, while Huong AI, the lecturer, watches with her hand to her chin.",
+    "prompt_video": "Medium shot, slow arc behind Hoa as she looks from the friend's outstretched hand to the chain stall.",
+    "dao_cu": [
+      "khoai_lang",
+      "nhan_vat_phu",
+      "bien_chi_duong",
+      "quay_hang"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 21,
+    "canh_vi": "Cô dang tay trước ba bục trưng bày: cân, mô hình xưởng nhỏ và chậu cây — ba ý tổng kết Chương 4.",
+    "prompt_anh": "Huong AI, the lecturer, stands with open arms before three low pedestals: one holding a balance scale, one holding a small workshop model, one holding a healthy potted plant.",
+    "prompt_video": "Wide shot, slow push-in past the three pedestals toward Huong AI, the lecturer as she opens her arms.",
+    "dao_cu": [
+      "can_can",
+      "nha_xuong",
+      "chau_cay"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 22,
+    "canh_vi": "Cô cầm một cuốn sách bên bàn có chồng giáo trình và đèn bàn — tài liệu học tập.",
+    "prompt_anh": "Huong AI, the lecturer, holds an open book at a desk stacked with textbooks and folders, a desk lamp bent low over the pages and a small potted plant at the corner of the desk.",
+    "prompt_video": "Medium shot, Huong AI, the lecturer turns a page and lifts the book slightly toward the viewer; slow push-in.",
+    "dao_cu": [
+      "chong_tai_lieu",
+      "ban_lam_viec",
+      "den_ban"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 23,
+    "canh_vi": "Cô vẫy tay chào tạm biệt trên sân khấu tối, hẹn gặp lại ở Chương 5.",
+    "prompt_anh": "Huong AI, the lecturer, waves goodbye from the centre of a dark stage, a single beam above her, a blank board behind her and a small market stall model at the edge of the stage hinting at the next chapter.",
+    "prompt_video": "Wide shot, slow pull-back as Huong AI, the lecturer waves goodbye and the beam gently narrows.",
+    "dao_cu": [
+      "bang_trong",
+      "quay_hang"
+    ],
+    "tu_the": "vay_chao",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  }
+]

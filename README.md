@@ -84,6 +84,35 @@ kịch bản thuyết minh, một bài ôn tập tự luận hai bản SV/GV.
 Khuôn `assets/mau/MAU_SLIDE_VLUTE.pptx` là 8 trang (1, 2, 3, 4, 9, 44, 49,
 50) cắt từ deck Chương 5 EC6035TX của tác giả — đã mang tên trường/khoa mới.
 
+## Bài giảng 3D đất sét noir (cho ArtCraft)
+
+Mỗi slide của 5 chương có một cảnh "3D đất sét noir" — nhân vật và đạo cụ
+nặn đất sét, ánh sáng phim noir (bóng đen sâu, đèn gắt, gần như đơn sắc với
+một màu nhấn) — để cô tạo ảnh/video trong ArtCraft. Trong
+`chuong-0N/dat-set-noir/`:
+
+| Tệp | Nội dung |
+|---|---|
+| `anh/NNN.jpg` | Khung bố cục 3D (1920×1080) cho slide NNN — dựng sẵn bằng Three.js, dùng làm ảnh tham chiếu bố cục trong ArtCraft |
+| `PROMPT_ARTCRAFT__CHUONG_N_EC1606.docx`/`.pdf` | Mỗi slide: mô tả cảnh, prompt ảnh, prompt video, negative prompt, cách dùng |
+| `PROMPT_ARTCRAFT__CHUONG_N_EC1606.csv` | Cùng các prompt, để chép hàng loạt |
+| `TONG_QUAN.jpg` | Ảnh ghép mọi khung bố cục của chương |
+
+Khung bố cục là **phác thảo**, không phải ảnh thành phẩm: Hương AI và đạo cụ ở
+đây là khối đất sét đơn giản; mặt và chi tiết để mô hình AI trong ArtCraft vẽ
+theo ảnh tham chiếu Hương AI. ArtCraft là ứng dụng máy tính chạy mô hình trả
+phí (cần tài khoản, credit) nên ảnh/video thành phẩm phải tạo trên máy cô —
+repo này không tạo được. Ảnh/video AI có Hương AI vẫn phải kèm chú thích
+"nhân vật minh họa do AI tạo".
+
+Nguồn: `docs/dat_set_noir_ch0N.json` (cảnh từng slide, khớp thứ tự bộ slide).
+Khối phong cách chung ghép thêm vào prompt nằm ở `tools/dung_dat_set_noir.py`.
+
+```
+cd tools/dat_set_noir && npm install && node dung_anh.mjs   # 154 khung bố cục
+python3 tools/dung_dat_set_noir.py                          # prompt + ảnh tổng quan
+```
+
 ## Dựng lại
 
 Tất cả tệp trong `docs/*.json` là NGUỒN — sửa ở đó rồi chạy lại trình sinh,

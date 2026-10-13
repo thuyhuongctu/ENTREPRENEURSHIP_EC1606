@@ -1,0 +1,10 @@
+{
+  "name": "dat-set-noir",
+  "private": true,
+  "description": "Dựng ảnh 3D đất sét noir cho từng slide EC1606 (Three.js, Chromium headless)",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "1.48.2",
+    "three": "0.169.0"
+  }
+}
