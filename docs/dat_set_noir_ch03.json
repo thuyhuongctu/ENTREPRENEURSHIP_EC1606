@@ -1,0 +1,591 @@
+[
+  {
+    "slide": 1,
+    "canh_vi": "Cô Hương AI đứng giữa sân khấu tối, một luồng đèn rọi chiếu xuống, cạnh chồng xu và túi tiền mở đầu chương huy động vốn.",
+    "prompt_anh": "Huong AI, the lecturer, stands center on a dark empty stage under a single spotlight, arms open to greet students; beside her a small money bag and neat coin stacks rest on a low pedestal, deep darkness around the edges.",
+    "prompt_video": "Slow push-in from wide to medium on Huong AI as she opens her arms in greeting under the spotlight.",
+    "dao_cu": [
+      "tui_tien",
+      "dong_xu"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 2,
+    "canh_vi": "Cô Hương AI chỉ vào bảng trống có bốn biểu tượng: bậc thang vốn, tập hồ sơ, đồng hồ và cái cân.",
+    "prompt_anh": "Huong AI, the lecturer, points at a large blank board showing four simple icons in a row: a small staircase, a folder, a clock and a balance scale, each inside its own empty square frame.",
+    "prompt_video": "Camera pans slowly across the four icons on the board as Huong AI points to each in turn.",
+    "dao_cu": [
+      "bang_trong",
+      "bac_thang",
+      "dong_ho",
+      "can_can"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 3,
+    "canh_vi": "Biển chỉ đường hai nhánh: một nhánh hướng về túi tiền, một nhánh hướng về biểu đồ cột — hai chủ đề của chương.",
+    "prompt_anh": "A wooden signpost stands at a quiet crossroads with two blank arrow boards: one path leads toward a small money bag, the other toward a short bar chart on a pedestal, empty ground stretching away.",
+    "prompt_video": "Slow crane up from the base of the signpost to reveal both paths and their destinations.",
+    "dao_cu": [
+      "bien_chi_duong",
+      "tui_tien",
+      "bieu_do_cot"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 4,
+    "canh_vi": "Cô Hương AI ngồi bên bàn, tay chống cằm, nhìn túi tiền dưới đèn bàn: cần tiền thì lấy ở đâu?",
+    "prompt_anh": "Huong AI, the lecturer, sits at a desk with her hand to her chin, studying a closed money bag in front of her, beside a single coin stack and a desk lamp casting a warm pool on the desktop.",
+    "prompt_video": "Gentle dolly toward the desk as Huong AI tilts her head, thinking, looking at the money bag.",
+    "dao_cu": [
+      "ban_lam_viec",
+      "den_ban",
+      "tui_tien",
+      "dong_xu"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 5,
+    "canh_vi": "Một chậu cây nhỏ mọc từ vài đồng xu trên bậc thang đầu tiên — vốn tự có và bootstrapping, lớn chậm nhưng chắc.",
+    "prompt_anh": "A small potted sprout grows from a short coin stack on the lowest step of a staircase; a little family of three figures watches nearby, offering a few more coins, upper steps empty and waiting.",
+    "prompt_video": "Slow tilt up from the sprout on the lowest step toward the empty upper steps.",
+    "dao_cu": [
+      "chau_cay",
+      "dong_xu",
+      "bac_thang",
+      "nhom_nguoi"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 6,
+    "canh_vi": "Cô Hương AI giới thiệu một nhà đầu tư thiên thần đang trao túi tiền nhỏ kèm bóng đèn ý tưởng cho người sáng lập trẻ.",
+    "prompt_anh": "Huong AI, the lecturer, gestures toward an older investor figure handing a small money bag and a glowing idea bulb to a young founder standing beside a market stall with a few goods.",
+    "prompt_video": "Medium shot holds as the investor passes the bag and bulb; camera drifts slightly right to follow.",
+    "dao_cu": [
+      "nhan_vat_phu",
+      "tui_tien",
+      "bong_den",
+      "quay_hang"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 7,
+    "canh_vi": "Quỹ đầu tư mạo hiểm: túi tiền lớn đặt cạnh mũi tên tăng vọt và chiếc đồng hồ đếm thời điểm thoái vốn.",
+    "prompt_anh": "A large heavy money bag sits at the foot of a steep rising arrow climbing over a tall bar chart; a clock stands to one side, its hands pointing ahead, an investor figure watching from the shadows.",
+    "prompt_video": "Slow push-in along the rising arrow, travelling from the heavy money bag at its foot up to the clock beside the chart.",
+    "dao_cu": [
+      "tui_tien",
+      "mui_ten_tang",
+      "bieu_do_cot",
+      "dong_ho"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 8,
+    "canh_vi": "Cô Hương AI cầm chiếc bình gốm đỏ, đám đông nhỏ góp từng đồng xu qua điện thoại — gọi vốn cộng đồng cho làng gốm.",
+    "prompt_anh": "Huong AI, the lecturer, holds up a red pottery vase; around her a small crowd of figures each raise a smartphone, tiny coins floating from the phones into a pottery kiln behind her.",
+    "prompt_video": "Camera circles slowly around Huong AI as coins drift from the crowd's phones toward the kiln.",
+    "dao_cu": [
+      "binh_gom",
+      "nhom_nguoi",
+      "dien_thoai",
+      "lo_nung"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 9,
+    "canh_vi": "Chiếc cân định giá: một bên là mô hình xưởng nhỏ, bên kia là chồng xu; cô Hương AI cân nhắc.",
+    "prompt_anh": "Huong AI, the lecturer, stands thinking beside a large balance scale: on one pan a miniature workshop building, on the other a tall stack of coins, the beam almost level.",
+    "prompt_video": "Slow sideways dolly past the balance scale as its beam wobbles gently, then settles almost level while Huong AI watches.",
+    "dao_cu": [
+      "can_can",
+      "nha_xuong",
+      "dong_xu"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 10,
+    "canh_vi": "So sánh vay nợ và vốn cổ phần: ổ khóa trên chồng xu cạnh đồng hồ, đối diện là hai người cùng giữ một mô hình xưởng.",
+    "prompt_anh": "Split scene on a desk: on the left a padlock rests on a coin stack beside a ticking clock; on the right two figures jointly hold a miniature workshop building between them.",
+    "prompt_video": "High-angle shot slowly slides from the padlocked coins on the left to the shared workshop on the right.",
+    "dao_cu": [
+      "o_khoa",
+      "dong_xu",
+      "dong_ho",
+      "nha_xuong"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 11,
+    "canh_vi": "Cô Hương AI thuyết trình trước nhà đầu tư, chỉ vào bảng trống với năm biểu tượng ghép lại như bộ xếp hình.",
+    "prompt_anh": "Huong AI, the lecturer, presents to a seated investor, pointing at a blank board where five simple puzzle-piece shapes fit together, one piece still missing from the set.",
+    "prompt_video": "Push-in toward the board as Huong AI points at the empty gap in the puzzle.",
+    "dao_cu": [
+      "bang_trong",
+      "nhan_vat_phu"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 12,
+    "canh_vi": "Bộ hồ sơ gọi vốn trên bàn: tập slide xếp gọn, trang trên cùng là biểu đồ cột tăng trưởng.",
+    "prompt_anh": "A neat stack of presentation sheets on a desk, fanned slightly; the top sheet shows only a simple rising bar chart with an arrow, a laptop open beside it with a blank screen.",
+    "prompt_video": "Overhead camera slowly descends toward the fanned presentation sheets until the rising bar chart on the top sheet fills the frame.",
+    "dao_cu": [
+      "chong_tai_lieu",
+      "bieu_do_cot",
+      "mui_ten_tang",
+      "may_tinh"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 13,
+    "canh_vi": "Nhà đầu tư cầm kính lúp soi chồng hồ sơ; cô Hương AI chỉ vào con dấu chờ ký kết sau đàm phán.",
+    "prompt_anh": "Huong AI, the lecturer, points at a rubber stamp waiting on the desk while an investor figure leans over a stack of folders, inspecting them closely with a magnifying glass.",
+    "prompt_video": "Slow pan from the investor's magnifying glass gliding over the folders across the desk to the rubber stamp waiting beside Huong AI.",
+    "dao_cu": [
+      "kinh_lup",
+      "chong_tai_lieu",
+      "nhan_vat_phu",
+      "con_dau"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 14,
+    "canh_vi": "Cô Hương AI cân nhắc giữa nhiều nhà đầu tư; chỉ một người đứng đúng tâm bia mục tiêu.",
+    "prompt_anh": "Huong AI, the lecturer, stands with her hand to her chin facing a row of investor figures; behind them a large target, with only one figure standing exactly in front of its center.",
+    "prompt_video": "Camera tracks along the row of investors and stops on the one in front of the target center.",
+    "dao_cu": [
+      "nhom_nguoi",
+      "bia_muc_tieu"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 15,
+    "canh_vi": "Startup nhỏ nhanh nhẹn: chậu cây non cạnh mũi tên tăng mạnh, cô Hương AI cầm bóng đèn ý tưởng.",
+    "prompt_anh": "Huong AI, the lecturer, holds a glowing idea bulb next to a small potted sapling, and a bold rising arrow springs up from the sapling past a towering but motionless stack of boxes.",
+    "prompt_video": "Camera rises from the small sapling, following the bold arrow upward past the still boxes as the bulb in Huong AI's hand brightens.",
+    "dao_cu": [
+      "bong_den",
+      "chau_cay",
+      "mui_ten_tang",
+      "thung_hang"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 16,
+    "canh_vi": "Chị Hoa đứng trước ba lối đi tới ba nguồn vốn cho máy sấy khoai lang: người thân, ngân hàng, khách hàng quen.",
+    "prompt_anh": "Hoa, a young Mekong-delta woman entrepreneur, stands beside a pile of sweet potatoes at a signpost with three blank arrows; one path leads to a family group, one to a padlocked money bag, one to a market stall of regular customers.",
+    "prompt_video": "Slow arc around Hoa as she looks along each of the three paths in turn.",
+    "dao_cu": [
+      "khoai_lang",
+      "bien_chi_duong",
+      "nhom_nguoi",
+      "quay_hang"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 17,
+    "canh_vi": "Cô Hương AI giơ kính lúp lên chồng hồ sơ: sự thật luôn lộ ra khi thẩm định.",
+    "prompt_anh": "Huong AI, the lecturer, holds a magnifying glass over an open folder on a desk, revealing a small downward-falling bar chart hidden beneath a sheet, an investor watching across the desk.",
+    "prompt_video": "Close push-in on the magnifying glass as Huong AI lifts the top sheet and the hidden falling chart slides into view.",
+    "dao_cu": [
+      "kinh_lup",
+      "chong_tai_lieu",
+      "bieu_do_cot",
+      "nhan_vat_phu"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "can",
+    "anh_sang": "den_ban",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 18,
+    "canh_vi": "Tổng kết chủ đề: cô Hương AI chỉ vào bậc thang vốn, trên đỉnh là bia mục tiêu và tập hồ sơ gọn gàng.",
+    "prompt_anh": "Huong AI, the lecturer, points up a short staircase; coin stacks grow taller on each step, a neat folder rests on the middle step and a target waits at the top.",
+    "prompt_video": "Camera tilts up the staircase from bottom step to the target as Huong AI points.",
+    "dao_cu": [
+      "bac_thang",
+      "dong_xu",
+      "chong_tai_lieu",
+      "bia_muc_tieu"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 19,
+    "canh_vi": "Bản đồ lộ trình: cô Hương AI đứng cạnh biển chỉ đường, một chặng đã qua, một chặng đang đi, một chặng phía trước.",
+    "prompt_anh": "Huong AI, the lecturer, stands at a signpost on a winding path; behind her a money bag marks a stage already passed, beside her a bar chart marks the current stage, and ahead an empty board waits.",
+    "prompt_video": "Slow track forward along the path from the money bag past Huong AI toward the empty board.",
+    "dao_cu": [
+      "bien_chi_duong",
+      "tui_tien",
+      "bieu_do_cot",
+      "bang_trong"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 20,
+    "canh_vi": "Mở chủ đề chỉ số tài chính: cô Hương AI cầm kính lúp soi biểu đồ cột trên bảng.",
+    "prompt_anh": "Huong AI, the lecturer, holds a magnifying glass up to a blank board displaying a bar chart beside a small clock and coin stacks, studying them closely.",
+    "prompt_video": "Slow push-in through the lens of the magnifying glass toward the bars on the board as Huong AI leans closer.",
+    "dao_cu": [
+      "kinh_lup",
+      "bang_trong",
+      "bieu_do_cot",
+      "dong_ho"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 21,
+    "canh_vi": "Định phí và biến phí: xưởng nhỏ đứng yên một bên, chồng khoai lang tăng dần theo từng thùng hàng bên kia.",
+    "prompt_anh": "On one side a small workshop building stands fixed on its plot; on the other a row of cardboard boxes grows longer, each box beside a bigger pile of sweet potatoes.",
+    "prompt_video": "Lateral tracking shot from the still workshop building along the growing row of boxes, each potato pile larger than the last.",
+    "dao_cu": [
+      "nha_xuong",
+      "thung_hang",
+      "khoai_lang"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 22,
+    "canh_vi": "Cô Hương AI chỉ vào bảng: hai đường chồng xu và thùng hàng gặp nhau tại một điểm cân bằng.",
+    "prompt_anh": "Huong AI, the lecturer, points at a blank board where a row of cardboard boxes and a row of coin stacks rise side by side until they become equal, a balance scale level beneath the meeting point.",
+    "prompt_video": "Camera moves along the rising rows and stops where they meet as Huong AI taps that spot.",
+    "dao_cu": [
+      "bang_trong",
+      "thung_hang",
+      "dong_xu",
+      "can_can"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 23,
+    "canh_vi": "Cô Hương AI đàm phán giá nguyên liệu với nhà cung cấp: chồng xu chi phí thấp xuống, điểm hòa vốn đến sớm hơn.",
+    "prompt_anh": "Huong AI, the lecturer, sits thinking at a desk with a supplier figure, a pile of sweet potatoes between them; beside her a coin stack visibly shorter than the one before it.",
+    "prompt_video": "Medium shot as the supplier slides the potato pile closer and one coin is lifted off the stack.",
+    "dao_cu": [
+      "ban_lam_viec",
+      "khoai_lang",
+      "nhan_vat_phu",
+      "dong_xu"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 24,
+    "canh_vi": "Biểu đồ hòa vốn trên bảng: hai đường cắt nhau, bên trái tối, bên phải sáng.",
+    "prompt_anh": "A large blank board shows two simple lines rising and crossing at one point; the area left of the crossing sits in shadow, the area to the right glows faintly, a small marker pin on the crossing.",
+    "prompt_video": "Slow pan from the shadowed left side across the board, pausing on the crossing point as the right side brightens.",
+    "dao_cu": [
+      "bang_trong"
+    ],
+    "tu_the": "khong_co",
+    "camera": "can",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 25,
+    "canh_vi": "Cô Hương AI cầm đồng hồ cạnh túi tiền đang rơi dần từng đồng xu: tiêu bao nhiêu mỗi tháng và còn trụ được bao lâu.",
+    "prompt_anh": "Huong AI, the lecturer, holds a small clock in her hand beside a money bag that steadily leaks coins onto a dwindling stack, a long empty runway path stretching behind.",
+    "prompt_video": "Close shot of coins dropping one by one from the money bag onto the shrinking stack while the clock hand ticks forward.",
+    "dao_cu": [
+      "dong_ho",
+      "tui_tien",
+      "dong_xu"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "can",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 26,
+    "canh_vi": "Lợi nhuận gộp và ròng: chồng xu cao bị nhiều bàn tay chi phí lấy bớt, còn lại một phần nhỏ.",
+    "prompt_anh": "A tall coin stack on a desk is gradually reduced as several hands reach in from the edges to take coins for rent, tools and tax, leaving a small stack in the center beside a folder.",
+    "prompt_video": "High-angle static shot as hands reach in from the edges and remove coins one by one, leaving the stack visibly shorter.",
+    "dao_cu": [
+      "dong_xu",
+      "ban_lam_viec",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 27,
+    "canh_vi": "Cô Hương AI chỉ vào sổ sách báo lãi trong khi két tiền trống rỗng, thùng hàng tồn chất đống.",
+    "prompt_anh": "Huong AI, the lecturer, points to a stack of ledgers topped by a rising arrow, while next to it an empty open money bag lies flat and a tall pile of unsold cardboard boxes towers behind.",
+    "prompt_video": "Push-in starting on the rising arrow above the ledgers, then tilting down to the flat empty money bag beside them.",
+    "dao_cu": [
+      "chong_tai_lieu",
+      "mui_ten_tang",
+      "tui_tien",
+      "thung_hang"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 28,
+    "canh_vi": "Cô Hương AI ngồi bàn làm việc với máy tính xách tay, bảng tính hiện các ô trống và cột tự cập nhật.",
+    "prompt_anh": "Huong AI, the lecturer, sits at a desk working on a laptop whose screen shows only an empty grid and a small bar chart, a desk lamp and a folder of sheets beside it.",
+    "prompt_video": "Over-the-shoulder push-in toward the laptop as Huong AI types and the small bar chart on the screen grows taller.",
+    "dao_cu": [
+      "may_tinh",
+      "ban_lam_viec",
+      "den_ban",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "cam_vat",
+    "camera": "can",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 29,
+    "canh_vi": "Ba kịch bản tài chính: ba biểu đồ cột cao, vừa, thấp trên bảng; nhóm làm việc trên điện thoại và laptop.",
+    "prompt_anh": "Huong AI, the lecturer, gestures at a blank board with three bar charts side by side — tall, medium and short — while a small team works together on a laptop and smartphones below.",
+    "prompt_video": "Wide shot slowly pans across the three charts, then down to the team at work.",
+    "dao_cu": [
+      "bang_trong",
+      "bieu_do_cot",
+      "nhom_nguoi",
+      "may_tinh"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 30,
+    "canh_vi": "Cái cân đạo đức: bên này là hồ sơ minh bạch, bên kia là túi tiền phồng to rỗng ruột.",
+    "prompt_anh": "A balance scale on a dark desk: on one pan a thin honest folder outweighs, on the other an inflated hollow money bag floats upward; a cracked rubber stamp lies beside it.",
+    "prompt_video": "Slow push-in on the balance scale as the honest folder sinks down and the hollow money bag drifts upward.",
+    "dao_cu": [
+      "can_can",
+      "chong_tai_lieu",
+      "tui_tien",
+      "con_dau"
+    ],
+    "tu_the": "khong_co",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 31,
+    "canh_vi": "Chị Hoa xem dashboard dòng tiền trên điện thoại cạnh những gói khoai lang sấy đếm theo tuần.",
+    "prompt_anh": "Hoa, a young Mekong-delta woman entrepreneur, stands at her market stall holding a smartphone showing a simple bar chart, rows of packaged sweet potato snacks stacked in boxes beside her and a clock on the wall.",
+    "prompt_video": "Pull-back starting close on the chart on Hoa's phone screen, widening to reveal her standing at the stall among the boxes.",
+    "dao_cu": [
+      "dien_thoai",
+      "khoai_lang",
+      "quay_hang",
+      "dong_ho"
+    ],
+    "tu_the": "khong_co",
+    "camera": "trung",
+    "anh_sang": "den_ban",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 32,
+    "canh_vi": "Lò nung gốm đỏ Vĩnh Long: túi tiền cạnh lò vơi dần theo đồng hồ, bình gốm mới ra lò.",
+    "prompt_anh": "A red pottery vase cools beside a glowing kiln in a small craft workshop; next to it a money bag slowly empties into the kiln's fire box while a wall clock ticks.",
+    "prompt_video": "Slow dolly from the clock across the money bag to the vase by the kiln.",
+    "dao_cu": [
+      "lo_nung",
+      "binh_gom",
+      "tui_tien",
+      "dong_ho"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 33,
+    "canh_vi": "Tổng kết chương: cô Hương AI đứng cạnh ba vật biểu tượng — cái cân, đồng hồ và hồ sơ.",
+    "prompt_anh": "Huong AI, the lecturer, opens her arms beside three pedestals holding a balance scale, a clock and a neat folder, arranged in a gentle arc around her.",
+    "prompt_video": "Slow arc around Huong AI with her arms open, passing the scale, the clock and the folder on their pedestals in turn.",
+    "dao_cu": [
+      "can_can",
+      "dong_ho",
+      "chong_tai_lieu"
+    ],
+    "tu_the": "dang_tay",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 34,
+    "canh_vi": "Cô Hương AI chống cằm trước bảng trống với một dấu hỏi lớn, mời sinh viên dừng video tự trả lời.",
+    "prompt_anh": "Huong AI, the lecturer, stands with her hand to her chin before a blank board showing one large question-mark shape and a row of empty answer boxes, an idea bulb glowing above.",
+    "prompt_video": "Slow push-in toward the board with the question-mark shape as the bulb above Huong AI flickers on and glows steadily.",
+    "dao_cu": [
+      "bang_trong",
+      "bong_den"
+    ],
+    "tu_the": "suy_nghi",
+    "camera": "trung",
+    "anh_sang": "rem_sao",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 35,
+    "canh_vi": "Chị Hoa đứng trước cơ sở chế biến nhỏ dự định mở, cầm hồ sơ, nhà đầu tư thiên thần đứng chờ ở cửa.",
+    "prompt_anh": "Hoa, a young Mekong-delta woman entrepreneur, holds a folder in front of a small workshop building she hopes to open, a pile of sweet potatoes at her feet and an investor figure waiting at the door.",
+    "prompt_video": "Wide shot slowly pushes in from behind Hoa toward the small workshop door where the investor figure stands waiting.",
+    "dao_cu": [
+      "nha_xuong",
+      "khoai_lang",
+      "chong_tai_lieu",
+      "nhan_vat_phu"
+    ],
+    "tu_the": "khong_co",
+    "camera": "rong",
+    "anh_sang": "den_ban",
+    "mau_nhan": "do"
+  },
+  {
+    "slide": 36,
+    "canh_vi": "Cô Hương AI chỉ vào bảng tổng kết với bốn biểu tượng: bậc thang vốn, hồ sơ, đồng hồ, cái cân.",
+    "prompt_anh": "Huong AI, the lecturer, points at a blank board showing four simple icons — a staircase, a folder, a clock and a balance scale — the last icon gently glowing.",
+    "prompt_video": "Camera tracks across the four icons on the board and settles on the glowing balance scale as Huong AI points.",
+    "dao_cu": [
+      "bang_trong",
+      "bac_thang",
+      "dong_ho",
+      "can_can"
+    ],
+    "tu_the": "chi_bang",
+    "camera": "trung",
+    "anh_sang": "den_roi",
+    "mau_nhan": "ho_phach"
+  },
+  {
+    "slide": 37,
+    "canh_vi": "Chồng sách giáo trình và tài liệu tham khảo trên bàn dưới đèn bàn, cạnh chậu cây nhỏ.",
+    "prompt_anh": "A neat stack of textbooks and reference folders on a wooden desk under a desk lamp, a small potted plant at one side and a closed laptop at the other.",
+    "prompt_video": "Slow overhead descent toward the stack of textbooks and folders resting in the warm glow beside the small plant.",
+    "dao_cu": [
+      "chong_tai_lieu",
+      "ban_lam_viec",
+      "den_ban",
+      "chau_cay"
+    ],
+    "tu_the": "khong_co",
+    "camera": "tu_tren",
+    "anh_sang": "den_ban",
+    "mau_nhan": "xanh_ngoc"
+  },
+  {
+    "slide": 38,
+    "canh_vi": "Cô Hương AI vẫy tay chào tạm biệt trên sân khấu, hẹn gặp lại ở Chương bốn.",
+    "prompt_anh": "Huong AI, the lecturer, waves goodbye from the center of a dark stage, a single coin stack and a small potted plant at her feet, the curtain edges framing her.",
+    "prompt_video": "Slow pull-back from medium to wide as Huong AI waves goodbye and the stage around her gradually fades into darkness.",
+    "dao_cu": [
+      "dong_xu",
+      "chau_cay"
+    ],
+    "tu_the": "vay_chao",
+    "camera": "rong",
+    "anh_sang": "den_roi",
+    "mau_nhan": "ho_phach"
+  }
+]

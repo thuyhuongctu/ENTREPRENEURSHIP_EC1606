@@ -1,0 +1,198 @@
+{
+  "chuong": 3,
+  "ten_chuong": "Một số kỹ thuật huy động vốn",
+  "muc_tieu": [
+    "Phân biệt được nguồn vốn theo từng giai đoạn",
+    "Xây dựng được Pitch Deck gọi vốn thuyết phục",
+    "Tính được điểm hòa vốn, burn rate và runway",
+    "Phân biệt được lợi nhuận và dòng tiền"
+  ],
+  "slide_them": {
+    "bia": {
+      "loi_doc": "Cô xin chào các em. Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em quay lại với học phần Khởi sự doanh nghiệp. Ở Chương hai, chúng ta đã học cách đánh giá một cơ hội kinh doanh: phân biệt ý tưởng với cơ hội thực sự, xác định khách hàng mục tiêu qua Customer Persona, rồi đánh giá tính khả thi trước khi triển khai. Hôm nay, chúng ta bước sang Chương ba — Một số kỹ thuật huy động vốn."
+    },
+    "muc_tieu": {
+      "loi_doc": "Sau chương này, cô mong các em làm được bốn việc. Một, phân biệt được nguồn vốn phù hợp với từng giai đoạn của dự án. Hai, xây dựng được một Pitch Deck gọi vốn thuyết phục. Ba, tính được điểm hòa vốn, burn rate và runway. Bốn, phân biệt được lợi nhuận và dòng tiền."
+    },
+    "noi_dung": {
+      "loi_doc": "Chương ba gồm hai chủ đề. Chủ đề ba chấm một: huy động vốn đầu tư và các kỹ thuật huy động vốn — nguồn vốn theo giai đoạn, pitching, Pitch Deck, vốn cổ phần và định giá. Chủ đề ba chấm hai: các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm. Cuối chương có câu hỏi ôn tập và một tình huống vận dụng."
+    },
+    "dang_o_dau": {
+      "the": [
+        {
+          "tieu_de": "✓ Đã học — Chủ đề 3.1",
+          "noi_dung": "Nguồn vốn theo giai đoạn; pitching và Pitch Deck; vốn cổ phần, định giá, crowdfunding; chọn đúng nhà đầu tư."
+        },
+        {
+          "tieu_de": "▶ Đang học — Chủ đề 3.2",
+          "noi_dung": "Định phí, biến phí, điểm hòa vốn; burn rate, runway; lợi nhuận và dòng tiền; minh bạch tài chính."
+        },
+        {
+          "tieu_de": "○ Sắp học — Ôn tập và tình huống",
+          "noi_dung": "Năm câu hỏi ôn tập, tình huống minh họa chị Hoa và tổng kết chương."
+        },
+        {
+          "tieu_de": "Mạch nối với chương trước, sau",
+          "noi_dung": "Chương 2 chọn được cơ hội; Chương 3 tìm vốn và đọc số liệu; Chương 4 chọn loại hình doanh nghiệp."
+        }
+      ],
+      "loi_doc": "Chúng ta đang ở đâu? Chủ đề ba chấm một đã giúp các em chọn nguồn vốn theo giai đoạn — tự có, thiên thần kinh doanh, quỹ mạo hiểm hay crowdfunding — và chuẩn bị một Pitch Deck thuyết phục. Bây giờ là chủ đề ba chấm hai: những chỉ số tài chính nhà đầu tư theo dõi. Cuối video là ôn tập và một tình huống vận dụng."
+    },
+    "cau_hoi_on_tap": {
+      "cau": [
+        "Vì sao nên chọn nguồn vốn theo giai đoạn và quy mô của dự án?",
+        "Vay nợ và bán vốn cổ phần khác nhau thế nào về nghĩa vụ và quyền sở hữu?",
+        "Một Pitch Deck tốt cần trả lời những câu hỏi nào của nhà đầu tư?",
+        "Giảm biến phí mỗi sản phẩm tác động thế nào đến điểm hòa vốn?",
+        "Vì sao một dự án có lãi trên sổ sách vẫn có thể hết tiền mặt?"
+      ],
+      "loi_doc": "Năm câu hỏi ôn tập trên màn hình, các em dừng video và tự trả lời trước khi xem tiếp. Một, vì sao chọn vốn theo giai đoạn. Hai, vay nợ khác vốn cổ phần ở đâu. Ba, Pitch Deck cần trả lời gì. Bốn, giảm biến phí thì điểm hòa vốn thay đổi ra sao. Năm, vì sao có lãi vẫn hết tiền mặt."
+    },
+    "tinh_huong": {
+      "the": [
+        {
+          "tieu_de": "Bối cảnh",
+          "noi_dung": "Ví dụ minh họa: chị Hoa chế biến khoai lang ở Bình Tân, máy sấy đã hòa vốn, nay muốn mở một cơ sở chế biến nhỏ."
+        },
+        {
+          "tieu_de": "Vấn đề",
+          "noi_dung": "Cần vốn lớn hơn nhiều; người thân không đủ cho mượn; ngân hàng đòi chứng minh khả năng trả nợ; nhà đầu tư thiên thần muốn xem số liệu."
+        },
+        {
+          "tieu_de": "Câu hỏi 1",
+          "noi_dung": "Chị nên cân nhắc nguồn vốn nào? Mỗi lựa chọn đánh đổi điều gì về nghĩa vụ trả nợ và quyền sở hữu?"
+        },
+        {
+          "tieu_de": "Câu hỏi 2",
+          "noi_dung": "Trang tài chính trong Pitch Deck của chị cần những chỉ số nào để nhà đầu tư tin tưởng?"
+        }
+      ],
+      "loi_doc": "Một tình huống vận dụng — đây là ví dụ minh họa dựng ra để giảng dạy, không phải số liệu thật. Chị Hoa chế biến khoai lang ở Bình Tân, máy sấy đã hòa vốn, nay muốn mở một cơ sở chế biến nhỏ. Người thân không đủ cho mượn, ngân hàng đòi chứng minh khả năng trả nợ, một nhà đầu tư thiên thần quan tâm nhưng muốn xem số liệu. Câu hỏi một: chị nên chọn nguồn vốn nào, đánh đổi gì? Câu hỏi hai: trang tài chính trong Pitch Deck cần những chỉ số nào?"
+    },
+    "tong_ket": {
+      "the": [
+        {
+          "tieu_de": "Vốn theo đúng giai đoạn",
+          "noi_dung": "Tự có, bootstrapping, thiên thần kinh doanh, quỹ mạo hiểm, crowdfunding — chọn theo giai đoạn và quy mô; hiểu đánh đổi giữa vay nợ và cổ phần."
+        },
+        {
+          "tieu_de": "Pitching có căn cứ",
+          "noi_dung": "Vấn đề, giải pháp, thị trường, mô hình kiếm tiền, đội ngũ; trang tài chính gọn, số liệu chịu được thẩm định."
+        },
+        {
+          "tieu_de": "Đọc đúng chỉ số",
+          "noi_dung": "Điểm hòa vốn, burn rate, runway, lợi nhuận và dòng tiền thật; minh bạch tài chính giữ niềm tin nhà đầu tư."
+        },
+        {
+          "tieu_de": "Việc cần làm",
+          "noi_dung": "Làm bài tập tự đánh giá cuối chủ đề và kết thúc chương; trả lời bảy câu hỏi ôn tập tự luận."
+        }
+      ],
+      "loi_doc": "Tổng kết Chương ba. Một, chọn vốn theo giai đoạn và quy mô, hiểu đánh đổi giữa vay nợ và cổ phần. Hai, Pitch Deck kể câu chuyện đầy đủ, số liệu có căn cứ. Ba, theo dõi điểm hòa vốn, runway, dòng tiền thật và luôn minh bạch. Việc cần làm: bài tập tự đánh giá kết thúc chương và các câu hỏi ôn tập tự luận."
+    },
+    "tai_lieu": {
+      "loi_doc": "Tài liệu học tập các em xem trên màn hình. Giáo trình chính là Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga; các em đọc thêm các tài liệu tham khảo được liệt kê."
+    },
+    "ket": {
+      "loi_doc": "Chương ba đến đây là hết. Cảm ơn các em đã theo dõi. Hẹn gặp lại các em ở Chương bốn — Lựa chọn mô hình kinh doanh."
+    }
+  },
+  "on_tap_tu_luan": [
+    {
+      "muc": "3.1 — Huy động vốn đầu tư và các kỹ thuật huy động vốn",
+      "cau_hoi": "Giả định nhóm em mới có sản phẩm mẫu và vài khách hàng dùng thử. Một người quen giàu kinh nghiệm đề nghị rót vốn, đổi lại nhận một nửa quyền sở hữu dự án. Em có nên nhận lời ngay không? Hãy lập luận dựa trên nguồn vốn theo giai đoạn, vốn cổ phần và định giá.",
+      "tu_kiem": [
+        "Xác định đúng giai đoạn của dự án và các nguồn vốn phù hợp với giai đoạn đó.",
+        "Chỉ ra hệ quả của việc nhượng quyền sở hữu quá sớm: pha loãng, mất quyền quyết định, định giá có thể quá thấp.",
+        "Đề xuất phương án thay thế hoặc điều kiện cần đàm phán thay vì chỉ trả lời có hay không."
+      ],
+      "dap_an": [
+        "Dự án đang ở giai đoạn sớm: có sản phẩm mẫu, chưa chứng minh được mô hình kiếm tiền. Ở giai đoạn này, vốn tự có, bootstrapping hoặc một thiên thần kinh doanh rót vốn nhỏ là phù hợp. Người quen giàu kinh nghiệm có thể đóng vai trò thiên thần kinh doanh, và giá trị của họ còn ở kinh nghiệm, mạng lưới — đây là điểm cộng.",
+        "Tuy nhiên, nhượng một nửa quyền sở hữu khi dự án chưa chứng minh được gì là rủi ro: người sáng lập bị pha loãng mạnh, có thể mất quyền quyết định các vấn đề lớn, và các vòng gọi vốn sau sẽ còn rất ít cổ phần để chia. Tỷ lệ này cũng ngầm cho thấy dự án đang bị định giá thấp so với số tiền nhận được.",
+        "Câu trả lời tốt không dừng ở 'có' hay 'không' mà đề xuất cách làm: xác định rõ nhu cầu vốn cụ thể dùng vào việc gì, thử bootstrapping hoặc gọi số vốn nhỏ hơn đổi lấy tỷ lệ thấp hơn, đàm phán định giá có căn cứ số liệu, và kiểm tra người quen có phải nhà đầu tư phù hợp — hiểu lĩnh vực, chia sẻ tầm nhìn dài hạn — hay không."
+      ]
+    },
+    {
+      "muc": "3.1 — Huy động vốn đầu tư và các kỹ thuật huy động vốn",
+      "cau_hoi": "Em có ba phút pitching trước một nhà đầu tư cho dự án kinh doanh giả định của mình. Hãy phác thảo trình tự các slide trong Pitch Deck, nêu mỗi slide cần trả lời câu hỏi gì, và giải thích vì sao trang tài chính nên ngắn gọn.",
+      "tu_kiem": [
+        "Bao quát đủ năm câu hỏi: vấn đề, giải pháp, thị trường, mô hình kiếm tiền, đội ngũ.",
+        "Trang tài chính nêu được dự báo doanh thu, nhu cầu vốn và mục đích dùng vốn, lộ trình sinh lời.",
+        "Giải thích được vì sao số liệu phải gọn và có căn cứ, liên hệ với bước thẩm định."
+      ],
+      "dap_an": [
+        "Trình tự hợp lý: vấn đề khách hàng đang gặp; giải pháp của dự án; quy mô thị trường; mô hình kiếm tiền; đội ngũ thực hiện; trang tài chính; lời kêu gọi vốn. Thiếu một mảnh, câu chuyện sẽ rời rạc và khó thuyết phục dù trình bày hay.",
+        "Trang tài chính tập trung vào ba thứ: dự báo doanh thu vài năm tới, gọi bao nhiêu vốn và dùng vào việc gì, khi nào có lãi. Một biểu đồ doanh thu theo giai đoạn dễ đọc hơn một bảng số dày đặc, vì nhà đầu tư có rất ít thời gian cho mỗi hồ sơ.",
+        "Số liệu gọn nhưng phải có căn cứ, vì ở bước thẩm định nhà đầu tư sẽ kiểm tra lại; mọi con số phóng đại đều sẽ lộ ra và làm mất niềm tin."
+      ]
+    },
+    {
+      "muc": "3.1 — Huy động vốn đầu tư và các kỹ thuật huy động vốn",
+      "cau_hoi": "Hai nhà đầu tư cùng muốn rót vốn vào dự án của em: người thứ nhất định giá dự án cao hơn nhưng chỉ quan tâm lợi nhuận ngắn hạn; người thứ hai định giá thấp hơn nhưng am hiểu ngành và có mạng lưới khách hàng. Em chọn ai và đàm phán thế nào?",
+      "tu_kiem": [
+        "Nêu được tiêu chí nhà đầu tư phù hợp: hiểu lĩnh vực, có mạng lưới, chia sẻ tầm nhìn dài hạn.",
+        "Cân nhắc định giá và quyền lợi các bên, không chỉ nhìn số tiền.",
+        "Nêu được nguyên tắc chuẩn bị đàm phán: số liệu có căn cứ, giới hạn chấp nhận được, trung thực."
+      ],
+      "dap_an": [
+        "Không có đáp án duy nhất, nhưng lập luận cần cho thấy số tiền và mức định giá không phải tiêu chí duy nhất. Sau khi nhận vốn, hai bên làm việc cùng nhau nhiều năm; nhà đầu tư chỉ nhìn lợi nhuận ngắn hạn có thể gây áp lực hoặc can thiệp sai cách, đôi khi còn rủi ro hơn thiếu vốn. Người thứ hai mang thêm kinh nghiệm và mạng lưới — giá trị không nằm trong con số định giá.",
+        "Khi đàm phán, người khởi nghiệp cần chuẩn bị số liệu có căn cứ để bảo vệ mức định giá, xác định trước giới hạn tỷ lệ sở hữu và quyền quyết định mình chấp nhận được, và trao đổi rõ các điều khoản như ghế trong hội đồng quản trị hay ưu tiên khi thoái vốn. Trung thực về tình trạng thật của dự án là điều kiện để quan hệ lâu dài."
+      ]
+    },
+    {
+      "muc": "3.2 — Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+      "cau_hoi": "Một bạn trong nhóm cho rằng: \"Chỉ cần doanh thu tăng đều là đủ, không cần tách định phí và biến phí cho mất thời gian.\" Em hãy phản biện nhận định này bằng khái niệm điểm hòa vốn, kèm một ví dụ số liệu giả định do em tự đặt.",
+      "tu_kiem": [
+        "Định nghĩa đúng định phí, biến phí và công thức điểm hòa vốn.",
+        "Ví dụ giả định tính đúng và được ghi rõ là giả định.",
+        "Chỉ ra quyết định cụ thể mà điểm hòa vốn giúp đưa ra, ví dụ đàm phán giảm biến phí."
+      ],
+      "dap_an": [
+        "Doanh thu tăng chưa chắc đã có lãi. Định phí phải trả dù bán được hay không; biến phí tăng theo từng sản phẩm. Điểm hòa vốn theo số lượng bằng định phí chia cho biên lãi gộp mỗi sản phẩm (giá bán trừ biến phí mỗi sản phẩm). Không tách hai loại chi phí thì không tính được điểm hòa vốn, và mọi phép tính sau đều sai.",
+        "Ví dụ giả định dùng trong bài giảng: định phí 10 triệu đồng mỗi tháng, giá bán 100 nghìn đồng, biến phí 50 nghìn đồng mỗi sản phẩm, thì điểm hòa vốn là 200 sản phẩm mỗi tháng. Nếu biến phí giảm còn 40 nghìn đồng, điểm hòa vốn giảm còn khoảng 167 sản phẩm. Sinh viên có thể tự đặt số khác, miễn tính đúng và ghi rõ là giả định.",
+        "Như vậy, tách định phí và biến phí giúp nhóm biết cần bán bao nhiêu để không lỗ, đánh giá tác động của việc đàm phán giá nguyên liệu hay đổi giá bán, và trình bày mức độ rủi ro rõ ràng với nhà đầu tư."
+      ]
+    },
+    {
+      "muc": "3.2 — Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+      "cau_hoi": "Nhóm khởi nghiệp của em vừa gọi được một khoản vốn và đang chi nhiều hơn thu. Em sẽ dùng burn rate và runway như thế nào để quyết định thời điểm gọi vốn vòng sau và điều chỉnh chi tiêu?",
+      "tu_kiem": [
+        "Định nghĩa đúng burn rate, runway và cách tính runway.",
+        "Nêu được thời điểm nên bắt đầu gọi vốn vòng sau và lý do về vị thế đàm phán.",
+        "Đề xuất cách theo dõi định kỳ (bảng tính, dashboard, ba kịch bản) và hành động điều chỉnh."
+      ],
+      "dap_an": [
+        "Burn rate là số tiền mặt dự án tiêu ra mỗi tháng (khi chi vượt thu, có thể tính phần chi vượt doanh thu). Runway bằng tiền mặt hiện có chia cho burn rate, cho biết còn bao nhiêu tháng trước khi hết tiền nếu không có thêm doanh thu hay vốn mới.",
+        "Biết runway, nhóm nên bắt đầu gọi vốn vòng sau khi runway còn khoảng ba đến sáu tháng, thay vì đợi gần cạn tiền — lúc đó vị thế đàm phán rất yếu. Song song, nhóm đặt mục tiêu tăng doanh thu hoặc giảm chi để kéo dài runway và tiến tới hòa vốn vận hành.",
+        "Các chỉ số này cần cập nhật định kỳ trên bảng tính hoặc dashboard quản trị dòng tiền, có kịch bản lạc quan, trung bình và xấu nhất. 'Đốt tiền' giai đoạn đầu không xấu nếu có kế hoạch rõ ràng để đạt điểm hòa vốn trong một khung thời gian xác định."
+      ]
+    },
+    {
+      "muc": "3.2 — Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+      "cau_hoi": "Báo cáo quý của một startup giả định cho thấy có lãi, nhưng tài khoản tiền mặt sắp cạn và chưa trả được nhà cung cấp. Hãy giải thích các nguyên nhân có thể, và em sẽ báo cáo tình hình này với nhà đầu tư như thế nào?",
+      "tu_kiem": [
+        "Phân biệt lợi nhuận (con số kế toán) với dòng tiền (tiền mặt thật vào ra).",
+        "Nêu được nguyên nhân cụ thể: khách hàng còn nợ, tồn kho lớn, hoặc lợi nhuận gộp dương nhưng chi phí vận hành cao.",
+        "Thể hiện nguyên tắc minh bạch: báo cáo trung thực kèm kế hoạch xử lý."
+      ],
+      "dap_an": [
+        "Lợi nhuận là con số kế toán trên sổ sách; dòng tiền là tiền mặt thật vào và ra theo thời gian. Doanh nghiệp có thể ghi nhận lãi nhưng hết tiền nếu khách hàng còn nợ chưa trả, hàng tồn kho nhiều chưa bán được, hoặc phải chi trước những khoản lớn. Cũng cần xem lợi nhuận gộp và lợi nhuận ròng: sản phẩm cốt lõi có lãi nhưng chi phí vận hành quá lớn vẫn làm cạn tiền.",
+        "Với nhà đầu tư, cách đúng là báo cáo trung thực, không che giấu hay làm đẹp số liệu, kèm kế hoạch xử lý: đẩy nhanh thu nợ, giảm tồn kho, điều chỉnh chi phí, lập kế hoạch dòng tiền theo tháng. Sự thật sớm muộn cũng lộ ra qua dòng tiền thực tế; minh bạch là cách giữ niềm tin để còn gọi được vốn vòng sau."
+      ]
+    },
+    {
+      "muc": "Tích hợp — Chương 3 và bài thu hoạch",
+      "cau_hoi": "Với kế hoạch kinh doanh giả định em đang xây dựng cho bài thu hoạch, hãy đề xuất phương án huy động vốn cho giai đoạn đầu và chọn ba chỉ số tài chính em sẽ trình bày cho nhà đầu tư. Lập luận vì sao phương án và các chỉ số đó phù hợp với dự án của em.",
+      "tu_kiem": [
+        "Mô tả ngắn dự án, giai đoạn hiện tại và nhu cầu vốn có mục đích sử dụng rõ ràng.",
+        "Chọn nguồn vốn có lập luận theo giai đoạn, quy mô, đặc điểm dự án và đánh đổi vay nợ hay cổ phần.",
+        "Chọn ba chỉ số phù hợp, nêu cách tính hoặc ý nghĩa, số liệu ghi rõ là giả định; có cam kết minh bạch."
+      ],
+      "dap_an": [
+        "Bài làm tốt bắt đầu từ dự án cụ thể của sinh viên: đang ở giai đoạn nào, cần bao nhiêu vốn và dùng vào việc gì. Phương án vốn phải tương xứng với giai đoạn và quy mô — dự án nhỏ, rủi ro thấp có thể dùng vốn tự có, vay người thân hoặc crowdfunding nếu có câu chuyện cộng đồng; dự án cần mở rộng nhanh mới tính tới thiên thần kinh doanh hay quỹ đầu tư mạo hiểm. Cần nêu rõ đánh đổi giữa nghĩa vụ trả nợ và chia sẻ quyền sở hữu.",
+        "Ba chỉ số thường hợp lý là điểm hòa vốn, burn rate và runway, và dự báo dòng tiền; sinh viên có thể chọn khác nếu lập luận được. Mỗi chỉ số cần cách tính hoặc ý nghĩa, số liệu giả định ghi rõ là giả định, và nói chỉ số đó giúp nhà đầu tư trả lời câu hỏi gì: dự án kiếm tiền thế nào, khi nào có lãi, còn bao lâu trước khi hết tiền.",
+        "Điểm cộng khi bài làm nối với các chương trước (cơ hội và khách hàng mục tiêu ở Chương 2) và thể hiện cam kết minh bạch tài chính như một phần đạo đức kinh doanh."
+      ]
+    }
+  ]
+}
