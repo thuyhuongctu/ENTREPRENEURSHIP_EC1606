@@ -1,0 +1,298 @@
+{
+  "sections": [
+    {
+      "heading": "1. THÔNG TIN CHUNG HỌC PHẦN",
+      "paragraphs": [
+        "Học phần Khởi sự doanh nghiệp (tên tiếng Anh: Start-Up), mã học phần EC1606, có khối lượng 02 tín chỉ, được tổ chức giảng dạy hoàn toàn bằng hình thức lý thuyết (100% lý thuyết, không bố trí giờ thực hành hay đồ án môn học) tại Trường Đại học Sư phạm Kỹ thuật Vĩnh Long (VLUTE). Học phần do giảng viên Đỗ Thùy Hương và Nguyễn Hùng Cường phụ trách chính, cùng tham gia giảng dạy có các giảng viên Nguyễn Thị Hồng Nga và Nguyễn Duy Tân. Học phần không yêu cầu học phần tiên quyết, học phần học trước hay học phần song hành, nên có thể được bố trí giảng dạy linh hoạt ngay từ những học kỳ đầu của chương trình đào tạo, phù hợp với mục tiêu trang bị sớm cho sinh viên những kiến thức và kỹ năng nền tảng về khởi nghiệp kinh doanh, trước khi các em tiếp cận các học phần chuyên ngành sâu hơn ở các học kỳ tiếp theo.",
+        "Đề cương học liệu số (HLS) này được biên soạn trên cơ sở đề cương học phần chính thức đã được phê duyệt theo Quyết định số 55/QĐ-ĐHSPKTVL-ĐT_ĐBCL, nhằm cụ thể hoá yêu cầu của Phụ lục 1 về xây dựng học liệu số phục vụ giảng dạy trực tuyến. Khác với đề cương học phần gốc — một biểu mẫu hành chính (BM-ĐT-04-00) trình bày súc tích các thông tin bắt buộc theo khung chung của Nhà trường — đề cương HLS diễn giải sâu hơn từng nội dung, gắn trực tiếp với cấu trúc học liệu số cụ thể (video bài giảng theo chủ đề, slide trình chiếu, văn bản tự nghiên cứu, bài tập tự đánh giá, ngân hàng câu hỏi) để người học có thể tự học, tự kiểm tra và tự đánh giá quá trình học tập của mình mà không nhất thiết phải đến lớp học truyền thống theo đúng khung giờ cố định.",
+        "Đối tượng người học của học phần là sinh viên các ngành kỹ thuật và kinh tế kỹ thuật tại VLUTE, phần lớn chưa có kinh nghiệm thực tiễn về kinh doanh. Vì vậy, nội dung học phần được thiết kế để tiếp cận từ những khái niệm nền tảng nhất về khởi nghiệp, đồng thời chú trọng nhóm đối tượng đặc thù là phụ nữ và người dân tộc thiểu số — những nhóm có thể gặp nhiều rào cản hơn khi khởi sự kinh doanh trong bối cảnh chuyển đổi số hiện nay. Việc tổ chức giảng dạy trực tuyến qua học liệu số cũng giúp mở rộng khả năng tiếp cận học phần cho người học ở các khu vực xa trung tâm, có điều kiện di chuyển hoặc thời gian học tập hạn chế, miễn là có kết nối Internet để truy cập hệ thống học liệu."
+      ],
+      "table": null
+    },
+    {
+      "heading": "2. MỤC TIÊU HỌC PHẦN",
+      "paragraphs": [
+        "Theo đề cương học phần chính thức, mục tiêu học phần được xác định như sau: \"Sau khi học xong học phần, sinh viên nắm được những kiến thức cơ bản về khởi sự kinh doanh, đặc biệt tìm hiểu những hoạt động khởi sự cho đối tượng về phụ nữ và người dân tộc thiểu số trong bối cảnh chuyển đổi số; xây dựng được kế hoạch kinh doanh từ ý tưởng ban đầu; có được kỹ năng kêu gọi vốn cho dự án kinh doanh từ các nhà đầu tư. Từ đó, người học hình thành kỹ năng tư duy, ra quyết định cho các hoạt động kinh doanh của mình.\"",
+        "Có thể tách mục tiêu nguyên văn trên thành bốn thành phần cụ thể, làm cơ sở để tổ chức học liệu số theo từng chương. Thành phần thứ nhất là trang bị hệ thống kiến thức nền về khởi nghiệp: khái niệm khởi nghiệp và đổi mới sáng tạo, tư duy Lean Start-up, tiêu chí nhận diện một ý tưởng kinh doanh tốt, cách kiểm chứng ý tưởng trước khi đầu tư nguồn lực, cùng vai trò và cấu trúc của một kế hoạch kinh doanh hoàn chỉnh — nội dung này được triển khai chủ yếu ở Chương 1 và Chương 2 của học phần.",
+        "Thành phần thứ hai, gắn trực tiếp với định hướng xã hội của học phần, là giúp người học hiểu được những đặc điểm, rào cản và cơ hội riêng của hoạt động khởi nghiệp đối với phụ nữ và người dân tộc thiểu số trong bối cảnh chuyển đổi số — một nội dung xuyên suốt được nhấn mạnh riêng ở Chủ đề 1.2 (Chương 1) và Chủ đề 4.2 (Chương 4), đồng thời được lồng ghép vào các chương còn lại thông qua hai tình huống minh họa xuyên suốt học phần.",
+        "Thành phần thứ ba là năng lực xây dựng kế hoạch kinh doanh từ ý tưởng ban đầu, bao gồm việc xác định đối tượng khách hàng, phân tích cơ hội, lựa chọn mô hình và loại hình doanh nghiệp phù hợp, cũng như định vị sản phẩm trên thị trường — nội dung được triển khai dàn trải qua Chương 2, Chương 4 và Chương 5, theo trình tự logic của một quy trình khởi nghiệp thực tế: từ ý tưởng, đến mô hình kinh doanh, đến chiến lược tiếp cận thị trường.",
+        "Thành phần thứ tư là kỹ năng kêu gọi vốn từ nhà đầu tư, được triển khai tập trung ở Chương 3 với hai nội dung cốt lõi: các kỹ thuật và kênh huy động vốn theo từng giai đoạn phát triển của dự án (bao gồm kỹ năng trình bày dự án — pitching — và xây dựng bộ tài liệu gọi vốn — pitch deck), cùng các chỉ số tài chính cốt yếu mà nhà đầu tư thường quan tâm khi thẩm định một dự án khởi nghiệp.",
+        "Xuyên suốt cả bốn thành phần trên, học phần hướng đến mục tiêu bao trùm là hình thành ở người học kỹ năng tư duy phản biện, phân tích dữ liệu và ra quyết định có cơ sở cho các hoạt động kinh doanh của chính mình, thay vì chỉ ghi nhớ lý thuyết. Trong môi trường học liệu số, mục tiêu bao trùm này được cụ thể hoá qua yêu cầu người học không chỉ xem video bài giảng mà còn phải hoàn thành các bài tập tự đánh giá và bài thu hoạch cuối học phần, buộc người học phải vận dụng kiến thức vào tình huống cụ thể thay vì tiếp nhận một chiều."
+      ],
+      "table": null
+    },
+    {
+      "heading": "3. CHUẨN ĐẦU RA HỌC PHẦN",
+      "paragraphs": [
+        "Chuẩn đầu ra (CĐR) học phần được quy định tại mục 7 của đề cương học phần chính thức, gồm ba nhóm: 7.1 Kiến thức (2 CĐR), 7.2 Kỹ năng (2 CĐR) và 7.3 Mức độ tự chủ và trách nhiệm (2 CĐR). Bảng dưới đây trình bày nguyên văn từng CĐR kèm giải thích mức độ đạt được thông qua hệ thống học liệu số của học phần — tức là qua kênh nào trong học liệu số người học rèn luyện và được đánh giá CĐR đó, nhằm giúp người học tự xác định mình cần hoàn thành phần học liệu nào để đạt từng chuẩn đầu ra.",
+        "Có thể nhận thấy nhóm CĐR Kiến thức (7.1.1, 7.1.2) được hình thành chủ yếu qua việc xem và nghe hiểu nội dung video bài giảng kết hợp đọc văn bản tự nghiên cứu, trong khi nhóm CĐR Kỹ năng (7.2.1, 7.2.2) đòi hỏi người học phải tự thực hành — thao tác trên hệ thống, trả lời câu hỏi tương tác, tham gia thảo luận tình huống — không thể đạt được chỉ bằng cách xem video một cách thụ động. Nhóm CĐR Tự chủ và trách nhiệm (7.3.1, 7.3.2) có đặc điểm riêng là khó đo lường trực tiếp qua bài kiểm tra trắc nghiệm, nên được thiết kế để thể hiện qua hành vi học tập thực tế của người học trên hệ thống (mức độ chuyên cần, tính chủ động hoàn thành đúng hạn) và qua nội dung bài thu hoạch cuối học phần, nơi người học phải tự lập luận và chịu trách nhiệm về tính hợp lý, hợp đạo đức của kế hoạch kinh doanh giả định do chính mình xây dựng."
+      ],
+      "table": {
+        "headers": [
+          "Mã CĐR",
+          "Nhóm",
+          "Nội dung chuẩn đầu ra (nguyên văn đề cương)",
+          "Mức độ đạt được qua học liệu số"
+        ],
+        "rows": [
+          [
+            "7.1.1",
+            "Kiến thức",
+            "Phân tích được các vấn đề cơ bản về đổi mới sáng tạo và kinh doanh, những cơ hội và thách thức của việc triển khai các ý tưởng khởi nghiệp trong thực tiễn.",
+            "Đạt qua video bài giảng Chương 1-2 và bài tập tự đánh giá cuối mỗi chủ đề; được kiểm tra lại ở bài kiểm tra trắc nghiệm A2 và bài thu hoạch A3."
+          ],
+          [
+            "7.1.2",
+            "Kiến thức",
+            "Xây dựng được một kế hoạch kinh doanh giả định.",
+            "Đạt qua chuỗi video bài giảng Chương 2, 4, 5 (từ xác định ý tưởng đến mô hình kinh doanh và marketing); thể hiện cụ thể ở bài thu hoạch A3, nơi người học trình bày một kế hoạch kinh doanh giả định hoàn chỉnh."
+          ],
+          [
+            "7.2.1",
+            "Kỹ năng",
+            "Đạt được sự phối hợp hiệu quả giữa các thành viên trong nhóm khởi nghiệp để đạt được tiến độ làm việc đã đề ra.",
+            "Rèn luyện qua các câu hỏi tình huống nhóm trong ngân hàng câu hỏi và gợi ý thảo luận nhóm đi kèm video bài giảng; đánh giá gián tiếp qua bài kiểm tra trắc nghiệm A2 và bài thu hoạch A3 (phần phân công vai trò trong kế hoạch kinh doanh giả định)."
+          ],
+          [
+            "7.2.2",
+            "Kỹ năng",
+            "Hoàn thiện các kỹ năng tư duy, phân tích; ứng dụng thành thạo các công cụ số và phần mềm hỗ trợ trong hoạt động khởi sự doanh nghiệp.",
+            "Rèn luyện trực tiếp qua việc người học tự thao tác trên hệ thống học liệu số (xem video, làm bài tập tương tác, tự theo dõi tiến độ); nội dung công cụ số được nhấn mạnh ở Chủ đề 1.2 và xuyên suốt các chương."
+          ],
+          [
+            "7.3.1",
+            "Tự chủ & trách nhiệm",
+            "Chứng minh được dự án khởi sự doanh nghiệp không vi phạm đạo đức kinh doanh và có hướng đến mục tiêu phát triển bền vững.",
+            "Lồng ghép ở Chủ đề 1.2 (đạo đức kinh doanh, khởi nghiệp xanh/xã hội) và Chủ đề 4.2; được yêu cầu thể hiện rõ trong bài thu hoạch A3."
+          ],
+          [
+            "7.3.2",
+            "Tự chủ & trách nhiệm",
+            "Thể hiện ý thức kỷ luật và tác phong làm việc chuyên nghiệp; thể hiện tinh thần cầu thị, hành động mang tính chủ động sáng tạo.",
+            "Đánh giá qua tiêu chí chuyên cần A1 (xem ≥90% video bài giảng, hoàn thành đầy đủ bài tập tương tác kèm mỗi video) — chính việc tự giác hoàn thành học liệu số đúng tiến độ là minh chứng trực tiếp cho CĐR này."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "4. MA TRẬN CHUẨN ĐẦU RA HỌC PHẦN VỚI CHUẨN ĐẦU RA CHƯƠNG TRÌNH ĐÀO TẠO",
+      "paragraphs": [
+        "Mỗi học phần trong chương trình đào tạo được yêu cầu đóng góp vào việc hình thành một hoặc một số chuẩn đầu ra (CĐR) của chương trình đào tạo (CTĐT). Đối với học phần Khởi sự doanh nghiệp, mức độ đóng góp của từng CĐR học phần (mã 7.1.1 đến 7.3.2) vào các CĐR chương trình đào tạo tương ứng — CĐR2, CĐR5, CĐR6, CĐR7, CĐR11, CĐR12 — được thể hiện ở ma trận dưới đây. Dấu \"X\" đánh dấu CĐR học phần có đóng góp trực tiếp vào CĐR chương trình đào tạo ở cột tương ứng.",
+        "Ma trận cho thấy hai CĐR nhóm Kiến thức (7.1.1, 7.1.2) đóng góp chủ yếu vào các CĐR chương trình đào tạo thuộc nhóm kiến thức và tư duy phân tích (CĐR2, CĐR5); hai CĐR nhóm Kỹ năng (7.2.1, 7.2.2) đóng góp vào các CĐR chương trình đào tạo thuộc nhóm kỹ năng làm việc nhóm và kỹ năng ứng dụng công cụ (CĐR6, CĐR7); còn hai CĐR nhóm Tự chủ và trách nhiệm (7.3.1, 7.3.2) đóng góp vào các CĐR chương trình đào tạo thuộc nhóm đạo đức nghề nghiệp và tác phong làm việc (CĐR11, CĐR12). Sự phân bố này nhất quán với cấu trúc ba nhóm CĐR học phần đã trình bày ở mục 3, và là cơ sở để Bộ môn rà soát định kỳ mức độ phủ CĐR chương trình đào tạo của toàn bộ chương trình khi tổng hợp ma trận của tất cả các học phần."
+      ],
+      "table": {
+        "headers": [
+          "CĐR học phần",
+          "CĐR2",
+          "CĐR5",
+          "CĐR6",
+          "CĐR7",
+          "CĐR11",
+          "CĐR12"
+        ],
+        "rows": [
+          [
+            "7.1.1",
+            "X",
+            "",
+            "",
+            "X",
+            "",
+            ""
+          ],
+          [
+            "7.1.2",
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "7.2.1",
+            "",
+            "",
+            "X",
+            "X",
+            "",
+            ""
+          ],
+          [
+            "7.2.2",
+            "",
+            "X",
+            "X",
+            "",
+            "",
+            ""
+          ],
+          [
+            "7.3.1",
+            "",
+            "",
+            "",
+            "",
+            "X",
+            ""
+          ],
+          [
+            "7.3.2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "X"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "5. TÓM TẮT NỘI DUNG CÁC CHƯƠNG",
+      "paragraphs": [
+        "Nội dung học phần được tổ chức thành 5 chương với tổng số 30 tiết lý thuyết, tương ứng 02 tín chỉ. Mỗi chương đều có đúng hai chủ đề được xây dựng thành video bài giảng riêng, đáp ứng yêu cầu tối thiểu \"ít nhất hai chủ đề có bài giảng trên mỗi chương\" của Phụ lục 1 Quyết định 55/QĐ-ĐHSPKTVL-ĐT_ĐBCL. Tên và nội dung của cả 10 chủ đề là cố định, không thay đổi giữa các học liệu (video, slide, câu hỏi) nhằm bảo đảm tính nhất quán toàn học phần. Bảng dưới đây tóm tắt tên chương, số tiết lý thuyết, hai chủ đề có bài giảng và mục tiêu chương tương ứng.",
+        "Về mặt trình tự, năm chương được sắp xếp theo đúng logic của một quy trình khởi nghiệp thực tế: xuất phát từ việc hiểu khái niệm và hệ sinh thái khởi nghiệp (Chương 1), đến đánh giá ý tưởng và cơ hội kinh doanh cụ thể (Chương 2), tìm nguồn vốn để triển khai (Chương 3), lựa chọn mô hình pháp lý phù hợp để vận hành (Chương 4), và cuối cùng là xây dựng chiến lược marketing để đưa sản phẩm, dịch vụ ra thị trường (Chương 5). Hai chủ đề trong mỗi chương (ví dụ Chủ đề 1.1 và 1.2) được thiết kế để nối tiếp nhau: chủ đề sau mở đầu bằng việc nhắc lại ngắn gọn ý chính của chủ đề trước, và chủ đề đầu của mỗi chương (từ Chương 2 trở đi) mở đầu bằng việc nhắc lại ý chính của chương trước đó, giúp người học không bị đứt mạch kiến thức khi tự học qua các video rời rạc theo thời gian của riêng mình.",
+        "Hai chương có số tiết lớn nhất là Chương 4 và Chương 5 (8 tiết mỗi chương), phản ánh đây là hai nội dung đòi hỏi người học vận dụng tổng hợp kiến thức pháp lý, tài chính và thị trường đã học ở các chương trước vào một quyết định cụ thể (chọn mô hình doanh nghiệp, xây dựng chiến lược marketing). Ngược lại, Chương 3 có số tiết ngắn nhất (2 tiết) do tập trung vào các kỹ thuật và chỉ số mang tính công cụ, được trình bày cô đọng để người học có thể tra cứu và vận dụng nhanh khi cần lập kế hoạch tài chính cho dự án giả định của mình. Hai tình huống minh họa xuyên suốt học phần — chị Hoa (hộ kinh doanh chế biến khoai lang tại Bình Tân, Vĩnh Long) và dự án gốm đỏ Vĩnh Long (hiện đại hóa làng nghề gốm đỏ) — được lồng ghép vào các chương khi phù hợp với nội dung, giúp minh họa kiến thức lý thuyết bằng bối cảnh gần gũi với địa phương; cả hai tình huống đều là ví dụ dựng ra để giảng dạy, không phải số liệu thực tế của doanh nghiệp cụ thể, và điều này được ghi rõ trong học liệu để người học không nhầm lẫn với dữ liệu thật."
+      ],
+      "table": {
+        "headers": [
+          "Chương",
+          "Tên chương",
+          "Số tiết LT",
+          "Hai chủ đề có bài giảng",
+          "Mục tiêu chương"
+        ],
+        "rows": [
+          [
+            "Chương 1",
+            "Tổng quan về khởi sự doanh nghiệp",
+            "6 tiết",
+            "1.1 Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh; 1.2 Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+            "Giúp người học hình thành khung khái niệm nền tảng về khởi nghiệp và đổi mới sáng tạo, nhận diện và kiểm chứng được một ý tưởng kinh doanh, đồng thời hiểu được đặc điểm riêng của khởi nghiệp đối với phụ nữ và người dân tộc thiểu số trong hệ sinh thái khởi nghiệp."
+          ],
+          [
+            "Chương 2",
+            "Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh",
+            "6 tiết",
+            "2.1 Xác định ý tưởng, sản phẩm và đối tượng khách hàng; 2.2 Đánh giá cơ hội phát triển dự án",
+            "Trang bị cho người học năng lực phân biệt ý tưởng với cơ hội kinh doanh thực sự, xác định đúng nỗi đau khách hàng (Customer Pain Points) và hồ sơ khách hàng mục tiêu (Customer Persona), cùng quy trình đánh giá tính khả thi của một cơ hội kinh doanh dựa trên dữ liệu."
+          ],
+          [
+            "Chương 3",
+            "Một số kỹ thuật huy động vốn",
+            "2 tiết",
+            "3.1 Huy động vốn đầu tư và các kỹ thuật huy động vốn; 3.2 Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+            "Giúp người học nắm được các nguồn vốn theo từng giai đoạn phát triển dự án, kỹ năng trình bày gọi vốn (pitching, pitch deck) và các khái niệm tài chính nền tảng (định phí, biến phí, điểm hòa vốn, burn rate, runway, dòng tiền) mà nhà đầu tư thường xem xét."
+          ],
+          [
+            "Chương 4",
+            "Lựa chọn mô hình kinh doanh",
+            "8 tiết",
+            "4.1 Các loại hình doanh nghiệp và mô hình hợp tác, nhượng quyền; 4.2 Lựa chọn loại hình phù hợp cho phụ nữ và người dân tộc thiểu số",
+            "Giúp người học phân biệt bốn loại hình doanh nghiệp theo Luật Doanh nghiệp, hiểu sự khác nhau giữa trách nhiệm hữu hạn và vô hạn, mô hình nhượng quyền (franchising), và biết lựa chọn loại hình phù hợp với năng lực bản thân, đặc biệt đối với người học là phụ nữ hoặc người dân tộc thiểu số."
+          ],
+          [
+            "Chương 5",
+            "Marketing cho doanh nghiệp mới",
+            "8 tiết",
+            "5.1 Thị trường mục tiêu, định vị và đối tượng khách hàng (STP); 5.2 Xây dựng nhãn hiệu và Marketing hỗn hợp",
+            "Trang bị cho người học quy trình phân khúc - lựa chọn thị trường mục tiêu - định vị (STP), cách xây dựng bộ nhận diện thương hiệu, và vận dụng chiến lược marketing hỗn hợp (4P mở rộng thành 7P) cho một doanh nghiệp mới khởi sự."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "6. HỌC LIỆU SỐ SỬ DỤNG",
+      "paragraphs": [
+        "Theo đúng cấu trúc quy định tại Phụ lục 1, học phần sử dụng năm loại học liệu số: video bài giảng theo chủ đề, slide trình chiếu kèm video, văn bản tự nghiên cứu, bài tập tự đánh giá cuối chủ đề và ngân hàng câu hỏi trắc nghiệm. Bảng dưới đây trình bày quy mô và vai trò của từng loại học liệu.",
+        "Về video bài giảng, mỗi chủ đề có đúng một video với độ dài trong khoảng 7-15 phút, bảo đảm vừa đủ thời lượng để truyền tải nội dung một chủ đề không bị dồn nén quá mức, vừa không kéo dài đến mức gây mất tập trung khi tự học qua màn hình — đây là khung thời lượng được quy định tại mục 2.1 cấp độ chương của Phụ lục 1. Video có phụ đề tiếng Việt và tiếng Anh đi kèm; phần phụ đề tiếng Anh là bản dịch tự động từ nội dung tiếng Việt, hỗ trợ người học muốn luyện khả năng đọc hiểu thuật ngữ chuyên ngành bằng tiếng Anh, không thay thế cho nội dung giảng dạy chính bằng tiếng Việt.",
+        "Về slide trình chiếu, mỗi bộ slide tuân thủ giới hạn không quá 10 dòng và không quá 20 từ mỗi dòng theo quy định về trình bày slide, chỉ trình bày từ khoá và cấu trúc ý chính thay vì chép lại toàn văn lời giảng trong video — mục đích là giúp người học dễ theo dõi mạch nội dung khi xem lại, chứ không phải để đọc thay cho việc nghe video.",
+        "Về bài tập tự đánh giá và ngân hàng câu hỏi trắc nghiệm, hai loại học liệu này có vai trò khác nhau nhưng bổ sung cho nhau: bài tập tự đánh giá gắn liền với từng video cụ thể, giúp người học kiểm tra ngay sau khi xem xong một chủ đề; còn ngân hàng câu hỏi trắc nghiệm có quy mô lớn hơn, bao quát toàn bộ nội dung một chương, được dùng làm nguồn đề cho các bài kiểm tra trắc nghiệm chính thức của đánh giá quá trình, đồng thời cho phép người học tự luyện tập không hạn chế số lần ở chế độ ôn tập."
+      ],
+      "table": {
+        "headers": [
+          "Loại học liệu số",
+          "Quy mô / cấu trúc",
+          "Vai trò trong học phần"
+        ],
+        "rows": [
+          [
+            "Video bài giảng theo chủ đề",
+            "10 video (2 video/chương × 5 chương), mỗi video 7-15 phút, có phụ đề tiếng Việt",
+            "Nội dung cốt lõi của từng chủ đề, có lời chào mở đầu, phần nhắc lại kiến thức chương/chủ đề trước, phần triển khai nội dung, phần tóm tắt và mời làm bài tập tự đánh giá."
+          ],
+          [
+            "Slide trình chiếu kèm video",
+            "10 bộ slide tương ứng 10 video, mỗi slide ≤10 dòng, ≤20 từ/dòng",
+            "Trực quan hoá từ khoá và ý chính của video, không viết toàn văn lời giảng; slide cuối mỗi bộ chốt lại nội dung chủ đề."
+          ],
+          [
+            "Văn bản tự nghiên cứu",
+            "Tài liệu tóm tắt theo chương, dẫn chiếu giáo trình chính và tài liệu tham khảo",
+            "Phục vụ người học muốn đọc sâu hơn nội dung đã xem qua video, đối chiếu với giáo trình chính [1] và tài liệu [3] về kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số."
+          ],
+          [
+            "Bài tập tự đánh giá cuối chủ đề",
+            "10 bộ bài tập tương tác, gắn với từng chủ đề",
+            "Giúp người học tự kiểm tra mức độ tiếp thu ngay sau mỗi video, là một trong hai điều kiện cấu thành điểm chuyên cần A1 cùng với tỉ lệ xem video ≥90%."
+          ],
+          [
+            "Ngân hàng câu hỏi trắc nghiệm",
+            "Khoảng 60 câu hỏi/chương, tổng khoảng 300 câu cho 5 chương",
+            "Nguồn đề cho hai bài kiểm tra trắc nghiệm của đánh giá quá trình A2, đồng thời là công cụ để người học tự ôn tập, tự chọn chương muốn luyện tập thêm."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "7. PHƯƠNG PHÁP GIẢNG DẠY VÀ HỌC TẬP TRỰC TUYẾN",
+      "paragraphs": [
+        "Theo đề cương học phần chính thức, học phần được tổ chức theo phương pháp giảng dạy trực tuyến, kết hợp học tập tích hợp, học qua nghiên cứu và học qua học liệu số. Trong đề cương HLS này, ba định hướng đó được cụ thể hoá thành quy trình học tập gồm bốn bước lặp lại cho mỗi chủ đề: xem video bài giảng (có thể dừng, xem lại nhiều lần theo tốc độ tiếp thu của từng người học); đọc văn bản tự nghiên cứu để mở rộng những điểm video chỉ trình bày cô đọng; làm bài tập tự đánh giá cuối chủ đề để tự kiểm tra; và tự quyết định có cần ôn lại chủ đề đó bằng ngân hàng câu hỏi trước khi chuyển sang chủ đề tiếp theo hay không.",
+        "Học tập tích hợp được thể hiện qua việc mỗi video không trình bày chủ đề một cách độc lập, mà luôn mở đầu bằng một câu nhắc lại ý chính của nội dung ngay trước nó (chủ đề trước trong cùng chương, hoặc chương trước nếu là chủ đề đầu của một chương mới), giúp người học nhìn thấy sự liên kết giữa các mảng kiến thức rời rạc theo trình tự thời gian học của riêng mình, thay vì tiếp nhận từng chủ đề như những đơn vị tách biệt.",
+        "Học qua nghiên cứu được thể hiện qua việc học phần không chỉ yêu cầu người học ghi nhớ lý thuyết được trình bày sẵn, mà khuyến khích người học đối chiếu nội dung video với giáo trình chính và tài liệu tham khảo, đặc biệt là tài liệu về kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số — một nội dung mà video chỉ có thể trình bày ở mức tổng quan trong thời lượng 7-15 phút, cần người học tự tìm hiểu sâu hơn nếu quan tâm đến nhóm đối tượng này.",
+        "Học qua học liệu số là phương thức chủ đạo và bao trùm cả hai định hướng trên: toàn bộ nội dung, hoạt động tương tác và công cụ tự đánh giá của học phần được số hoá và lưu trên hệ thống học liệu, cho phép người học tự chủ hoàn toàn về thời gian, địa điểm và tốc độ học tập, miễn là hoàn thành đủ các yêu cầu tối thiểu (tỉ lệ xem video, hoàn thành bài tập tương tác) trước các mốc đánh giá chính thức của học phần. Giảng viên, thay vì giảng trực tiếp theo khung giờ cố định, giữ vai trò thiết kế nội dung học liệu, theo dõi tiến độ tổng thể của lớp và hỗ trợ giải đáp khi người học có thắc mắc, thông qua các kênh trao đổi song song với hệ thống học liệu số."
+      ],
+      "table": null
+    },
+    {
+      "heading": "8. PHƯƠNG PHÁP KIỂM TRA ĐÁNH GIÁ",
+      "paragraphs": [
+        "Theo ma trận đánh giá tại đề cương học phần chính thức, học phần sử dụng ba hình thức đánh giá: A1 - Đánh giá chuyên cần (HS1), A2 - Đánh giá quá trình (HS2) và A3 - Đánh giá kết thúc học phần (HS3). Mục này diễn giải cách áp dụng cụ thể ba hình thức đánh giá đó thông qua hệ thống học liệu số.",
+        "A1 - Đánh giá chuyên cần được xác định qua hai điều kiện đo được trực tiếp trên hệ thống học liệu số: người học phải xem từ 90% thời lượng video bài giảng trở lên, và phải hoàn thành đầy đủ các bài tập, câu hỏi tương tác đi kèm mỗi video. Khác với hình thức điểm danh truyền thống dựa trên sự có mặt tại lớp, A1 trong học phần này đo lường mức độ tương tác thực chất của người học với nội dung số — một người học có thể truy cập hệ thống vào bất kỳ thời điểm nào trong học kỳ, nhưng vẫn phải thể hiện đã thực sự theo dõi và tương tác với từng chủ đề mới được tính đạt điều kiện chuyên cần, thay vì chỉ mở video rồi bỏ đó.",
+        "A2 - Đánh giá quá trình gồm hai bài kiểm tra trắc nghiệm, lấy đề từ ngân hàng câu hỏi được xây dựng theo chương, nhằm đánh giá trực tiếp các CĐR 7.2.1, 7.2.2, 7.3.1 và 7.3.2. Việc bố trí hai bài kiểm tra ở hai thời điểm trong học kỳ (thường sau khi hoàn thành một số chương nhất định) giúp người học có cơ hội tự điều chỉnh tiến độ và phương pháp học nếu kết quả bài kiểm tra đầu chưa đạt như mong đợi, trước khi bước vào bài kiểm tra thứ hai và bài thu hoạch cuối học phần. Vì câu hỏi được rút ngẫu nhiên từ một ngân hàng câu hỏi có quy mô lớn hơn nhiều so với số câu trong một bài kiểm tra, người học không thể học thuộc đáp án theo một đề cố định mà phải nắm vững nội dung ở mức khái niệm.",
+        "A3 - Đánh giá kết thúc học phần là một bài thu hoạch, được thiết kế để đáp ứng đồng thời toàn bộ sáu CĐR học phần — khác với A1 và A2 chỉ tập trung vào một số CĐR nhất định. Trong bài thu hoạch, người học được yêu cầu xây dựng một kế hoạch kinh doanh giả định hoàn chỉnh (đáp ứng CĐR 7.1.2), dựa trên các khái niệm và quy trình đã học ở các chương (đáp ứng CĐR 7.1.1), có thể hiện sự phân công vai trò nếu thực hiện theo nhóm (đáp ứng CĐR 7.2.1), có vận dụng công cụ số trong quá trình thực hiện (đáp ứng CĐR 7.2.2), có lập luận về tính phù hợp đạo đức kinh doanh và định hướng phát triển bền vững của dự án giả định (đáp ứng CĐR 7.3.1), và được trình bày, nộp đúng thời hạn quy định trên hệ thống học liệu số (đáp ứng CĐR 7.3.2).",
+        "Điểm cần lưu ý đối với cả ba hình thức đánh giá là: hệ thống học liệu số chỉ ghi nhận và lưu trữ kết quả học tập (điểm số, câu đã trả lời, tiến độ xem video) trên thiết bị của chính người học, không có máy chủ thu thập hay tổng hợp dữ liệu học tập của sinh viên về một nơi tập trung. Vì vậy, để phục vụ việc tổng hợp điểm A1, A2 chính thức, giảng viên cần có quy trình riêng (ví dụ người học tự xuất hoặc chụp lại kết quả từ hệ thống để nộp) nằm ngoài phạm vi của học liệu số, và quy trình này cần được thông báo rõ cho người học ngay từ đầu học kỳ."
+      ],
+      "table": null
+    },
+    {
+      "heading": "9. TÀI LIỆU HỌC TẬP",
+      "paragraphs": [
+        "Giáo trình chính của học phần là: [1] Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga (2024), Giáo trình khởi sự kinh doanh (tái bản lần thứ hai), NXB Đại học Kinh tế Quốc dân. Đây là tài liệu nền cho phần lớn nội dung kiến thức của cả 5 chương, từ khái niệm khởi nghiệp, quy trình đánh giá cơ hội, kỹ thuật huy động vốn, đến lựa chọn mô hình kinh doanh và marketing cho doanh nghiệp mới. Người học nên xem đây là tài liệu đọc thêm chính khi muốn tìm hiểu sâu hơn một nội dung đã được trình bày cô đọng trong video bài giảng.",
+        "Tài liệu tham khảo gồm hai nguồn: [2] chính là giáo trình nêu trên (được dùng lại làm tài liệu tham khảo cho các nội dung mở rộng ngoài phạm vi trình bày trong video); và [3] Trường Đại học Bách Khoa Hà Nội, Tài liệu tư vấn: Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số (2023). Tài liệu [3] có vai trò đặc biệt quan trọng đối với học phần này vì gắn trực tiếp với định hướng xã hội được nêu ngay trong mục tiêu học phần — tìm hiểu hoạt động khởi sự cho đối tượng phụ nữ và người dân tộc thiểu số trong bối cảnh chuyển đổi số. Nội dung của tài liệu [3] được phản ánh chủ yếu ở Chủ đề 1.2 và Chủ đề 4.2 của học liệu số, và người học thuộc hai nhóm đối tượng này, hoặc quan tâm đến chủ đề bình đẳng trong khởi nghiệp, được khuyến khích đọc trực tiếp tài liệu [3] để có góc nhìn đầy đủ hơn so với phần tóm lược trong video.",
+        "Đối với học liệu số, ba tài liệu trên được dẫn chiếu (không đăng tải lại toàn văn, trừ khi được phép bản quyền) trong phần văn bản tự nghiên cứu của từng chương, kèm chỉ dẫn cụ thể về chương/mục tương ứng trong giáo trình để người học tiện tra cứu, tránh tình trạng người học phải tự tìm trong toàn bộ tài liệu dày để xác định phần nào liên quan đến chủ đề đang học."
+      ],
+      "table": null
+    },
+    {
+      "heading": "10. HƯỚNG DẪN TỰ HỌC SUỐT ĐỜI",
+      "paragraphs": [
+        "Một trong những giá trị đặc biệt của việc số hoá học phần Khởi sự doanh nghiệp là người học có thể quay lại hệ thống học liệu số bất kỳ lúc nào sau khi đã hoàn thành học phần, kể cả nhiều năm sau khi tốt nghiệp, để ôn lại kiến thức khi thực sự bắt tay khởi sự một dự án kinh doanh của riêng mình. Khác với một học phần chỉ giảng dạy trực tiếp tại lớp, nơi nội dung chỉ tồn tại trong trí nhớ và vở ghi của người học, toàn bộ 10 video bài giảng, slide, văn bản tự nghiên cứu và ngân hàng câu hỏi của học phần này vẫn còn nguyên trên hệ thống để tra cứu lại.",
+        "Để việc tự học suốt đời thực sự hiệu quả, người học nên lưu ý một số điểm. Thứ nhất, kiến thức pháp lý được trình bày ở Chương 4 (các loại hình doanh nghiệp, quy định đăng ký kinh doanh) có thể thay đổi theo thời gian do văn bản pháp luật được sửa đổi, nên khi áp dụng thực tế, người học cần đối chiếu lại với quy định pháp luật hiện hành tại thời điểm triển khai dự án, không nên xem nội dung video là căn cứ pháp lý cuối cùng. Thứ hai, các chỉ số tài chính và kỹ thuật huy động vốn ở Chương 3 mang tính nguyên lý chung, nhưng điều kiện thị trường vốn, các kênh gọi vốn cụ thể (ví dụ các nền tảng crowdfunding, quỹ đầu tư) thay đổi liên tục, nên người học cần tự cập nhật thông tin thị trường tại thời điểm cần huy động vốn thật, thay vì chỉ dựa vào ví dụ minh họa trong học liệu.",
+        "Thứ ba, hai tình huống minh họa xuyên suốt học phần — chị Hoa và dự án gốm đỏ Vĩnh Long — là ví dụ dựng ra để giảng dạy, không phải mô hình đã được kiểm chứng thành công trong thực tế; người học muốn khởi sự kinh doanh thật cần tự khảo sát thị trường và đối tượng khách hàng cụ thể của mình, không nên sao chép nguyên trạng cách làm trong tình huống minh họa. Thứ tư, đối với người học là phụ nữ hoặc người dân tộc thiểu số có ý định khởi nghiệp thật, nội dung ở Chủ đề 1.2 và 4.2 chỉ là điểm khởi đầu; nên tìm đến các chương trình hỗ trợ khởi nghiệp thực tế dành cho nhóm đối tượng này (ví dụ các chương trình của hội phụ nữ địa phương, các quỹ hỗ trợ khởi nghiệp vùng dân tộc thiểu số) để được tư vấn và hỗ trợ cụ thể hơn những gì học liệu số của một học phần 02 tín chỉ có thể cung cấp.",
+        "Cuối cùng, tinh thần cốt lõi mà học phần muốn hình thành — kỹ năng tư duy, phân tích và ra quyết định có cơ sở cho hoạt động kinh doanh — là năng lực cần được rèn luyện liên tục qua thực tiễn, không dừng lại khi kết thúc học phần. Người học được khuyến khích xem bài thu hoạch cuối học phần (kế hoạch kinh doanh giả định) không phải là điểm kết thúc, mà là một lần tập dượt đầu tiên cho việc lập kế hoạch kinh doanh thật trong tương lai, và có thể quay lại ngân hàng câu hỏi, văn bản tự nghiên cứu của học phần này như một tài liệu tra cứu nhanh mỗi khi cần rà soát lại một khái niệm nền tảng trước khi đưa ra một quyết định kinh doanh cụ thể."
+      ],
+      "table": null
+    },
+    {
+      "heading": "11. THÔNG TIN BIÊN SOẠN",
+      "paragraphs": [
+        "Đề cương học liệu số của học phần Khởi sự doanh nghiệp (EC1606) được biên soạn bởi giảng viên Đỗ Thùy Hương, trên cơ sở đề cương học phần chính thức đã được phê duyệt theo Quyết định số 55/QĐ-ĐHSPKTVL-ĐT_ĐBCL của Trường Đại học Sư phạm Kỹ thuật Vĩnh Long, nhằm đáp ứng yêu cầu về cấu trúc và nội dung học liệu số quy định tại Phụ lục 1 của Quyết định này.",
+        "Ngày biên soạn: 13/10/2026.",
+        "Tài liệu này là văn bản nội bộ phục vụ việc tổ chức và triển khai học liệu số cho học phần, sẽ được rà soát, cập nhật khi đề cương học phần chính thức có thay đổi, hoặc khi cấu trúc học liệu số (video, slide, ngân hàng câu hỏi) của học phần được điều chỉnh, bổ sung trong các lần triển khai giảng dạy tiếp theo."
+      ],
+      "table": null
+    }
+  ]
+}

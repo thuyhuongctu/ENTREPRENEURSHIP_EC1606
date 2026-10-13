@@ -1,0 +1,386 @@
+{
+  "ch01_cd1": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh",
+      "title_en": "The Concept of Entrepreneurship, Ideas and Business Plans",
+      "bullets": [
+        "Khởi nghiệp là gì, đổi mới sáng tạo đến từ đâu, tiêu chí ý tưởng tốt.",
+        "Cách kiểm chứng ý tưởng và vai trò, nội dung của kế hoạch kinh doanh."
+      ],
+      "bullets_en": [
+        "What entrepreneurship is, where innovation comes from, criteria for a good idea.",
+        "How to validate an idea, and the role and content of a business plan."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "1.1 — Khái niệm khởi nghiệp",
+      "title": "Khởi nghiệp là gì",
+      "title_en": "What Is Entrepreneurship",
+      "bullets": [
+        "Start-up: bắt đầu doanh nghiệp từ ý tưởng mới, tiềm năng tăng trưởng nhanh.",
+        "Khác kinh doanh thông thường: dám chấp nhận rủi ro, khát vọng giá trị đột phá.",
+        "Không chỉ lặp lại mô hình có sẵn — cần xác định mình theo hướng nào.",
+        "Từ đó chuẩn bị nguồn lực, kỹ năng, tâm lý cho phù hợp."
+      ],
+      "bullets_en": [
+        "Start-up: beginning a business from a new idea with fast growth potential.",
+        "Differs from ordinary business: willing to take risks, seeks breakthrough value.",
+        "Not just repeating an existing model — know which path you are on.",
+        "This shapes how you prepare resources, skills and mindset."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "1.2 — Đổi mới sáng tạo",
+      "title": "Bốn hướng đổi mới sáng tạo",
+      "title_en": "Four Directions of Innovation",
+      "bullets": [
+        "Đổi mới: sản phẩm/công nghệ, quy trình, Marketing, mô hình kinh doanh.",
+        "'Sáng tạo' là nghĩ ra ý tưởng mới; 'đổi mới' biến ý tưởng thành giá trị thực.",
+        "Khởi nghiệp đổi mới sáng tạo tăng trưởng nhanh hơn kinh doanh thông thường.",
+        "Ví dụ: ứng dụng gọi xe — đổi mới ở mô hình kết nối, không ở phương tiện."
+      ],
+      "bullets_en": [
+        "Innovation: product/technology, process, marketing, business model.",
+        "'Creativity' is a new idea; 'innovation' turns it into real value.",
+        "An innovative start-up grows faster than an ordinary business.",
+        "Example: ride-hailing apps — innovation in the connection model, not the vehicle."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "1.2 — Khởi nghiệp tinh gọn",
+      "title": "Lean Start-up và MVP",
+      "title_en": "Lean Start-up and MVP",
+      "bullets": [
+        "Lean Start-up: thử nghiệm nhanh, chi phí thấp, sai thì sửa ngay.",
+        "MVP — sản phẩm khả dụng tối thiểu: đủ để khách hàng thật trải nghiệm.",
+        "Ví dụ: nhóm Zalo nhận đơn thủ công trước khi viết ứng dụng hoàn chỉnh.",
+        "Tiết kiệm thời gian, tiền bạc — đặc biệt quan trọng với người ít vốn."
+      ],
+      "bullets_en": [
+        "Lean Start-up: test fast, low cost, fix mistakes immediately.",
+        "MVP — minimum viable product: enough for real customers to try.",
+        "Example: a Zalo group taking manual orders before building a full app.",
+        "Saves time and money — especially important with limited capital."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "1.1 — Tiêu chí ý tưởng tốt",
+      "title": "Tiêu chí một ý tưởng kinh doanh tốt",
+      "title_en": "Criteria for a Good Business Idea",
+      "bullets": [
+        "Bắt nguồn từ nhu cầu chưa đáp ứng, không chỉ sở thích cá nhân.",
+        "Khả thi thực tế; có khách hàng sẵn sàng chi trả; lợi ích thực tế.",
+        "Ưu tiên ý tưởng phù hợp năng lực, hơn ý tưởng 'hoành tráng' quá sức.",
+        "Tìm hiểu đối thủ và xác định thị trường mục tiêu ngay từ đầu."
+      ],
+      "bullets_en": [
+        "Starts from an unmet need, not just personal preference.",
+        "Feasible; customers willing to pay; delivers real benefit.",
+        "Prioritise an idea that fits your capability, not an oversized one.",
+        "Study competitors and define a target market from the start."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "Tình huống",
+      "title": "Chị Hoa và khoảng trống trong chuỗi giá trị",
+      "title_en": "Case: Ms. Hoa and a Gap in the Value Chain",
+      "bullets": [
+        "Ví dụ dựng ra để giảng dạy, không phải số liệu hay câu chuyện thật.",
+        "Khoai lang Bình Tân bị thương lái ép giá vì chỉ bán thô.",
+        "Ý tưởng: chế biến bánh/mứt khoai, bán trực tiếp qua mạng xã hội.",
+        "Kiểm tra 4 tiêu chí: khả thi, có sẵn nguyên liệu, thị trường quan tâm."
+      ],
+      "bullets_en": [
+        "A case built for teaching, not a true story or real data.",
+        "Binh Tan sweet potatoes underpriced by traders when sold raw.",
+        "Idea: process cakes/jam from sweet potato, sell via social media.",
+        "Checked against the 4 criteria: feasible, raw material, market interest."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Kiểm chứng ý tưởng",
+      "title": "Kiểm chứng ý tưởng trước khi đầu tư",
+      "title_en": "Validating an Idea Before Investing",
+      "bullets": [
+        "Dùng công cụ xu hướng (vd Google Trends) kiểm tra nhu cầu diện rộng.",
+        "Khảo sát/phỏng vấn khách hàng tiềm năng về khả năng chi trả.",
+        "Làm MVP, bán thử, xem phản ứng thật trước khi đầu tư lớn.",
+        "Chị Hoa: bán thử mẻ nhỏ trên Facebook địa phương trước khi mua máy."
+      ],
+      "bullets_en": [
+        "Use a trend tool (e.g. Google Trends) to check broad demand.",
+        "Survey/interview potential customers about willingness to pay.",
+        "Build an MVP, sell on trial, observe real reactions before scaling.",
+        "Ms. Hoa: trial-sells a small batch on a local Facebook group first."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "1.6 — Kế hoạch kinh doanh",
+      "title": "Vai trò của kế hoạch kinh doanh",
+      "title_en": "The Role of a Business Plan",
+      "bullets": [
+        "Kế hoạch kinh doanh là 'bản lộ trình' hiện thực hóa ý tưởng.",
+        "Định hướng cho người khởi nghiệp, giảm thiểu rủi ro khi ít vốn.",
+        "Là căn cứ để gọi vốn từ nhà đầu tư, ngân hàng, quỹ hỗ trợ."
+      ],
+      "bullets_en": [
+        "A business plan is the 'roadmap' for realising the idea.",
+        "Guides the entrepreneur, reduces risk with limited capital.",
+        "The basis for raising capital from investors, banks, funds."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "1.7 — Nội dung kế hoạch kinh doanh",
+      "title": "Bốn phần cần có trong kế hoạch kinh doanh",
+      "title_en": "Four Sections of a Business Plan",
+      "bullets": [
+        "Tóm tắt dự án — viết sau cùng, đọc trong vài phút.",
+        "Mô tả sản phẩm/dịch vụ và điểm khác biệt với đối thủ.",
+        "Phân tích thị trường mục tiêu, quy mô, đối thủ cạnh tranh.",
+        "Kế hoạch tài chính: chi phí, doanh thu dự kiến, điểm hòa vốn.",
+        "Ví dụ minh họa (số liệu dựng ra): vốn 15 triệu, hòa vốn sau 6 tháng."
+      ],
+      "bullets_en": [
+        "Project summary — written last, read in a few minutes.",
+        "Product/service description and difference from competitors.",
+        "Target market analysis, size, competitors.",
+        "Financial plan: costs, projected revenue, break-even point.",
+        "Illustrative example (hypothetical): 15M capital, break-even in 6 months."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "1.7 — Kế hoạch linh hoạt",
+      "title": "Trả lời đúng ba câu hỏi cốt lõi",
+      "title_en": "Answering Three Core Questions",
+      "bullets": [
+        "Bán gì — bán cho ai — vì sao khách hàng chọn mình.",
+        "Kế hoạch cần linh hoạt, điều chỉnh khi thị trường thay đổi.",
+        "Quan tâm bảo vệ sở hữu trí tuệ ngay từ giai đoạn lập kế hoạch."
+      ],
+      "bullets_en": [
+        "What am I selling — to whom — why would they choose me.",
+        "The plan must stay flexible as the market changes.",
+        "Protect intellectual property from the planning stage onward."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Tổng kết chủ đề 1.1",
+      "title_en": "Summary of Topic 1.1",
+      "bullets": [
+        "Khởi nghiệp khác kinh doanh thông thường ở đổi mới và rủi ro có tính toán.",
+        "Ý tưởng tốt cần xuất phát từ nhu cầu thật, được kiểm chứng bằng dữ liệu.",
+        "Kế hoạch kinh doanh là bản lộ trình bắt buộc, để định hướng và gọi vốn.",
+        "Làm bài tập tự đánh giá cuối chủ đề này trước khi sang phần tiếp theo."
+      ],
+      "bullets_en": [
+        "Entrepreneurship differs from ordinary business via innovation and calculated risk.",
+        "A good idea must start from a real need and be validated with data.",
+        "A business plan is an essential roadmap, to guide and to raise capital.",
+        "Complete the self-assessment exercise before moving to the next part."
+      ]
+    }
+  ],
+  "ch01_cd2": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+      "title_en": "Entrepreneurship for Women, Ethnic-Minority People and the Start-up Ecosystem",
+      "bullets": [
+        "Nguồn ý tưởng, kỹ năng khởi nghiệp cho phụ nữ và người dân tộc thiểu số.",
+        "Khởi nghiệp xanh/xã hội, rủi ro, đạo đức kinh doanh, hệ sinh thái khởi nghiệp."
+      ],
+      "bullets_en": [
+        "Idea sources and skills for women and ethnic-minority entrepreneurs.",
+        "Green/social entrepreneurship, risk, business ethics, the start-up ecosystem."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "1.3 — Nguồn ý tưởng",
+      "title": "Nguồn ý tưởng từ bản sắc địa phương",
+      "title_en": "Idea Sources from Local Identity",
+      "bullets": [
+        "Thế mạnh, sản vật địa phương là nguồn ý tưởng tốt — khó nơi khác sao chép.",
+        "Ví dụ Vĩnh Long: khoai lang Bình Tân, gốm đỏ, du lịch sinh thái miệt vườn.",
+        "Du lịch cộng đồng dựa bản sắc văn hóa dân tộc thiểu số: thu nhập và bảo tồn."
+      ],
+      "bullets_en": [
+        "Local strengths and produce are good idea sources — hard to copy elsewhere.",
+        "In Vinh Long: Binh Tan sweet potatoes, red pottery, orchard eco-tourism.",
+        "Ethnic-minority community tourism: generates income while preserving culture."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "1.3 — Kỹ năng khởi nghiệp",
+      "title": "Kỹ năng cần thiết cho phụ nữ, dân tộc thiểu số",
+      "title_en": "Key Skills for Women and Ethnic-Minority Entrepreneurs",
+      "bullets": [
+        "Cân bằng công việc kinh doanh và trách nhiệm gia đình.",
+        "Năng lực thích nghi — quan trọng ở vùng nông thôn, miền núi.",
+        "Thiếu vốn: ưu tiên khai thác thế mạnh bản thân và bản sắc địa phương.",
+        "Tìm hiểu chính sách, nguồn hỗ trợ đặc thù ở cấp huyện, cấp tỉnh."
+      ],
+      "bullets_en": [
+        "Balancing the business with family responsibilities.",
+        "Adaptability — crucial in rural and mountainous areas.",
+        "Limited capital: draw first on own strengths and local identity.",
+        "Learn about dedicated support policies at district, provincial level."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "1.4 — Khởi nghiệp xanh",
+      "title": "Khởi nghiệp xanh",
+      "title_en": "Green Entrepreneurship",
+      "bullets": [
+        "Phát triển kinh doanh gắn với bảo vệ môi trường, tài nguyên bền vững.",
+        "Ví dụ: bao bì phân hủy, tận dụng phụ phẩm nông nghiệp.",
+        "Người tiêu dùng thành thị quan tâm nguồn gốc, tác động môi trường.",
+        "Lợi thế cạnh tranh thực sự, không chỉ là xu hướng đạo đức."
+      ],
+      "bullets_en": [
+        "Growing a business alongside environmental protection and sustainability.",
+        "Example: biodegradable packaging, reusing agricultural by-products.",
+        "Urban consumers care about origin and environmental impact.",
+        "A real competitive advantage, not just an ethical trend."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "1.4 — Khởi nghiệp xã hội",
+      "title": "Khởi nghiệp xã hội (Social Entrepreneurship)",
+      "title_en": "Social Entrepreneurship",
+      "bullets": [
+        "Ưu tiên giải quyết vấn đề xã hội/cộng đồng qua chính mô hình kinh doanh.",
+        "Lợi nhuận và giá trị xã hội không tách rời nhau.",
+        "Ví dụ: tạo thu nhập cho phụ nữ địa phương, bảo tồn nghề truyền thống.",
+        "Dự án mang bản sắc + thân thiện môi trường: được đánh giá cao hơn."
+      ],
+      "bullets_en": [
+        "Prioritises a social/community problem through the business model itself.",
+        "Profit and social value are not separated.",
+        "Example: income for local women, preserving a traditional craft.",
+        "A project with identity + eco-friendliness is valued more highly."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "Tình huống",
+      "title": "Gốm đỏ Vĩnh Long: hiện đại hóa làng nghề",
+      "title_en": "Case: Modernising the Vinh Long Red-Pottery Craft Village",
+      "bullets": [
+        "Ví dụ dựng ra để giảng dạy, không phải số liệu hay sự kiện thật.",
+        "Nghề gốm đỏ lâu đời nhưng mẫu mã cũ, khó tiếp cận khách trẻ.",
+        "Giữ kỹ thuật nung truyền thống, đổi mẫu mã, bao bì thân thiện môi trường.",
+        "Tạo việc làm cho nhiều hộ thợ gốm — kết hợp khởi nghiệp xanh và xã hội."
+      ],
+      "bullets_en": [
+        "A case built for teaching, not real data or events.",
+        "A long-standing craft but old designs, hard to reach young buyers.",
+        "Keep traditional firing, redesign products, eco-friendly packaging.",
+        "Jobs for many potter households — combining green and social entrepreneurship."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Rủi ro",
+      "title": "Ba nhóm rủi ro cần lường trước",
+      "title_en": "Three Groups of Risk to Anticipate",
+      "bullets": [
+        "Rủi ro tài chính: thiếu vốn lưu động giai đoạn đầu.",
+        "Rủi ro thị trường: đánh giá sai nhu cầu, thiếu người mua.",
+        "Rủi ro đội ngũ: mất đoàn kết, phụ thuộc một khách hàng/kênh bán.",
+        "Xem thất bại là dữ liệu để rút kinh nghiệm, không phải điểm dừng."
+      ],
+      "bullets_en": [
+        "Financial risk: lacking working capital in the early stage.",
+        "Market risk: misjudging demand, too few buyers.",
+        "Team risk: losing cohesion, depending on one customer/channel.",
+        "Treat failure as data to learn from, not as an endpoint."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "Đạo đức kinh doanh",
+      "title": "Đạo đức kinh doanh và phát triển bền vững",
+      "title_en": "Business Ethics and Sustainable Development",
+      "bullets": [
+        "Cân bằng lợi nhuận kinh tế, lợi ích con người, bảo vệ môi trường.",
+        "Trung thực với khách hàng về chất lượng sản phẩm.",
+        "Trung thực với chính mình về năng lực thực tế của nhóm."
+      ],
+      "bullets_en": [
+        "Balance economic profit, human benefit, environmental protection.",
+        "Honesty with customers about real product quality.",
+        "Honesty with yourself about the team's real capability."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "1.4 — Hệ sinh thái khởi nghiệp",
+      "title": "Hệ sinh thái khởi nghiệp",
+      "title_en": "The Start-up Ecosystem",
+      "bullets": [
+        "Toàn bộ nguồn lực, tổ chức, chính sách xung quanh người khởi nghiệp.",
+        "Trường đại học, quỹ hỗ trợ, hội phụ nữ, chương trình địa phương.",
+        "Không ai khởi nghiệp một mình — tận dụng để tránh sai lầm phổ biến."
+      ],
+      "bullets_en": [
+        "All resources, organisations and policies around an entrepreneur.",
+        "Universities, support funds, women's unions, local programmes.",
+        "No one starts alone — use it to avoid common mistakes."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "Công cụ số",
+      "title": "Công cụ số hỗ trợ khởi nghiệp",
+      "title_en": "Digital Tools Supporting Entrepreneurship",
+      "bullets": [
+        "Mạng xã hội: thử nghiệm phản ứng thị trường, chi phí gần như bằng không.",
+        "Thương mại điện tử: bán hàng không cần mặt bằng cố định.",
+        "Công cụ thiết kế trực tuyến (vd Canva): bao bì, hình ảnh chuyên nghiệp.",
+        "Công cụ đám mây: làm việc nhóm hiệu quả dù ở xa nhau."
+      ],
+      "bullets_en": [
+        "Social media: test market reaction at almost zero cost.",
+        "E-commerce: sell without a fixed physical location.",
+        "Online design tools (e.g. Canva): professional packaging, imagery.",
+        "Cloud tools: effective teamwork even at a distance."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Tổng kết Chương 1",
+      "title_en": "Summary of Chapter 1",
+      "bullets": [
+        "Nguồn ý tưởng tốt nhất: thế mạnh, bản sắc, sản vật địa phương mình có.",
+        "Khởi nghiệp xanh/xã hội phù hợp, nếu đảm bảo đạo đức và lường rủi ro.",
+        "Tận dụng hệ sinh thái khởi nghiệp và công cụ số quanh mình.",
+        "Làm bài tập tự đánh giá cuối chủ đề — hẹn gặp lại ở Chương hai."
+      ],
+      "bullets_en": [
+        "Best idea source: your own local strengths, identity, produce.",
+        "Green/social entrepreneurship fits, with ethics and risk awareness.",
+        "Make use of the start-up ecosystem and digital tools around you.",
+        "Complete the self-assessment exercise — see you in Chapter Two."
+      ]
+    }
+  ]
+}

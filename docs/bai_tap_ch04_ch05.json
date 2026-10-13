@@ -1,0 +1,993 @@
+{
+  "ket_thuc_chu_de": {
+    "ch04_cd1": [
+      {
+        "cau_hoi": "Phân biệt 'trách nhiệm hữu hạn' và 'trách nhiệm vô hạn'. Loại hình doanh nghiệp nào theo Luật Doanh nghiệp áp dụng trách nhiệm vô hạn cho chủ sở hữu?",
+        "dap_an": "Trách nhiệm hữu hạn: thành viên/cổ đông chỉ chịu trách nhiệm về nợ của doanh nghiệp trong phạm vi số vốn đã cam kết góp, tài sản cá nhân còn lại được bảo vệ. Trách nhiệm vô hạn: chủ sở hữu phải dùng toàn bộ tài sản cá nhân (kể cả tài sản không góp vào kinh doanh) để trả nợ khi doanh nghiệp thua lỗ. Theo Luật Doanh nghiệp, Doanh nghiệp tư nhân áp dụng trách nhiệm vô hạn cho chủ doanh nghiệp; trong Công ty hợp danh, ít nhất phải có một thành viên hợp danh chịu trách nhiệm vô hạn."
+      },
+      {
+        "cau_hoi": "Vì sao Công ty TNHH một thành viên thường được cá nhân khởi nghiệp lựa chọn hơn là Doanh nghiệp tư nhân?",
+        "dap_an": "Vì chủ sở hữu Công ty TNHH một thành viên chỉ chịu trách nhiệm hữu hạn trong phạm vi vốn điều lệ đã góp — tài sản cá nhân ngoài phần vốn góp được bảo vệ nếu doanh nghiệp thua lỗ — trong khi chủ Doanh nghiệp tư nhân phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân. Công ty TNHH một thành viên vẫn giữ được quyền quyết định toàn bộ cho một chủ sở hữu, không phức tạp như Công ty Cổ phần."
+      },
+      {
+        "cau_hoi": "Nhượng quyền kinh doanh (Franchising) là gì? Nêu một ưu điểm và một nhược điểm của mô hình này đối với người mới khởi nghiệp.",
+        "dap_an": "Nhượng quyền kinh doanh là mô hình một doanh nghiệp (bên nhượng quyền) cho phép doanh nghiệp khác (bên nhận quyền) sử dụng thương hiệu, công thức sản phẩm và quy trình vận hành chuẩn (SOP) của mình, thường kèm phí nhượng quyền ban đầu và phí định kỳ (Royalty fee) tính theo phần trăm doanh thu. Ưu điểm: tận dụng được thương hiệu và kinh nghiệm quản lý đã kiểm chứng, giảm rủi ro thất bại ban đầu. Nhược điểm: mất tính độc lập trong vận hành, phải tuân thủ nghiêm ngặt quy chuẩn của bên nhượng quyền, và chi phí nhượng quyền có thể vượt quá khả năng tài chính của startup ít vốn."
+      },
+      {
+        "cau_hoi": "Hộ kinh doanh và Công ty Cổ phần khác nhau như thế nào về khả năng huy động vốn từ công chúng?",
+        "dap_an": "Công ty Cổ phần có tư cách pháp nhân và có quyền phát hành cổ phiếu để huy động vốn rộng rãi từ nhiều nhà đầu tư/công chúng, cơ quan quyết định cao nhất là Đại hội đồng cổ đông. Hộ kinh doanh không có tư cách pháp nhân, không được phát hành cổ phiếu hay trái phiếu, chỉ phù hợp với quy mô vốn nhỏ, do một cá nhân hoặc các thành viên hộ gia đình làm chủ, thủ tục đơn giản hơn nhiều."
+      },
+      {
+        "cau_hoi": "'Tổ hợp tác' và 'Hợp tác xã kiểu mới' khác nhau ở điểm pháp lý nào, và nguyên tắc quản lý nào làm nên tính công bằng của Hợp tác xã kiểu mới?",
+        "dap_an": "Tổ hợp tác là hình thức liên kết đơn giản giữa một nhóm cá nhân, không có tư cách pháp nhân; Hợp tác xã kiểu mới là một tổ chức kinh tế có tư cách pháp nhân riêng. Nguyên tắc quản lý dân chủ của Hợp tác xã kiểu mới — mỗi thành viên có một phiếu biểu quyết ngang nhau, bất kể vốn góp nhiều hay ít — đảm bảo mọi thành viên đều có quyền quyết định bình đẳng, khác với Công ty TNHH hay Cổ phần nơi quyền biểu quyết tính theo tỷ lệ vốn góp."
+      }
+    ],
+    "ch04_cd2": [
+      {
+        "cau_hoi": "Vì sao phụ nữ và người dân tộc thiểu số khởi nghiệp quy mô nhỏ tại địa phương thường được khuyến khích chọn mô hình Hộ kinh doanh hoặc Tổ hợp tác thay vì Công ty Cổ phần?",
+        "dap_an": "Vì Hộ kinh doanh/Tổ hợp tác có thủ tục thành lập và giải thể đơn giản, chế độ kế toán không yêu cầu kế toán trưởng chuyên trách, phù hợp với nguồn vốn và năng lực quản trị còn hạn chế ở giai đoạn khởi đầu — trong khi Công ty Cổ phần đòi hỏi cơ cấu tổ chức phức tạp hơn (Đại hội đồng cổ đông, Hội đồng quản trị...) và thường chỉ phù hợp khi dự án đã lớn, cần huy động vốn từ nhiều nhà đầu tư."
+      },
+      {
+        "cau_hoi": "'Tư vấn năng lực bản thân' trước khi chọn mô hình kinh doanh có ý nghĩa gì đối với người khởi nghiệp lần đầu?",
+        "dap_an": "Giúp người khởi nghiệp nhìn nhận rõ thời gian, vốn và kỹ năng quản lý thực tế mình đang có, từ đó chọn được mô hình 'ít vốn', vừa sức thay vì chạy theo một mô hình quy mô lớn vượt quá khả năng — qua đó giảm áp lực tài chính và quản lý, tăng khả năng duy trì dự án lâu dài."
+      },
+      {
+        "cau_hoi": "Nêu một kênh đăng ký kinh doanh giúp tiết kiệm thời gian theo nội dung bài học, và một điều cần lưu ý khi 'lựa chọn ngành nghề kinh doanh' lúc đăng ký.",
+        "dap_an": "Có thể đăng ký trực tuyến qua Cổng thông tin quốc gia về đăng ký doanh nghiệp để tiết kiệm thời gian so với nộp hồ sơ trực tiếp. Khi lựa chọn ngành nghề kinh doanh, cần kiểm tra các ngành nghề kinh doanh có điều kiện để chuẩn bị đầy đủ giấy phép con liên quan, tránh đăng ký thiếu rồi phải bổ sung thủ tục nhiều lần."
+      },
+      {
+        "cau_hoi": "Vì sao một lựa chọn mô hình kinh doanh đúng về pháp lý nhưng vận hành thiếu đạo đức kinh doanh vẫn có thể khiến dự án thất bại?",
+        "dap_an": "Vì sự tồn tại và phát triển bền vững của doanh nghiệp không chỉ phụ thuộc vào tính hợp pháp của mô hình mà còn phụ thuộc vào lòng tin của khách hàng, đối tác và cộng đồng. Nếu vận hành thiếu minh bạch, thiếu trung thực (ví dụ gian lận trong đăng ký, không công bằng với đối tác), doanh nghiệp sẽ mất uy tín, mất khách hàng và đối tác dù về pháp lý không sai, nên đạo đức kinh doanh và tính bền vững xã hội/môi trường phải đi cùng mọi lựa chọn mô hình."
+      },
+      {
+        "cau_hoi": "Áp dụng vào tình huống chị Hoa (ví dụ minh họa): với quy mô nhỏ mới bắt đầu chế biến khoai lang, mô hình nào phù hợp nhất, và nếu mở rộng hợp tác với nhiều hộ nông dân khác thì nên chuyển sang mô hình nào?",
+        "dap_an": "Ở giai đoạn quy mô nhỏ, mới bắt đầu, mô hình Hộ kinh doanh là phù hợp nhất vì thủ tục đơn giản, không cần kế toán chuyên trách, phù hợp nguồn vốn hạn chế. Khi mở rộng, hợp tác với nhiều hộ nông dân khác cùng trồng/chế biến khoai lang, nên cân nhắc chuyển sang mô hình Hợp tác xã kiểu mới để đảm bảo quyền lợi công bằng (biểu quyết dân chủ) cho tất cả các bên tham gia. Đây là ví dụ minh họa dựng ra để giảng dạy, không phải số liệu thật."
+      }
+    ],
+    "ch05_cd1": [
+      {
+        "cau_hoi": "Trình bày ba bước của chiến lược STP và giải thích vì sao phải thực hiện đúng thứ tự này.",
+        "dap_an": "STP gồm: (1) Segmentation — phân khúc thị trường theo địa lý, nhân khẩu học hoặc hành vi; (2) Targeting — chọn ra nhóm khách hàng cụ thể muốn phục vụ trong các phân khúc đã chia; (3) Positioning — định vị, tạo ra hình ảnh và giá trị khác biệt trong tâm trí nhóm khách hàng mục tiêu đã chọn. Phải làm theo đúng thứ tự vì định vị mà chưa biết rõ đang nhắm vào nhóm khách hàng nào sẽ mơ hồ, không có cơ sở và không hiệu quả."
+      },
+      {
+        "cau_hoi": "Một startup bán đặc sản gốm đỏ Vĩnh Long chọn phục vụ nhóm 'khách du lịch trẻ yêu thích sản phẩm thủ công có câu chuyện văn hóa'. Đây là bước nào trong STP? Nêu lý do.",
+        "dap_an": "Đây là bước Targeting (chọn thị trường mục tiêu) — vì startup đã xác định rõ một nhóm khách hàng cụ thể (khách du lịch trẻ, yêu thích sản phẩm thủ công có câu chuyện văn hóa) để tập trung phục vụ, sau khi đã phân khúc thị trường theo hành vi/sở thích (Segmentation). Đây là ví dụ minh họa, không phải số liệu thật."
+      },
+      {
+        "cau_hoi": "Positioning (định vị) khác với Targeting (chọn thị trường mục tiêu) ở điểm nào?",
+        "dap_an": "Targeting là chọn ra nhóm khách hàng cụ thể doanh nghiệp muốn phục vụ trong số các phân khúc đã chia. Positioning là bước sau đó, trả lời câu hỏi: trong tâm trí của đúng nhóm khách hàng mục tiêu ấy, sản phẩm của mình nên được ghi nhớ với hình ảnh và giá trị khác biệt nào so với đối thủ — tức là xây dựng vị trí riêng trong nhận thức khách hàng, không chỉ là chọn đối tượng."
+      },
+      {
+        "cau_hoi": "Vì sao doanh nghiệp mới khởi nghiệp thường chọn chiến lược tập trung vào 'thị trường ngách' (Niche Market) thay vì phục vụ đại trà?",
+        "dap_an": "Vì nguồn lực (vốn, nhân sự, thương hiệu) của doanh nghiệp mới còn hạn hẹp, cạnh tranh trực tiếp với các thương hiệu lớn đã có sẵn tập khách hàng đông đảo là rất khó khả thi. Tập trung phục vụ thật tốt một nhóm khách hàng nhỏ, cụ thể (thị trường ngách) giúp doanh nghiệp xây dựng được vị thế riêng, khó bị thay thế, hiệu quả hơn là cố gắng làm hài lòng tất cả mọi người."
+      },
+      {
+        "cau_hoi": "'Chân dung khách hàng' (Customer Persona) cần làm rõ những yếu tố nào, và vì sao bước này quan trọng trước khi làm Targeting/Positioning?",
+        "dap_an": "Chân dung khách hàng cần làm rõ: đặc điểm nhân khẩu học (độ tuổi, thu nhập, vị trí địa lý), sở thích và thói quen, cùng những 'nỗi đau' (pain points) — khó khăn, nhu cầu chưa được giải quyết — của khách hàng, và lý do vì sao họ nên chọn sản phẩm của doanh nghiệp. Hiểu rõ chân dung khách hàng là nền tảng để Targeting chọn đúng nhóm và Positioning định vị đúng giá trị mà nhóm đó thực sự cần, tránh định vị mơ hồ, chung chung."
+      }
+    ],
+    "ch05_cd2": [
+      {
+        "cau_hoi": "Một bộ nhận diện thương hiệu (brand identity) chuyên nghiệp cần có những thành phần nào?",
+        "dap_an": "Logo, tên gọi, slogan (khẩu hiệu) ngắn gọn dễ nhớ, màu sắc chủ đạo, font chữ, và các ấn phẩm truyền thông được thiết kế đồng bộ (bao bì, danh thiếp, hình ảnh mạng xã hội...) — tất cả phải nhất quán với nhau và với định vị thương hiệu đã chọn ở bước Positioning."
+      },
+      {
+        "cau_hoi": "Trình bày 4 thành phần của Marketing hỗn hợp (4P) và cho một ví dụ cho mỗi thành phần với một sản phẩm khởi nghiệp tự chọn.",
+        "dap_an": "4P gồm: Product (sản phẩm — giá trị/trải nghiệm mang lại cho khách hàng), Price (giá — ví dụ: áp dụng giá xâm nhập để thu hút khách hàng đầu khi mới ra mắt), Place (phân phối — kênh đưa sản phẩm đến khách hàng, ví dụ bán trực tiếp qua trang mạng xã hội), Promotion (chiêu thị — ví dụ quảng bá qua TikTok/Facebook). Sinh viên có thể chọn bất kỳ sản phẩm khởi nghiệp giả định để minh họa cho từng thành phần, miễn hợp lý và nhất quán."
+      },
+      {
+        "cau_hoi": "7P khác 4P ở điểm nào, và nên áp dụng 7P cho loại hình kinh doanh nào là phù hợp nhất?",
+        "dap_an": "7P bổ sung thêm 3 chữ P vào 4 chữ P cơ bản: People (con người phục vụ), Process (quy trình cung cấp dịch vụ), và Physical Evidence (bằng chứng vật lý — những gì khách hàng nhìn/chạm được để cảm nhận chất lượng dịch vụ vô hình). 7P phù hợp hơn với lĩnh vực dịch vụ (ví dụ du lịch cộng đồng, đào tạo) vì trải nghiệm khách hàng phụ thuộc nhiều vào con người và không gian trải nghiệm thực tế, không chỉ một sản phẩm hữu hình."
+      },
+      {
+        "cau_hoi": "'Câu chuyện thương hiệu' (Brand Story) hiệu quả cần có đặc điểm gì, và vì sao nó đặc biệt có giá trị với sản phẩm của người dân tộc thiểu số?",
+        "dap_an": "Một câu chuyện thương hiệu hiệu quả phải chân thực, có cảm xúc, gắn liền với sứ mệnh giải quyết vấn đề cho khách hàng — không hư cấu, không chỉ là lời quảng cáo sáo rỗng. Với sản phẩm của người dân tộc thiểu số, câu chuyện gắn với bản sắc văn hóa tạo ra sự khác biệt và chiều sâu mà các sản phẩm công nghiệp đại trà không có được, giúp định vị thương hiệu mà không cần ngân sách Marketing lớn."
+      },
+      {
+        "cau_hoi": "'Marketing 0 đồng' là gì? Nêu hai cách thực hiện phù hợp với một startup ít vốn.",
+        "dap_an": "'Marketing 0 đồng' là cách làm Marketing không (hoặc gần như không) tốn chi phí quảng cáo, dựa vào các nguồn lực sẵn có. Hai cách tiêu biểu: (1) tận dụng truyền miệng và mạng xã hội, tạo nội dung sáng tạo để được chia sẻ tự nhiên; (2) kể câu chuyện thương hiệu thật một cách đều đặn, nhất quán trên mạng xã hội để dần xây dựng hình ảnh trong tâm trí khách hàng mà không cần ngân sách lớn."
+      }
+    ]
+  },
+  "ket_thuc_chuong": {
+    "chuong_04": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "Loại hình doanh nghiệp nào mà chủ sở hữu phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân của mình đối với các nghĩa vụ nợ của doanh nghiệp?",
+          "lua_chon": {
+            "A": "Công ty TNHH một thành viên.",
+            "B": "Công ty Cổ phần.",
+            "C": "Doanh nghiệp tư nhân.",
+            "D": "Công ty TNHH hai thành viên trở lên."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Đặc điểm nổi bật nhất của mô hình Nhượng quyền kinh doanh (Franchising) là gì?",
+          "lua_chon": {
+            "A": "Tự xây dựng quy trình quản lý hoàn toàn mới từ đầu.",
+            "B": "Được sử dụng thương hiệu và hệ thống vận hành sẵn có của bên nhượng quyền.",
+            "C": "Không phải trả bất kỳ khoản phí nào cho chủ thương hiệu.",
+            "D": "Tự do thay đổi bộ nhận diện thương hiệu theo ý muốn cá nhân."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Theo Luật Doanh nghiệp, loại hình nào sau đây có quyền phát hành cổ phiếu để huy động vốn rộng rãi từ công chúng?",
+          "lua_chon": {
+            "A": "Doanh nghiệp tư nhân.",
+            "B": "Công ty TNHH.",
+            "C": "Hộ kinh doanh cá thể.",
+            "D": "Công ty Cổ phần."
+          },
+          "dap_an": "D"
+        },
+        {
+          "cau_hoi": "Đối với phụ nữ và người dân tộc thiểu số khởi nghiệp quy mô nhỏ tại địa phương, mô hình nào thường được ưu tiên để tận dụng chính sách hỗ trợ?",
+          "lua_chon": {
+            "A": "Công ty Cổ phần niêm yết.",
+            "B": "Hộ kinh doanh hoặc Tổ hợp tác.",
+            "C": "Công ty hợp danh.",
+            "D": "Tập đoàn kinh tế đa quốc gia."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Khái niệm \"Trách nhiệm hữu hạn\" trong kinh doanh được hiểu chính xác là:",
+          "lua_chon": {
+            "A": "Thành viên chỉ chịu trách nhiệm về các nợ nần trong phạm vi số vốn đã cam kết góp vào doanh nghiệp.",
+            "B": "Thành viên phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân hiện có.",
+            "C": "Doanh nghiệp hoàn toàn không phải trả nợ khi lâm vào tình trạng phá sản.",
+            "D": "Chỉ phải chịu trách nhiệm đối với các khoản nợ thuế nhà nước."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Theo quy định pháp luật hiện hành, Công ty TNHH hai thành viên trở lên có số lượng thành viên tối đa là:",
+          "lua_chon": {
+            "A": "10 thành viên.",
+            "B": "20 thành viên.",
+            "C": "50 thành viên.",
+            "D": "Không giới hạn số lượng thành viên tham gia."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Trong mô hình hợp tác xã kiểu mới, nguyên tắc quản lý nào là quan trọng nhất để đảm bảo tính công bằng?",
+          "lua_chon": {
+            "A": "Quyền quyết định thuộc về người góp vốn nhiều nhất.",
+            "B": "Quản lý dân chủ: Mỗi thành viên có một phiếu biểu quyết ngang nhau bất kể vốn góp.",
+            "C": "Chỉ có ban quản trị mới được phép tham gia quyết định mọi hoạt động.",
+            "D": "Thực hiện quản lý theo mệnh lệnh áp đặt từ cấp trên xuống dưới."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Sự khác biệt chính giữa \"Tổ hợp tác\" và \"Hợp tác xã\" là:",
+          "lua_chon": {
+            "A": "Tổ hợp tác luôn có quy mô lớn hơn hợp tác xã.",
+            "B": "Tổ hợp tác không có tư cách pháp nhân, hợp tác xã có tư cách pháp nhân.",
+            "C": "Hợp tác xã không cần phải đăng ký hoạt động với cơ quan nhà nước.",
+            "D": "Tổ hợp tác chỉ dành cho nam giới khởi nghiệp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "\"Phí nhượng quyền định kỳ\" (Royalty fee) thường được tính dựa trên:",
+          "lua_chon": {
+            "A": "Phần trăm doanh thu hàng tháng của bên nhận quyền.",
+            "B": "Số lượng nhân viên mà cửa hàng thuê.",
+            "C": "Số năm kinh nghiệm của chủ cửa hàng.",
+            "D": "Diện tích của mặt bằng kinh doanh."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Trong Công ty Cổ phần, cơ quan quyết định cao nhất là:",
+          "lua_chon": {
+            "A": "Hội đồng quản trị.",
+            "B": "Ban kiểm soát.",
+            "C": "Đại hội đồng cổ đông.",
+            "D": "Tổng giám đốc/Giám đốc điều hành."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "\"Con dấu doanh nghiệp\" hiện nay theo Luật Doanh nghiệp 2020 được quy định:",
+          "lua_chon": {
+            "A": "Doanh nghiệp có quyền tự quyết định số lượng, hình thức và nội dung con dấu.",
+            "B": "Bắt buộc phải theo mẫu cố định duy nhất của Bộ Công an.",
+            "C": "Chỉ được phép có 01 con dấu duy nhất cho mỗi doanh nghiệp.",
+            "D": "Không được phép sử dụng con dấu trong mọi giao dịch thương mại."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Người đại diện theo pháp luật\" của doanh nghiệp khởi nghiệp có trách nhiệm:",
+          "lua_chon": {
+            "A": "Nhân danh doanh nghiệp thực hiện các giao dịch và chịu trách nhiệm trước pháp luật về hoạt động của doanh nghiệp.",
+            "B": "Chỉ làm nhiệm vụ ký tên vào các bảng lương nhân viên hàng tháng.",
+            "C": "Là người duy nhất được hưởng toàn bộ lợi nhuận của doanh nghiệp.",
+            "D": "Không có bất kỳ trách nhiệm pháp lý nào khi doanh nghiệp gặp rắc rối."
+          },
+          "dap_an": "A"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Phân tích ưu, nhược điểm của bốn loại hình doanh nghiệp theo Luật Doanh nghiệp (Doanh nghiệp tư nhân, Công ty TNHH, Công ty Cổ phần, Công ty Hợp danh) dưới góc độ trách nhiệm pháp lý và khả năng huy động vốn."
+        },
+        {
+          "cau_hoi": "So sánh mô hình Hộ kinh doanh, Tổ hợp tác và Hợp tác xã kiểu mới về tư cách pháp nhân, thủ tục thành lập và nguyên tắc quản lý. Theo bạn, mô hình nào phù hợp nhất với một nhóm 5 hộ nông dân cùng liên kết trồng và chế biến nông sản? Giải thích."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm nhượng quyền kinh doanh (Franchising), phân tích lợi ích và rủi ro của mô hình này đối với một sinh viên mới ra trường, ít vốn, muốn khởi nghiệp."
+        },
+        {
+          "cau_hoi": "Nêu các yếu tố mà một người khởi nghiệp cần cân nhắc khi lựa chọn mô hình kinh doanh phù hợp với năng lực bản thân (về vốn, kỹ năng quản lý, mức độ chấp nhận rủi ro)."
+        },
+        {
+          "cau_hoi": "Phân tích vì sao các mô hình kinh doanh thời đại số như Thương mại điện tử (E-commerce), Bán hàng trực tiếp đến người tiêu dùng (D2C) không thay thế mà bổ sung cho các loại hình pháp lý truyền thống đã học."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Chị Hoa đang kinh doanh sản phẩm chế biến từ khoai lang ở Bình Tân, Vĩnh Long, hiện tại dưới hình thức Hộ kinh doanh cá thể, một mình quản lý từ sản xuất đến bán hàng. Sau hai năm, sản phẩm được biết đến nhiều hơn, chị muốn hợp tác với 8 hộ nông dân trồng khoai lang khác trong vùng để cùng sản xuất quy mô lớn hơn, đồng thời cân nhắc gọi thêm vốn từ một nhà đầu tư bên ngoài. (Đây là tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Mô hình Hộ kinh doanh hiện tại còn phù hợp với kế hoạch mở rộng của chị Hoa không? Vì sao? b) Nếu muốn 8 hộ nông dân cùng tham gia với quyền lợi công bằng, chị nên chuyển sang mô hình nào? c) Nếu muốn gọi vốn từ nhà đầu tư bên ngoài sau này, mô hình nào sẽ thuận lợi hơn về mặt pháp lý?",
+          "goi_y_dap_an": "a) Mô hình Hộ kinh doanh không còn phù hợp vì quy mô mở rộng, nhiều bên tham gia cùng góp nguồn lực sản xuất, trong khi Hộ kinh doanh chỉ phù hợp quy mô nhỏ, một cá nhân/hộ gia đình làm chủ. b) Nên chuyển sang mô hình Hợp tác xã kiểu mới — có tư cách pháp nhân riêng, áp dụng nguyên tắc quản lý dân chủ (mỗi thành viên một phiếu biểu quyết bất kể vốn góp), đảm bảo công bằng cho cả 9 hộ tham gia (chị Hoa và 8 hộ nông dân). c) Về lâu dài, nếu cần huy động vốn rộng rãi từ nhiều nhà đầu tư, mô hình Công ty Cổ phần sẽ thuận lợi hơn vì có quyền phát hành cổ phiếu và tư cách pháp nhân rõ ràng; tuy nhiên ở giai đoạn gọi vốn ban đầu từ một vài nhà đầu tư, có thể bắt đầu bằng Công ty TNHH hai thành viên trở lên trước khi mở rộng thêm."
+        },
+        {
+          "mo_ta": "Dự án hiện đại hóa làng nghề gốm đỏ Vĩnh Long đang cân nhắc hai hướng phát triển: (1) tự xây dựng một thương hiệu gốm đỏ riêng và mở các cửa hàng trưng bày tại nhiều tỉnh; (2) nhận nhượng quyền (franchise) một chuỗi cửa hàng quà tặng thủ công đã có uy tín để phân phối sản phẩm gốm đỏ qua hệ thống đó, phải trả phí nhượng quyền ban đầu và phí định kỳ theo doanh thu. (Đây là tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Phân tích ưu, nhược điểm của hướng (1) và hướng (2) cho dự án gốm đỏ. b) Theo bạn, với mục tiêu giữ được bản sắc văn hóa làng nghề, hướng nào phù hợp hơn? Vì sao?",
+          "goi_y_dap_an": "a) Hướng (1) — tự xây thương hiệu: ưu điểm là toàn quyền kiểm soát hình ảnh, câu chuyện văn hóa và chất lượng sản phẩm, giữ được bản sắc riêng; nhược điểm là mất nhiều thời gian, chi phí xây dựng thương hiệu từ đầu, độ phủ thị trường chậm hơn. Hướng (2) — nhận nhượng quyền phân phối: ưu điểm là tận dụng được hệ thống phân phối và uy tín sẵn có, tiếp cận khách hàng nhanh hơn; nhược điểm là phải chia sẻ doanh thu qua phí định kỳ, có thể mất một phần tính độc lập trong cách trưng bày/kể chuyện sản phẩm theo quy chuẩn của chuỗi nhượng quyền. b) Nếu mục tiêu ưu tiên là giữ bản sắc văn hóa làng nghề, hướng (1) tự xây dựng thương hiệu riêng phù hợp hơn, vì cho phép dự án kiểm soát hoàn toàn câu chuyện thương hiệu và cách trình bày giá trị văn hóa; có thể kết hợp giai đoạn đầu dùng kênh phân phối nhượng quyền để tiếp cận khách hàng nhanh, song song với việc xây dựng thương hiệu riêng dài hạn."
+        }
+      ]
+    },
+    "chuong_05": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "Bước đầu tiên và quan trọng nhất trong việc xây dựng chiến lược Marketing cho doanh nghiệp mới là gì?",
+          "lua_chon": {
+            "A": "Thiết kế logo và bộ nhận diện thương hiệu.",
+            "B": "Chọn thị trường mục tiêu và xác định vị thế doanh nghiệp.",
+            "C": "Quyết định mức giá bán sản phẩm.",
+            "D": "Thuê nhân viên bán hàng chuyên nghiệp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Việc chia thị trường thành các nhóm khách hàng khác nhau dựa trên các đặc điểm về địa lý, nhân khẩu học hoặc hành vi được gọi là:",
+          "lua_chon": {
+            "A": "Định vị thị trường.",
+            "B": "Phân khúc thị trường.",
+            "C": "Tiếp thị hỗn hợp.",
+            "D": "Xây dựng nhãn hiệu."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Thành phần \"4P\" cơ bản trong Marketing hỗn hợp cho doanh nghiệp mới bao gồm:",
+          "lua_chon": {
+            "A": "Con người, Quy trình, Bằng chứng hữu hình, Giá cả.",
+            "B": "Sản phẩm, Vị trí, Khuyến mãi, Nhân sự.",
+            "C": "Sản phẩm, Giá cả, Phân phối, Chiêu thị (Promotion).",
+            "D": "Chiến lược, Mục tiêu, Ngân sách, Kiểm soát."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Một doanh nghiệp mới sử dụng mạng xã hội (Facebook, TikTok) để quảng bá sản phẩm là đang thực hiện thành phần nào trong 4P?",
+          "lua_chon": {
+            "A": "Sản phẩm (Product).",
+            "B": "Giá cả (Price).",
+            "C": "Phân phối (Place).",
+            "D": "Chiêu thị (Promotion)."
+          },
+          "dap_an": "D"
+        },
+        {
+          "cau_hoi": "Để xác định vị thế của doanh nghiệp (Positioning), bạn cần thực hiện công việc gì?",
+          "lua_chon": {
+            "A": "Bán hàng với giá rẻ nhất thị trường bằng mọi cách.",
+            "B": "Tạo ra hình ảnh và giá trị khác biệt trong tâm trí khách hàng mục tiêu.",
+            "C": "Sao chép hoàn toàn chiến lược của đối thủ dẫn đầu.",
+            "D": "Thay đổi sản phẩm liên tục mỗi tuần."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Một startup bán đặc sản khoai lang Bình Tân (Vĩnh Long) chọn phân khúc khách hàng là \"nhân viên văn phòng tại TP.HCM yêu thích thực phẩm sạch\". Đây là bước nào trong chiến lược STP?",
+          "lua_chon": {
+            "A": "Segmentation (Phân khúc).",
+            "B": "Targeting (Chọn thị trường mục tiêu).",
+            "C": "Positioning (Định vị).",
+            "D": "Promotion (Chiêu thị)."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Chiến lược \"Giá xâm nhập\" (Penetration Pricing) thường được áp dụng cho doanh nghiệp mới với mục tiêu:",
+          "lua_chon": {
+            "A": "Tối đa hóa lợi nhuận ngay từ khi bắt đầu.",
+            "B": "Thu hút khách hàng và chiếm lĩnh thị phần nhanh chóng bằng mức giá thấp.",
+            "C": "Khẳng định vị thế hàng xa xỉ, cao cấp.",
+            "D": "Bù đắp chi phí sản xuất cao của doanh nghiệp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "\"Unique Selling Point\" (USP) là thuật ngữ chỉ:",
+          "lua_chon": {
+            "A": "Tổng doanh thu bán hàng trong một tháng.",
+            "B": "Điểm bán hàng độc nhất giúp sản phẩm khác biệt với đối thủ.",
+            "C": "Danh sách các nhà cung cấp nguyên liệu rẻ nhất.",
+            "D": "Một loại phần mềm dùng để quản lý kho hàng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Trong Marketing hỗn hợp 4P, thành phần \"Place\" (Phân phối) quyết định vấn đề nào?",
+          "lua_chon": {
+            "A": "Tên gọi và logo của sản phẩm.",
+            "B": "Các chương trình khuyến mãi giảm giá.",
+            "C": "Kênh đưa sản phẩm từ nơi sản xuất đến tay người tiêu dùng.",
+            "D": "Quy trình sản xuất ra sản phẩm mẫu."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Slogan (Khẩu hiệu) của một nhãn hiệu khởi nghiệp cần đảm bảo yếu tố nào?",
+          "lua_chon": {
+            "A": "Ngắn gọn, dễ nhớ và truyền tải được giá trị cốt lõi của thương hiệu.",
+            "B": "Càng dài và phức tạp càng chứng tỏ sự chuyên nghiệp.",
+            "C": "Sử dụng nhiều thuật ngữ kỹ thuật khó hiểu.",
+            "D": "Phải giống hệt slogan của các công ty đa quốc gia."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Một bộ nhận diện thương hiệu chuyên nghiệp bao gồm các thành phần:",
+          "lua_chon": {
+            "A": "Logo, Slogan, màu sắc chủ đạo, font chữ và các ấn phẩm truyền thông đồng bộ.",
+            "B": "Danh sách địa chỉ của tất cả đối thủ cạnh tranh.",
+            "C": "Bảng kê khai tài sản cá nhân của giám đốc.",
+            "D": "Các quy định về kỷ luật lao động của công ty."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Marketing Mix 7P\" thường được áp dụng bổ sung cho lĩnh vực nào?",
+          "lua_chon": {
+            "A": "Sản xuất các loại máy móc cơ khí hạng nặng.",
+            "B": "Kinh doanh các loại hình dịch vụ (như du lịch, đào tạo).",
+            "C": "Khai thác tài nguyên khoáng sản tự nhiên.",
+            "D": "Chỉ dành riêng cho các tập đoàn đa quốc gia."
+          },
+          "dap_an": "B"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày quy trình STP (Segmentation – Targeting – Positioning) và minh họa bằng một ví dụ khởi nghiệp giả định tự chọn."
+        },
+        {
+          "cau_hoi": "Phân tích vai trò của từng thành phần trong Marketing hỗn hợp 4P (Product, Price, Place, Promotion) đối với một doanh nghiệp mới thành lập, ít vốn."
+        },
+        {
+          "cau_hoi": "So sánh chiến lược giá xâm nhập (Penetration Pricing) và giá hớt váng (Skimming Pricing): nên áp dụng chiến lược nào cho loại sản phẩm nào, vì sao?"
+        },
+        {
+          "cau_hoi": "Phân tích vì sao đạo đức kinh doanh (quảng cáo trung thực, tránh 'greenwashing') cần đi cùng mọi hoạt động Marketing, dù doanh nghiệp đang ở giai đoạn khởi đầu nguồn lực hạn hẹp."
+        },
+        {
+          "cau_hoi": "Trình bày các thành phần bổ sung của Marketing Mix 7P so với 4P, và giải thích vì sao mô hình 7P phù hợp hơn với lĩnh vực dịch vụ."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Sản phẩm bánh khoai lang đóng gói của chị Hoa (Bình Tân, Vĩnh Long) đã có khách hàng ổn định tại địa phương, nhưng chị muốn mở rộng bán cho nhân viên văn phòng tại Thành phố Hồ Chí Minh — nhóm khách hàng quan tâm thực phẩm sạch, có nguồn gốc rõ ràng. Chị có ngân sách Marketing rất hạn chế, chủ yếu dựa vào mạng xã hội. (Đây là tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Áp dụng STP để xác định Segmentation, Targeting, Positioning cho sản phẩm của chị Hoa khi mở rộng sang thị trường Thành phố Hồ Chí Minh. b) Đề xuất một chiến lược 'Marketing 0 đồng' phù hợp với ngân sách hạn chế của chị.",
+          "goi_y_dap_an": "a) Segmentation: thị trường thực phẩm chế biến từ nông sản, phân theo khu vực thành thị/nông thôn và theo mối quan tâm sức khỏe. Targeting: chọn nhóm nhân viên văn phòng tại Thành phố Hồ Chí Minh, quan tâm thực phẩm sạch, có thu nhập ổn định. Positioning: định vị sản phẩm là 'món ăn vặt lành mạnh, có nguồn gốc rõ ràng từ nông dân Vĩnh Long', khác biệt với các sản phẩm công nghiệp đại trà. b) Chiến lược Marketing 0 đồng: tận dụng mạng xã hội để kể câu chuyện thật về quá trình trồng, chế biến khoai lang thủ công; khuyến khích khách hàng đầu tiên chia sẻ trải nghiệm (truyền miệng số); tham gia các hội nhóm mua sắm thực phẩm sạch trên Facebook để tiếp cận đúng nhóm khách hàng mục tiêu mà không cần chi phí quảng cáo lớn."
+        },
+        {
+          "mo_ta": "Dự án gốm đỏ Vĩnh Long muốn xây dựng bộ nhận diện thương hiệu và một câu chuyện thương hiệu (Brand Story) để phân phối sản phẩm tới khách du lịch, nhưng còn lưỡng lự giữa việc kể câu chuyện 'làng nghề truyền thống hàng trăm năm' (nhấn mạnh lịch sử) hoặc câu chuyện 'thế hệ trẻ hiện đại hóa nghề gốm của ông bà' (nhấn mạnh đổi mới). (Đây là tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Phân tích ưu, nhược điểm của hai hướng câu chuyện thương hiệu trên đối với nhóm khách hàng mục tiêu là khách du lịch trẻ. b) Đề xuất các thành phần cần có trong bộ nhận diện thương hiệu của dự án để câu chuyện thương hiệu được truyền tải nhất quán.",
+          "goi_y_dap_an": "a) Câu chuyện 'làng nghề truyền thống hàng trăm năm' tạo cảm giác uy tín, chiều sâu văn hóa, phù hợp khách muốn tìm hiểu lịch sử/di sản, nhưng có thể kém hấp dẫn với khách trẻ nếu kể theo cách khô cứng. Câu chuyện 'thế hệ trẻ hiện đại hóa nghề gốm của ông bà' tạo sự gần gũi, truyền cảm hứng, dễ lan tỏa trên mạng xã hội với khách du lịch trẻ, nhưng cần đảm bảo vẫn giữ được tính chân thực, không đánh mất giá trị truyền thống gốc. Có thể kết hợp cả hai: lấy truyền thống làm nền, đổi mới làm điểm nhấn kể chuyện. b) Bộ nhận diện cần có: logo lấy cảm hứng từ hình ảnh gốm đỏ đặc trưng, bảng màu đất đỏ/nâu đặc trưng của sản phẩm, slogan ngắn gọn truyền tải đúng câu chuyện đã chọn, font chữ và các ấn phẩm (bao bì, bảng hiệu, hình ảnh mạng xã hội) được thiết kế đồng bộ để khách hàng nhận diện nhất quán dù gặp thương hiệu ở bất kỳ kênh nào."
+        }
+      ]
+    }
+  },
+  "ngan_hang_ket_thuc_chuong": {
+    "chuong_04": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "Loại hình doanh nghiệp nào mà chủ sở hữu phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân của mình đối với các nghĩa vụ nợ của doanh nghiệp?",
+          "lua_chon": {
+            "A": "Công ty TNHH một thành viên.",
+            "B": "Công ty Cổ phần.",
+            "C": "Doanh nghiệp tư nhân.",
+            "D": "Công ty TNHH hai thành viên trở lên."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Đặc điểm nổi bật nhất của mô hình Nhượng quyền kinh doanh (Franchising) là gì?",
+          "lua_chon": {
+            "A": "Tự xây dựng quy trình quản lý hoàn toàn mới từ đầu.",
+            "B": "Được sử dụng thương hiệu và hệ thống vận hành sẵn có của bên nhượng quyền.",
+            "C": "Không phải trả bất kỳ khoản phí nào cho chủ thương hiệu.",
+            "D": "Tự do thay đổi bộ nhận diện thương hiệu theo ý muốn cá nhân."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Theo Luật Doanh nghiệp, loại hình nào sau đây có quyền phát hành cổ phiếu để huy động vốn rộng rãi từ công chúng?",
+          "lua_chon": {
+            "A": "Doanh nghiệp tư nhân.",
+            "B": "Công ty TNHH.",
+            "C": "Hộ kinh doanh cá thể.",
+            "D": "Công ty Cổ phần."
+          },
+          "dap_an": "D"
+        },
+        {
+          "cau_hoi": "Đối với phụ nữ và người dân tộc thiểu số khởi nghiệp quy mô nhỏ tại địa phương, mô hình nào thường được ưu tiên để tận dụng chính sách hỗ trợ?",
+          "lua_chon": {
+            "A": "Công ty Cổ phần niêm yết.",
+            "B": "Hộ kinh doanh hoặc Tổ hợp tác.",
+            "C": "Công ty hợp danh.",
+            "D": "Tập đoàn kinh tế đa quốc gia."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Một dự án khởi nghiệp bền vững theo nội dung bài học phải luôn hướng đến mục tiêu nào?",
+          "lua_chon": {
+            "A": "Đạt lợi nhuận cao nhất bằng mọi giá trong thời gian ngắn nhất.",
+            "B": "Chỉ tập trung tối đa vào doanh thu ngắn hạn để thu hồi vốn.",
+            "C": "Đảm bảo đạo đức kinh doanh và trách nhiệm với môi trường, xã hội.",
+            "D": "Sử dụng các phương pháp cạnh tranh không lành mạnh để chiếm thị trường."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Một nhược điểm đáng lưu ý của mô hình nhượng quyền kinh doanh đối với người mới bắt đầu là:",
+          "lua_chon": {
+            "A": "Phải tự mình nghiên cứu và phát triển sản phẩm mới.",
+            "B": "Mất tính độc lập và phải tuân thủ nghiêm ngặt các quy chuẩn của bên nhượng quyền.",
+            "C": "Thương hiệu chuyển nhượng thường chưa có uy tín trên thị trường.",
+            "D": "Không nhận được bất kỳ sự hỗ trợ nào về Marketing từ chủ thương hiệu."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Theo quy định pháp luật hiện hành, Công ty TNHH hai thành viên trở lên có số lượng thành viên tối đa là:",
+          "lua_chon": {
+            "A": "10 thành viên.",
+            "B": "20 thành viên.",
+            "C": "50 thành viên.",
+            "D": "Không giới hạn số lượng thành viên tham gia."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Việc lựa chọn mô hình kinh doanh phù hợp với năng lực thực tế của bản thân nhằm mục đích:",
+          "lua_chon": {
+            "A": "Giảm thiểu rủi ro pháp lý và tăng khả năng thành công cho dự án.",
+            "B": "Chỉ để làm cho hồ sơ dự án trông chuyên nghiệp hơn với nhà đầu tư.",
+            "C": "Để thu hút vốn đầu tư mà không cần quan tâm đến khả năng vận hành.",
+            "D": "Chỉ nhằm mục đích đối phó với các thủ tục hành chính đơn thuần."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Phụ nữ khởi nghiệp tại địa phương chọn mô hình \"Hộ kinh doanh\" sẽ được hưởng lợi thế nào về quản lý?",
+          "lua_chon": {
+            "A": "Chế độ kế toán đơn giản và không bắt buộc phải có kế toán trưởng chuyên trách.",
+            "B": "Được phép phát hành trái phiếu rộng rãi để vay vốn từ công chúng.",
+            "C": "Được miễn hoàn toàn tất cả các loại thuế kinh doanh theo luật định.",
+            "D": "Hoàn toàn không cần phải thực hiện đăng ký với cơ quan chức năng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Đặc điểm pháp lý quan trọng nhất của Công ty TNHH hai thành viên trở lên là:",
+          "lua_chon": {
+            "A": "Có quyền phát hành cổ phiếu để huy động vốn đại chúng rộng rãi.",
+            "B": "Thành viên chỉ chịu trách nhiệm về nợ nần trong phạm vi số vốn đã cam kết góp.",
+            "C": "Không giới hạn số lượng thành viên tham gia góp vốn.",
+            "D": "Chủ sở hữu bắt buộc phải là một cá nhân duy nhất đứng tên."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Theo Luật Doanh nghiệp Việt Nam, loại hình nào sau đây KHÔNG có tư cách pháp nhân?",
+          "lua_chon": {
+            "A": "Công ty Cổ phần.",
+            "B": "Công ty TNHH một thành viên.",
+            "C": "Doanh nghiệp tư nhân.",
+            "D": "Công ty hợp danh."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Ưu điểm của mô hình \"Hợp tác xã kiểu mới\" đối với nông dân tại Vĩnh Long là:",
+          "lua_chon": {
+            "A": "Giúp liên kết sản xuất, nâng cao sức cạnh tranh và giảm chi phí đầu vào.",
+            "B": "Giúp mỗi thành viên hoàn toàn độc lập và không cần liên kết với ai.",
+            "C": "Chỉ phục vụ mục đích từ thiện, không vì lợi nhuận.",
+            "D": "Cho phép thành viên không cần đóng góp bất kỳ nguồn lực nào."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Mô hình \"Thương mại điện tử\" (E-commerce) giúp doanh nghiệp khởi nghiệp:",
+          "lua_chon": {
+            "A": "Tiếp cận khách hàng không giới hạn địa lý với chi phí mặt bằng thấp.",
+            "B": "Không cần phải thực hiện thủ tục đăng ký kinh doanh.",
+            "C": "Không cần phải đóng bất kỳ khoản thuế nào.",
+            "D": "Không cần quan tâm đến chất lượng sản phẩm thực tế."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Việc lựa chọn loại hình doanh nghiệp phù hợp phụ thuộc vào yếu tố nào sau đây?",
+          "lua_chon": {
+            "A": "Số lượng thành viên góp vốn.",
+            "B": "Mục tiêu huy động vốn trong tương lai.",
+            "C": "Mức độ chấp nhận rủi ro về tài sản cá nhân.",
+            "D": "Tất cả các yếu tố trên."
+          },
+          "dap_an": "D"
+        },
+        {
+          "cau_hoi": "Thủ tục đăng ký kinh doanh hiện nay có thể thực hiện thông qua kênh nào để tiết kiệm thời gian?",
+          "lua_chon": {
+            "A": "Chỉ thực hiện trực tiếp tại trụ sở cơ quan đăng ký.",
+            "B": "Thực hiện trực tuyến qua Cổng thông tin quốc gia về đăng ký doanh nghiệp.",
+            "C": "Gửi thư tay qua đường bưu điện không cần hồ sơ.",
+            "D": "Thông báo qua mạng xã hội cá nhân là đủ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Một cá nhân chỉ được quyền thành lập bao nhiêu Doanh nghiệp tư nhân?",
+          "lua_chon": {
+            "A": "Duy nhất 01 doanh nghiệp tư nhân.",
+            "B": "Không giới hạn số lượng.",
+            "C": "Tối đa 05 doanh nghiệp tư nhân.",
+            "D": "Tùy thuộc vào số vốn mà cá nhân đó sở hữu."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Rủi ro pháp lý \"Trách nhiệm vô hạn\" của chủ doanh nghiệp tư nhân nghĩa là:",
+          "lua_chon": {
+            "A": "Chỉ phải trả nợ trong số vốn đã đăng ký kinh doanh.",
+            "B": "Phải dùng toàn bộ tài sản cá nhân (nhà cửa, xe cộ,...) để trả nợ nếu doanh nghiệp thua lỗ.",
+            "C": "Ngân hàng sẽ chịu trách nhiệm trả nợ thay cho chủ doanh nghiệp.",
+            "D": "Doanh nghiệp không bao giờ lâm vào tình trạng nợ nần."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "\"Nhãn hiệu\" (Trademark) của một doanh nghiệp khởi nghiệp nên được đăng ký bảo hộ khi nào?",
+          "lua_chon": {
+            "A": "Càng sớm càng tốt ngay khi dự án bắt đầu triển khai để tránh bị xâm phạm bản quyền.",
+            "B": "Sau khi doanh nghiệp đã trở nên nổi tiếng trên toàn cầu.",
+            "C": "Chỉ khi có sự yêu cầu từ phía đối thủ cạnh tranh.",
+            "D": "Khi doanh nghiệp chuẩn bị giải thể."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Phí nhượng quyền định kỳ\" (Royalty fee) thường được tính dựa trên:",
+          "lua_chon": {
+            "A": "Phần trăm doanh thu hàng tháng của bên nhận quyền.",
+            "B": "Số lượng nhân viên mà cửa hàng thuê.",
+            "C": "Số năm kinh nghiệm của chủ cửa hàng.",
+            "D": "Diện tích của mặt bằng kinh doanh."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Một trong những điều kiện để trở thành \"Thành viên hợp danh\" trong Công ty Hợp danh là:",
+          "lua_chon": {
+            "A": "Phải là cá nhân và chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân.",
+            "B": "Phải là một tổ chức kinh tế lớn có vốn hàng tỷ đồng.",
+            "C": "Không được tham gia vào các hoạt động quản lý công ty.",
+            "D": "Chỉ cần đóng một khoản phí tham gia nhỏ hàng năm."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Đối với người dân tộc thiểu số khởi nghiệp du lịch cộng đồng, mô hình nào giúp bảo tồn văn hóa tốt nhất?",
+          "lua_chon": {
+            "A": "Mô hình hợp tác dựa trên cộng đồng địa phương cùng tham gia hưởng lợi.",
+            "B": "Nhượng quyền một thương hiệu khách sạn quốc tế vào bản làng.",
+            "C": "Mô hình doanh nghiệp tư nhân do người từ nơi khác đến sở hữu 100%.",
+            "D": "Không cần bất kỳ hình thức tổ chức kinh doanh nào."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Một startup công nghệ muốn huy động vốn từ nhiều nhà đầu tư nhỏ nên chọn:",
+          "lua_chon": {
+            "A": "Hộ kinh doanh cá thể.",
+            "B": "Công ty Cổ phần.",
+            "C": "Doanh nghiệp tư nhân.",
+            "D": "Tổ hợp tác xã sản xuất."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Mô hình \"Liên kết chuỗi giá trị\" trong nông nghiệp giúp người DTTS:",
+          "lua_chon": {
+            "A": "Kết nối từ khâu sản xuất đến khâu tiêu thụ ổn định và bền vững.",
+            "B": "Có thể bán hàng với giá cao gấp 10 lần thị trường mà không cần chất lượng.",
+            "C": "Để tránh sự quản lý của các hợp tác xã địa phương.",
+            "D": "Chỉ nhằm mục đích nhận hỗ trợ tiền mặt từ các tổ chức xã hội."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Hợp đồng nhượng quyền\" (Franchise Agreement) là văn bản pháp lý quy định:",
+          "lua_chon": {
+            "A": "Quyền và nghĩa vụ giữa bên nhượng quyền và bên nhận quyền.",
+            "B": "Danh sách các khách hàng mục tiêu của khu vực đó.",
+            "C": "Mức lương của toàn bộ nhân viên làm việc tại cửa hàng.",
+            "D": "Thời gian nghỉ lễ của chủ doanh nghiệp nhận quyền."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Tại sao \"Công ty TNHH một thành viên\" thường được các cá nhân khởi nghiệp lựa chọn?",
+          "lua_chon": {
+            "A": "Chủ sở hữu toàn quyền quyết định và chỉ chịu trách nhiệm hữu hạn trong phạm vi vốn góp.",
+            "B": "Vì đây là loại hình doanh nghiệp không bao giờ có rủi ro thua lỗ.",
+            "C": "Vì mô hình này không cần phải thực hiện các nghĩa vụ về thuế.",
+            "D": "Do đây là loại hình doanh nghiệp duy nhất được phép quảng cáo trên truyền hình."
+          },
+          "dap_an": "A"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày khái niệm 'tư cách pháp nhân' và nêu loại hình doanh nghiệp nào theo Luật Doanh nghiệp không có tư cách pháp nhân."
+        },
+        {
+          "cau_hoi": "Phân tích vai trò và trách nhiệm của 'Người đại diện theo pháp luật' trong một doanh nghiệp khởi nghiệp."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm 'vốn điều lệ' và phân biệt với vốn vay hoặc vốn huy động từ nhà đầu tư."
+        },
+        {
+          "cau_hoi": "Phân tích lợi ích của việc đăng ký kinh doanh trực tuyến qua Cổng thông tin quốc gia về đăng ký doanh nghiệp so với đăng ký trực tiếp."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm 'rào cản gia nhập thị trường' và phân tích vì sao việc phân tích rào cản này giúp người khởi nghiệp chọn mô hình kinh doanh phù hợp."
+        },
+        {
+          "cau_hoi": "Phân tích mô hình 'liên kết chuỗi giá trị' trong nông nghiệp và lợi ích của mô hình này đối với người dân tộc thiểu số sản xuất nông sản."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm 'Nhượng quyền từng phần' (Partial Franchising) và so sánh với nhượng quyền toàn phần truyền thống."
+        },
+        {
+          "cau_hoi": "Phân tích vì sao mô hình 'nhóm nghiên cứu khởi nghiệp' trong môi trường đại học được xem là bước đệm hợp lý trước khi thành lập doanh nghiệp chính thức."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Một doanh nghiệp chuỗi cửa hàng đặc sản miền Tây ngỏ ý mời chị Hoa trở thành đại lý nhượng quyền (franchisee) để bán sản phẩm khoai lang của chị qua hệ thống 20 cửa hàng của họ trên toàn quốc, với điều kiện chị phải đóng phí nhượng quyền ban đầu và phí định kỳ 8% trên doanh thu, đồng thời phải đóng gói sản phẩm đúng theo quy chuẩn bao bì của chuỗi. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Đây là mô hình nhượng quyền theo chiều nào — chị Hoa là bên nhượng quyền hay bên nhận quyền? b) Phân tích lợi ích và rủi ro của lời mời này đối với chị Hoa.",
+          "goi_y_dap_an": "a) Trong tình huống này, chị Hoa là bên nhận quyền phân phối (được sử dụng hệ thống/kênh bán hàng có sẵn của chuỗi 20 cửa hàng), còn chuỗi cửa hàng đóng vai trò gần với bên nhượng quyền kênh phân phối. b) Lợi ích: tiếp cận ngay 20 cửa hàng trên toàn quốc mà không cần tự xây dựng kênh phân phối, tăng doanh thu nhanh. Rủi ro: phải trả phí định kỳ 8% doanh thu làm giảm biên lợi nhuận, phải tuân theo quy chuẩn bao bì của chuỗi nên mất một phần tính tự chủ trong xây dựng hình ảnh thương hiệu riêng, và phụ thuộc vào uy tín/hoạt động của chuỗi."
+        },
+        {
+          "mo_ta": "Sau 3 năm hoạt động dưới mô hình Hợp tác xã, dự án gốm đỏ Vĩnh Long muốn huy động vốn lớn hơn để đầu tư lò nung hiện đại, dự tính kêu gọi khoảng 15 nhà đầu tư cá nhân góp vốn, trong đó có một quỹ đầu tư muốn nắm giữ cổ phần và có quyền biểu quyết theo tỷ lệ góp vốn. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Mô hình Hợp tác xã hiện tại có còn phù hợp với nhu cầu vốn mới này không? Vì sao? b) Đề xuất loại hình doanh nghiệp phù hợp hơn và giải thích.",
+          "goi_y_dap_an": "a) Mô hình Hợp tác xã không còn hoàn toàn phù hợp, vì nguyên tắc biểu quyết dân chủ 'mỗi thành viên một phiếu bất kể vốn góp' của Hợp tác xã không đáp ứng được yêu cầu của quỹ đầu tư muốn có quyền biểu quyết theo tỷ lệ vốn góp. b) Nên chuyển đổi hoặc thành lập thêm pháp nhân theo mô hình Công ty Cổ phần hoặc Công ty TNHH nhiều thành viên — các mô hình này cho phép biểu quyết theo tỷ lệ vốn góp và có cơ chế huy động vốn từ nhiều nhà đầu tư rõ ràng hơn, đặc biệt Công ty Cổ phần còn có quyền phát hành cổ phiếu nếu cần huy động vốn rộng hơn nữa về sau."
+        },
+        {
+          "mo_ta": "Một nhóm 6 phụ nữ dân tộc Khmer ở Trà Vinh (gần Vĩnh Long) cùng nhau làm mứt trái cây sấy để bán, mỗi người góp một phần nguyên liệu và công lao động, chưa ai từng đăng ký kinh doanh. Họ muốn hợp tác lâu dài nhưng không ai muốn chịu trách nhiệm cá nhân về toàn bộ nợ nếu có rủi ro. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Nhóm này có thể chọn mô hình nào để vừa hợp tác lâu dài, vừa đảm bảo nguyên tắc công bằng giữa 6 người, vừa không ai phải chịu trách nhiệm vô hạn? b) Vì sao không nên chọn mô hình Doanh nghiệp tư nhân trong trường hợp này?",
+          "goi_y_dap_an": "a) Phù hợp nhất là mô hình Hợp tác xã kiểu mới (hoặc Tổ hợp tác nếu quy mô còn rất nhỏ, sau này phát triển lên Hợp tác xã) — áp dụng nguyên tắc biểu quyết dân chủ, mỗi thành viên một phiếu ngang nhau dù góp nguyên liệu/công lao động không hoàn toàn bằng nhau, đồng thời Hợp tác xã có tư cách pháp nhân riêng, tách bạch tài sản của hợp tác xã với tài sản cá nhân từng thành viên. b) Không nên chọn Doanh nghiệp tư nhân vì loại hình này chỉ do một cá nhân làm chủ và chịu trách nhiệm vô hạn bằng toàn bộ tài sản cá nhân — không phù hợp với một nhóm nhiều người cùng góp sức, và sẽ dồn hết rủi ro pháp lý lên một người duy nhất."
+        }
+      ]
+    },
+    "chuong_05": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "Bước đầu tiên và quan trọng nhất trong việc xây dựng chiến lược Marketing cho doanh nghiệp mới là gì?",
+          "lua_chon": {
+            "A": "Thiết kế logo và bộ nhận diện thương hiệu.",
+            "B": "Chọn thị trường mục tiêu và xác định vị thế doanh nghiệp.",
+            "C": "Quyết định mức giá bán sản phẩm.",
+            "D": "Thuê nhân viên bán hàng chuyên nghiệp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Việc chia thị trường thành các nhóm khách hàng khác nhau dựa trên các đặc điểm về địa lý, nhân khẩu học hoặc hành vi được gọi là:",
+          "lua_chon": {
+            "A": "Định vị thị trường.",
+            "B": "Phân khúc thị trường.",
+            "C": "Tiếp thị hỗn hợp.",
+            "D": "Xây dựng nhãn hiệu."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Trong hoạt động Marketing hiện đại, người khởi nghiệp cần chú trọng ứng dụng yếu tố nào để tiết kiệm chi phí?",
+          "lua_chon": {
+            "A": "Các phương pháp quảng cáo truyền thống tốn phí.",
+            "B": "Các công cụ số và phần mềm hỗ trợ.",
+            "C": "Kỹ thuật in ấn tờ rơi quy mô lớn.",
+            "D": "Tổ chức sự kiện trực tiếp tại hiện trường."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Thành phần \"4P\" cơ bản trong Marketing hỗn hợp cho doanh nghiệp mới bao gồm:",
+          "lua_chon": {
+            "A": "Con người, Quy trình, Bằng chứng hữu hình, Giá cả.",
+            "B": "Sản phẩm, Vị trí, Khuyến mãi, Nhân sự.",
+            "C": "Sản phẩm, Giá cả, Phân phối, Chiêu thị (Promotion).",
+            "D": "Chiến lược, Mục tiêu, Ngân sách, Kiểm soát."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Khi xây dựng nhãn hiệu (brand), yếu tố nào giúp khách hàng nhận diện doanh nghiệp ngay lập tức?",
+          "lua_chon": {
+            "A": "Danh sách bảng lương nhân viên.",
+            "B": "Logo, tên gọi và bộ nhận diện thương hiệu.",
+            "C": "Quy trình sản xuất chi tiết.",
+            "D": "Báo cáo tài chính quý."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Việc xác định đối tượng khách hàng mục tiêu giúp doanh nghiệp mới:",
+          "lua_chon": {
+            "A": "Tập trung nguồn lực hạn hẹp vào nhóm khách hàng mang lại giá trị cao nhất.",
+            "B": "Phục vụ tất cả mọi khách hàng có mặt trên thị trường.",
+            "C": "Tăng chi phí quảng cáo đại trà.",
+            "D": "Không cần quan tâm đến đối thủ cạnh tranh."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Hoạt động Marketing của một dự án khởi nghiệp bền vững phải luôn hướng đến điều gì?",
+          "lua_chon": {
+            "A": "Lôi kéo khách hàng bằng mọi giá.",
+            "B": "Không vi phạm đạo đức kinh doanh và hướng đến phát triển bền vững.",
+            "C": "Đánh bại đối thủ bằng các thông tin sai lệch.",
+            "D": "Chỉ tập trung vào lợi nhuận tối đa trong ngắn hạn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Để xác định vị thế của doanh nghiệp (Positioning), bạn cần thực hiện công việc gì?",
+          "lua_chon": {
+            "A": "Bán hàng với giá rẻ nhất thị trường bằng mọi cách.",
+            "B": "Tạo ra hình ảnh và giá trị khác biệt trong tâm trí khách hàng mục tiêu.",
+            "C": "Sao chép hoàn toàn chiến lược của đối thủ dẫn đầu.",
+            "D": "Thay đổi sản phẩm liên tục mỗi tuần."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Khi thiết kế Marketing hỗn hợp cho sản phẩm đặc sản vùng dân tộc thiểu số, cần đặc biệt lưu ý:",
+          "lua_chon": {
+            "A": "Áp dụng các chiến dịch Marketing toàn cầu phức tạp.",
+            "B": "Phù hợp với năng lực bản thân, văn hóa địa phương và nguồn lực sẵn có.",
+            "C": "Sử dụng tiếng nước ngoài hoàn toàn trong các biển hiệu.",
+            "D": "Chỉ bán hàng trực tiếp, không sử dụng công nghệ số."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Chiến lược Marketing hỗn hợp (4P) cho doanh nghiệp mới của người dân tộc thiểu số nên chú trọng yếu tố nào nhất để tạo sự khác biệt?",
+          "lua_chon": {
+            "A": "Giá bán cao hơn hẳn đối thủ cạnh tranh để khẳng định đẳng cấp.",
+            "B": "Sản phẩm (Product) gắn liền với bản sắc văn hóa và chuyện thương hiệu độc đáo.",
+            "C": "Kênh phân phối (Place) chỉ tập trung tại các cửa hàng vật lý truyền thống.",
+            "D": "Chiêu thị (Promotion) bằng cách thuê các nghệ sĩ nổi tiếng thế giới."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Một startup bán đặc sản khoai lang Bình Tân (Vĩnh Long) chọn phân khúc khách hàng là \"nhân viên văn phòng tại TP.HCM yêu thích thực phẩm sạch\". Đây là bước nào trong chiến lược STP?",
+          "lua_chon": {
+            "A": "Segmentation (Phân khúc).",
+            "B": "Targeting (Chọn thị trường mục tiêu).",
+            "C": "Positioning (Định vị).",
+            "D": "Promotion (Chiêu thị)."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Chiến lược \"Giá xâm nhập\" (Penetration Pricing) thường được áp dụng cho doanh nghiệp mới với mục tiêu:",
+          "lua_chon": {
+            "A": "Tối đa hóa lợi nhuận ngay từ khi bắt đầu.",
+            "B": "Thu hút khách hàng và chiếm lĩnh thị phần nhanh chóng bằng mức giá thấp.",
+            "C": "Khẳng định vị thế hàng xa xỉ, cao cấp.",
+            "D": "Bù đắp chi phí sản xuất cao của doanh nghiệp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Tại sao doanh nghiệp mới thường chọn chiến lược \"Tập trung vào thị trường ngách\" (Niche Market)?",
+          "lua_chon": {
+            "A": "Vì nguồn lực hạn hẹp và tránh đối đầu trực tiếp với các đối thủ lớn.",
+            "B": "Vì không muốn bán hàng cho nhiều người.",
+            "C": "Vì muốn sản phẩm của mình luôn có giá đắt nhất.",
+            "D": "Vì mô hình này không cần thực hiện các hoạt động chiêu thị."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Unique Selling Point\" (USP) là thuật ngữ chỉ:",
+          "lua_chon": {
+            "A": "Tổng doanh thu bán hàng trong một tháng.",
+            "B": "Điểm bán hàng độc nhất giúp sản phẩm khác biệt với đối thủ.",
+            "C": "Danh sách các nhà cung cấp nguyên liệu rẻ nhất.",
+            "D": "Một loại phần mềm dùng để quản lý kho hàng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Trong Marketing hỗn hợp 4P, thành phần \"Place\" (Phân phối) quyết định vấn đề nào?",
+          "lua_chon": {
+            "A": "Tên gọi và logo của sản phẩm.",
+            "B": "Các chương trình khuyến mãi giảm giá.",
+            "C": "Kênh đưa sản phẩm từ nơi sản xuất đến tay người tiêu dùng.",
+            "D": "Quy trình sản xuất ra sản phẩm mẫu."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "Việc lựa chọn kênh quảng bá qua TikTok cho sản phẩm trà sữa dành cho giới trẻ là ứng dụng tiêu chí nào trong phân khúc thị trường?",
+          "lua_chon": {
+            "A": "Tiêu chí địa lý vùng miền.",
+            "B": "Tiêu chí nhân khẩu học (độ tuổi) và hành vi (thói quen dùng mạng xã hội).",
+            "C": "Tiêu chí thu nhập của hộ gia đình.",
+            "D": "Tiêu chí trình độ học vấn của khách hàng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "\"Marketing 0 đồng\" cho doanh nghiệp mới thường được thực hiện thông qua:",
+          "lua_chon": {
+            "A": "Quảng cáo trên truyền hình trong khung giờ vàng.",
+            "B": "Tận dụng nội dung sáng tạo thu hút sự chia sẻ tự nhiên của cộng đồng mạng.",
+            "C": "Thuê các đại sứ thương hiệu là người nổi tiếng thế giới.",
+            "D": "Tổ chức các buổi đại nhạc hội quy mô lớn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Thành phần \"Product\" trong 4P của một Startup dịch vụ bao gồm:",
+          "lua_chon": {
+            "A": "Trải nghiệm, lợi ích và sự hài lòng mà dịch vụ mang lại cho khách hàng.",
+            "B": "Số lượng máy tính hiện có trong văn phòng.",
+            "C": "Danh sách tên các cổ đông sáng lập.",
+            "D": "Mức lãi suất vay vốn ngân hàng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Việc xác định \"Chân dung khách hàng mục tiêu\" cần làm rõ yếu tố nào sau đây?",
+          "lua_chon": {
+            "A": "Sở thích, thói quen và những \"nỗi đau\" của khách hàng.",
+            "B": "Độ tuổi, thu nhập và vị trí địa lý của khách hàng.",
+            "C": "Lý do tại sao khách hàng nên chọn sản phẩm của bạn.",
+            "D": "Tất cả các yếu tố trên."
+          },
+          "dap_an": "D"
+        },
+        {
+          "cau_hoi": "Một bộ nhận diện thương hiệu chuyên nghiệp bao gồm các thành phần:",
+          "lua_chon": {
+            "A": "Logo, Slogan, màu sắc chủ đạo, font chữ và các ấn phẩm truyền thông đồng bộ.",
+            "B": "Danh sách địa chỉ của tất cả đối thủ cạnh tranh.",
+            "C": "Bảng kê khai tài sản cá nhân của giám đốc.",
+            "D": "Các quy định về kỷ luật lao động của công ty."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "Chiến lược \"Giá hớt váng\" (Skimming Pricing) thường áp dụng cho sản phẩm:",
+          "lua_chon": {
+            "A": "Có tính độc đáo cao, mới lạ trên thị trường và dành cho nhóm khách hàng thích dẫn đầu xu hướng.",
+            "B": "Các mặt hàng nhu yếu phẩm hàng ngày có sự cạnh tranh gay gắt.",
+            "C": "Sản phẩm đã lỗi thời cần thanh lý gấp.",
+            "D": "Chỉ dành riêng cho các dự án khởi nghiệp phi lợi nhuận."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Digital Marketing\" trong khởi nghiệp tập trung vào:",
+          "lua_chon": {
+            "A": "Quảng bá sản phẩm trên các nền tảng trực tuyến như mạng xã hội, email, website.",
+            "B": "Việc thuê người đi phát tờ rơi tại các ngã tư đường.",
+            "C": "Tổ chức các buổi hội thảo truyền thống tại các khách sạn lớn.",
+            "D": "Gửi thư tay trực tiếp đến từng hộ gia đình."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Kinh tế số\" yêu cầu Marketing khởi nghiệp phải chuyển dịch từ:",
+          "lua_chon": {
+            "A": "Tiếp cận đại trà sang tiếp cận khách hàng mục tiêu một cách cá nhân hóa.",
+            "B": "Bán hàng trực tiếp sang bán hàng chỉ qua điện thoại bàn.",
+            "C": "Chỉ dùng tiền mặt sang chỉ dùng hình thức trao đổi hàng hóa.",
+            "D": "Việc quan tâm đến chất lượng sang chỉ quan tâm đến hình ảnh trên mạng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "\"Marketing Mix 7P\" thường được áp dụng bổ sung cho lĩnh vực nào?",
+          "lua_chon": {
+            "A": "Sản xuất các loại máy móc cơ khí hạng nặng.",
+            "B": "Kinh doanh các loại hình dịch vụ (như du lịch, đào tạo).",
+            "C": "Khai thác tài nguyên khoáng sản tự nhiên.",
+            "D": "Chỉ dành riêng cho các tập đoàn đa quốc gia."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "Tại sao \"Văn hóa bản địa\" là vũ khí Marketing sắc bén cho Startup vùng dân tộc thiểu số?",
+          "lua_chon": {
+            "A": "Vì nó tạo ra sự độc đáo, khác biệt mà các sản phẩm công nghiệp không có được.",
+            "B": "Vì nó giúp sản phẩm được bán với giá rẻ hơn các sản phẩm khác.",
+            "C": "Vì Nhà nước bắt buộc phải sử dụng văn hóa bản địa trong kinh doanh.",
+            "D": "Vì người dân tộc thiểu số không biết dùng các kỹ thuật Marketing khác."
+          },
+          "dap_an": "A"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày khái niệm 'phân khúc thị trường' (Segmentation) và nêu ba tiêu chí phổ biến để phân khúc thị trường."
+        },
+        {
+          "cau_hoi": "Phân tích vai trò của công cụ số (Google Trends, Facebook Insights/Google Analytics) trong việc nghiên cứu thị trường và điều chỉnh chiến lược Marketing của doanh nghiệp mới."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm 'Unique Selling Point' (USP) và vai trò của việc phân tích đối thủ cạnh tranh trực tiếp trong việc tìm ra USP."
+        },
+        {
+          "cau_hoi": "Phân tích ý nghĩa của 'Brand Loyalty' (lòng trung thành với thương hiệu) đối với chi phí duy trì và tìm kiếm khách hàng của doanh nghiệp mới."
+        },
+        {
+          "cau_hoi": "Trình bày khái niệm 'Kênh chiêu thị hỗn hợp' (Integrated Marketing Communication) và giải thích vì sao sự nhất quán thông điệp giữa các kênh truyền thông lại quan trọng."
+        },
+        {
+          "cau_hoi": "Phân tích vai trò của phản hồi khách hàng (Feedback) trong việc điều chỉnh sản phẩm và chiến lược tiếp cận thị trường của một doanh nghiệp khởi nghiệp."
+        },
+        {
+          "cau_hoi": "Trình bày sự khác biệt giữa Marketing truyền thống và Digital Marketing trong bối cảnh kinh tế số, cho ví dụ minh họa."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Trên thị trường quà tặng thủ công hiện có nhiều sản phẩm gốm từ các làng nghề khác (Bát Tràng, Bình Dương...) cạnh tranh với gốm đỏ Vĩnh Long. Dự án gốm đỏ Vĩnh Long cần tìm ra điểm bán hàng độc nhất (USP) để không bị hòa lẫn trên thị trường quà tặng. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Đề xuất quy trình để tìm ra USP cho gốm đỏ Vĩnh Long. b) Gợi ý một USP khả thi dựa trên đặc trưng của sản phẩm gốm đỏ địa phương.",
+          "goi_y_dap_an": "a) Quy trình: phân tích đối thủ cạnh tranh trực tiếp (các làng gốm khác) đang nhấn mạnh điều gì trong quảng bá của họ (ví dụ nhấn vào lịch sử lâu đời, kỹ thuật men tinh xảo); từ đó tìm góc độ khác biệt mà đối thủ chưa khai thác, kết hợp với đặc trưng tự nhiên/văn hóa riêng của gốm đỏ Vĩnh Long (màu đất đỏ đặc trưng của vùng, kỹ thuật nung riêng, câu chuyện làng nghề địa phương). b) Gợi ý USP khả thi: 'Gốm đỏ nguyên bản từ đất phù sa Vĩnh Long — mỗi sản phẩm mang màu đất và câu chuyện của chính vùng đất đã tạo ra nó', nhấn vào tính bản địa, nguyên bản mà các làng gốm vùng khác không có được."
+        },
+        {
+          "mo_ta": "Một nhóm sinh viên khởi nghiệp muốn bán túi xách tái chế từ vải vụn tại địa phương, cạnh tranh với rất nhiều thương hiệu túi xách thời trang lớn trên thị trường, với ngân sách Marketing gần như bằng không. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Đề xuất hướng Segmentation – Targeting phù hợp để tránh cạnh tranh trực tiếp với các thương hiệu lớn. b) Đề xuất một chiến lược Promotion '0 đồng' phù hợp với ngân sách của nhóm.",
+          "goi_y_dap_an": "a) Nên chọn Segmentation theo hành vi/giá trị sống (quan tâm môi trường, tiêu dùng bền vững) thay vì theo thu nhập/độ tuổi rộng; Targeting tập trung vào nhóm khách hàng trẻ, quan tâm thời trang bền vững/tái chế — một thị trường ngách (Niche Market) nơi các thương hiệu lớn chưa tập trung khai thác mạnh, giúp nhóm sinh viên không phải cạnh tranh trực diện về quy mô hay ngân sách quảng cáo. b) Chiến lược Promotion 0 đồng: kể câu chuyện thật về quá trình tái chế vải vụn thành sản phẩm (Brand Story) trên mạng xã hội, khuyến khích khách hàng đầu tiên chia sẻ trải nghiệm, tham gia các hội nhóm/sự kiện liên quan đến môi trường sống xanh để tiếp cận đúng nhóm khách hàng mục tiêu mà không cần chi phí quảng cáo."
+        },
+        {
+          "mo_ta": "Sau khi bán hàng online được 6 tháng, chị Hoa nhận được một số phản hồi tiêu cực trên mạng xã hội về việc bao bì bánh khoai lang dễ bị vỡ khi vận chuyển đi xa. Một vài khách hàng cũ phàn nàn nhưng vẫn tiếp tục đặt hàng lại sau khi chị phản hồi. (Tình huống minh họa dựng ra để giảng dạy, không phải số liệu thật.)",
+          "yeu_cau": "a) Chị Hoa nên xử lý phản hồi tiêu cực này như thế nào để không ảnh hưởng xấu đến thương hiệu? b) Giải thích vì sao việc khách hàng cũ tiếp tục đặt hàng sau khi được phản hồi khéo léo có liên quan đến khái niệm 'Brand Loyalty'.",
+          "goi_y_dap_an": "a) Chị nên xem đây là dữ liệu phản hồi (Feedback) quý giá để điều chỉnh sản phẩm — cải tiến bao bì chắc chắn hơn khi vận chuyển xa — và phản hồi công khai, chân thành, không né tránh hay xóa bình luận, đồng thời có thể bù đắp hợp lý cho khách hàng bị ảnh hưởng. b) Việc khách hàng cũ vẫn tiếp tục đặt hàng sau khi được xử lý phản hồi khéo léo cho thấy họ đã có lòng trung thành với thương hiệu (Brand Loyalty) — tin tưởng vào cách doanh nghiệp đối xử với khách hàng, không chỉ đánh giá qua một lần trải nghiệm chưa tốt; điều này giúp chị Hoa duy trì khách hàng ổn định và giảm chi phí phải tìm khách hàng mới để thay thế."
+        }
+      ]
+    }
+  }
+}

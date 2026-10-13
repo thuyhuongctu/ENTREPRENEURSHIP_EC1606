@@ -1,0 +1,394 @@
+{
+  "ch02_cd1": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Xác định ý tưởng, sản phẩm và đối tượng khách hàng",
+      "title_en": "Identifying the Idea, Product and Target Customer",
+      "bullets": [
+        "Chủ đề 2.1 — Chương 2: Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh.",
+        "Làm rõ ý tưởng, giải pháp và khách hàng trước khi đánh giá cơ hội ở Chủ đề 2.2."
+      ],
+      "bullets_en": [
+        "Topic 2.1 — Chapter 2: Assessing Opportunities and Developing a Business Plan.",
+        "Clarifies the idea, solution and customer before assessing feasibility in Topic 2.2."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "Ý tưởng và cơ hội kinh doanh",
+      "title": "Phân biệt ý tưởng và cơ hội kinh doanh",
+      "title_en": "Business Idea vs. Business Opportunity",
+      "bullets": [
+        "Ý tưởng: sáng tạo sơ khai; cơ hội: ý tưởng đã sàng lọc, khả thi thực tế.",
+        "Cơ hội xuất hiện ở giao điểm nhu cầu thị trường và năng lực nhóm.",
+        "Nhu cầu nhóm không làm được, hoặc năng lực thị trường không cần, chưa là cơ hội.",
+        "Đánh giá cơ hội là cả quá trình: thu thập dữ liệu — phân tích — quyết định."
+      ],
+      "bullets_en": [
+        "An idea is raw creativity; an opportunity is an idea screened and shown feasible.",
+        "An opportunity exists where market need meets the team's ability to execute.",
+        "A need the team can't fulfil, or a skill the market doesn't need, isn't an opportunity.",
+        "Assessing an opportunity is a process: gather data — analyse — decide."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "Bước đầu quy trình",
+      "title": "Xác định ý tưởng, sản phẩm và khách hàng",
+      "title_en": "Identifying the Idea, Product and Customer",
+      "bullets": [
+        "Bước đầu: mô tả rõ ý tưởng, sản phẩm, giải pháp và đối tượng khách hàng.",
+        "Hai việc phải làm song song — giải pháp và khách hàng không tách rời.",
+        "Lỗi thường gặp: mô tả ý tưởng mơ hồ, không rõ bán gì, bán cho ai.",
+        "Ba câu hỏi cốt lõi: nỗi đau là gì, giải pháp là gì, khách hàng là ai."
+      ],
+      "bullets_en": [
+        "First step: clearly describe the idea, product, solution and target customer.",
+        "Both tasks go together — the solution and the customer cannot be separated.",
+        "Common error: describing the idea too vaguely, unclear what or who it is for.",
+        "Three core questions: what is the pain point, the solution, and who is the customer."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "Customer Pain Points",
+      "title": "Nỗi đau khách hàng (Customer Pain Points)",
+      "title_en": "Customer Pain Points",
+      "bullets": [
+        "Là vấn đề, khó khăn thực tế khách hàng gặp, không phải điều mình tưởng tượng.",
+        "Nhiều sản phẩm thất bại vì chưa thật sự hỏi khách hàng, chỉ đoán cảm tính.",
+        "Ví dụ minh họa (số liệu dựng để giảng dạy): 70% khảo sát khó tìm ăn vặt rõ nguồn gốc.",
+        "Nỗi đau cụ thể, đo được là điểm khởi đầu tốt cho một giải pháp."
+      ],
+      "bullets_en": [
+        "Real problems or difficulties customers face, not what we imagine they need.",
+        "Many products fail because no one truly asked customers — just guessed intuitively.",
+        "Illustrative example (built for teaching): 70% surveyed struggle to find snacks with clear origin.",
+        "A concrete, measurable pain point is a good starting point for a solution."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "Giải pháp dự án",
+      "title": "Mô tả cụ thể giải pháp dự án",
+      "title_en": "Describing the Project Solution",
+      "bullets": [
+        "Giải pháp: cách cụ thể sản phẩm, dịch vụ giải quyết nỗi đau khách hàng.",
+        "Trả lời: sản phẩm giúp gì cho cuộc sống, công việc khách hàng — giá trị cốt lõi.",
+        "Sai lầm phổ biến: xây giải pháp trước, rồi mới tìm vấn đề để gán vào.",
+        "Luôn kiểm tra giải pháp có còn khớp đúng nỗi đau ban đầu hay không."
+      ],
+      "bullets_en": [
+        "Solution: the specific way a product or service solves the customer's pain point.",
+        "Answer: what it does for the customer's life or work — the core value delivered.",
+        "Common mistake: build the solution first, then look for a problem to attach it to.",
+        "Always check the solution still matches the original pain point identified."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "Customer Persona",
+      "title": "Xây dựng chân dung khách hàng (Persona)",
+      "title_en": "Building a Customer Persona",
+      "bullets": [
+        "Dựa trên nhân khẩu học: tuổi, giới tính, thu nhập, nghề nghiệp, học vấn.",
+        "Giúp hiểu rõ nhu cầu, hành vi, đặc điểm của nhóm khách hàng mục tiêu.",
+        "Ví dụ minh họa (dựng để giảng dạy): 'chị Lan, 32 tuổi, nhân viên văn phòng, 10 triệu/tháng'.",
+        "Chân dung cụ thể giúp thiết kế sản phẩm, giá và truyền thông đúng đối tượng."
+      ],
+      "bullets_en": [
+        "Based on demographics: age, gender, income, occupation, education level.",
+        "Helps clearly understand the needs, behaviour and traits of the target group.",
+        "Illustrative example (built for teaching): 'Ms. Lan, 32, office worker, 10 million VND/month'.",
+        "A concrete persona guides product design, pricing and messaging to the right group."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Hành vi & vị trí địa lý",
+      "title": "Hành vi, vị trí địa lý và nhu cầu tiềm ẩn",
+      "title_en": "Behaviour, Location and Latent Needs",
+      "bullets": [
+        "Hành vi: khách mua ở đâu, khi nào, bị ảnh hưởng bởi yếu tố gì.",
+        "Vị trí địa lý quyết định kênh phân phối — quan trọng với đặc sản vùng miền.",
+        "Nhu cầu tiềm ẩn: khách thực sự cần nhưng chưa nói ra hoặc chưa tự nhận ra.",
+        "Thấu hiểu nhu cầu tiềm ẩn tạo bất ngờ tích cực, không chỉ đáp ứng đúng yêu cầu."
+      ],
+      "bullets_en": [
+        "Behaviour: where and when customers buy, and what influences their decisions.",
+        "Location shapes the distribution channel — vital for regional specialty products.",
+        "Latent needs: needs customers genuinely have but haven't voiced or even noticed.",
+        "Meeting latent needs creates a pleasant surprise, not just what was asked for."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "Tình huống: chị Hoa",
+      "title": "Áp dụng quy trình: ví dụ chị Hoa",
+      "title_en": "Applying the Process: the Ms. Hoa Example",
+      "bullets": [
+        "Nỗi đau: khách thành thị muốn ăn vặt lành mạnh, rõ nguồn gốc, khó tìm tin cậy.",
+        "Chân dung: phụ nữ văn phòng 25-40 tuổi, mua qua mạng xã hội buổi tối.",
+        "Giải pháp: bánh khoai lang sấy, đóng gói nhỏ, ghi rõ nguồn gốc và ngày sản xuất.",
+        "Ví dụ minh họa, không phải số liệu thật — áp dụng ba câu hỏi cốt lõi."
+      ],
+      "bullets_en": [
+        "Pain point: urban customers want a healthy, traceable snack that's hard to trust online.",
+        "Persona: office women aged 25-40, who shop on social media in the evening.",
+        "Solution: dried sweet-potato cakes, compact packaging, clear origin and production date.",
+        "An illustrative example, not real data — applying the three core questions."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "Tình huống: gốm đỏ Vĩnh Long",
+      "title": "Áp dụng quy trình: ví dụ gốm đỏ",
+      "title_en": "Applying the Process: the Red-Pottery Example",
+      "bullets": [
+        "Ý tưởng ban đầu: làm đồ gốm đẹp hơn — chưa đủ để là một cơ hội.",
+        "Khách hàng mới: người thành thị yêu phong cách mộc mạc, gần gũi thiên nhiên.",
+        "Nỗi đau: khó tìm sản phẩm trang trí tự nhiên, mang câu chuyện văn hóa bản địa.",
+        "Giải pháp: thiết kế lại hình dáng gốm đỏ, giữ bản sắc làng nghề truyền thống."
+      ],
+      "bullets_en": [
+        "Initial idea: make nicer pottery — not yet enough to be an opportunity.",
+        "New customer: urban people who love a rustic style, close to nature.",
+        "Pain point: hard to find natural decor carrying a local cultural story.",
+        "Solution: redesign red-pottery shapes while keeping the craft village's identity."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "Điểm bán hàng độc nhất (USP)",
+      "title": "Vì sao khách hàng chọn bạn?",
+      "title_en": "Why Would a Customer Choose You?",
+      "bullets": [
+        "USP: điểm khác biệt khiến khách chọn sản phẩm mình, không phải sản phẩm khác.",
+        "Sản phẩm độc đáo: giải pháp khác biệt hoặc tốt hơn, không cần hoàn toàn mới.",
+        "Ví dụ: USP chị Hoa là nguồn gốc rõ ràng; USP gốm đỏ là thiết kế hiện đại.",
+        "USP là điểm tựa để so sánh khi phân tích đối thủ ở Chủ đề 2.2."
+      ],
+      "bullets_en": [
+        "USP: the difference that makes a customer pick your product over another.",
+        "A distinctive product offers a different or better solution, not necessarily brand new.",
+        "Example: Ms. Hoa's USP is a clear origin; the pottery's USP is modern design.",
+        "The USP anchors the competitor comparison coming up in Topic 2.2."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Tổng kết Chủ đề 2.1",
+      "title_en": "Summary of Topic 2.1",
+      "bullets": [
+        "Phân biệt ý tưởng sơ khai với cơ hội đã qua sàng lọc.",
+        "Xác định đúng nỗi đau khách hàng, mô tả rõ giải pháp dự án.",
+        "Xây dựng chân dung khách hàng và định hình điểm bán hàng độc nhất.",
+        "Các em làm bài tập tự đánh giá cuối chủ đề này trước khi tiếp tục."
+      ],
+      "bullets_en": [
+        "Distinguish a raw idea from an opportunity that has been screened.",
+        "Pinpoint the customer's pain point and clearly describe the project solution.",
+        "Build a customer persona and shape your unique selling point.",
+        "Complete the self-assessment exercise at the end of this topic before continuing."
+      ]
+    }
+  ],
+  "ch02_cd2": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Đánh giá cơ hội phát triển dự án",
+      "title_en": "Assessing the Opportunity to Develop the Project",
+      "bullets": [
+        "Chủ đề 2.2 — Chương 2: Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh.",
+        "Tiếp nối Chủ đề 2.1: đánh giá xem ý tưởng đã mô tả có khả thi hay không."
+      ],
+      "bullets_en": [
+        "Topic 2.2 — Chapter 2: Assessing Opportunities and Developing a Business Plan.",
+        "Follows Topic 2.1: assessing whether the described idea is actually feasible."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "Tính khả thi kinh tế",
+      "title": "Đánh giá tính khả thi về kinh tế",
+      "title_en": "Assessing Economic Feasibility",
+      "bullets": [
+        "Dự án có tạo lợi nhuận và duy trì được dòng tiền hay không.",
+        "Không chỉ 'có lãi' — phải sống được qua giai đoạn đầu khó khăn.",
+        "Ví dụ minh họa: vốn 50 triệu, doanh thu tháng đầu 5 triệu, chi phí 8 triệu.",
+        "Đánh giá kinh tế phải nhìn theo thời gian, không chỉ một con số lợi nhuận."
+      ],
+      "bullets_en": [
+        "Can the project generate profit and sustain its cash flow over time.",
+        "Not just 'being profitable' — it must survive the difficult early stage.",
+        "Illustrative example: 50m VND capital, 5m first-month revenue, 8m monthly cost.",
+        "Economic feasibility must be viewed across time, not a single profit figure."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "Tính khả thi kỹ thuật",
+      "title": "Đánh giá tính khả thi về kỹ thuật",
+      "title_en": "Assessing Technical Feasibility",
+      "bullets": [
+        "Khả năng thực hiện ý tưởng dựa trên công nghệ và nguồn lực hiện có.",
+        "Vùng sâu, vùng xa: hạ tầng giao thông và internet ảnh hưởng trực tiếp khả thi.",
+        "Giao hàng khó, chi phí cao có thể khiến dự án không khả thi về kinh tế.",
+        "Khả thi kinh tế và kỹ thuật luôn phải được xem xét cùng nhau."
+      ],
+      "bullets_en": [
+        "Whether the idea can be carried out with current technology and resources.",
+        "In remote areas, transport and internet infrastructure directly affect feasibility.",
+        "Hard shipping and high cost can make a project economically infeasible.",
+        "Economic and technical feasibility must always be examined together."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "Đối thủ cạnh tranh",
+      "title": "Phân tích đối thủ cạnh tranh",
+      "title_en": "Analysing Competitors",
+      "bullets": [
+        "Mục đích: tìm điểm khác biệt, không phải để hạ bệ đối thủ.",
+        "Xem cả điểm mạnh và yếu của đối thủ để tìm 'khoảng trống' thị trường.",
+        "Lợi thế cạnh tranh bền vững: khó bị bắt chước, không chỉ là giá rẻ.",
+        "Nên tìm hiểu điều đối thủ chưa làm tốt, thay vì chỉ sao chép họ."
+      ],
+      "bullets_en": [
+        "Purpose: find a point of difference, not to tear competitors down.",
+        "Look at both strengths and weaknesses to find a market 'gap'.",
+        "A sustainable advantage is hard to copy — not just a lower price.",
+        "Study what competitors do poorly, rather than just copying what they do."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "Rào cản gia nhập & thị trường ngách",
+      "title": "Rào cản gia nhập thị trường",
+      "title_en": "Market Entry Barriers",
+      "bullets": [
+        "Rào cản: quy định pháp lý, chi phí lớn, lòng trung thành với đối thủ cũ.",
+        "Rào cản quá cao so với nguồn lực — cần cân nhắc kỹ trước khi dấn thân.",
+        "Thị trường bão hòa: cân nhắc 'thị trường ngách' — phân khúc nhỏ, ít cạnh tranh.",
+        "Thị trường ngách tránh phân tán nguồn lực, đối đầu trực tiếp 'ông lớn'."
+      ],
+      "bullets_en": [
+        "Barriers: strict regulation, large cost, customer loyalty to old rivals.",
+        "If barriers outweigh your resources, think carefully before committing.",
+        "Saturated market: consider a 'niche market' — small, less competitive segment.",
+        "A niche avoids spreading resources thin against the market's big players."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "Tầm nhìn & nguồn lực bản thân",
+      "title": "Tầm nhìn, sứ mệnh và năng lực thực thi",
+      "title_en": "Vision, Mission and Execution Capacity",
+      "bullets": [
+        "Xác định tầm nhìn, sứ mệnh dự án — không chỉ kiếm lời trước mắt.",
+        "Nguồn lực bản thân: kiến thức, kỹ năng, thời gian, vốn, mạng lưới quan hệ.",
+        "Đảm bảo nhóm đủ năng lực thực thi để biến ý tưởng thành hiện thực.",
+        "Bỏ qua nguồn lực bản thân dễ ra kế hoạch đẹp nhưng không ai làm được."
+      ],
+      "bullets_en": [
+        "Define the project's vision and mission — not just short-term profit.",
+        "Own resources: knowledge, skills, time, capital, network of relationships.",
+        "Make sure the team can actually execute and turn the idea into reality.",
+        "Ignoring your own resources risks a plan nobody on the team can carry out."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Đạo đức kinh doanh & bền vững",
+      "title": "Đạo đức kinh doanh và phát triển bền vững",
+      "title_en": "Business Ethics and Sustainable Development",
+      "bullets": [
+        "Cung cấp thông tin trung thực, đối xử công bằng với các bên liên quan.",
+        "Cân bằng mục tiêu kinh tế với lợi ích cộng đồng và môi trường.",
+        "Không đánh đổi lợi ích ngắn hạn lấy thiệt hại lâu dài (cạn nguyên liệu...).",
+        "Giá trị bền vững: lợi ích cho nhiều bên — khách hàng, nông dân, địa phương."
+      ],
+      "bullets_en": [
+        "Provide honest information and treat every stakeholder fairly.",
+        "Balance economic goals with the interests of community and environment.",
+        "Never trade short-term gain for long-term harm (e.g. depleted materials).",
+        "Sustainable value benefits many sides — customers, farmers, the locality."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "Tình huống: chị Hoa",
+      "title": "Áp dụng quy trình: ví dụ chị Hoa",
+      "title_en": "Applying the Process: the Ms. Hoa Example",
+      "bullets": [
+        "Kinh tế: nguyên liệu rẻ, giá bán chế biến cao hơn nhiều lần — biên lợi nhuận tốt.",
+        "Ví dụ minh họa: mua khoảng 8 nghìn đồng/kg, bán khoảng 120 nghìn đồng/kg.",
+        "Đối thủ: cơ sở mứt truyền thống, chưa ai làm bao bì hiện đại nhắm dân văn phòng.",
+        "Nguồn lực bản thân: sẵn quan hệ với nông dân — ổn định nguyên liệu lâu dài."
+      ],
+      "bullets_en": [
+        "Economic: cheap raw material, much higher processed price — good margin.",
+        "Illustrative example: bought at ~8,000 VND/kg, sold at ~120,000 VND/kg.",
+        "Competitors: traditional jam makers, none with modern packaging for office workers.",
+        "Own resources: an existing farmer relationship securing stable, long-term supply."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "Tình huống: gốm đỏ Vĩnh Long",
+      "title": "Chuyển đổi số và chính sách hỗ trợ",
+      "title_en": "Digital Transformation and Policy Support",
+      "bullets": [
+        "Chuyển đổi số: thách thức với bán hàng truyền thống, cơ hội nhờ 'kể chuyện' sản phẩm.",
+        "Kết hợp bản sắc làng nghề với nội dung số có thể tạo khác biệt mạnh.",
+        "Chính sách hỗ trợ (OCOP, vay ưu đãi) giảm rào cản vốn, tăng khả thi kinh tế.",
+        "Luôn chủ động tìm hiểu dự án có thuộc diện hỗ trợ chính sách nào không."
+      ],
+      "bullets_en": [
+        "Digital shift challenges traditional selling, but rewards 'storytelling' products.",
+        "Blending craft-village identity with digital content can be a strong edge.",
+        "Policy support (OCOP, preferential loans) lowers capital barriers, raises feasibility.",
+        "Always check proactively whether the project qualifies for policy support."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "Ra quyết định dựa trên dữ liệu",
+      "title": "Ra quyết định dựa trên dữ liệu thực tế",
+      "title_en": "Deciding Based on Real Data",
+      "bullets": [
+        "Dựa vào dữ liệu thực tế và phân tích logic, không cảm tính hay may rủi.",
+        "Hỏi khách hàng thật, bán thử một mẻ nhỏ, ghi nhận phản hồi có hệ thống.",
+        "Quy trình đầy đủ: ý tưởng, khách hàng, khả thi, đối thủ, nguồn lực, đạo đức.",
+        "Không khả thi thì điều chỉnh mô hình hoặc tìm ý tưởng mới, đừng cố chứng minh mình đúng."
+      ],
+      "bullets_en": [
+        "Rely on real data and logical analysis, not intuition or luck.",
+        "Ask real customers, try a small batch, record feedback systematically.",
+        "Full process: idea — customer — feasibility — competitors — resources — ethics.",
+        "If infeasible, adjust the model or find a new idea, don't force it."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Tổng kết Chủ đề 2.2 và Chương 2",
+      "title_en": "Summary of Topic 2.2 and Chapter 2",
+      "bullets": [
+        "Đánh giá khả thi kinh tế, kỹ thuật, đối thủ và rào cản gia nhập.",
+        "Đối chiếu nguồn lực bản thân, đạo đức kinh doanh, quyết định dựa trên dữ liệu.",
+        "Đánh giá cơ hội là bước đệm để xây kế hoạch kinh doanh ở Chương 3.",
+        "Các em làm bài tập tự đánh giá cuối chủ đề này. Hẹn gặp lại ở Chương 3."
+      ],
+      "bullets_en": [
+        "Assess economic and technical feasibility, competitors and entry barriers.",
+        "Check against own resources, business ethics, and data-based decisions.",
+        "Opportunity assessment is the stepping stone to Chapter 3's business plan.",
+        "Complete the self-assessment exercise. See you in Chapter 3."
+      ]
+    }
+  ]
+}

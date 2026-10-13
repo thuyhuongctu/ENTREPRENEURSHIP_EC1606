@@ -1,0 +1,1532 @@
+{
+  "ket_thuc_chu_de": {
+    "ch01_cd1": [
+      {
+        "cau_hoi": "Điểm khác biệt lớn nhất giữa một nhà khởi nghiệp (entrepreneur) và một người kinh doanh thông thường là gì?",
+        "dap_an": "Tinh thần dám chấp nhận rủi ro và khát vọng tạo ra giá trị mới, đột phá — chứ không chỉ lặp lại một mô hình kinh doanh có sẵn."
+      },
+      {
+        "cau_hoi": "Hãy liệt kê bốn hướng mà \"Đổi mới sáng tạo\" (Innovation) có thể diễn ra trong một dự án khởi nghiệp.",
+        "dap_an": "Đổi mới sản phẩm/công nghệ; đổi mới quy trình sản xuất; đổi mới Marketing; đổi mới mô hình kinh doanh."
+      },
+      {
+        "cau_hoi": "Phân biệt \"Sáng tạo\" (Creativity) và \"Đổi mới\" (Innovation).",
+        "dap_an": "Sáng tạo là việc nghĩ ra ý tưởng mới; đổi mới là việc biến ý tưởng đó thành giá trị thực tế, ứng dụng được, mang lại lợi ích cho người dùng."
+      },
+      {
+        "cau_hoi": "Một ý tưởng kinh doanh tốt cần đáp ứng tối thiểu những tiêu chí nào?",
+        "dap_an": "Có tính khả thi, có khách hàng sẵn sàng chi trả, và mang lại lợi ích thực tế — không phải chỉ cần mới lạ."
+      },
+      {
+        "cau_hoi": "Một bản kế hoạch kinh doanh cần trả lời được ba câu hỏi cốt lõi nào, và phần \"tóm tắt dự án\" nên được viết ở giai đoạn nào trong quá trình soạn?",
+        "dap_an": "Bán gì — cho ai — làm thế nào/cần bao nhiêu tiền. Phần tóm tắt dự án tuy đặt ở đầu nhưng thường được viết sau cùng, vì phải cô đọng toàn bộ kế hoạch thành vài đoạn ngắn."
+      }
+    ],
+    "ch01_cd2": [
+      {
+        "cau_hoi": "Nguồn ý tưởng khởi nghiệp nào thường có lợi thế tự nhiên nhất đối với phụ nữ và người dân tộc thiểu số ở địa phương?",
+        "dap_an": "Thế mạnh bản thân và sản vật/bản sắc văn hóa độc đáo của địa phương (ví dụ khoai lang Bình Tân, gốm đỏ, du lịch cộng đồng) — vì đây là nguồn lực sẵn có, khó bị nơi khác sao chép."
+      },
+      {
+        "cau_hoi": "Phân biệt \"Khởi nghiệp xanh\" và \"Khởi nghiệp xã hội\".",
+        "dap_an": "Khởi nghiệp xanh gắn kinh doanh với bảo vệ môi trường/sử dụng tài nguyên bền vững; khởi nghiệp xã hội ưu tiên giải quyết một vấn đề xã hội/cộng đồng cụ thể, bên cạnh mục tiêu lợi nhuận."
+      },
+      {
+        "cau_hoi": "\"Hệ sinh thái khởi nghiệp\" gồm những thành phần nào?",
+        "dap_an": "Nguồn lực, tổ chức (trường đại học, quỹ hỗ trợ khởi nghiệp), chính sách, và cộng đồng những người khởi nghiệp khác hỗ trợ xung quanh người khởi sự."
+      },
+      {
+        "cau_hoi": "Nêu hai rủi ro phổ biến mà người khởi nghiệp mới, đặc biệt ở vùng nông thôn/ít vốn, cần lường trước.",
+        "dap_an": "Có thể nêu 2 trong số: rủi ro về vốn (thiếu vốn lưu động), rủi ro thị trường (đánh giá sai nhu cầu), rủi ro đội ngũ (mất đoàn kết)."
+      },
+      {
+        "cau_hoi": "Vì sao các công cụ số (mạng xã hội, sàn thương mại điện tử, Canva, công cụ làm việc nhóm trên nền tảng đám mây) đặc biệt có ý nghĩa với phụ nữ/người dân tộc thiểu số khởi nghiệp ít vốn?",
+        "dap_an": "Vì giúp thử nghiệm, bán hàng, thiết kế và phối hợp nhóm với chi phí rất thấp, bù đắp cho nguồn lực còn hạn chế ở giai đoạn đầu."
+      }
+    ],
+    "ch02_cd1": [
+      {
+        "cau_hoi": "Phân biệt \"Ý tưởng kinh doanh\" và \"Cơ hội kinh doanh\".",
+        "dap_an": "Ý tưởng là sự sáng tạo sơ khai; cơ hội là ý tưởng đã qua sàng lọc, chứng minh được tính khả thi thực tế — một cơ hội chỉ xuất hiện khi có giao thoa giữa nhu cầu thị trường thật và năng lực thực thi của nhóm."
+      },
+      {
+        "cau_hoi": "\"Nỗi đau khách hàng\" (Customer Pain Points) khác gì với điều người khởi nghiệp \"tưởng tượng là khách hàng cần\"?",
+        "dap_an": "Nỗi đau khách hàng là vấn đề thực tế khách hàng đang gặp, cần được xác nhận qua khảo sát/quan sát thực tế — không phải phán đoán chủ quan của người khởi nghiệp."
+      },
+      {
+        "cau_hoi": "Chân dung khách hàng (Customer Persona) cần xây dựng dựa trên những nhóm yếu tố nào?",
+        "dap_an": "Nhân khẩu học (tuổi, giới tính, thu nhập, nghề nghiệp, trình độ học vấn...), hành vi (thói quen mua sắm, kênh thông tin) và vị trí địa lý."
+      },
+      {
+        "cau_hoi": "Vì sao \"xây giải pháp trước rồi mới đi tìm vấn đề để gán vào\" là một sai lầm phổ biến?",
+        "dap_an": "Vì dễ tạo ra một sản phẩm rất hay nhưng không khớp với nỗi đau thật của khách hàng, nên cuối cùng chẳng ai thực sự cần."
+      },
+      {
+        "cau_hoi": "Với một dự án đặc sản vùng miền, vì sao yếu tố \"vị trí địa lý\" của khách hàng lại đặc biệt quan trọng?",
+        "dap_an": "Vì khách tại chỗ (khách du lịch) và khách xa quê ở thành phố lớn có nhu cầu và kênh tiếp cận khác nhau, cần chiến lược riêng cho từng nhóm."
+      }
+    ],
+    "ch02_cd2": [
+      {
+        "cau_hoi": "Nêu ba mặt cần đánh giá tính khả thi của một dự án khởi nghiệp.",
+        "dap_an": "Khả thi kinh tế (lợi nhuận, dòng tiền), khả thi kỹ thuật (công nghệ, nguyên liệu, nguồn lực), và phân tích đối thủ cạnh tranh/rào cản gia nhập."
+      },
+      {
+        "cau_hoi": "\"Rào cản gia nhập thị trường\" có thể gồm những yếu tố nào?",
+        "dap_an": "Quy định pháp lý khắt khe, chi phí đầu tư lớn, hoặc sự trung thành của khách hàng với đối thủ hiện tại."
+      },
+      {
+        "cau_hoi": "Phân biệt \"lợi thế cạnh tranh bền vững\" với một lợi thế chỉ là \"giá rẻ\".",
+        "dap_an": "Lợi thế bền vững khó bị đối thủ sao chép trong ngắn hạn (bản sắc văn hóa, công thức gia truyền, mối quan hệ với vùng nguyên liệu...); còn giá rẻ luôn có thể bị đối thủ hạ thấp hơn."
+      },
+      {
+        "cau_hoi": "Ra quyết định kinh doanh dựa trên \"dữ liệu thực tế\" khác gì với dựa trên cảm tính?",
+        "dap_an": "Dựa trên số liệu khảo sát, phản hồi khách hàng thật, thử bán thử — thay vì chỉ nghĩ rằng \"khách hàng sẽ thích\"."
+      },
+      {
+        "cau_hoi": "Khi một ý tưởng bị đánh giá là không khả thi về kinh tế, người khởi nghiệp nên làm gì?",
+        "dap_an": "Điều chỉnh mô hình kinh doanh hoặc tìm ý tưởng mới — không nên cố làm tiếp chỉ để \"chứng minh mọi người sai\"."
+      }
+    ],
+    "ch03_cd1": [
+      {
+        "cau_hoi": "Nguồn vốn của một startup thường thay đổi theo giai đoạn như thế nào?",
+        "dap_an": "Giai đoạn đầu ít vốn: vốn tự có/gia đình/bạn bè hoặc bootstrapping; khi có sản phẩm và khách hàng đầu tiên: nhà đầu tư thiên thần; khi đã chứng minh mô hình và cần mở rộng quy mô lớn: quỹ đầu tư mạo hiểm (VC)."
+      },
+      {
+        "cau_hoi": "\"Bootstrapping\" là gì và vì sao được khuyến khích ở giai đoạn đầu?",
+        "dap_an": "Là tự xoay vốn bằng doanh thu ban đầu, ít vay mượn; giúp nhà sáng lập giữ quyền kiểm soát, không bị pha loãng cổ phần quá sớm, đồng thời buộc dự án chứng minh khả năng sinh lời thực tế từ quy mô nhỏ."
+      },
+      {
+        "cau_hoi": "Phân biệt \"Vốn cổ phần\" (Equity) với vay vốn ngân hàng thông thường.",
+        "dap_an": "Vốn cổ phần là nhà đầu tư góp tiền đổi lấy một phần quyền sở hữu công ty (không phải trả lãi cố định); vay ngân hàng là vay tiền và phải trả lãi theo kỳ hạn."
+      },
+      {
+        "cau_hoi": "\"Pitching\" và \"Pitch Deck\" khác nhau thế nào?",
+        "dap_an": "Pitching là kỹ thuật thuyết trình ngắn gọn, thuyết phục nhà đầu tư; Pitch Deck là bộ hồ sơ/slide trình bày dự án được dùng khi pitching."
+      },
+      {
+        "cau_hoi": "Gọi vốn cộng đồng (Crowdfunding) phù hợp nhất với loại dự án nào, và vì sao?",
+        "dap_an": "Dự án có câu chuyện cảm xúc mạnh (sản phẩm cộng đồng, bản sắc văn hóa...), vì dễ huy động số tiền nhỏ từ nhiều người ủng hộ qua nền tảng trực tuyến."
+      }
+    ],
+    "ch03_cd2": [
+      {
+        "cau_hoi": "Phân biệt Định phí (Fixed Costs) và Biến phí (Variable Costs), mỗi loại cho một ví dụ.",
+        "dap_an": "Định phí là chi phí cố định phải trả dù có bán được hàng hay không (ví dụ tiền thuê mặt bằng); biến phí thay đổi theo số lượng sản phẩm (ví dụ nguyên liệu)."
+      },
+      {
+        "cau_hoi": "Một dự án có định phí 10 triệu đồng, giá bán 100 nghìn đồng/sản phẩm, biến phí 50 nghìn đồng/sản phẩm. Tính điểm hòa vốn (số sản phẩm).",
+        "dap_an": "Biên lãi gộp = 100.000 − 50.000 = 50.000đ/sản phẩm; Điểm hòa vốn = 10.000.000 / 50.000 = 200 sản phẩm."
+      },
+      {
+        "cau_hoi": "\"Burn rate\" và \"Runway\" là gì, và chúng liên quan với nhau như thế nào?",
+        "dap_an": "Burn rate là tốc độ tiêu tiền mỗi tháng; Runway = tiền mặt hiện có ÷ burn rate, cho biết còn bao lâu nữa thì hết tiền nếu không có thêm doanh thu/vốn mới."
+      },
+      {
+        "cau_hoi": "Phân biệt \"Lợi nhuận gộp\" và \"Lợi nhuận ròng\".",
+        "dap_an": "Lợi nhuận gộp = doanh thu − giá vốn hàng bán; lợi nhuận ròng = lợi nhuận gộp − tất cả chi phí vận hành khác (thuê mặt bằng, lương, Marketing...) và thuế."
+      },
+      {
+        "cau_hoi": "Vì sao một dự án có thể \"báo lãi trên sổ sách\" nhưng vẫn hết tiền mặt? Nêu công cụ giúp tránh rủi ro này.",
+        "dap_an": "Vì lợi nhuận và dòng tiền là hai khái niệm khác nhau — khách hàng nợ chưa trả hoặc hàng tồn kho nhiều khiến tiền mặt không về kịp; công cụ: kế hoạch dòng tiền (Cash Flow)."
+      }
+    ]
+  },
+  "ket_thuc_chuong": {
+    "chuong_01": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch01) Mục tiêu cốt lõi mà người học cần nắm vững sau khi tìm hiểu về khởi sự doanh nghiệp là gì?",
+          "lua_chon": {
+            "A": "Cách thức quản lý nhân sự tại các tập đoàn lớn.",
+            "B": "Kiến thức cơ bản về khởi nghiệp, đặc biệt là cho phụ nữ và người dân tộc thiểu số.",
+            "C": "Phương pháp phân tích thị trường chứng khoán.",
+            "D": "Quy trình vận hành máy móc công nghiệp nặng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 4/60 — ngân hàng ch01) Theo nội dung chương 1, yếu tố nào được xem là \"bản lộ trình\" để hiện thực hóa ý tưởng khởi nghiệp?",
+          "lua_chon": {
+            "A": "Danh sách các nhà đầu tư tiềm năng.",
+            "B": "Kế hoạch kinh doanh.",
+            "C": "Quy định về thuế thu nhập cá nhân.",
+            "D": "Bảng báo cáo kết quả kinh doanh năm trước."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 6/60 — ngân hàng ch01) Vai trò quan trọng nhất của kế hoạch kinh doanh trong thực tế là gì?",
+          "lua_chon": {
+            "A": "Giúp giảng viên có căn cứ để chấm điểm.",
+            "B": "Giúp định hướng kinh doanh và gọi vốn từ nhà đầu tư.",
+            "C": "Dùng để đăng ký các giải thưởng thể thao.",
+            "D": "Chỉ dùng để lưu trữ hồ sơ lưu niệm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 7/60 — ngân hàng ch01) Đối với phụ nữ và người dân tộc thiểu số, nguồn nào sau đây có thể giúp tạo lập ý tưởng khởi nghiệp tốt nhất?",
+          "lua_chon": {
+            "A": "Chỉ từ việc sao chép các mô hình ở nước ngoài.",
+            "B": "Khai thác các thế mạnh và sản vật độc đáo của địa phương.",
+            "C": "Chỉ từ các bài báo cáo kinh tế của chính phủ.",
+            "D": "Từ các trò chơi trực tuyến giải trí."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 9/60 — ngân hàng ch01) Theo nội dung bài học, một bản kế hoạch kinh doanh cần phải viết những nội dung cơ bản nào?",
+          "lua_chon": {
+            "A": "Chỉ viết về các khoản chi tiêu cá nhân của chủ dự án.",
+            "B": "Chỉ viết về danh sách nhân sự dự kiến.",
+            "C": "Bao gồm tóm tắt dự án, sản phẩm, thị trường và tài chính.",
+            "D": "Chỉ viết về các quy định pháp luật."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 13/60 — ngân hàng ch01) Đâu là yếu tố cốt lõi của \"Đổi mới sáng tạo\" trong khởi nghiệp?",
+          "lua_chon": {
+            "A": "Chỉ là việc mở rộng quy mô kinh doanh cũ.",
+            "B": "Tạo ra giá trị mới hoặc cách tiếp cận mới cho vấn đề thực tế.",
+            "C": "Sử dụng nhiều vốn nhất có thể.",
+            "D": "Không cần thay đổi quy trình sản xuất."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 17/60 — ngân hàng ch01) \"Khởi nghiệp\" (Start-up) được hiểu đúng nhất là gì?",
+          "lua_chon": {
+            "A": "Bất kỳ hoạt động mở cửa hàng bán lẻ nào.",
+            "B": "Quá trình bắt đầu một doanh nghiệp dựa trên ý tưởng mới, có tiềm năng tăng trưởng.",
+            "C": "Việc kế thừa một doanh nghiệp gia đình có sẵn.",
+            "D": "Chỉ các doanh nghiệp hoạt động trong lĩnh vực công nghệ thông tin."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 20/60 — ngân hàng ch01) Ý tưởng kinh doanh (Business Idea) nên bắt nguồn từ đâu để đạt hiệu quả cao?",
+          "lua_chon": {
+            "A": "Từ việc quan sát và giải quyết các nhu cầu chưa được đáp ứng của thị trường.",
+            "B": "Chỉ từ sở thích cá nhân mà không quan tâm đến thị trường.",
+            "C": "Từ việc sao chép y hệt mô hình của đối thủ cạnh tranh.",
+            "D": "Từ những dự báo ngẫu nhiên không có căn cứ."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 27/60 — ngân hàng ch01) Sản vật đặc thù của Vĩnh Long có thể trở thành ý tưởng khởi nghiệp là:",
+          "lua_chon": {
+            "A": "Sản xuất linh kiện ô tô điện.",
+            "B": "Chế biến sâu các sản phẩm từ khoai lang Bình Tân hoặc gốm đỏ.",
+            "C": "Kinh doanh dịch vụ tuyết nhân tạo.",
+            "D": "Khai thác mỏ quặng kim loại quý."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 38/60 — ngân hàng ch01) Tầm quan trọng của việc bảo vệ sở hữu trí tuệ cho ý tưởng là:",
+          "lua_chon": {
+            "A": "Để khoe khoang với bạn bè.",
+            "B": "Bảo vệ lợi thế cạnh tranh và ngăn chặn việc sao chép trái phép.",
+            "C": "Để được nhận tiền thưởng từ Nhà nước.",
+            "D": "Không thực sự cần thiết đối với doanh nghiệp nhỏ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 42/60 — ngân hàng ch01) Tại sao người dân tộc thiểu số thường có ưu thế trong khởi nghiệp về du lịch cộng đồng?",
+          "lua_chon": {
+            "A": "Do sở hữu các bản sắc văn hóa và kiến thức bản địa độc đáo.",
+            "B": "Do họ có nhiều vốn đầu tư hơn người ở thành thị.",
+            "C": "Do họ có trình độ công nghệ cao hơn.",
+            "D": "Do họ không phải cạnh tranh với bất kỳ ai."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 47/60 — ngân hàng ch01) Ý nghĩa của cụm từ \"Hệ sinh thái khởi nghiệp\" là:",
+          "lua_chon": {
+            "A": "Các loại cây trồng trong khuôn viên doanh nghiệp.",
+            "B": "Môi trường bao gồm các nguồn lực, tổ chức và chính sách hỗ trợ khởi nghiệp.",
+            "C": "Một phần mềm quản lý dữ liệu khách hàng.",
+            "D": "Danh sách các đối thủ cạnh tranh trên thị trường."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 56/60 — ngân hàng ch01) Một dự án khởi nghiệp bền vững cần hướng tới sự cân bằng giữa:",
+          "lua_chon": {
+            "A": "Lợi nhuận kinh tế, lợi ích con người và bảo vệ môi trường.",
+            "B": "Vốn vay, công nghệ và nhân sự quy mô lớn.",
+            "C": "Giá sản phẩm rẻ nhất và quảng cáo nhiều nhất.",
+            "D": "Ý tưởng độc lạ nhất và văn phòng làm việc đẹp nhất."
+          },
+          "dap_an": "A"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Phân tích sự khác biệt giữa \"khởi nghiệp\" (start-up) và \"kinh doanh thông thường\". Theo bạn, một người mở quán cà phê theo đúng mô hình đã có sẵn trong khu vực có được gọi là \"khởi nghiệp đổi mới sáng tạo\" không? Vì sao?"
+        },
+        {
+          "cau_hoi": "Trình bày các tiêu chí của một ý tưởng kinh doanh tốt. Áp dụng các tiêu chí đó để đánh giá sơ bộ MỘT ý tưởng kinh doanh mà bạn tự chọn (có thể dựa trên sản vật/thế mạnh của quê bạn)."
+        },
+        {
+          "cau_hoi": "Vì sao kế hoạch kinh doanh được xem là \"bản lộ trình\" của một dự án khởi nghiệp? Một kế hoạch kinh doanh sơ bộ cần có những nội dung cơ bản nào?"
+        },
+        {
+          "cau_hoi": "Theo nội dung Chương 1, phụ nữ và người dân tộc thiểu số có những thế mạnh và thách thức đặc thù nào khi khởi nghiệp? Đề xuất một cách khai thác thế mạnh địa phương để khởi nghiệp."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Chị Hoa ở Bình Tân, Vĩnh Long nhận thấy khoai lang sau thu hoạch thường bị thương lái ép giá vì chỉ bán thô. Chị nảy ra ý tưởng chế biến khoai lang thành bánh/mứt đóng gói, bán trực tiếp cho người tiêu dùng thành thị qua mạng xã hội. (Đây là ví dụ minh họa dùng để học tập, không phải số liệu thật.)",
+          "yeu_cau": "a) Xác định \"nhu cầu/khoảng trống\" mà chị Hoa quan sát được là gì? b) Theo tinh thần \"khởi nghiệp tinh gọn\" (Lean Start-up), chị Hoa nên làm gì TRƯỚC KHI đầu tư máy móc sản xuất lớn? c) Ý tưởng này thuộc loại đổi mới sáng tạo nào (sản phẩm, quy trình, Marketing hay mô hình kinh doanh)?",
+          "goi_y_dap_an": "a) Khoảng trống trong chuỗi giá trị: khoai lang bán thô bị ép giá, trong khi người tiêu dùng thành thị có nhu cầu ăn vặt lành mạnh, nguồn gốc rõ ràng. b) Làm thử một mẻ nhỏ, bán thử trên một nhóm Facebook địa phương để thu thập phản hồi thực tế trước khi đầu tư lớn. c) Chủ yếu là đổi mới sản phẩm (chế biến sâu từ nguyên liệu thô), kết hợp đổi mới mô hình bán hàng (bán trực tiếp qua mạng xã hội thay vì qua thương lái)."
+        },
+        {
+          "mo_ta": "Một nhóm sinh viên muốn hiện đại hóa làng nghề gốm đỏ Vĩnh Long bằng cách làm đồ trang trí nội thất hiện đại từ gốm đỏ, thay vì chỉ sản xuất gốm truyền thống như trước. (Ví dụ minh họa dùng cho mục đích học tập.)",
+          "yeu_cau": "a) Đây là ví dụ cho loại đổi mới sáng tạo nào? b) Nêu 2 rủi ro nhóm cần lường trước khi triển khai ý tưởng này. c) Đề xuất một cách nhóm có thể kiểm chứng ý tưởng trước khi đầu tư lớn.",
+          "goi_y_dap_an": "a) Đổi mới sản phẩm, kết hợp khai thác bản sắc văn hóa/nguyên liệu địa phương theo xu hướng tiêu dùng hiện đại. b) Ví dụ: rủi ro thị trường (khách hàng có thực sự ưa thích phong cách này không), rủi ro kỹ thuật/nguồn lực (tay nghề, lò nung có đáp ứng mẫu mới không) — nêu 2 trong các rủi ro hợp lý. c) Làm mẫu thử số lượng nhỏ, giới thiệu trên mạng xã hội/triển lãm nhỏ, thu thập phản hồi khách hàng tiềm năng trước khi sản xuất đại trà."
+        }
+      ]
+    },
+    "chuong_02": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch02) Kỹ năng cốt lõi mà người học cần đạt được sau khi tìm hiểu Chương 2 là gì?",
+          "lua_chon": {
+            "A": "Lập bảng lương cho nhân viên công ty.",
+            "B": "Đánh giá được cơ hội phát triển dự án kinh doanh.",
+            "C": "Thiết kế sơ đồ lắp đặt máy móc nhà xưởng.",
+            "D": "Phân tích các hiệp định thương mại tự do thế giới."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 4/60 — ngân hàng ch02) \"Nỗi đau khách hàng\" (Customer Pain Points) trong kinh doanh được hiểu là:",
+          "lua_chon": {
+            "A": "Những vấn đề hoặc khó khăn thực tế mà khách hàng đang gặp phải cần được giải quyết.",
+            "B": "Những thủ tục hành chính khi đăng ký nhãn hiệu.",
+            "C": "Sự thiếu hụt về số lượng nhân viên trong doanh nghiệp.",
+            "D": "Các khoản thuế thu nhập doanh nghiệp phải đóng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 7/60 — ngân hàng ch02) Việc xây dựng \"chân dung khách hàng\" (Persona) giúp dự án đạt được điều gì?",
+          "lua_chon": {
+            "A": "Hiểu rõ nhu cầu, hành vi và các đặc điểm cụ thể của nhóm khách hàng mục tiêu.",
+            "B": "Hoàn thiện danh sách hồ sơ nhân sự cho công ty.",
+            "C": "Đáp ứng yêu cầu pháp lý trong hồ sơ đăng ký kinh doanh.",
+            "D": "Tính toán chính xác các mức thuế thu nhập dự kiến."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 10/60 — ngân hàng ch02) Theo nội dung bài giảng, cơ hội kinh doanh chỉ xuất hiện khi có sự giao thoa giữa:",
+          "lua_chon": {
+            "A": "Nguồn vốn dồi dào và nhân sự đông đảo.",
+            "B": "Nhu cầu thực tế của thị trường và năng lực thực thi của nhóm.",
+            "C": "Sự ủng hộ của gia đình và chính sách của nhà nước.",
+            "D": "Giá thành sản phẩm rẻ và quảng cáo rầm rộ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 11/60 — ngân hàng ch02) Một ý tưởng trở thành \"cơ hội kinh doanh\" khi nó:",
+          "lua_chon": {
+            "A": "Được nhiều người khen ngợi về tính độc lạ.",
+            "B": "Có thể tồn tại, phát triển và mang lại giá trị trong thực tế.",
+            "C": "Được thiết kế bởi các chuyên gia nước ngoài.",
+            "D": "Không cần phải đối mặt với bất kỳ thách thức nào."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 15/60 — ngân hàng ch02) “Thị trường ngách” (Niche market) là khái niệm chỉ:",
+          "lua_chon": {
+            "A": "Toàn bộ người tiêu dùng trong một khu vực địa lý rộng lớn.",
+            "B": "Một phân khúc thị trường nhỏ, tập trung vào nhu cầu cụ thể mà đối thủ lớn bỏ sót.",
+            "C": "Nhóm khách hàng chỉ mua hàng khi có chương trình giảm giá sâu.",
+            "D": "Khu vực chợ truyền thống tại các vùng nông thôn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 21/60 — ngân hàng ch02) \"Rào cản gia nhập thị trường\" có thể bao gồm yếu tố nào?",
+          "lua_chon": {
+            "A": "Chi phí đầu tư ban đầu quá thấp.",
+            "B": "Quy định pháp lý khắt khe, chi phí đầu tư lớn hoặc lòng trung thành của khách hàng với đối thủ.",
+            "C": "Sự thiếu hụt về ý tưởng sáng tạo của nhóm khởi nghiệp.",
+            "D": "Việc không có kết nối internet tại cơ sở kinh doanh."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 25/60 — ngân hàng ch02) Bước nào là bước đầu tiên trong quy trình đánh giá một cơ hội khởi nghiệp?",
+          "lua_chon": {
+            "A": "Xác định và mô tả rõ ràng ý tưởng/giải pháp.",
+            "B": "Vay vốn ngân hàng để thực hiện ngay.",
+            "C": "Thuê văn phòng làm việc chuyên nghiệp.",
+            "D": "Tổ chức sự kiện ra mắt sản phẩm."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 33/60 — ngân hàng ch02) \"Lợi thế cạnh tranh bền vững\" là lợi thế mà:",
+          "lua_chon": {
+            "A": "Có thể dễ dàng bị sao chép bởi bất kỳ đối thủ nào.",
+            "B": "Khó bị bắt chước và giúp doanh nghiệp duy trì vị thế trong thời gian dài.",
+            "C": "Chỉ tồn tại khi doanh nghiệp thực hiện giảm giá sản phẩm.",
+            "D": "Chỉ phụ thuộc vào một chiến dịch quảng cáo duy nhất."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 36/60 — ngân hàng ch02) Một \"Ý tưởng kinh doanh\" khác với một \"Cơ hội kinh doanh\" ở điểm nào?",
+          "lua_chon": {
+            "A": "Ý tưởng kinh doanh luôn mang lại nhiều tiền hơn.",
+            "B": "Ý tưởng là sự sáng tạo sơ khai, cơ hội là ý tưởng đã qua sàng lọc và có tính khả thi thực tế.",
+            "C": "Ý tưởng kinh doanh chỉ dành cho sinh viên, cơ hội dành cho doanh nhân.",
+            "D": "Không có sự khác biệt nào giữa hai khái niệm này."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 42/60 — ngân hàng ch02) Đánh giá cơ hội kinh doanh là quá trình:",
+          "lua_chon": {
+            "A": "Chỉ diễn ra một lần duy nhất khi mới bắt đầu dự án.",
+            "B": "Sàng lọc nghiêm túc để xem dự án có thể tồn tại và phát triển thực tế không.",
+            "C": "Chỉ để thu hút các nhà đầu tư mạo hiểm.",
+            "D": "Nhằm mục đích thay thế cho việc lập kế hoạch kinh doanh."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 45/60 — ngân hàng ch02) Một dự án khởi nghiệp tại Vĩnh Long sử dụng \"Gốm đỏ\" làm vật liệu trang trí hiện đại là ví dụ về:",
+          "lua_chon": {
+            "A": "Đổi mới dựa trên tài nguyên và nét đặc thù của địa phương.",
+            "B": "Một dự án không có tính thực tế.",
+            "C": "Sự sao chép mô hình gốm sứ từ các tỉnh khác.",
+            "D": "Việc lãng phí tài nguyên của địa phương."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 60/60 — ngân hàng ch02) Việc đánh giá cơ hội là bước đệm để:",
+          "lua_chon": {
+            "A": "Có thể đi vay tiền từ tất cả mọi người xung quanh.",
+            "B": "Phát triển một kế hoạch kinh doanh hoàn chỉnh và khả thi trong chương tiếp theo.",
+            "C": "Chứng minh rằng khởi nghiệp là một việc vô cùng dễ dàng.",
+            "D": "Ngay lập tức trở thành một doanh nhân giàu có."
+          },
+          "dap_an": "B"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày quy trình đánh giá một cơ hội khởi nghiệp theo đúng thứ tự các bước đã học (từ xác định ý tưởng/khách hàng đến đối chiếu nguồn lực bản thân và đạo đức/bền vững)."
+        },
+        {
+          "cau_hoi": "Phân biệt \"Nỗi đau khách hàng\" (Customer Pain Points) và \"Chân dung khách hàng\" (Customer Persona). Vì sao cả hai đều cần thiết khi đánh giá một cơ hội kinh doanh?"
+        },
+        {
+          "cau_hoi": "Phân tích ba khía cạnh của \"tính khả thi\" (kinh tế, kỹ thuật, và phân tích đối thủ/rào cản) mà một dự án cần được đánh giá trước khi triển khai."
+        },
+        {
+          "cau_hoi": "Vì sao \"lợi thế cạnh tranh bền vững\" quan trọng hơn việc chỉ cạnh tranh bằng giá rẻ? Cho một ví dụ minh họa (có thể từ các tình huống chị Hoa/gốm đỏ hoặc một ví dụ khác)."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Quay lại ví dụ chị Hoa (khoai lang Bình Tân). Giả sử chị đã xác định được: Nỗi đau khách hàng — người tiêu dùng thành thị muốn ăn vặt lành mạnh, nguồn gốc rõ ràng nhưng khó tìm sản phẩm địa phương tin cậy; Chân dung khách hàng — phụ nữ văn phòng 25–40 tuổi, thu nhập trung bình khá, mua hàng qua mạng xã hội; đối thủ hiện có vài cơ sở làm mứt truyền thống nhưng chưa ai làm bao bì hiện đại nhắm riêng dân văn phòng. (Ví dụ minh họa dùng cho mục đích học tập, không phải số liệu thật.)",
+          "yeu_cau": "a) Áp dụng quy trình đánh giá cơ hội, hãy chỉ ra \"khoảng trống thị trường\" mà chị Hoa có thể khai thác. b) Đánh giá sơ bộ tính khả thi kinh tế của ý tưởng (gợi ý: so sánh giá nguyên liệu đầu vào và giá bán sản phẩm chế biến). c) Nêu một \"rào cản gia nhập thị trường\" mà chị Hoa có thể gặp phải.",
+          "goi_y_dap_an": "a) Chưa có cơ sở làm mứt/bánh khoai lang với bao bì hiện đại nhắm riêng đến dân văn phòng thành thị — đó là khoảng trống. b) Giá khoai lang nguyên liệu rẻ (mua trực tiếp từ nông dân) trong khi giá bán sản phẩm chế biến cao hơn nhiều lần, cho thấy dấu hiệu khả thi kinh tế tốt (cần thêm dữ liệu thực tế để kết luận chắc chắn hơn). c) Cần xây dựng lòng tin về an toàn thực phẩm/nguồn gốc với khách hàng mới so với các cơ sở truyền thống đã có uy tín lâu năm, hoặc khó khăn trong cấp phép vệ sinh an toàn thực phẩm."
+        },
+        {
+          "mo_ta": "Một dự án tại Vĩnh Long muốn dùng gốm đỏ làm đồ trang trí nội thất hiện đại. Qua khảo sát sơ bộ: có khách hàng thành thị thích phong cách mộc mạc; địa phương có nguồn nguyên liệu và tay nghề sẵn có; đối thủ hầu như chưa khai thác hướng hiện đại hóa này. (Ví dụ minh họa, không phải số liệu thật.)",
+          "yeu_cau": "a) Dự án này có thỏa điều kiện \"cơ hội kinh doanh\" (không chỉ là ý tưởng) theo định nghĩa đã học không? Vì sao? b) Nêu một yếu tố thuộc \"nguồn lực bản thân\" nhóm khởi nghiệp cần kiểm tra trước khi triển khai. c) Đề xuất một cách kiểm chứng (khảo sát/thử nghiệm) nhu cầu thị trường trước khi đầu tư sản xuất lớn.",
+          "goi_y_dap_an": "a) Có — vì có sự giao thoa giữa nhu cầu thị trường thực tế (khách thích phong cách mộc mạc) và năng lực thực thi (nguồn nguyên liệu, tay nghề sẵn có), đã qua bước sàng lọc sơ bộ. b) Ví dụ: kỹ năng thiết kế hiện đại, vốn đầu tư ban đầu cho mẫu thử, hoặc mạng lưới tiếp cận khách hàng thành thị. c) Làm vài mẫu thử, trưng bày/giới thiệu qua mạng xã hội hoặc hội chợ, thu thập phản hồi và mức độ sẵn sàng chi trả trước khi sản xuất đại trà."
+        }
+      ]
+    },
+    "chuong_03": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch03) Những chỉ số tài chính nào sau đây thường được nhà đầu tư quan tâm nhất khi xem xét một dự án khởi nghiệp?",
+          "lua_chon": {
+            "A": "Số lượng giải thưởng nhóm đã đạt được.",
+            "B": "Doanh thu, lợi nhuận, điểm hòa vốn và khả năng thu hồi vốn.",
+            "C": "Vị trí địa lý của văn phòng làm việc.",
+            "D": "Tổng số lượng nhân viên hiện có."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 3/60 — ngân hàng ch03) Nguồn vốn nào thường được sử dụng trong giai đoạn thai nghén đầu tiên của một dự án khởi nghiệp ít vốn?",
+          "lua_chon": {
+            "A": "Quỹ đầu tư mạo hiểm quốc tế.",
+            "B": "Phát hành cổ phiếu ra công chúng (IPO).",
+            "C": "Vốn tự có, gia đình và bạn bè.",
+            "D": "Vay vốn ngân hàng thương mại với lãi suất cao."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 5/60 — ngân hàng ch03) Chỉ số nào cho biết thời điểm mà doanh nghiệp có doanh thu vừa đủ để bù đắp toàn bộ chi phí?",
+          "lua_chon": {
+            "A": "Lợi nhuận ròng.",
+            "B": "Điểm hòa vốn.",
+            "C": "Tổng doanh thu.",
+            "D": "Tốc độ tiêu tiền hàng tháng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 9/60 — ngân hàng ch03) Hoạt động huy động vốn cho dự án phải đáp ứng yêu cầu nào về tính bền vững?",
+          "lua_chon": {
+            "A": "Chỉ cần có vốn bằng mọi giá để duy trì dự án.",
+            "B": "Sử dụng vốn vào các mục đích không công khai.",
+            "C": "Không vi phạm đạo đức kinh doanh và hướng đến mục tiêu bền vững.",
+            "D": "Chỉ tập trung vào doanh thu ngắn hạn mà không cần báo cáo."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 14/60 — ngân hàng ch03) Chỉ số \"Tốc độ tiêu tiền\" (Burn rate) cho người khởi nghiệp biết điều gì?",
+          "lua_chon": {
+            "A": "Số tiền chi tiêu hàng tháng và thời gian còn lại trước khi hết vốn.",
+            "B": "Doanh thu dự kiến trong vòng 5 năm tới.",
+            "C": "Tổng số vốn đã huy động được từ người thân.",
+            "D": "Mức lãi suất ngân hàng đang áp dụng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 16/60 — ngân hàng ch03) Một dự án có Định phí (F) là 10 triệu, Giá bán (P) là 100 ngàn, Biến phí (V) là 50 ngàn. Số lượng sản phẩm tại điểm hòa vốn (Q) là:",
+          "lua_chon": {
+            "A": "100 sản phẩm.",
+            "B": "200 sản phẩm.",
+            "C": "50 sản phẩm.",
+            "D": "500 sản phẩm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 18/60 — ngân hàng ch03) Thuật ngữ \"Pitching\" trong khởi nghiệp được hiểu là:",
+          "lua_chon": {
+            "A": "Việc đi khảo sát nhu cầu của khách hàng tại chợ.",
+            "B": "Việc thuyết trình ngắn gọn và thuyết phục để thu hút nhà đầu tư.",
+            "C": "Việc ký kết hợp đồng mua bán nguyên vật liệu.",
+            "D": "Việc tuyển dụng nhân viên cấp quản lý."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 20/60 — ngân hàng ch03) \"Dòng tiền\" (Cash Flow) trong doanh nghiệp khởi nghiệp có ý nghĩa như thế nào?",
+          "lua_chon": {
+            "A": "Là tổng giá trị các tài sản cố định hiện có.",
+            "B": "Là sự luân chuyển tiền mặt vào và ra khỏi doanh nghiệp theo thời gian.",
+            "C": "Là số lượng nhân viên đang làm việc chính thức.",
+            "D": "Là tên gọi của một loại phần mềm kế toán."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 22/60 — ngân hàng ch03) Chỉ số \"Runway\" (Thời gian tồn tại) được tính dựa trên:",
+          "lua_chon": {
+            "A": "Số tiền mặt hiện có chia cho tốc độ tiêu tiền hàng tháng.",
+            "B": "Tổng số vốn gọi được chia cho số lượng nhân viên.",
+            "C": "Doanh thu hàng tháng nhân với 12 tháng.",
+            "D": "Số lượng khách hàng chia cho diện tích văn phòng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 28/60 — ngân hàng ch03) \"Lợi nhuận ròng\" (Net Profit) là kết quả của phép tính nào?",
+          "lua_chon": {
+            "A": "Doanh thu trừ đi tiền thuê nhà.",
+            "B": "Tổng doanh thu trừ đi tất cả các loại chi phí và thuế.",
+            "C": "Tổng số tiền huy động được từ các quỹ đầu tư.",
+            "D": "Số lượng sản phẩm nhân với giá bán."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 36/60 — ngân hàng ch03) Trong khởi nghiệp, \"Vốn cổ phần\" là hình thức:",
+          "lua_chon": {
+            "A": "Vay tiền ngân hàng và trả lãi hàng tháng.",
+            "B": "Nhà đầu tư góp vốn đổi lấy một phần quyền sở hữu công ty.",
+            "C": "Nhận tài trợ không hoàn lại từ các quỹ từ thiện.",
+            "D": "Việc các thành viên tự dùng tiền của mình để tiêu xài."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 53/60 — ngân hàng ch03) Mục đích của việc tính toán \"Điểm hòa vốn\" trước khi huy động vốn là:",
+          "lua_chon": {
+            "A": "Để nhà đầu tư thấy dự án sẽ không bao giờ có lãi.",
+            "B": "Để chỉ ra thời điểm dự án bắt đầu mang lại giá trị gia tăng và khả năng thu hồi vốn.",
+            "C": "Để báo cáo với cơ quan chính quyền về việc không kinh doanh nữa.",
+            "D": "Để kéo dài thời gian đàm phán với ngân hàng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 60/60 — ngân hàng ch03) Hoạt động nào sau đây là quan trọng nhất để duy trì Startup?",
+          "lua_chon": {
+            "A": "Thuê thật nhiều nhân sự nổi tiếng.",
+            "B": "Quản trị dòng tiền hiệu quả, minh bạch tài chính và liên tục đổi mới.",
+            "C": "Dùng toàn bộ vốn huy động được để quảng cáo một lần duy nhất.",
+            "D": "Ngừng chia sẻ thông tin với nhà đầu tư sau khi nhận tiền."
+          },
+          "dap_an": "B"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày các nguồn vốn phù hợp với từng giai đoạn phát triển của một startup (từ giai đoạn thai nghén đến giai đoạn mở rộng quy mô lớn)."
+        },
+        {
+          "cau_hoi": "Phân biệt Định phí, Biến phí, Điểm hòa vốn, Burn rate và Runway. Các chỉ số này giúp người khởi nghiệp ra quyết định gì?"
+        },
+        {
+          "cau_hoi": "Phân tích vì sao \"minh bạch tài chính\" và \"đạo đức kinh doanh\" lại quan trọng đối với việc huy động vốn thành công và duy trì lâu dài, không chỉ là vấn đề đạo đức suông."
+        },
+        {
+          "cau_hoi": "Phân biệt \"Lợi nhuận\" và \"Dòng tiền\" (Cash Flow). Vì sao một dự án có thể \"có lãi trên sổ sách\" nhưng vẫn gặp rủi ro phá sản?"
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Chị Hoa cần 10 triệu đồng để mua thiết bị sấy (định phí ban đầu). Giá bán mỗi gói sản phẩm là 50 nghìn đồng, chi phí nguyên liệu và bao bì mỗi gói là 20 nghìn đồng. (Ví dụ minh họa, không phải số liệu thật.)",
+          "yeu_cau": "a) Tính biên lãi gộp mỗi gói sản phẩm. b) Tính điểm hòa vốn (số gói cần bán để hòa vốn). c) Nếu chị bán được 50 gói/tuần, cần bao nhiêu tuần để hòa vốn? d) Ngoài vay ngân hàng, chị có thể huy động 10 triệu này bằng kênh nào, vì sao kênh đó phù hợp với tình huống của chị?",
+          "goi_y_dap_an": "a) 50.000 − 20.000 = 30.000đ/gói. b) 10.000.000 / 30.000 ≈ 334 gói (xấp xỉ). c) 334 / 50 ≈ 7 tuần. d) Gọi vốn cộng đồng (Crowdfunding) từ chính khách hàng đã mua và tin tưởng sản phẩm — phù hợp vì sản phẩm có câu chuyện địa phương/cá nhân dễ tạo thiện cảm, và số vốn cần huy động không lớn."
+        },
+        {
+          "mo_ta": "Một nhóm sinh viên chuẩn bị Pitch Deck gọi vốn cho dự án khởi nghiệp. Trong quá trình làm, nhóm phát hiện số liệu doanh thu dự kiến của quý đầu hơi thấp so với kỳ vọng ban đầu khi lập kế hoạch sơ bộ. Một thành viên đề xuất \"làm tròn\" số liệu lên cho đẹp hồ sơ, dễ thuyết phục nhà đầu tư hơn. (Tình huống minh họa cho mục đích học tập.)",
+          "yeu_cau": "a) Theo nguyên tắc đã học, nhóm nên xử lý đề xuất này như thế nào? b) Nêu hệ quả có thể xảy ra nếu nhóm \"làm tròn\"/phóng đại số liệu khi gọi vốn. c) Đề xuất một cách trình bày trung thực nhưng vẫn thuyết phục được nhà đầu tư với số liệu thực tế thấp hơn kỳ vọng.",
+          "goi_y_dap_an": "a) Không nên làm tròn/phóng đại; cần báo cáo trung thực số liệu — đây là yêu cầu về minh bạch tài chính và đạo đức kinh doanh. b) Mất niềm tin của nhà đầu tư khi sự thật lộ ra (qua thẩm định), ảnh hưởng uy tín lâu dài, có thể bị coi là gian lận. c) Trình bày rõ nhiều kịch bản (lạc quan/trung bình/xấu nhất), giải thích nguyên nhân số liệu thấp và kế hoạch cải thiện cụ thể (lộ trình đạt điểm hòa vốn, các giả định rõ ràng) để thể hiện sự chuyên nghiệp và đáng tin."
+        }
+      ]
+    }
+  },
+  "ngan_hang_ket_thuc_chuong": {
+    "chuong_01": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch01) Mục tiêu cốt lõi mà người học cần nắm vững sau khi tìm hiểu về khởi sự doanh nghiệp là gì?",
+          "lua_chon": {
+            "A": "Cách thức quản lý nhân sự tại các tập đoàn lớn.",
+            "B": "Kiến thức cơ bản về khởi nghiệp, đặc biệt là cho phụ nữ và người dân tộc thiểu số.",
+            "C": "Phương pháp phân tích thị trường chứng khoán.",
+            "D": "Quy trình vận hành máy móc công nghiệp nặng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 3/60 — ngân hàng ch01) Hoạt động khởi sự doanh nghiệp cần hướng đến mục tiêu nào để thể hiện trách nhiệm với cộng đồng?",
+          "lua_chon": {
+            "A": "Chỉ tập trung tối đa hóa lợi nhuận trong thời gian ngắn nhất.",
+            "B": "Cạnh tranh bằng mọi giá để loại bỏ đối thủ.",
+            "C": "Không vi phạm đạo đức kinh doanh và hướng đến phát triển bền vững.",
+            "D": "Chỉ quan tâm đến doanh thu mà không cần bảo vệ môi trường."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 4/60 — ngân hàng ch01) Theo nội dung chương 1, yếu tố nào được xem là \"bản lộ trình\" để hiện thực hóa ý tưởng khởi nghiệp?",
+          "lua_chon": {
+            "A": "Danh sách các nhà đầu tư tiềm năng.",
+            "B": "Kế hoạch kinh doanh.",
+            "C": "Quy định về thuế thu nhập cá nhân.",
+            "D": "Bảng báo cáo kết quả kinh doanh năm trước."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 5/60 — ngân hàng ch01) Trong bối cảnh chuyển đổi số, người khởi nghiệp cần chú trọng ứng dụng yếu tố nào?",
+          "lua_chon": {
+            "A": "Các phương pháp quản lý sổ sách bằng tay truyền thống.",
+            "B": "Kỹ năng thuyết trình không cần sử dụng thiết bị hỗ trợ.",
+            "C": "Các công cụ số và phần mềm hỗ trợ trong hoạt động khởi sự.",
+            "D": "Các kỹ thuật in ấn thủ công."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 6/60 — ngân hàng ch01) Vai trò quan trọng nhất của kế hoạch kinh doanh trong thực tế là gì?",
+          "lua_chon": {
+            "A": "Giúp giảng viên có căn cứ để chấm điểm.",
+            "B": "Giúp định hướng kinh doanh và gọi vốn từ nhà đầu tư.",
+            "C": "Dùng để đăng ký các giải thưởng thể thao.",
+            "D": "Chỉ dùng để lưu trữ hồ sơ lưu niệm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 7/60 — ngân hàng ch01) Đối với phụ nữ và người dân tộc thiểu số, nguồn nào sau đây có thể giúp tạo lập ý tưởng khởi nghiệp tốt nhất?",
+          "lua_chon": {
+            "A": "Chỉ từ việc sao chép các mô hình ở nước ngoài.",
+            "B": "Khai thác các thế mạnh và sản vật độc đáo của địa phương.",
+            "C": "Chỉ từ các bài báo cáo kinh tế của chính phủ.",
+            "D": "Từ các trò chơi trực tuyến giải trí."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 8/60 — ngân hàng ch01) Học phần khởi sự doanh nghiệp chú trọng nhất vào nhóm đối tượng nào trong bối cảnh số?",
+          "lua_chon": {
+            "A": "Các tập đoàn đa quốc gia.",
+            "B": "Các doanh nghiệp có vốn đầu tư nước ngoài.",
+            "C": "Phụ nữ và người dân tộc thiểu số.",
+            "D": "Các tổ chức phi chính phủ."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 9/60 — ngân hàng ch01) Theo nội dung bài học, một bản kế hoạch kinh doanh cần phải viết những nội dung cơ bản nào?",
+          "lua_chon": {
+            "A": "Chỉ viết về các khoản chi tiêu cá nhân của chủ dự án.",
+            "B": "Chỉ viết về danh sách nhân sự dự kiến.",
+            "C": "Bao gồm tóm tắt dự án, sản phẩm, thị trường và tài chính.",
+            "D": "Chỉ viết về các quy định pháp luật."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 10/60 — ngân hàng ch01) Khi phụ nữ khởi nghiệp tại địa phương gặp khó khăn về vốn, nguồn lực nào nên được ưu tiên khai thác đầu tiên?",
+          "lua_chon": {
+            "A": "Vay tín dụng đen lãi suất cao.",
+            "B": "Thế mạnh về văn hóa bản địa và sản vật địa phương.",
+            "C": "Chờ đợi gói cứu trợ từ các tổ chức quốc tế.",
+            "D": "Bán toàn bộ tài sản cố định của gia đình."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 13/60 — ngân hàng ch01) Đâu là yếu tố cốt lõi của \"Đổi mới sáng tạo\" trong khởi nghiệp?",
+          "lua_chon": {
+            "A": "Chỉ là việc mở rộng quy mô kinh doanh cũ.",
+            "B": "Tạo ra giá trị mới hoặc cách tiếp cận mới cho vấn đề thực tế.",
+            "C": "Sử dụng nhiều vốn nhất có thể.",
+            "D": "Không cần thay đổi quy trình sản xuất."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 14/60 — ngân hàng ch01) Tại sao phụ nữ và người dân tộc thiểu số cần khai thác \"thế mạnh bản thân\" khi khởi nghiệp?",
+          "lua_chon": {
+            "A": "Để tạo ra các sản phẩm độc đáo mang đậm bản sắc văn hóa địa phương.",
+            "B": "Để không phải sử dụng công nghệ số.",
+            "C": "Để giảm giá thành sản phẩm xuống mức thấp nhất.",
+            "D": "Để sao chép các mô hình từ thành phố lớn."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 16/60 — ngân hàng ch01) Việc nhận diện các thách thức thực tế khi triển khai ý tưởng giúp người khởi nghiệp:",
+          "lua_chon": {
+            "A": "Có thể tránh được việc đóng thuế kinh doanh.",
+            "B": "Không cần phải thuê nhân viên chuyên môn.",
+            "C": "Chủ động xây dựng các phương án dự phòng và giảm thiểu rủi ro.",
+            "D": "Được mặc định thành công mà không cần nỗ lực."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 17/60 — ngân hàng ch01) \"Khởi nghiệp\" (Start-up) được hiểu đúng nhất là gì?",
+          "lua_chon": {
+            "A": "Bất kỳ hoạt động mở cửa hàng bán lẻ nào.",
+            "B": "Quá trình bắt đầu một doanh nghiệp dựa trên ý tưởng mới, có tiềm năng tăng trưởng.",
+            "C": "Việc kế thừa một doanh nghiệp gia đình có sẵn.",
+            "D": "Chỉ các doanh nghiệp hoạt động trong lĩnh vực công nghệ thông tin."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 19/60 — ngân hàng ch01) Sự khác biệt lớn nhất giữa một nhà khởi nghiệp và một người làm kinh doanh thông thường là gì?",
+          "lua_chon": {
+            "A": "Số lượng nhân viên quản lý.",
+            "B": "Tinh thần dám chấp nhận rủi ro và khát vọng tạo ra giá trị mới đột phá.",
+            "C": "Khả năng huy động vốn từ ngân hàng.",
+            "D": "Trình độ học vấn và bằng cấp."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 20/60 — ngân hàng ch01) Ý tưởng kinh doanh (Business Idea) nên bắt nguồn từ đâu để đạt hiệu quả cao?",
+          "lua_chon": {
+            "A": "Từ việc quan sát và giải quyết các nhu cầu chưa được đáp ứng của thị trường.",
+            "B": "Chỉ từ sở thích cá nhân mà không quan tâm đến thị trường.",
+            "C": "Từ việc sao chép y hệt mô hình của đối thủ cạnh tranh.",
+            "D": "Từ những dự báo ngẫu nhiên không có căn cứ."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 24/60 — ngân hàng ch01) Một ý tưởng kinh doanh tốt cần đáp ứng tiêu chí nào sau đây?",
+          "lua_chon": {
+            "A": "Tính mới lạ hoàn toàn chưa từng có.",
+            "B": "Khả năng mang lại lợi nhuận ngay lập tức trong tuần đầu.",
+            "C": "Tính khả thi, có khách hàng sẵn sàng chi trả và mang lại lợi ích thực tế.",
+            "D": "Không cần quan tâm đến chi phí sản xuất."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 27/60 — ngân hàng ch01) Sản vật đặc thù của Vĩnh Long có thể trở thành ý tưởng khởi nghiệp là:",
+          "lua_chon": {
+            "A": "Sản xuất linh kiện ô tô điện.",
+            "B": "Chế biến sâu các sản phẩm từ khoai lang Bình Tân hoặc gốm đỏ.",
+            "C": "Kinh doanh dịch vụ tuyết nhân tạo.",
+            "D": "Khai thác mỏ quặng kim loại quý."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 28/60 — ngân hàng ch01) \"Khởi nghiệp xanh\" đang là xu hướng hiện nay, nó tập trung vào mục tiêu nào?",
+          "lua_chon": {
+            "A": "Chỉ sử dụng màu xanh cho thương hiệu.",
+            "B": "Phát triển kinh doanh gắn liền với bảo vệ môi trường và sử dụng tài nguyên bền vững.",
+            "C": "Chỉ bán các loại rau củ quả.",
+            "D": "Không sử dụng bất kỳ thiết bị điện tử nào."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 31/60 — ngân hàng ch01) Khởi nghiệp xã hội (Social Entrepreneurship) khác với khởi nghiệp thông thường ở điểm nào?",
+          "lua_chon": {
+            "A": "Không quan tâm đến lợi nhuận.",
+            "B": "Ưu tiên giải quyết các vấn đề xã hội hoặc cộng đồng thông qua mô hình kinh doanh.",
+            "C": "Chỉ hoạt động bằng nguồn vốn từ thiện.",
+            "D": "Không phải đóng thuế cho Nhà nước."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 34/60 — ngân hàng ch01) Tại sao cần nghiên cứu đối thủ cạnh tranh khi mới bắt đầu ý tưởng?",
+          "lua_chon": {
+            "A": "Để tìm cách phá hoại hoạt động của họ.",
+            "B": "Để hiểu thị trường và tìm ra điểm khác biệt cho dự án mình.",
+            "C": "Để sao chép y nguyên cách làm của họ.",
+            "D": "Để báo cáo với cơ quan quản lý thị trường."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 38/60 — ngân hàng ch01) Tầm quan trọng của việc bảo vệ sở hữu trí tuệ cho ý tưởng là:",
+          "lua_chon": {
+            "A": "Để khoe khoang với bạn bè.",
+            "B": "Bảo vệ lợi thế cạnh tranh và ngăn chặn việc sao chép trái phép.",
+            "C": "Để được nhận tiền thưởng từ Nhà nước.",
+            "D": "Không thực sự cần thiết đối với doanh nghiệp nhỏ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 42/60 — ngân hàng ch01) Tại sao người dân tộc thiểu số thường có ưu thế trong khởi nghiệp về du lịch cộng đồng?",
+          "lua_chon": {
+            "A": "Do sở hữu các bản sắc văn hóa và kiến thức bản địa độc đáo.",
+            "B": "Do họ có nhiều vốn đầu tư hơn người ở thành thị.",
+            "C": "Do họ có trình độ công nghệ cao hơn.",
+            "D": "Do họ không phải cạnh tranh với bất kỳ ai."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 47/60 — ngân hàng ch01) Ý nghĩa của cụm từ \"Hệ sinh thái khởi nghiệp\" là:",
+          "lua_chon": {
+            "A": "Các loại cây trồng trong khuôn viên doanh nghiệp.",
+            "B": "Môi trường bao gồm các nguồn lực, tổ chức và chính sách hỗ trợ khởi nghiệp.",
+            "C": "Một phần mềm quản lý dữ liệu khách hàng.",
+            "D": "Danh sách các đối thủ cạnh tranh trên thị trường."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 50/60 — ngân hàng ch01) Khái niệm \"Khởi nghiệp tinh gọn\" nhấn mạnh điều gì?",
+          "lua_chon": {
+            "A": "Tiết kiệm tối đa chi phí văn phòng.",
+            "B": "Học hỏi nhanh chóng thông qua thử nghiệm sản phẩm dựa trên phản hồi khách hàng.",
+            "C": "Chỉ sử dụng ít nhân viên nhất có thể.",
+            "D": "Không cần lập kế hoạch kinh doanh."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 56/60 — ngân hàng ch01) Một dự án khởi nghiệp bền vững cần hướng tới sự cân bằng giữa:",
+          "lua_chon": {
+            "A": "Lợi nhuận kinh tế, lợi ích con người và bảo vệ môi trường.",
+            "B": "Vốn vay, công nghệ và nhân sự quy mô lớn.",
+            "C": "Giá sản phẩm rẻ nhất và quảng cáo nhiều nhất.",
+            "D": "Ý tưởng độc lạ nhất và văn phòng làm việc đẹp nhất."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 59/60 — ngân hàng ch01) Năng lực \"Thích nghi\" giúp gì cho người khởi nghiệp ở vùng nông thôn?",
+          "lua_chon": {
+            "A": "Vượt qua những thay đổi về chính sách, thời tiết hoặc giá cả nông sản.",
+            "B": "Giúp họ học thêm các ngôn ngữ mới nhanh hơn.",
+            "C": "Nhằm tìm kiếm cơ hội để chuyển đến thành phố lớn làm việc.",
+            "D": "Để làm việc mà không cần dựa trên bất kỳ kế hoạch nào."
+          },
+          "dap_an": "A"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Xây dựng một sơ đồ (bằng lời) mô tả hành trình từ \"quan sát nhu cầu chưa được đáp ứng\" đến \"một bản kế hoạch kinh doanh sơ bộ\", chỉ rõ các bước trung gian và vai trò của \"đổi mới sáng tạo\", \"khởi nghiệp tinh gọn\" trong hành trình đó."
+        },
+        {
+          "cau_hoi": "So sánh khởi nghiệp đổi mới sáng tạo, khởi nghiệp xanh và khởi nghiệp xã hội: giống và khác nhau ở mục tiêu, cách tạo giá trị, và đối tượng được ưu tiên."
+        },
+        {
+          "cau_hoi": "Phân tích mối quan hệ giữa \"thế mạnh bản thân/địa phương\" và \"lợi thế cạnh tranh bền vững\" đối với người khởi nghiệp là phụ nữ hoặc người dân tộc thiểu số ở nông thôn. Vì sao thế mạnh này khó bị nơi khác sao chép?"
+        },
+        {
+          "cau_hoi": "Một sinh viên cho rằng \"khởi nghiệp chỉ cần có ý tưởng hay, không cần kế hoạch kinh doanh cụ thể vì thị trường thay đổi liên tục, viết kế hoạch chỉ mất thời gian\". Hãy phản biện quan điểm này dựa trên nội dung đã học, có đề cập đến tính linh hoạt cần có của một kế hoạch kinh doanh."
+        },
+        {
+          "cau_hoi": "Phân tích vai trò của \"hệ sinh thái khởi nghiệp\" và \"công cụ số\" trong việc giúp một người khởi nghiệp đơn lẻ, ít vốn, bù đắp những hạn chế về nguồn lực ban đầu."
+        },
+        {
+          "cau_hoi": "Trình bày quan điểm của bạn về trách nhiệm xã hội và đạo đức kinh doanh (tính trung thực, phát triển bền vững) mà một dự án khởi nghiệp cần tuân thủ ngay từ giai đoạn hình thành ý tưởng — vì sao đây không chỉ là vấn đề \"nên làm\" mà còn ảnh hưởng đến khả năng thành công lâu dài?"
+        },
+        {
+          "cau_hoi": "Từ hai ví dụ minh họa trong chương (chị Hoa — khoai lang; dự án gốm đỏ), rút ra ĐIỂM CHUNG trong cách hai ý tưởng này hình thành (quan sát nhu cầu/khoảng trống nào, khai thác thế mạnh địa phương nào). Từ đó, đề xuất một ý tưởng khởi nghiệp khác dựa trên một sản vật/thế mạnh địa phương mà bạn biết, áp dụng đúng logic đó."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Một nhóm sinh viên người dân tộc Khmer ở một huyện của Vĩnh Long muốn khởi nghiệp dựa trên nghề dệt thổ cẩm truyền thống của gia đình, nhưng thị trường tiêu thụ thổ cẩm truyền thống tại địa phương đang thu hẹp vì ít người trẻ còn mặc trang phục truyền thống hàng ngày. (Tình huống minh họa dùng cho mục đích học tập, không phải số liệu thật.)",
+          "yeu_cau": "a) Áp dụng khái niệm \"đổi mới sáng tạo\" (4 hướng đã học), hãy đề xuất ÍT NHẤT hai hướng đổi mới để nhóm có thể làm mới sản phẩm thổ cẩm, mở rộng thị trường. b) Đây có thể được xem là một hướng \"khởi nghiệp xã hội\" không? Vì sao? c) Nêu một rủi ro cụ thể nhóm cần lường trước khi triển khai.",
+          "goi_y_dap_an": "a) Đổi mới sản phẩm (làm phụ kiện, túi, đồ trang trí nội thất từ thổ cẩm thay vì chỉ trang phục truyền thống); đổi mới Marketing (kể câu chuyện văn hóa qua mạng xã hội, nhắm đến khách du lịch/người yêu văn hóa bản địa); đổi mới mô hình kinh doanh (hợp tác với cửa hàng lưu niệm, nền tảng thương mại điện tử) — nêu ít nhất 2 hướng. b) Có yếu tố khởi nghiệp xã hội, vì vừa tạo thu nhập vừa góp phần bảo tồn văn hóa/nghề truyền thống, không chỉ nhằm lợi nhuận. c) Ví dụ: thị trường ngách có thể nhỏ, khó mở rộng nhanh; thiếu kỹ năng tiếp cận khách hàng mới; phụ thuộc vào một vài kênh bán."
+        },
+        {
+          "mo_ta": "Một bạn sinh viên dự định khởi nghiệp bán đồ ăn vặt online ngay sau khi đọc được một bài báo về một startup đồ ăn vặt rất thành công ở TP.HCM, với kế hoạch là \"làm giống y như vậy nhưng ở quy mô nhỏ hơn\". (Tình huống minh họa, không phải số liệu thật.)",
+          "yeu_cau": "a) Theo các tiêu chí về \"ý tưởng kinh doanh tốt\" đã học, kế hoạch này có điểm gì chưa ổn? b) Đề xuất cách bạn sinh viên này nên điều chỉnh cách tiếp cận để ý tưởng phù hợp hơn với bối cảnh của chính mình.",
+          "goi_y_dap_an": "a) Ý tưởng bắt nguồn từ việc sao chép mô hình đã thành công ở nơi khác, chưa dựa trên việc quan sát nhu cầu thực tế hoặc thế mạnh riêng tại nơi mình sẽ kinh doanh; chưa phân tích thị trường mục tiêu, đối thủ địa phương hay nguồn lực/năng lực của chính mình. b) Nên khảo sát nhu cầu thực tế tại thị trường của riêng mình, tìm điểm khác biệt/thế mạnh riêng (nguyên liệu địa phương, câu chuyện cá nhân...), thử nghiệm quy mô nhỏ trước khi mở rộng theo tinh thần khởi nghiệp tinh gọn."
+        },
+        {
+          "mo_ta": "Một nhóm khởi nghiệp đã viết một bản kế hoạch kinh doanh rất chi tiết, đẹp mắt, nhưng chưa từng hỏi ý kiến bất kỳ khách hàng tiềm năng nào, và chưa tìm hiểu xem có chính sách hỗ trợ nào cho dự án của họ (dự án do phụ nữ làm chủ) hay không. (Tình huống minh họa.)",
+          "yeu_cau": "a) Nhóm đang thiếu bước nào trong quy trình hình thành ý tưởng/kế hoạch mà chương đã nhấn mạnh? b) Đề xuất hai hành động cụ thể nhóm nên làm trước khi hoàn thiện kế hoạch.",
+          "goi_y_dap_an": "a) Thiếu bước khảo sát thực tế/kiểm chứng ý tưởng với khách hàng (xác nhận nhu cầu thật), và thiếu tìm hiểu nguồn hỗ trợ đặc thù (chính sách, quỹ hỗ trợ phụ nữ khởi nghiệp...). b) Thử nghiệm sản phẩm/khảo sát nhanh với một nhóm khách hàng mục tiêu nhỏ; tìm hiểu các chương trình/chính sách hỗ trợ khởi nghiệp dành cho phụ nữ tại địa phương."
+        }
+      ]
+    },
+    "chuong_02": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch02) Kỹ năng cốt lõi mà người học cần đạt được sau khi tìm hiểu Chương 2 là gì?",
+          "lua_chon": {
+            "A": "Lập bảng lương cho nhân viên công ty.",
+            "B": "Đánh giá được cơ hội phát triển dự án kinh doanh.",
+            "C": "Thiết kế sơ đồ lắp đặt máy móc nhà xưởng.",
+            "D": "Phân tích các hiệp định thương mại tự do thế giới."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 2/60 — ngân hàng ch02) Việc xác định \"đối tượng khách hàng\" trong giai đoạn này nhằm mục đích chính là gì?",
+          "lua_chon": {
+            "A": "Giúp dự án tập trung đúng nhu cầu và tối ưu nguồn lực kinh doanh.",
+            "B": "Để có tên trong hồ sơ đăng ký kinh doanh.",
+            "C": "Chỉ phục vụ cho việc thiết kế bao bì sản phẩm.",
+            "D": "Để hoàn thiện danh sách nhân sự của dự án."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 4/60 — ngân hàng ch02) \"Nỗi đau khách hàng\" (Customer Pain Points) trong kinh doanh được hiểu là:",
+          "lua_chon": {
+            "A": "Những vấn đề hoặc khó khăn thực tế mà khách hàng đang gặp phải cần được giải quyết.",
+            "B": "Những thủ tục hành chính khi đăng ký nhãn hiệu.",
+            "C": "Sự thiếu hụt về số lượng nhân viên trong doanh nghiệp.",
+            "D": "Các khoản thuế thu nhập doanh nghiệp phải đóng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 6/60 — ngân hàng ch02) Đánh giá tính khả thi về kinh tế của một dự án khởi nghiệp là việc:",
+          "lua_chon": {
+            "A": "Kiểm tra xem các loại máy móc có hoạt động tốt không.",
+            "B": "Phân tích xem dự án có khả năng tạo ra lợi nhuận và duy trì dòng tiền không.",
+            "C": "Xem xét dự án có nhận được nhiều lời khen ngợi từ cộng đồng không.",
+            "D": "Đo lường tốc độ đường truyền internet tại cơ sở kinh doanh."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 7/60 — ngân hàng ch02) Việc xây dựng \"chân dung khách hàng\" (Persona) giúp dự án đạt được điều gì?",
+          "lua_chon": {
+            "A": "Hiểu rõ nhu cầu, hành vi và các đặc điểm cụ thể của nhóm khách hàng mục tiêu.",
+            "B": "Hoàn thiện danh sách hồ sơ nhân sự cho công ty.",
+            "C": "Đáp ứng yêu cầu pháp lý trong hồ sơ đăng ký kinh doanh.",
+            "D": "Tính toán chính xác các mức thuế thu nhập dự kiến."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 9/60 — ngân hàng ch02) Việc phân tích \"Tính khả thi về kỹ thuật\" nhằm mục đích gì?",
+          "lua_chon": {
+            "A": "Để tính toán các khoản lợi nhuận dự kiến của quý.",
+            "B": "Xác định khả năng thực hiện ý tưởng dựa trên công nghệ và nguồn lực hiện có.",
+            "C": "Tìm kiếm và phân loại các nhóm khách hàng tiềm năng.",
+            "D": "Thiết kế các mẫu bao bì và nhãn mác cho sản phẩm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 10/60 — ngân hàng ch02) Theo nội dung bài giảng, cơ hội kinh doanh chỉ xuất hiện khi có sự giao thoa giữa:",
+          "lua_chon": {
+            "A": "Nguồn vốn dồi dào và nhân sự đông đảo.",
+            "B": "Nhu cầu thực tế của thị trường và năng lực thực thi của nhóm.",
+            "C": "Sự ủng hộ của gia đình và chính sách của nhà nước.",
+            "D": "Giá thành sản phẩm rẻ và quảng cáo rầm rộ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 11/60 — ngân hàng ch02) Một ý tưởng trở thành \"cơ hội kinh doanh\" khi nó:",
+          "lua_chon": {
+            "A": "Được nhiều người khen ngợi về tính độc lạ.",
+            "B": "Có thể tồn tại, phát triển và mang lại giá trị trong thực tế.",
+            "C": "Được thiết kế bởi các chuyên gia nước ngoài.",
+            "D": "Không cần phải đối mặt với bất kỳ thách thức nào."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 14/60 — ngân hàng ch02) Tại sao cần phân tích đối thủ cạnh tranh khi đánh giá cơ hội kinh doanh?",
+          "lua_chon": {
+            "A": "Để nhận diện lợi thế cạnh tranh và tìm ra điểm khác biệt cho sản phẩm của mình.",
+            "B": "Để tìm cách sao chép hoàn toàn mô hình của đối thủ.",
+            "C": "Để yêu cầu cơ quan chức năng đóng cửa doanh nghiệp của đối thủ.",
+            "D": "Chỉ nhằm mục đích kéo dài nội dung của kế hoạch kinh doanh."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 15/60 — ngân hàng ch02) “Thị trường ngách” (Niche market) là khái niệm chỉ:",
+          "lua_chon": {
+            "A": "Toàn bộ người tiêu dùng trong một khu vực địa lý rộng lớn.",
+            "B": "Một phân khúc thị trường nhỏ, tập trung vào nhu cầu cụ thể mà đối thủ lớn bỏ sót.",
+            "C": "Nhóm khách hàng chỉ mua hàng khi có chương trình giảm giá sâu.",
+            "D": "Khu vực chợ truyền thống tại các vùng nông thôn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 17/60 — ngân hàng ch02) Phân tích \"Nhân khẩu học\" của khách hàng bao gồm các yếu tố:",
+          "lua_chon": {
+            "A": "Độ tuổi, giới tính, thu nhập, nghề nghiệp và trình độ học vấn.",
+            "B": "Sở thích du lịch và thói quen xem phim.",
+            "C": "Vị trí nhà ở và các phương tiện di chuyển cá nhân.",
+            "D": "Các mối quan hệ xã hội trên môi trường trực tuyến."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 19/60 — ngân hàng ch02) \"Nhu cầu tiềm ẩn\" của khách hàng là những nhu cầu:",
+          "lua_chon": {
+            "A": "Đã được đáp ứng đầy đủ bởi các doanh nghiệp hiện tại.",
+            "B": "Khách hàng thực sự cần nhưng chưa được đáp ứng hoặc chính họ chưa nhận ra.",
+            "C": "Chỉ xuất hiện trong các dịp lễ tết hoặc sự kiện đặc biệt.",
+            "D": "Không liên quan đến việc chi trả tài chính để mua sản phẩm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 21/60 — ngân hàng ch02) \"Rào cản gia nhập thị trường\" có thể bao gồm yếu tố nào?",
+          "lua_chon": {
+            "A": "Chi phí đầu tư ban đầu quá thấp.",
+            "B": "Quy định pháp lý khắt khe, chi phí đầu tư lớn hoặc lòng trung thành của khách hàng với đối thủ.",
+            "C": "Sự thiếu hụt về ý tưởng sáng tạo của nhóm khởi nghiệp.",
+            "D": "Việc không có kết nối internet tại cơ sở kinh doanh."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 22/60 — ngân hàng ch02) Việc đánh giá cơ hội kinh doanh cho sản phẩm đặc sản địa phương cần đặc biệt lưu ý đến:",
+          "lua_chon": {
+            "A": "Bản sắc văn hóa, nguồn gốc bản địa và tính bền vững của nguồn nguyên liệu.",
+            "B": "Cách thức sao chép các sản phẩm công nghiệp hàng loạt.",
+            "C": "Việc sử dụng các nhãn mác hoàn toàn bằng tiếng nước ngoài.",
+            "D": "Chỉ tập trung bán cho khách du lịch vãng lai."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 25/60 — ngân hàng ch02) Bước nào là bước đầu tiên trong quy trình đánh giá một cơ hội khởi nghiệp?",
+          "lua_chon": {
+            "A": "Xác định và mô tả rõ ràng ý tưởng/giải pháp.",
+            "B": "Vay vốn ngân hàng để thực hiện ngay.",
+            "C": "Thuê văn phòng làm việc chuyên nghiệp.",
+            "D": "Tổ chức sự kiện ra mắt sản phẩm."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 30/60 — ngân hàng ch02) \"Giải pháp dự án\" trong khởi nghiệp được hiểu là:",
+          "lua_chon": {
+            "A": "Cách thức để trốn tránh sự cạnh tranh của đối thủ.",
+            "B": "Sản phẩm hoặc dịch vụ giúp khách hàng giải quyết vấn đề của họ một cách hiệu quả.",
+            "C": "Một công thức hóa học dùng trong sản xuất.",
+            "D": "Phương án vay vốn tài chính từ người thân."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 33/60 — ngân hàng ch02) \"Lợi thế cạnh tranh bền vững\" là lợi thế mà:",
+          "lua_chon": {
+            "A": "Có thể dễ dàng bị sao chép bởi bất kỳ đối thủ nào.",
+            "B": "Khó bị bắt chước và giúp doanh nghiệp duy trì vị thế trong thời gian dài.",
+            "C": "Chỉ tồn tại khi doanh nghiệp thực hiện giảm giá sản phẩm.",
+            "D": "Chỉ phụ thuộc vào một chiến dịch quảng cáo duy nhất."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 36/60 — ngân hàng ch02) Một \"Ý tưởng kinh doanh\" khác với một \"Cơ hội kinh doanh\" ở điểm nào?",
+          "lua_chon": {
+            "A": "Ý tưởng kinh doanh luôn mang lại nhiều tiền hơn.",
+            "B": "Ý tưởng là sự sáng tạo sơ khai, cơ hội là ý tưởng đã qua sàng lọc và có tính khả thi thực tế.",
+            "C": "Ý tưởng kinh doanh chỉ dành cho sinh viên, cơ hội dành cho doanh nhân.",
+            "D": "Không có sự khác biệt nào giữa hai khái niệm này."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 38/60 — ngân hàng ch02) \"Tính khả thi về kinh tế\" không chỉ là có lãi mà còn phải đảm bảo:",
+          "lua_chon": {
+            "A": "Có đủ tiền để mua sắm xe hơi cho chủ doanh nghiệp.",
+            "B": "Khả năng duy trì dòng tiền để dự án tồn tại qua giai đoạn đầu khó khăn.",
+            "C": "Số vốn vay ngân hàng phải lớn hơn vốn tự có.",
+            "D": "Việc không phải chi trả bất kỳ khoản chi phí phát sinh nào."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 41/60 — ngân hàng ch02) \"Phân khúc thị trường mục tiêu\" giúp doanh nghiệp mới:",
+          "lua_chon": {
+            "A": "Tránh việc phân tán nguồn lực và đối đầu trực tiếp với các \"ông lớn\" trên toàn thị trường.",
+            "B": "Có thể phục vụ được tất cả mọi người cùng một lúc.",
+            "C": "Không cần phải quan tâm đến chất lượng sản phẩm.",
+            "D": "Giảm bớt các thủ tục pháp lý khi đăng ký kinh doanh."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 44/60 — ngân hàng ch02) Tại sao \"Chuyển đổi số\" được coi là một thách thức thực tiễn ?",
+          "lua_chon": {
+            "A": "Vì công nghệ số luôn làm tăng chi phí vận hành doanh nghiệp.",
+            "B": "Vì nó đòi hỏi doanh nghiệp phải thay đổi tư duy và cách thức tương tác với khách hàng.",
+            "C": "Vì khách hàng hiện nay không còn tin tưởng vào công nghệ.",
+            "D": "Vì tất cả các phần mềm hỗ trợ đều rất khó sử dụng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 45/60 — ngân hàng ch02) Một dự án khởi nghiệp tại Vĩnh Long sử dụng \"Gốm đỏ\" làm vật liệu trang trí hiện đại là ví dụ về:",
+          "lua_chon": {
+            "A": "Đổi mới dựa trên tài nguyên và nét đặc thù của địa phương.",
+            "B": "Một dự án không có tính thực tế.",
+            "C": "Sự sao chép mô hình gốm sứ từ các tỉnh khác.",
+            "D": "Việc lãng phí tài nguyên của địa phương."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 53/60 — ngân hàng ch02) Đánh giá cơ hội kinh doanh giúp loại bỏ các dự án:",
+          "lua_chon": {
+            "A": "Mang lại quá nhiều lợi nhuận cho xã hội.",
+            "B": "Vi phạm đạo đức, không có tính thực tế hoặc rủi ro quá lớn vượt khả năng.",
+            "C": "Có ý tưởng quá đơn giản và dễ thực hiện.",
+            "D": "Sử dụng quá ít nhân viên ngay từ giai đoạn đầu."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 55/60 — ngân hàng ch02) Khi đánh giá \"Đối thủ cạnh tranh\", bạn nên tập trung vào:",
+          "lua_chon": {
+            "A": "Chỉ tìm những điểm yếu và sai lầm của họ để cười chê.",
+            "B": "Cả điểm mạnh và điểm yếu của họ để tìm ra \"khoảng trống\" thị trường.",
+            "C": "Việc làm thế nào để hạ giá sản phẩm thấp hơn họ bằng mọi giá.",
+            "D": "Việc sao chép toàn bộ đội ngũ nhân sự của họ."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 57/60 — ngân hàng ch02) Việc xác định \"Tại sao khách hàng chọn bạn?\" giúp định hình:",
+          "lua_chon": {
+            "A": "Điểm bán hàng độc nhất (USP) của sản phẩm.",
+            "B": "Tổng số tiền vốn cần huy động từ ngân hàng.",
+            "C": "Số lượng thành viên tối đa trong một nhóm khởi nghiệp.",
+            "D": "Tên gọi của các nhân viên trong bộ phận bán hàng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 60/60 — ngân hàng ch02) Việc đánh giá cơ hội là bước đệm để:",
+          "lua_chon": {
+            "A": "Có thể đi vay tiền từ tất cả mọi người xung quanh.",
+            "B": "Phát triển một kế hoạch kinh doanh hoàn chỉnh và khả thi trong chương tiếp theo.",
+            "C": "Chứng minh rằng khởi nghiệp là một việc vô cùng dễ dàng.",
+            "D": "Ngay lập tức trở thành một doanh nhân giàu có."
+          },
+          "dap_an": "B"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày đầy đủ quy trình đánh giá cơ hội khởi nghiệp theo đúng thứ tự, và với MỖI bước, nêu rõ một câu hỏi cụ thể mà người khởi nghiệp cần tự trả lời."
+        },
+        {
+          "cau_hoi": "Phân tích vì sao \"đánh giá cơ hội kinh doanh dựa trên dữ liệu thực tế\" lại khó thực hiện trong thực tế hơn là trong lý thuyết — nêu ít nhất hai khó khăn thường gặp (ví dụ chi phí khảo sát, thời gian, mẫu khảo sát nhỏ...) và cách khắc phục."
+        },
+        {
+          "cau_hoi": "So sánh cách đánh giá cơ hội kinh doanh cho một dự án ở thành thị (nhiều đối thủ, cạnh tranh gay gắt) với một dự án ở vùng sâu, vùng xa (ít đối thủ nhưng hạ tầng hạn chế) — những yếu tố nào cần nhấn mạnh khác nhau?"
+        },
+        {
+          "cau_hoi": "Phân tích mối quan hệ giữa \"nguồn lực bản thân\" của nhóm khởi nghiệp và \"tính khả thi kỹ thuật\" của dự án: nếu hai yếu tố này không khớp với nhau thì nên xử lý thế nào?"
+        },
+        {
+          "cau_hoi": "Từ hai ví dụ minh họa trong chương (chị Hoa và dự án gốm đỏ), hãy chỉ ra: với mỗi ví dụ, \"khoảng trống thị trường\" được xác định dựa trên việc phân tích đối thủ cạnh tranh như thế nào?"
+        },
+        {
+          "cau_hoi": "Bình luận về nhận định: \"Thị trường ngách (Niche market) luôn là lựa chọn an toàn hơn cho người khởi nghiệp mới, ít vốn.\" Nhận định này đúng hay sai, trong điều kiện nào thì đúng/sai?"
+        },
+        {
+          "cau_hoi": "Phân tích vì sao đánh giá cơ hội kinh doanh không chỉ là một bước kỹ thuật (tính khả thi, phân tích đối thủ) mà còn gắn với đạo đức kinh doanh và tính bền vững — nêu một ví dụ cụ thể về việc một cơ hội \"khả thi về kinh tế\" nhưng có thể không nên theo đuổi vì lý do đạo đức/bền vững."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Một nhóm sinh viên phát hiện nhu cầu: nhiều hộ gia đình ở thành phố muốn mua rau củ sạch nhưng không tin tưởng nguồn gốc rau bán ở chợ. Nhóm dự định xây dựng mô hình \"rau sạch giao tận nhà, có thể đến tận vườn kiểm tra\". Qua khảo sát sơ bộ 20 người, 15 người nói \"có quan tâm\" nhưng chưa ai đặt hàng thử. (Tình huống minh họa.)",
+          "yeu_cau": "a) Theo logic \"ý tưởng vs cơ hội kinh doanh\" đã học, kết quả khảo sát này đã đủ để khẳng định đây là một \"cơ hội kinh doanh\" chưa? Vì sao? b) Đề xuất bước tiếp theo nhóm nên làm để kiểm chứng rõ hơn tính khả thi kinh tế.",
+          "goi_y_dap_an": "a) Chưa đủ — \"quan tâm\" chỉ là dấu hiệu ban đầu của ý tưởng, chưa chứng minh được khách hàng THỰC SỰ sẵn sàng chi trả (hành vi mua thật); cần chuyển từ khảo sát ý kiến sang quan sát hành vi mua thử. b) Thử bán/giao hàng mẫu cho một nhóm nhỏ khách hàng thật, thu phí, xem tỉ lệ đặt hàng lại — từ đó mới đánh giá được tính khả thi kinh tế thực sự."
+        },
+        {
+          "mo_ta": "Một nhóm khởi nghiệp trong lĩnh vực đồ handmade phát hiện đối thủ cạnh tranh chính của họ có giá rẻ hơn 20% nhờ sản xuất số lượng lớn tại một làng nghề đã công nghiệp hóa, trong khi nhóm làm thủ công quy mô nhỏ. (Tình huống minh họa.)",
+          "yeu_cau": "a) Nhóm có nên cạnh tranh bằng cách hạ giá để bằng đối thủ không? Vì sao? b) Đề xuất một \"lợi thế cạnh tranh bền vững\" khác mà nhóm có thể xây dựng thay vì cạnh tranh giá.",
+          "goi_y_dap_an": "a) Không nên, vì giá luôn có thể bị đối thủ có lợi thế quy mô hạ thấp hơn nữa; nhóm sẽ luôn ở thế yếu nếu chỉ cạnh tranh bằng giá. b) Xây dựng lợi thế khó sao chép: câu chuyện thủ công/cá nhân hóa sản phẩm, chất lượng/độ tinh xảo cao hơn, trải nghiệm khách hàng riêng biệt (đặt theo yêu cầu), hoặc gắn với bản sắc văn hóa địa phương."
+        },
+        {
+          "mo_ta": "Một dự án khởi nghiệp dự định khai thác một loại thủy sản đặc sản của địa phương để chế biến xuất khẩu, với kế hoạch tăng sản lượng khai thác gấp ba trong vòng một năm để đạt lợi nhuận nhanh, nhưng chưa đánh giá tác động đến nguồn lợi tự nhiên tại khu vực. (Tình huống minh họa.)",
+          "yeu_cau": "a) Áp dụng tiêu chí \"tính bền vững\" đã học, hãy chỉ ra vấn đề của kế hoạch này. b) Đề xuất một cách điều chỉnh kế hoạch để vừa đảm bảo tính khả thi kinh tế, vừa không vi phạm nguyên tắc bền vững.",
+          "goi_y_dap_an": "a) Kế hoạch có nguy cơ khai thác cạn kiệt tài nguyên thiên nhiên để đạt lợi nhuận ngắn hạn — vi phạm nguyên tắc \"không được phép khai thác cạn kiệt tài nguyên hoặc xâm phạm lợi ích cộng đồng\" đã học. b) Xây dựng kế hoạch tăng sản lượng theo lộ trình gắn với khả năng tái tạo của nguồn lợi (hoặc kết hợp nuôi trồng để giảm áp lực khai thác tự nhiên), đồng thời tính toán lại mức lợi nhuận kỳ vọng theo lộ trình bền vững hơn."
+        }
+      ]
+    },
+    "chuong_03": {
+      "trac_nghiem": [
+        {
+          "cau_hoi": "(Câu gốc số 1/60 — ngân hàng ch03) Những chỉ số tài chính nào sau đây thường được nhà đầu tư quan tâm nhất khi xem xét một dự án khởi nghiệp?",
+          "lua_chon": {
+            "A": "Số lượng giải thưởng nhóm đã đạt được.",
+            "B": "Doanh thu, lợi nhuận, điểm hòa vốn và khả năng thu hồi vốn.",
+            "C": "Vị trí địa lý của văn phòng làm việc.",
+            "D": "Tổng số lượng nhân viên hiện có."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 2/60 — ngân hàng ch03) Việc sử dụng các công cụ số và phần mềm hỗ trợ trong hoạt động huy động vốn nhằm mục đích gì?",
+          "lua_chon": {
+            "A": "Kỹ năng vận hành máy móc công nghiệp.",
+            "B": "Ứng dụng thành thạo để mô phỏng và quản lý các kịch bản tài chính.",
+            "C": "Kỹ năng thiết kế bao bì thủ công.",
+            "D": "Kỹ năng sửa chữa thiết bị internet."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 3/60 — ngân hàng ch03) Nguồn vốn nào thường được sử dụng trong giai đoạn thai nghén đầu tiên của một dự án khởi nghiệp ít vốn?",
+          "lua_chon": {
+            "A": "Quỹ đầu tư mạo hiểm quốc tế.",
+            "B": "Phát hành cổ phiếu ra công chúng (IPO).",
+            "C": "Vốn tự có, gia đình và bạn bè.",
+            "D": "Vay vốn ngân hàng thương mại với lãi suất cao."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 4/60 — ngân hàng ch03) Kỹ thuật nào sau đây là then chốt để thu hút nhà đầu tư khi giới thiệu dự án?",
+          "lua_chon": {
+            "A": "Kỹ thuật lập trình phần mềm phức tạp.",
+            "B": "Kỹ thuật huy động vốn, kêu gọi vốn và xây dựng hồ sơ gọi vốn.",
+            "C": "Kỹ năng thiết kế đồ họa 3D cho sản phẩm.",
+            "D": "Kỹ thuật sửa chữa hạ tầng internet."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 5/60 — ngân hàng ch03) Chỉ số nào cho biết thời điểm mà doanh nghiệp có doanh thu vừa đủ để bù đắp toàn bộ chi phí?",
+          "lua_chon": {
+            "A": "Lợi nhuận ròng.",
+            "B": "Điểm hòa vốn.",
+            "C": "Tổng doanh thu.",
+            "D": "Tốc độ tiêu tiền hàng tháng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 8/60 — ngân hàng ch03) Trong hoạt động huy động vốn theo nhóm, nhiệm vụ của sinh viên là gì?",
+          "lua_chon": {
+            "A": "Tự mình thực hiện tất cả các khâu để giữ bí mật dự án.",
+            "B": "Phối hợp hiệu quả giữa các thành viên trong nhóm để đạt tiến độ.",
+            "C": "Chỉ giao nhiệm vụ cho trưởng nhóm thực hiện.",
+            "D": "Thuê đơn vị bên ngoài làm toàn bộ hồ sơ gọi vốn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 9/60 — ngân hàng ch03) Hoạt động huy động vốn cho dự án phải đáp ứng yêu cầu nào về tính bền vững?",
+          "lua_chon": {
+            "A": "Chỉ cần có vốn bằng mọi giá để duy trì dự án.",
+            "B": "Sử dụng vốn vào các mục đích không công khai.",
+            "C": "Không vi phạm đạo đức kinh doanh và hướng đến mục tiêu bền vững.",
+            "D": "Chỉ tập trung vào doanh thu ngắn hạn mà không cần báo cáo."
+          },
+          "dap_an": "C"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 10/60 — ngân hàng ch03) Hàm nào trong phần mềm bảng tính thường dùng để tính tổng doanh thu hoặc chi phí?",
+          "lua_chon": {
+            "A": "=AVERAGE(dải_ô).",
+            "B": "=SUM(dải_ô).",
+            "C": "=COUNT(dải_ô).",
+            "D": "=IF(dải_ô)."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 14/60 — ngân hàng ch03) Chỉ số \"Tốc độ tiêu tiền\" (Burn rate) cho người khởi nghiệp biết điều gì?",
+          "lua_chon": {
+            "A": "Số tiền chi tiêu hàng tháng và thời gian còn lại trước khi hết vốn.",
+            "B": "Doanh thu dự kiến trong vòng 5 năm tới.",
+            "C": "Tổng số vốn đã huy động được từ người thân.",
+            "D": "Mức lãi suất ngân hàng đang áp dụng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 16/60 — ngân hàng ch03) Một dự án có Định phí (F) là 10 triệu, Giá bán (P) là 100 ngàn, Biến phí (V) là 50 ngàn. Số lượng sản phẩm tại điểm hòa vốn (Q) là:",
+          "lua_chon": {
+            "A": "100 sản phẩm.",
+            "B": "200 sản phẩm.",
+            "C": "50 sản phẩm.",
+            "D": "500 sản phẩm."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 17/60 — ngân hàng ch03) Nguồn vốn từ các \"Thiên thần kinh doanh\" thường xuất hiện ở giai đoạn nào của Startup?",
+          "lua_chon": {
+            "A": "Giai đoạn khởi đầu khi dự án cần vốn để phát triển sản phẩm mẫu.",
+            "B": "Giai đoạn doanh nghiệp đã niêm yết trên thị trường chứng khoán.",
+            "C": "Giai đoạn doanh nghiệp muốn mua lại các công ty đối thủ.",
+            "D": "Giai đoạn doanh nghiệp phá sản và cần thanh lý tài sản."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 18/60 — ngân hàng ch03) Thuật ngữ \"Pitching\" trong khởi nghiệp được hiểu là:",
+          "lua_chon": {
+            "A": "Việc đi khảo sát nhu cầu của khách hàng tại chợ.",
+            "B": "Việc thuyết trình ngắn gọn và thuyết phục để thu hút nhà đầu tư.",
+            "C": "Việc ký kết hợp đồng mua bán nguyên vật liệu.",
+            "D": "Việc tuyển dụng nhân viên cấp quản lý."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 20/60 — ngân hàng ch03) \"Dòng tiền\" (Cash Flow) trong doanh nghiệp khởi nghiệp có ý nghĩa như thế nào?",
+          "lua_chon": {
+            "A": "Là tổng giá trị các tài sản cố định hiện có.",
+            "B": "Là sự luân chuyển tiền mặt vào và ra khỏi doanh nghiệp theo thời gian.",
+            "C": "Là số lượng nhân viên đang làm việc chính thức.",
+            "D": "Là tên gọi của một loại phần mềm kế toán."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 21/60 — ngân hàng ch03) Khi trình bày \"Pitch Deck\" (Hồ sơ gọi vốn), trang slide về tài chính nên tập trung vào:",
+          "lua_chon": {
+            "A": "Lịch sử tiêu tiền cá nhân của các thành viên.",
+            "B": "Dự báo doanh thu, nhu cầu sử dụng vốn và lộ trình sinh lời.",
+            "C": "Danh sách tất cả các ngân hàng tại Việt Nam.",
+            "D": "Các chính sách thuế của tất cả các quốc gia."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 22/60 — ngân hàng ch03) Chỉ số \"Runway\" (Thời gian tồn tại) được tính dựa trên:",
+          "lua_chon": {
+            "A": "Số tiền mặt hiện có chia cho tốc độ tiêu tiền hàng tháng.",
+            "B": "Tổng số vốn gọi được chia cho số lượng nhân viên.",
+            "C": "Doanh thu hàng tháng nhân với 12 tháng.",
+            "D": "Số lượng khách hàng chia cho diện tích văn phòng."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 23/60 — ngân hàng ch03) Mục đích của việc xác định \"Định phí\" (Fixed Costs) trong kế hoạch tài chính là:",
+          "lua_chon": {
+            "A": "Để biết chi phí nguyên liệu thô thay đổi như thế nào.",
+            "B": "Để biết các khoản chi phí cố định phải trả dù có bán được hàng hay không.",
+            "C": "Để tính toán số tiền thưởng cuối năm cho nhân viên.",
+            "D": "Để đăng ký nhãn hiệu hàng hóa."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 24/60 — ngân hàng ch03) Trong bảng tính tài chính, \"Biến phí\" (Variable Costs) là loại chi phí:",
+          "lua_chon": {
+            "A": "Luôn giữ nguyên một con số cố định hàng tháng.",
+            "B": "Thay đổi trực tiếp theo số lượng sản phẩm được sản xuất hoặc bán ra.",
+            "C": "Chỉ bao gồm tiền thuê mặt bằng và điện nước văn phòng.",
+            "D": "Không ảnh hưởng đến việc tính toán điểm hòa vốn."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 28/60 — ngân hàng ch03) \"Lợi nhuận ròng\" (Net Profit) là kết quả của phép tính nào?",
+          "lua_chon": {
+            "A": "Doanh thu trừ đi tiền thuê nhà.",
+            "B": "Tổng doanh thu trừ đi tất cả các loại chi phí và thuế.",
+            "C": "Tổng số tiền huy động được từ các quỹ đầu tư.",
+            "D": "Số lượng sản phẩm nhân với giá bán."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 30/60 — ngân hàng ch03) Mục đích của việc gọi vốn cộng đồng (Crowdfunding) là:",
+          "lua_chon": {
+            "A": "Huy động những khoản vốn nhỏ từ nhiều người thông qua nền tảng internet.",
+            "B": "Mượn tiền của ngân hàng thế giới.",
+            "C": "Yêu cầu chính phủ cấp vốn không hoàn lại.",
+            "D": "Bán rẻ toàn bộ công ty cho một nhà đầu tư lớn."
+          },
+          "dap_an": "A"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 34/60 — ngân hàng ch03) Sự khác biệt giữa \"Nhà đầu tư thiên thần\" và \"Quỹ đầu tư mạo hiểm\" là:",
+          "lua_chon": {
+            "A": "Quỹ đầu tư mạo hiểm thường đầu tư số tiền nhỏ hơn.",
+            "B": "Nhà đầu tư thiên thần thường là cá nhân; Quỹ đầu tư là tổ chức chuyên nghiệp.",
+            "C": "Nhà đầu tư thiên thần chỉ đầu tư vào doanh nghiệp đã lớn mạnh.",
+            "D": "Không có bất kỳ sự khác biệt nào."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 36/60 — ngân hàng ch03) Trong khởi nghiệp, \"Vốn cổ phần\" là hình thức:",
+          "lua_chon": {
+            "A": "Vay tiền ngân hàng và trả lãi hàng tháng.",
+            "B": "Nhà đầu tư góp vốn đổi lấy một phần quyền sở hữu công ty.",
+            "C": "Nhận tài trợ không hoàn lại từ các quỹ từ thiện.",
+            "D": "Việc các thành viên tự dùng tiền của mình để tiêu xài."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 40/60 — ngân hàng ch03) Để tăng cơ hội gọi vốn thành công, nhóm khởi nghiệp nên:",
+          "lua_chon": {
+            "A": "Phóng đại các con số doanh thu thực tế.",
+            "B": "Xây dựng một kế hoạch kinh doanh và tài chính dựa trên dữ liệu thực tế.",
+            "C": "Chỉ tập trung vào việc thiết kế logo cho thật đẹp.",
+            "D": "Chờ đợi nhà đầu tư tự tìm đến mình."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 44/60 — ngân hàng ch03) Khi tham gia gọi vốn, \"Ưu điểm của Startup\" so với các công ty lớn là:",
+          "lua_chon": {
+            "A": "Có nhiều vốn hơn.",
+            "B": "Tính linh hoạt, khả năng thích nghi nhanh và đổi mới sáng tạo đột phá.",
+            "C": "Có bộ máy quản lý cồng kềnh hơn.",
+            "D": "Có nhiều năm lịch sử hoạt động trên thị trường."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 49/60 — ngân hàng ch03) Một dự án \"Hòa vốn\" có nghĩa là:",
+          "lua_chon": {
+            "A": "Dự án đã thất bại hoàn toàn.",
+            "B": "Doanh thu vừa đủ để trả toàn bộ chi phí, lợi nhuận bằng không.",
+            "C": "Dự án đang nợ ngân hàng rất nhiều tiền.",
+            "D": "Dự án đã thu hồi được tất cả vốn đầu tư từ trước đến nay."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 53/60 — ngân hàng ch03) Mục đích của việc tính toán \"Điểm hòa vốn\" trước khi huy động vốn là:",
+          "lua_chon": {
+            "A": "Để nhà đầu tư thấy dự án sẽ không bao giờ có lãi.",
+            "B": "Để chỉ ra thời điểm dự án bắt đầu mang lại giá trị gia tăng và khả năng thu hồi vốn.",
+            "C": "Để báo cáo với cơ quan chính quyền về việc không kinh doanh nữa.",
+            "D": "Để kéo dài thời gian đàm phán với ngân hàng."
+          },
+          "dap_an": "B"
+        },
+        {
+          "cau_hoi": "(Câu gốc số 60/60 — ngân hàng ch03) Hoạt động nào sau đây là quan trọng nhất để duy trì Startup?",
+          "lua_chon": {
+            "A": "Thuê thật nhiều nhân sự nổi tiếng.",
+            "B": "Quản trị dòng tiền hiệu quả, minh bạch tài chính và liên tục đổi mới.",
+            "C": "Dùng toàn bộ vốn huy động được để quảng cáo một lần duy nhất.",
+            "D": "Ngừng chia sẻ thông tin với nhà đầu tư sau khi nhận tiền."
+          },
+          "dap_an": "B"
+        }
+      ],
+      "tu_luan": [
+        {
+          "cau_hoi": "Trình bày toàn bộ \"bộ công cụ tài chính\" mà một startup cần nắm trước khi gặp nhà đầu tư (các chỉ số, công cụ số, loại nguồn vốn), và giải thích mối liên hệ giữa chúng."
+        },
+        {
+          "cau_hoi": "Một dự án có Định phí 20 triệu đồng/tháng, giá bán 200 nghìn đồng/sản phẩm, biến phí 120 nghìn đồng/sản phẩm. a) Tính điểm hòa vốn theo tháng. b) Nếu biến phí giảm xuống 100 nghìn đồng/sản phẩm (do đàm phán được giá nguyên liệu tốt hơn), điểm hòa vốn thay đổi thế nào? Nêu ý nghĩa thực tiễn của sự thay đổi này."
+        },
+        {
+          "cau_hoi": "Phân tích vì sao \"Runway\" là một chỉ số startup cần theo dõi liên tục, không chỉ tính một lần. Nếu Runway của một dự án chỉ còn 2 tháng, nhóm khởi nghiệp nên làm gì?"
+        },
+        {
+          "cau_hoi": "So sánh ba nguồn vốn: vốn tự có/bootstrapping, nhà đầu tư thiên thần, và quỹ đầu tư mạo hiểm — về quy mô vốn, giai đoạn phù hợp, và \"cái giá phải trả\" (quyền kiểm soát, áp lực tăng trưởng) của từng loại."
+        },
+        {
+          "cau_hoi": "Phân tích vì sao \"lợi nhuận trên sổ sách\" và \"dòng tiền thực tế\" có thể không khớp nhau, và hậu quả nếu một startup chỉ theo dõi lợi nhuận mà bỏ qua dòng tiền."
+        },
+        {
+          "cau_hoi": "Bình luận về nhận định: \"Đốt tiền (burning money) trong giai đoạn đầu luôn là dấu hiệu startup đang thất bại.\" Nhận định này đúng hay sai? Trong điều kiện nào việc \"đốt tiền\" có thể chấp nhận được?"
+        },
+        {
+          "cau_hoi": "Phân tích vai trò của công cụ số (Google Sheets, Canva, Dashboard quản trị dòng tiền) trong việc giúp một nhóm khởi nghiệp, đặc biệt là nhóm có phụ nữ tham gia, quản lý tài chính minh bạch và chuyên nghiệp hơn."
+        }
+      ],
+      "tinh_huong": [
+        {
+          "mo_ta": "Một startup bán mỹ phẩm thiên nhiên có định phí 15 triệu đồng/tháng (thuê xưởng nhỏ + lương cơ bản), giá bán 150 nghìn đồng/sản phẩm, biến phí 90 nghìn đồng/sản phẩm. Hiện tại startup bán được 150 sản phẩm/tháng. (Tình huống minh họa, không phải số liệu thật.)",
+          "yeu_cau": "a) Tính điểm hòa vốn theo tháng. b) Với doanh số hiện tại (150 sản phẩm/tháng), startup đã hòa vốn chưa? c) Tính mức thiếu hụt hàng tháng (tương đương burn rate) hiện tại và đề xuất một hướng cải thiện.",
+          "goi_y_dap_an": "a) Biên lãi gộp = 150.000 − 90.000 = 60.000đ; điểm hòa vốn = 15.000.000 / 60.000 = 250 sản phẩm/tháng. b) Chưa hòa vốn (chỉ bán 150/250 sản phẩm cần thiết) → đang lỗ: lãi gộp = 150 × 60.000 = 9.000.000đ, trong khi định phí là 15.000.000đ → thiếu khoảng 6.000.000đ/tháng. c) Mức thiếu hụt (burn rate) khoảng 6 triệu đồng/tháng; hướng cải thiện: tăng doanh số (marketing, mở thêm kênh bán), giảm biến phí (đàm phán nguyên liệu), hoặc giảm định phí."
+        },
+        {
+          "mo_ta": "Một nhóm khởi nghiệp chuẩn bị gặp một nhà đầu tư thiên thần. Nhà đầu tư này hỏi: \"Runway hiện tại của bạn là bao lâu, và bạn dự định dùng khoản đầu tư này để làm gì?\" Nhóm chỉ trả lời chung: \"Chúng tôi sẽ dùng để phát triển thêm, chắc là đủ dùng một thời gian.\" (Tình huống minh họa.)",
+          "yeu_cau": "a) Câu trả lời của nhóm có vấn đề gì so với yêu cầu của một buổi gọi vốn chuyên nghiệp? b) Soạn lại một câu trả lời cụ thể hơn (có thể dùng số liệu giả định hợp lý) thể hiện đúng tinh thần minh bạch, có căn cứ.",
+          "goi_y_dap_an": "a) Câu trả lời mơ hồ, không có số liệu cụ thể (không nêu được runway bằng số tháng, không nêu rõ kế hoạch sử dụng vốn) — thiếu sự chuẩn bị và minh bạch cần có khi gọi vốn. b) Ví dụ: \"Hiện chúng tôi còn khoảng 200 triệu đồng tiền mặt, với mức chi tiêu khoảng 40 triệu đồng/tháng, runway còn khoảng 5 tháng. Khoản đầu tư 500 triệu đồng sẽ được dùng: 60% cho mở rộng sản xuất, 30% cho marketing, 10% dự phòng, giúp kéo dài runway thêm khoảng 12 tháng và đạt điểm hòa vốn dự kiến vào quý 3 năm sau.\" (Số liệu chỉ là ví dụ minh họa.)"
+        },
+        {
+          "mo_ta": "Một dự án gọi vốn thành công 300 triệu đồng từ một quỹ đầu tư mạo hiểm nhỏ. Sau 3 tháng, lợi nhuận ròng vẫn âm, nhưng doanh thu đang tăng đều mỗi tháng theo đúng kế hoạch đã trình bày trong Pitch Deck. Một thành viên nhóm lo lắng và đề xuất dừng mọi hoạt động marketing để \"tiết kiệm tiền\". (Tình huống minh họa.)",
+          "yeu_cau": "a) Lợi nhuận ròng âm trong trường hợp này có đáng lo ngại không? Vì sao cần xem xét thêm yếu tố nào trước khi kết luận? b) Nhận xét đề xuất \"dừng marketing để tiết kiệm tiền\" của thành viên — có nên làm theo không?",
+          "goi_y_dap_an": "a) Không nhất thiết đáng lo nếu đây là giai đoạn \"đốt tiền\" có kế hoạch, đúng như lộ trình dự báo trong Pitch Deck (doanh thu tăng đúng kế hoạch) — cần xem thêm runway, burn rate, và việc doanh thu có đang tiến đến điểm hòa vốn theo đúng tiến độ hay không. b) Không nên dừng đột ngột nếu marketing đang tạo ra tăng trưởng doanh thu đúng kế hoạch — dừng có thể làm chậm đà tăng trưởng và kéo dài thời gian đạt điểm hòa vốn; nên xem xét điều chỉnh/tối ưu chi phí marketing dựa trên phân tích dữ liệu thực tế (ROI từng kênh) thay vì cắt bỏ hoàn toàn."
+        }
+      ]
+    }
+  }
+}

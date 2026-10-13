@@ -1,0 +1,252 @@
+{
+  "ch04_cd1": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Các loại hình doanh nghiệp và mô hình hợp tác, nhượng quyền",
+      "title_en": "Legal Business Forms and Cooperative, Franchise Models",
+      "bullets": [
+        "Chủ đề 1, Chương 4: chọn đúng loại hình giúp giảm rủi ro pháp lý.",
+        "Từ 4 loại hình theo luật đến hộ kinh doanh, hợp tác xã và nhượng quyền."
+      ],
+      "bullets_en": [
+        "Topic 1, Chapter 4: the right legal form reduces legal risk.",
+        "From the 4 legal forms to household businesses, cooperatives and franchising."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "4.1 — Bốn loại hình doanh nghiệp",
+      "title": "Bốn loại hình doanh nghiệp theo Luật Doanh nghiệp",
+      "title_en": "The Four Legal Business Forms",
+      "bullets": [
+        "Doanh nghiệp tư nhân: trách nhiệm vô hạn, không có tư cách pháp nhân.",
+        "Công ty TNHH (1 hoặc 2-50 thành viên): trách nhiệm hữu hạn theo vốn góp.",
+        "Công ty Cổ phần: phát hành cổ phiếu, cao nhất là Đại hội đồng cổ đông.",
+        "Công ty Hợp danh: thành viên hợp danh chịu trách nhiệm vô hạn."
+      ],
+      "bullets_en": [
+        "Sole proprietorship: unlimited liability, no legal-entity status.",
+        "LLC (1 or 2-50 members): liability limited to capital contributed.",
+        "Joint-stock company: issues shares, highest body is shareholders' meeting.",
+        "Partnership: a general partner bears unlimited liability."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "4.1 — Trách nhiệm & tư cách pháp nhân",
+      "title": "Trách nhiệm hữu hạn, vô hạn, biểu quyết và người đại diện",
+      "title_en": "Liability, Legal-Entity Status, Voting and Legal Representative",
+      "bullets": [
+        "Trách nhiệm hữu hạn: chỉ chịu nợ theo vốn cam kết góp.",
+        "Trách nhiệm vô hạn: không ranh giới tài sản cá nhân và kinh doanh.",
+        "Tư cách pháp nhân: TNHH, Cổ phần có — DN tư nhân không có.",
+        "TNHH ≥2 thành viên: biểu quyết theo tỷ lệ vốn góp.",
+        "Người đại diện theo pháp luật chịu trách nhiệm trước pháp luật."
+      ],
+      "bullets_en": [
+        "Limited liability: liable only up to committed capital.",
+        "Unlimited liability: no boundary between personal and business assets.",
+        "Legal-entity status: LLC, joint-stock yes — sole proprietorship no.",
+        "LLC with 2+ members: voting by capital-contribution ratio.",
+        "The legal representative is legally accountable for the company."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "4.2 — Mô hình hợp tác quy mô nhỏ",
+      "title": "Hộ kinh doanh, Tổ hợp tác, Hợp tác xã kiểu mới",
+      "title_en": "Household Business, Cooperative Group, New-Style Cooperative",
+      "bullets": [
+        "Hộ kinh doanh/Tổ hợp tác: thủ tục đơn giản, không cần kế toán trưởng.",
+        "Tổ hợp tác: liên kết nhóm nhỏ; Hợp tác xã: có tư cách pháp nhân.",
+        "Hợp tác xã: biểu quyết dân chủ — mỗi thành viên một phiếu.",
+        "Ví dụ minh họa: gốm đỏ Vĩnh Long liên kết thành hợp tác xã."
+      ],
+      "bullets_en": [
+        "Household business/group: simple procedures, no chief accountant.",
+        "Cooperative group: a small link; cooperative: has legal-entity status.",
+        "Cooperative: democratic voting — one member, one vote.",
+        "Illustrative example: Vĩnh Long pottery kilns forming a cooperative."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "4.2 — Nhượng quyền kinh doanh",
+      "title": "Franchising: quy trình chuẩn (SOP) và phí nhượng quyền",
+      "title_en": "Franchising: Standard Operating Procedure and Royalty Fee",
+      "bullets": [
+        "Bên nhận quyền dùng quy trình chuẩn (SOP) đã kiểm chứng.",
+        "Hợp đồng nhượng quyền quy định quyền, nghĩa vụ; phí theo % doanh thu.",
+        "Nhược điểm: mất tính độc lập; thương hiệu cao cấp tốn kém.",
+        "'Nhượng quyền từng phần' và 'nhượng quyền thương hiệu Việt' linh hoạt hơn."
+      ],
+      "bullets_en": [
+        "The franchisee uses a proven standard operating procedure.",
+        "Franchise agreement sets rights/obligations; fee as % of revenue.",
+        "Drawback: loses independence; a premium brand costs more.",
+        "'Partial franchising' and Vietnamese brand franchises are more flexible."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "4.2 — Nhóm nghiên cứu & mô hình số",
+      "title": "Nhóm nghiên cứu khởi nghiệp và mô hình kinh doanh thời số",
+      "title_en": "Start-up Research Groups and Digital Business Models",
+      "bullets": [
+        "Startup đại học: 'nhóm nghiên cứu khởi nghiệp' là bước đệm pháp lý.",
+        "E-commerce: tiếp cận khách không giới hạn địa lý, chi phí thấp.",
+        "D2C: bỏ trung gian, biên lợi nhuận cao hơn, chủ động thương hiệu.",
+        "Sharing Economy: chia sẻ tài nguyên nhàn rỗi (Grab, Airbnb).",
+        "Mô hình số là lớp vận hành trên nền pháp lý, không thay thế nó."
+      ],
+      "bullets_en": [
+        "University start-ups: a 'research group' is a legal stepping stone.",
+        "E-commerce: reach customers anywhere, at low overhead.",
+        "D2C: cuts the middleman, higher margin, more brand control.",
+        "Sharing economy: sharing idle resources (Grab, Airbnb).",
+        "Digital models sit on top of the legal form, not replacing it."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Tổng kết chủ đề 1",
+      "title": "Tổng kết: 4 loại hình, mô hình hợp tác và nhượng quyền",
+      "title_en": "Recap: The 4 Legal Forms, Cooperative and Franchise Models",
+      "bullets": [
+        "4 loại hình khác nhau chủ yếu ở trách nhiệm và tư cách pháp nhân.",
+        "Hộ kinh doanh, tổ hợp tác, hợp tác xã phù hợp khởi nghiệp nhỏ.",
+        "Nhượng quyền và mô hình số là hướng mở rộng đáng cân nhắc.",
+        "Các em làm bài tập tự đánh giá cuối chủ đề này trước khi tiếp tục."
+      ],
+      "bullets_en": [
+        "The 4 forms mainly differ in liability and legal-entity status.",
+        "Household business, cooperative group, cooperative suit small start-ups.",
+        "Franchising and digital models are worthwhile expansion directions.",
+        "Complete the self-check exercise for this topic before continuing."
+      ]
+    }
+  ],
+  "ch04_cd2": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Lựa chọn loại hình phù hợp cho phụ nữ và người dân tộc thiểu số",
+      "title_en": "Choosing the Right Legal Form for Women and Ethnic-Minority Entrepreneurs",
+      "bullets": [
+        "Chủ đề 2, Chương 4: từ bản đồ loại hình sang tiêu chí chọn thực tế.",
+        "Tiêu chí năng lực bản thân, đăng ký kinh doanh và đạo đức khi chọn mô hình."
+      ],
+      "bullets_en": [
+        "Topic 2, Chapter 4: from the map of forms to practical choice criteria.",
+        "Self-capability criteria, registration, and ethics in choosing a model."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "4.3 — Tiêu chí năng lực bản thân",
+      "title": "Tư vấn năng lực bản thân và rào cản thị trường",
+      "title_en": "Self-Capability Assessment and Market Barriers",
+      "bullets": [
+        "Tự đánh giá thời gian, vốn, kỹ năng để chọn mô hình 'ít vốn' phù hợp.",
+        "Ví dụ minh họa: chị Hoa — vốn ít, chưa nên chọn công ty cổ phần.",
+        "Rào cản pháp lý cao → mô hình có tư cách pháp nhân dễ ký hợp đồng lớn.",
+        "Cạnh tranh bằng tốc độ, linh hoạt → hộ kinh doanh gọn nhẹ có lợi."
+      ],
+      "bullets_en": [
+        "Assess time, capital, skill to choose a fitting 'low-capital' model.",
+        "Illustrative example: Ms. Hoa — low capital, not ready for a joint-stock company.",
+        "High legal barriers → legal-entity status eases large contracts.",
+        "Competing on speed, flexibility → a light household business has the edge."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "4.3 — Đăng ký kinh doanh",
+      "title": "Đăng ký kinh doanh, vốn điều lệ, con dấu và nhãn hiệu",
+      "title_en": "Business Registration, Charter Capital, Seal and Trademark",
+      "bullets": [
+        "Đăng ký trực tuyến qua Cổng thông tin quốc gia; đăng ký đủ ngành nghề.",
+        "Vốn điều lệ: cam kết góp đủ trong thời hạn luật định.",
+        "Con dấu (Luật DN 2020): doanh nghiệp tự quyết, không cần đăng ký công an.",
+        "Đăng ký bảo hộ nhãn hiệu càng sớm càng tốt, từ khi mới bắt đầu."
+      ],
+      "bullets_en": [
+        "Register online via the National Portal; list all business lines.",
+        "Charter capital: commit to contribute in full within the legal period.",
+        "Seal (2020 Law): business decides itself, no police registration.",
+        "Register trademark protection as early as possible, from the start."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "4.3 — Đạo đức khi chọn mô hình",
+      "title": "Đạo đức kinh doanh: minh bạch, trung thực, cộng đồng",
+      "title_en": "Business Ethics: Transparency, Honesty, Community",
+      "bullets": [
+        "Mô hình đúng pháp lý nhưng thiếu đạo đức vẫn có thể sụp đổ.",
+        "Minh bạch đăng ký, trung thực vận hành, hướng đến bền vững.",
+        "Du lịch cộng đồng: mô hình hợp tác cộng đồng giữ bản sắc văn hóa."
+      ],
+      "bullets_en": [
+        "A legally correct but unethically run model can still collapse.",
+        "Transparent registration, honest operation, aim for sustainability.",
+        "Community tourism: a community cooperative model preserves identity."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "4.3 — Phối hợp nhóm & cập nhật pháp lý",
+      "title": "Phối hợp hiệu quả trong nhóm và cập nhật pháp lý bằng công cụ số",
+      "title_en": "Effective Team Coordination and Tracking Legal Changes Digitally",
+      "bullets": [
+        "Tổ hợp tác, hợp tác xã: cần phân chia công việc, thống nhất xử lý mâu thuẫn.",
+        "Phối hợp nhóm hiệu quả quan trọng không kém chọn đúng loại hình.",
+        "Dùng công cụ số theo dõi thay đổi pháp luật doanh nghiệp.",
+        "Chú ý các chính sách ưu đãi riêng cho phụ nữ, người dân tộc thiểu số."
+      ],
+      "bullets_en": [
+        "Cooperative groups: need clear task division, agreed conflict handling.",
+        "Effective team coordination matters as much as picking the right form.",
+        "Use digital tools to track changes in enterprise law.",
+        "Watch for policies favouring women and ethnic-minority entrepreneurs."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "4.3 — Tình huống minh họa",
+      "title": "Áp dụng cho chị Hoa và dự án gốm đỏ Vĩnh Long",
+      "title_en": "Applying It to Ms. Hoa and the Vĩnh Long Pottery Project",
+      "bullets": [
+        "Chị Hoa: hộ kinh doanh lúc nhỏ, chuyển hợp tác xã khi mở rộng.",
+        "Dù mô hình nào vẫn bán D2C qua Facebook ngay từ đầu.",
+        "Gốm đỏ Vĩnh Long: hợp tác xã/liên kết chuỗi giữ công bằng cho lò nhỏ.",
+        "Mô hình cần xem lại khi quy mô, nguồn lực, mục tiêu thay đổi."
+      ],
+      "bullets_en": [
+        "Ms. Hoa: household business early, shift to cooperative when expanding.",
+        "Whatever the model, sell D2C via Facebook from the start.",
+        "Vĩnh Long pottery: cooperative/value-chain keeps small kilns fair.",
+        "The model needs revisiting as scale, resources, goals change."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "Tổng kết chủ đề 2",
+      "title": "Tổng kết: năng lực bản thân, đăng ký và đạo đức",
+      "title_en": "Recap: Self-Capability, Registration and Ethics",
+      "bullets": [
+        "Tự đánh giá năng lực trước khi chọn mô hình, đừng vượt quá sức.",
+        "Đăng ký trực tuyến; chú ý ngành nghề, vốn điều lệ, con dấu.",
+        "Đạo đức kinh doanh quyết định sự tồn tại lâu dài của dự án.",
+        "Các em làm bài tập tự đánh giá; hẹn gặp ở Chương 5 — Marketing."
+      ],
+      "bullets_en": [
+        "Assess your own capability before choosing; don't overreach.",
+        "Register online; mind business lines, charter capital, the seal.",
+        "Business ethics decides a project's long-term survival.",
+        "Complete the self-check exercise; see you in Chapter 5 — Marketing."
+      ]
+    }
+  ]
+}

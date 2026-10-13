@@ -1,0 +1,512 @@
+{
+  "ch03_cd1": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Huy động vốn đầu tư và các kỹ thuật huy động vốn",
+      "title_en": "Raising Investment Capital and Fundraising Techniques",
+      "bullets": [
+        "Chủ đề 3.1: cách tiếp cận nguồn vốn và thuyết phục nhà đầu tư.",
+        "Trả lời câu hỏi: cần tiền thì lấy ở đâu, và thuyết phục ai đưa tiền."
+      ],
+      "bullets_en": [
+        "Topic 3.1: how to approach funding sources and persuade investors.",
+        "Answers: where to get money, and how to convince someone to give it."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "Nguồn vốn theo giai đoạn",
+      "title": "Giai đoạn đầu: vốn tự có, gia đình, bootstrapping",
+      "title_en": "Early Stage: Own Capital, Family, Bootstrapping",
+      "bullets": [
+        "Giai đoạn thai nghén: vốn tự có, vay gia đình/bạn bè.",
+        "'Bootstrapping': tự xoay vốn bằng doanh thu, hạn chế vay mượn.",
+        "Lợi ích: giữ quyền kiểm soát, không pha loãng cổ phần sớm.",
+        "Nhược điểm: tốc độ tăng trưởng chậm hơn."
+      ],
+      "bullets_en": [
+        "Early stage: own capital, loans from family/friends.",
+        "'Bootstrapping': fund growth from revenue, borrow little.",
+        "Benefit: keep control, avoid early ownership dilution.",
+        "Drawback: slower growth."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "Nguồn vốn theo giai đoạn",
+      "title": "Thiên thần kinh doanh",
+      "title_en": "Business Angels",
+      "bullets": [
+        "Xuất hiện khi đã có sản phẩm và khách hàng trả tiền.",
+        "Cá nhân giàu kinh nghiệm, đầu tư vốn nhỏ giai đoạn sớm.",
+        "Mang theo cả kinh nghiệm và mạng lưới quan hệ.",
+        "Có thể giới thiệu khách hàng, nhà cung cấp, nhà đầu tư sau."
+      ],
+      "bullets_en": [
+        "Appear once there is a product and paying customers.",
+        "Experienced individuals investing small amounts early.",
+        "Bring experience and a network along with money.",
+        "Can introduce customers, suppliers, later-round investors."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "Nguồn vốn theo giai đoạn",
+      "title": "Quỹ đầu tư mạo hiểm (Venture Capital)",
+      "title_en": "Venture Capital Funds",
+      "bullets": [
+        "Vào cuộc khi mô hình đã chứng minh, cần mở rộng lớn.",
+        "Đầu tư số tiền lớn hơn nhiều so với thiên thần kinh doanh.",
+        "Đổi lại: tỷ lệ sở hữu lớn, tăng trưởng cao, báo cáo định kỳ.",
+        "Kỳ vọng rõ thời điểm thoái vốn (thường 5-7 năm)."
+      ],
+      "bullets_en": [
+        "Step in once the model is proven and needs to scale.",
+        "Invest far larger sums than business angels.",
+        "In exchange: bigger ownership, high growth, strict reporting.",
+        "Clear exit-timing expectations (usually 5-7 years)."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "Tình huống",
+      "title": "Gọi vốn cộng đồng (Crowdfunding)",
+      "title_en": "Crowdfunding",
+      "bullets": [
+        "Huy động số tiền nhỏ từ rất nhiều người qua nền tảng trực tuyến.",
+        "Đổi lại: sản phẩm sớm hoặc phần thưởng tượng trưng, không cổ phần.",
+        "Phù hợp dự án có câu chuyện cảm xúc, bản sắc văn hóa mạnh.",
+        "Ví dụ minh họa: gốm đỏ Vĩnh Long — câu chuyện giữ nghề truyền thống."
+      ],
+      "bullets_en": [
+        "Raise small amounts from many backers via an online platform.",
+        "In exchange: early product or token reward, not equity.",
+        "Fits projects with strong emotional story, cultural identity.",
+        "Illustrative example: Vĩnh Long red-clay pottery craft story."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "",
+      "title": "Vốn cổ phần (Equity) và định giá doanh nghiệp",
+      "title_en": "Equity and Company Valuation",
+      "bullets": [
+        "Equity: bán một phần quyền sở hữu, không trả lãi như vay.",
+        "Valuation: ước tính giá trị dự án dựa trên doanh thu, tăng trưởng.",
+        "Định giá quá cao: nhà đầu tư chùn tay vì rủi ro không tương xứng.",
+        "Định giá quá thấp: người sáng lập mất quyền sở hữu không cần thiết."
+      ],
+      "bullets_en": [
+        "Equity: sell part of ownership, no interest like a loan.",
+        "Valuation: estimate worth from revenue, growth potential.",
+        "Too high: investors hesitate, risk outweighs reward.",
+        "Too low: founder gives up unnecessary ownership."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "",
+      "title": "Vay nợ và bán vốn cổ phần: khác nhau ra sao",
+      "title_en": "Debt vs. Equity: How They Differ",
+      "bullets": [
+        "Vay nợ: phải trả gốc + lãi đúng hạn, giữ nguyên quyền sở hữu.",
+        "Vốn cổ phần: không phải trả lại, nhưng chia sẻ sở hữu và quyết định.",
+        "Startup ít vốn, rủi ro cao thường khó vay ngân hàng lãi suất tốt.",
+        "Vì vậy equity, thiên thần kinh doanh, crowdfunding phổ biến hơn."
+      ],
+      "bullets_en": [
+        "Debt: repay principal + interest on time, keep ownership.",
+        "Equity: no repayment owed, but share ownership and control.",
+        "Low-capital, risky start-ups struggle to get good bank rates.",
+        "So equity, angels, crowdfunding are more common early on."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "",
+      "title": "Pitching: thuyết trình thuyết phục nhà đầu tư",
+      "title_en": "Pitching: Persuading Investors",
+      "bullets": [
+        "Thuyết trình ngắn gọn, thuyết phục trong thời gian rất hạn chế.",
+        "Trả lời 5 câu hỏi: vấn đề, giải pháp, thị trường, mô hình, đội ngũ.",
+        "Thiếu một mảnh, bài pitching khó thuyết phục dù trình bày hay."
+      ],
+      "bullets_en": [
+        "Brief, persuasive presentation in very limited time.",
+        "Answer 5 questions: problem, solution, market, model, team.",
+        "Missing one piece makes even a polished pitch unconvincing."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "",
+      "title": "Pitch Deck: cấu trúc hồ sơ gọi vốn",
+      "title_en": "Pitch Deck Structure",
+      "bullets": [
+        "Các slide: vấn đề, giải pháp, thị trường, mô hình, đội ngũ, tài chính.",
+        "Trang tài chính: dự báo doanh thu, nhu cầu vốn, lộ trình sinh lời.",
+        "Tránh liệt kê la liệt số liệu chi tiết gây rối mắt.",
+        "Biểu đồ cột tăng trưởng doanh thu thuyết phục hơn bảng số liệu."
+      ],
+      "bullets_en": [
+        "Slides: problem, solution, market, model, team, financials.",
+        "Financial slide: revenue forecast, funding need, profit roadmap.",
+        "Avoid dense lists of detailed figures that confuse readers.",
+        "A revenue-growth bar chart persuades better than a data table."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "",
+      "title": "Thẩm định và đàm phán",
+      "title_en": "Due Diligence and Negotiation",
+      "bullets": [
+        "Due diligence: nhà đầu tư kiểm tra kỹ số liệu, hợp đồng, pháp lý.",
+        "Mọi con số trong Pitch Deck phải có căn cứ thật.",
+        "Đàm phán: định giá, tỷ lệ sở hữu, ghế hội đồng quản trị.",
+        "Cần chuẩn bị kỹ và hiểu rõ giới hạn trước khi đàm phán."
+      ],
+      "bullets_en": [
+        "Due diligence: investors verify figures, contracts, legal status.",
+        "Every Pitch Deck number must have a real basis.",
+        "Negotiation: valuation, ownership share, board seats.",
+        "Prepare carefully and know your limits before negotiating."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Chọn đúng nhà đầu tư phù hợp",
+      "title_en": "Choosing the Right Investor",
+      "bullets": [
+        "Nhà đầu tư phù hợp: không chỉ có tiền, mà hiểu lĩnh vực, cùng tầm nhìn.",
+        "Chọn sai nhà đầu tư đôi khi rủi ro hơn thiếu vốn.",
+        "LinkedIn: xây uy tín cá nhân, tìm cố vấn, kết nối nhà đầu tư."
+      ],
+      "bullets_en": [
+        "Right investor: not just money, but field knowledge, shared vision.",
+        "A wrong investor can be riskier than lacking capital.",
+        "LinkedIn: build credibility, find mentors, reach investors."
+      ]
+    },
+    {
+      "slide": 12,
+      "kicker": "",
+      "title": "Lợi thế của startup khi gọi vốn",
+      "title_en": "A Start-up's Advantage When Fundraising",
+      "bullets": [
+        "Linh hoạt, ra quyết định nhanh, câu chuyện tăng trưởng hấp dẫn.",
+        "Nhà đầu tư mạo hiểm tìm tiềm năng tăng trưởng vượt bậc.",
+        "Startup nhỏ vẫn thuyết phục được vốn nếu kể đúng câu chuyện."
+      ],
+      "bullets_en": [
+        "Flexible, fast decisions, an appealing growth story.",
+        "VCs look for breakout growth potential above all.",
+        "A small start-up can still win funding with the right story."
+      ]
+    },
+    {
+      "slide": 13,
+      "kicker": "Tình huống",
+      "title": "Chị Hoa chọn nguồn vốn cho máy sấy",
+      "title_en": "Ms. Hoa Chooses a Funding Source for Her Dryer",
+      "bullets": [
+        "Cần 10 triệu đồng mua máy sấy — ba lựa chọn: thân, ngân hàng, cộng đồng.",
+        "Vay người thân: nhanh, không lãi, nhưng giới hạn số tiền.",
+        "Vay ngân hàng: lãi cố định, phải trả đúng hạn.",
+        "Crowdfunding từ khách hàng quen: hợp quy mô nhỏ, rủi ro thấp.",
+        "Ví dụ minh họa để giảng dạy, không phải số liệu thật."
+      ],
+      "bullets_en": [
+        "Needs 10M VND for a dryer — three options: family, bank, crowd.",
+        "Family loan: fast, interest-free, but limited amount.",
+        "Bank loan: fixed interest, due on schedule.",
+        "Crowdfunding from loyal customers: fits small, low-risk scale.",
+        "Illustrative teaching example, not real figures."
+      ]
+    },
+    {
+      "slide": 14,
+      "kicker": "",
+      "title": "Trung thực với nhà đầu tư",
+      "title_en": "Honesty with Investors",
+      "bullets": [
+        "Che giấu số liệu xấu để dễ gọi vốn là sai lầm nghiêm trọng.",
+        "Sự thật sẽ lộ ra ở bước thẩm định hoặc khi vận hành thực tế.",
+        "Giá trị cốt lõi của người sáng lập: trung thực và kỷ luật."
+      ],
+      "bullets_en": [
+        "Hiding bad figures to raise funds more easily is a grave mistake.",
+        "The truth surfaces during due diligence or real operations.",
+        "A founder's core value: honesty and financial discipline."
+      ]
+    },
+    {
+      "slide": 15,
+      "kicker": "",
+      "title": "Tổng kết Chủ đề 3.1",
+      "title_en": "Summary of Topic 3.1",
+      "bullets": [
+        "Chọn nguồn vốn theo đúng giai đoạn và quy mô dự án.",
+        "Pitch Deck tốt: rõ vấn đề, giải pháp, thị trường, tài chính.",
+        "Chọn đúng nhà đầu tư và giữ trung thực xuyên suốt.",
+        "Làm bài tập tự đánh giá cuối chủ đề này trước khi tiếp tục."
+      ],
+      "bullets_en": [
+        "Match the funding source to the project's stage and scale.",
+        "A good Pitch Deck: clear problem, solution, market, finances.",
+        "Choose the right investor and stay honest throughout.",
+        "Do the self-assessment exercise before moving on."
+      ]
+    }
+  ],
+  "ch03_cd2": [
+    {
+      "slide": 1,
+      "kicker": "",
+      "title": "Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+      "title_en": "Key Financial Indicators Investors Care About",
+      "bullets": [
+        "Chủ đề 3.2: đọc các chỉ số tài chính nhà đầu tư theo dõi sau khi rót vốn.",
+        "Định phí, biến phí, điểm hòa vốn, burn rate, runway, dòng tiền."
+      ],
+      "bullets_en": [
+        "Topic 3.2: reading the indicators investors track after investing.",
+        "Fixed/variable costs, break-even, burn rate, runway, cash flow."
+      ]
+    },
+    {
+      "slide": 2,
+      "kicker": "",
+      "title": "Định phí và biến phí",
+      "title_en": "Fixed Costs and Variable Costs",
+      "bullets": [
+        "Định phí: phải trả dù có bán hàng hay không (ví dụ thuê mặt bằng).",
+        "Biến phí: thay đổi theo số lượng sản phẩm (ví dụ nguyên liệu).",
+        "Phân biệt rõ hai loại chi phí là bước đầu tiên bắt buộc.",
+        "Gộp lẫn hai loại sẽ làm sai toàn bộ phép tính tài chính sau đó."
+      ],
+      "bullets_en": [
+        "Fixed: paid regardless of sales (e.g. rent).",
+        "Variable: changes with output (e.g. raw materials).",
+        "Telling them apart is the mandatory first step.",
+        "Mixing them up throws off every later calculation."
+      ]
+    },
+    {
+      "slide": 3,
+      "kicker": "Công thức & ví dụ",
+      "title": "Điểm hòa vốn: công thức và ví dụ",
+      "title_en": "Break-Even Point: Formula and Example",
+      "bullets": [
+        "Điểm hòa vốn (sản phẩm) = Định phí ÷ Biên lãi gộp mỗi sản phẩm.",
+        "Ví dụ: định phí 10 triệu, giá bán 100 nghìn, biến phí 50 nghìn.",
+        "Biên lãi gộp = 50 nghìn/sản phẩm → hòa vốn ở 200 sản phẩm.",
+        "Bán dưới 200 sản phẩm: lỗ. Bán trên 200: có lãi."
+      ],
+      "bullets_en": [
+        "Break-even (units) = Fixed costs ÷ Gross margin per unit.",
+        "Example: 10M fixed cost, 100k price, 50k variable cost.",
+        "Margin = 50k/unit → break-even at 200 units.",
+        "Below 200 units: loss. Above 200: profit."
+      ]
+    },
+    {
+      "slide": 4,
+      "kicker": "",
+      "title": "Giảm biến phí, điểm hòa vốn giảm theo",
+      "title_en": "Lower Variable Cost, Lower Break-Even",
+      "bullets": [
+        "Biến phí giảm (mua nguyên liệu giá tốt hơn) → biên lãi gộp tăng.",
+        "Ví dụ: biến phí 50→40 nghìn, hòa vốn giảm từ 200 xuống ~167.",
+        "Đàm phán giá nguyên liệu tốt có tác động đo lường được.",
+        "Quan trọng với startup ít vốn cần hòa vốn sớm."
+      ],
+      "bullets_en": [
+        "Lower variable cost (better material price) → higher margin.",
+        "Example: 50k→40k cost, break-even drops from 200 to ~167.",
+        "Good material-price negotiation has a measurable effect.",
+        "Vital for low-capital start-ups needing an early break-even."
+      ]
+    },
+    {
+      "slide": 5,
+      "kicker": "",
+      "title": "Nhìn điểm hòa vốn trên biểu đồ",
+      "title_en": "Seeing Break-Even on a Chart",
+      "bullets": [
+        "Trục ngang: số lượng sản phẩm. Trục đứng: số tiền.",
+        "Đường doanh thu và đường tổng chi phí cắt nhau tại hòa vốn.",
+        "Trái giao điểm: còn lỗ. Phải giao điểm: đã có lãi.",
+        "Hòa vốn quá xa bên phải là dấu hiệu rủi ro cần cân nhắc."
+      ],
+      "bullets_en": [
+        "Horizontal axis: units. Vertical axis: money.",
+        "Revenue and total-cost lines cross at the break-even point.",
+        "Left of it: still a loss. Right of it: already profitable.",
+        "A break-even far to the right signals risk worth weighing."
+      ]
+    },
+    {
+      "slide": 6,
+      "kicker": "",
+      "title": "Burn rate và Runway",
+      "title_en": "Burn Rate and Runway",
+      "bullets": [
+        "Burn rate: số tiền mặt chi tiêu mỗi tháng.",
+        "Runway = Tiền mặt hiện có ÷ Burn rate.",
+        "Ví dụ: 300 triệu tiền mặt, burn rate 50 triệu/tháng → runway 6 tháng.",
+        "Biết runway để chủ động gọi vốn vòng mới trước khi cạn tiền."
+      ],
+      "bullets_en": [
+        "Burn rate: cash spent each month.",
+        "Runway = Cash on hand ÷ Burn rate.",
+        "Example: 300M cash, 50M/month burn → 6-month runway.",
+        "Knowing runway lets you raise the next round before cash runs out."
+      ]
+    },
+    {
+      "slide": 7,
+      "kicker": "",
+      "title": "Lợi nhuận gộp và lợi nhuận ròng",
+      "title_en": "Gross Profit and Net Profit",
+      "bullets": [
+        "Lợi nhuận gộp = Doanh thu − Giá vốn hàng bán.",
+        "Lợi nhuận ròng = Lợi nhuận gộp − mọi chi phí vận hành, thuế.",
+        "Gộp dương nhưng ròng âm kéo dài: nguy cơ cạn vốn thật sự.",
+        "Vấn đề thường do chi phí vận hành quá lớn so với doanh thu."
+      ],
+      "bullets_en": [
+        "Gross profit = Revenue − Cost of goods sold.",
+        "Net profit = Gross profit − all operating costs and tax.",
+        "Positive gross but long negative net: real risk of running out.",
+        "Often caused by operating costs too large for revenue."
+      ]
+    },
+    {
+      "slide": 8,
+      "kicker": "",
+      "title": "Lợi nhuận và dòng tiền: đừng nhầm lẫn",
+      "title_en": "Profit vs. Cash Flow: Don't Confuse Them",
+      "bullets": [
+        "Có thể báo lãi trên sổ sách nhưng vẫn hết tiền mặt.",
+        "Nguyên nhân: khách hàng nợ chưa trả, hàng tồn kho quá nhiều.",
+        "Dòng tiền (Cash Flow): luân chuyển tiền mặt thật theo thời gian.",
+        "Kế hoạch dòng tiền tốt tránh rủi ro mất khả năng thanh toán."
+      ],
+      "bullets_en": [
+        "Can show a profit on paper yet still run out of cash.",
+        "Cause: unpaid customer debts, excess unsold inventory.",
+        "Cash flow: the real movement of cash over time.",
+        "A good cash-flow plan avoids the risk of insolvency."
+      ]
+    },
+    {
+      "slide": 9,
+      "kicker": "",
+      "title": "Kỹ năng bảng tính: nhập liệu và hàm SUM",
+      "title_en": "Spreadsheet Skills: Input Data and SUM",
+      "bullets": [
+        "Nhập dữ liệu đầu vào: giá bán, định phí, biến phí, số lượng bán.",
+        "Hàm SUM: tính tổng doanh thu hoặc chi phí theo thời gian.",
+        "Công thức tự động cập nhật khi đổi một số liệu đầu vào.",
+        "Giúp thấy ngay tác động của quyết định trước khi áp dụng thật."
+      ],
+      "bullets_en": [
+        "Input data: price, fixed/variable costs, expected units sold.",
+        "SUM function: totals revenue or cost over a period.",
+        "Formulas auto-update when one input changes.",
+        "Lets you see a decision's impact before applying it for real."
+      ]
+    },
+    {
+      "slide": 10,
+      "kicker": "",
+      "title": "Kịch bản tài chính và công cụ số",
+      "title_en": "Financial Scenarios and Digital Tools",
+      "bullets": [
+        "Lập ít nhất 3 kịch bản: lạc quan, trung bình, xấu nhất.",
+        "Google Sheets: nhiều người cùng chỉnh sửa, hợp làm việc từ xa.",
+        "Canva: biến số liệu khô khan thành biểu đồ dễ hiểu cho nhà đầu tư."
+      ],
+      "bullets_en": [
+        "Build at least 3 scenarios: optimistic, average, worst-case.",
+        "Google Sheets: multiple editors at once, good for remote teams.",
+        "Canva: turns dry figures into charts investors grasp quickly."
+      ]
+    },
+    {
+      "slide": 11,
+      "kicker": "",
+      "title": "Minh bạch tài chính và đạo đức kinh doanh",
+      "title_en": "Financial Transparency and Business Ethics",
+      "bullets": [
+        "Che giấu số liệu xấu, thổi phồng doanh thu là sai lầm nghiêm trọng.",
+        "Sự thật lộ ra qua dòng tiền thực tế, phá hủy lòng tin.",
+        "'Đốt tiền' giai đoạn đầu không xấu nếu có kế hoạch hòa vốn rõ.",
+        "Nguy hiểm thật sự là lợi nhuận ròng âm kéo dài, không ai theo dõi."
+      ],
+      "bullets_en": [
+        "Hiding bad figures or inflating revenue is a serious mistake.",
+        "Truth surfaces through real cash flow, destroying trust.",
+        "Early 'burning money' is fine with a clear break-even plan.",
+        "The real danger is unmonitored, long-lasting negative net profit."
+      ]
+    },
+    {
+      "slide": 12,
+      "kicker": "Tình huống",
+      "title": "Dashboard dòng tiền & ví dụ chị Hoa",
+      "title_en": "Cash-Flow Dashboard and Ms. Hoa's Example",
+      "bullets": [
+        "Dashboard quản trị dòng tiền: theo dõi thường xuyên, điều chỉnh kịp thời.",
+        "Chị Hoa: định phí 10 triệu, giá 50 nghìn, biến phí 20 nghìn/gói.",
+        "Biên lãi gộp 30 nghìn → hòa vốn ~334 gói, bán 50/tuần → 7 tuần.",
+        "Ví dụ minh họa để giảng dạy, không phải số liệu thật."
+      ],
+      "bullets_en": [
+        "Cash-flow dashboard: regular tracking, timely adjustment.",
+        "Ms. Hoa: 10M fixed cost, 50k price, 20k variable cost/pack.",
+        "30k margin → break-even ~334 packs; 50/week → 7 weeks.",
+        "Illustrative teaching example, not real figures."
+      ]
+    },
+    {
+      "slide": 13,
+      "kicker": "Tình huống",
+      "title": "Runway cho dự án gốm đỏ Vĩnh Long",
+      "title_en": "Runway for the Vĩnh Long Pottery Project",
+      "bullets": [
+        "200 triệu tiền mặt, chi phí vận hành 40 triệu/tháng.",
+        "Doanh thu mới đạt 25 triệu/tháng → burn rate thực 15 triệu/tháng.",
+        "Runway = 200 ÷ 15 ≈ 13 tháng để tăng doanh thu hoặc gọi vốn tiếp.",
+        "Ví dụ dựng ra để giảng dạy, không phải số liệu thật."
+      ],
+      "bullets_en": [
+        "200M cash, 40M/month operating cost.",
+        "Revenue only 25M/month → effective burn rate 15M/month.",
+        "Runway = 200 ÷ 15 ≈ 13 months to grow revenue or raise again.",
+        "Example built for teaching, not real figures."
+      ]
+    },
+    {
+      "slide": 14,
+      "kicker": "",
+      "title": "Tổng kết Chương ba",
+      "title_en": "Summary of Chapter Three",
+      "bullets": [
+        "Định phí, biến phí, điểm hòa vốn: biết cần bán bao nhiêu để không lỗ.",
+        "Burn rate, runway: biết còn bao lâu và khi nào cần gọi vốn tiếp.",
+        "Phân biệt lợi nhuận gộp/ròng và dòng tiền; giữ minh bạch tài chính.",
+        "Làm bài tập tự đánh giá cuối chủ đề này trước khi sang Chương bốn."
+      ],
+      "bullets_en": [
+        "Fixed/variable costs, break-even: know how much to sell to avoid loss.",
+        "Burn rate, runway: know how long you have and when to raise again.",
+        "Tell apart gross/net profit and cash flow; stay transparent.",
+        "Do the self-assessment exercise before moving to Chapter Four."
+      ]
+    }
+  ]
+}
