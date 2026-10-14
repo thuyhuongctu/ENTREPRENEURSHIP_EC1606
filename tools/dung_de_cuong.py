@@ -17,7 +17,10 @@ NGUON = os.path.join(GOC, 'docs', 'de_cuong_hls.json')
 THU_MUC_RA = os.path.join(GOC, 'de-cuong')
 
 TIEU_DE = 'ĐỀ CƯƠNG HỌC PHẦN BIÊN SOẠN HỌC LIỆU SỐ'
-PHU_DE = 'Khởi sự doanh nghiệp (EC1606) — Trường Đại học Sư phạm Kỹ thuật Vĩnh Long'
+# Tên trường mới (trước là Trường Đại học Sư phạm Kỹ thuật Vĩnh Long). Số hiệu
+# "QĐ 55/QĐ-ĐHSPKTVL-ĐT_ĐBCL" trong nội dung thì giữ nguyên: đó là số văn bản
+# đã ban hành, đổi theo tên mới là trích sai văn bản.
+PHU_DE = 'Khởi sự doanh nghiệp (EC1606) — Trường Đại học Công nghệ Kỹ thuật Vĩnh Long'
 
 
 def _them_bang_docx(doc, bang):
