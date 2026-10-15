@@ -1,0 +1,620 @@
+{
+ "chuong": 2,
+ "ghi_chu": "Hình minh họa 3D đất sét từng slide (khóa = số slide). Biểu tượng: xem BIEU_TUONG trong remotion/src/minh-hoa/BieuTuong.tsx. theo_the = mục i hiện cùng thẻ chữ i; false = các mục hiện lần lượt ngay đầu slide.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ý tưởng ≠ cơ hội"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Nỗi đau, chân dung"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Khả thi, đối thủ, rào cản"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Quyết định theo dữ liệu"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "2.1 · Ý tưởng & khách hàng"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "2.2 · Đánh giá cơ hội"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ôn tập"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ý tưởng & giải pháp"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Khách hàng"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ý tưởng"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Nhu cầu × năng lực"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Thiếu một vế"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Thu thập → quyết định"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "Bước đầu"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Hai việc song song"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Lỗi thường gặp"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Ba câu hỏi cốt lõi"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Vấn đề thật"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Hỏi khách hàng"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Ví dụ: 70% khó..."
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Cụ thể, đo được"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "banh_rang",
+     "nhan": "Giải pháp"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Trả lời"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Sai lầm phổ biến"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Khớp nỗi đau"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Nhân khẩu học"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Nhu cầu, hành vi"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Chị Lan, 32 tuổi"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Sản phẩm, giá, truyền thông"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Hành vi"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Vị trí địa lý"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Nhu cầu tiềm ẩn"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Bất ngờ tích cực"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Nỗi đau"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Chân dung"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Giải pháp"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ba câu hỏi"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Ý tưởng ban đầu"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Khách hàng mới"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Nỗi đau"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Giải pháp"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ngoi_sao",
+     "nhan": "USP"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Sản phẩm độc đáo"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ"
+    },
+    {
+     "bt": "can",
+     "nhan": "Điểm tựa so sánh"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ý tưởng → cơ hội"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Nỗi đau & giải pháp"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Chân dung & USP"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "Đã học: 2.1"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Đang học: 2.2"
+    },
+    {
+     "bt": "sach",
+     "nhan": "Sắp học: Ôn tập"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Nối sang Chương 3"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Đánh giá cơ hội"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Tiếp nối 2.1"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Lợi nhuận & dòng tiền"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Không chỉ có lãi"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Ví dụ minh họa"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Theo thời gian"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "banh_rang",
+     "nhan": "Công nghệ, nguồn lực"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Vùng sâu, vùng xa"
+    },
+    {
+     "bt": "xe_tai",
+     "nhan": "Giao hàng khó"
+    },
+    {
+     "bt": "can",
+     "nhan": "Kinh tế + kỹ thuật"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Mục đích"
+    },
+    {
+     "bt": "can",
+     "nhan": "Mạnh & yếu"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Lợi thế bền vững"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Điều đối thủ chưa làm"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "canh_bao",
+     "nhan": "Rào cản"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Vượt nguồn lực"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Thị trường bão hòa"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Thị trường ngách"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Tầm nhìn, sứ mệnh"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Nguồn lực bản thân"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Năng lực thực thi"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Kế hoạch không ai làm"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "can",
+     "nhan": "Trung thực, công bằng"
+    },
+    {
+     "bt": "la",
+     "nhan": "Cộng đồng, môi trường"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Không đổi lâu dài"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Giá trị bền vững"
+    }
+   ]
+  },
+  "23": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Kinh tế"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ minh họa"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Đối thủ"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Nguồn lực bản thân"
+    }
+   ]
+  },
+  "24": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Chuyển đổi số"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Làng nghề + nội dung số"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "OCOP, vay ưu đãi"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Chủ động tìm hiểu"
+    }
+   ]
+  },
+  "25": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do",
+     "nhan": "Dữ liệu thực tế"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Bán thử mẻ nhỏ"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Quy trình đầy đủ"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Điều chỉnh hướng"
+    }
+   ]
+  },
+  "26": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Khả thi, đối thủ, rào cản"
+    },
+    {
+     "bt": "can",
+     "nhan": "Nguồn lực, đạo đức"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Nền cho Chương 3"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "27": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Câu 1"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Câu 2"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Câu 3"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Câu 4"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Câu 5"
+    }
+   ]
+  },
+  "28": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Gốm đỏ bán online"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Chưa hỏi khách, hàng dễ vỡ"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Thu thập dữ liệu gì?"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Khả thi & lợi thế"
+    }
+   ]
+  },
+  "29": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ý tưởng chưa phải cơ hội"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Bắt đầu từ khách hàng"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Đánh giá có hệ thống"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Việc cần làm"
+    }
+   ]
+  },
+  "30": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Giáo trình chính"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tài liệu tham khảo"
+    }
+   ]
+  }
+ }
+}

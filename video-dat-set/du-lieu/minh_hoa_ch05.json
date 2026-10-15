@@ -1,0 +1,629 @@
+{
+ "chuong": 5,
+ "ghi_chu": "Hình minh họa 3D đất sét từng slide (khóa = số slide). Biểu tượng: xem BIEU_TUONG trong remotion/src/minh-hoa/BieuTuong.tsx. theo_the = mục i hiện cùng thẻ chữ i; false = các mục hiện lần lượt ngay đầu slide.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "Quy trình STP"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Chân dung & USP"
+    },
+    {
+     "bt": "bang_mau",
+     "nhan": "Bộ nhận diện"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "4P/7P trung thực"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "5.1 · STP"
+    },
+    {
+     "bt": "co",
+     "nhan": "5.2 · Nhãn hiệu & 4P"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ôn tập"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "Chủ đề 5.1"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Ba bước STP"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "canh_bao",
+     "nhan": "Sai lầm phổ biến"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "S → T → P"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Định vị mơ hồ"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Không chiều tất cả"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "Địa lý"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Nhân khẩu học"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "Hành vi"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Tâm lý"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "Targeting"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Chị Hoa"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Tập trung nguồn lực"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Không phân tán"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Không chỉ tuổi, thu nhập"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Pain points"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Sang Positioning"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "co",
+     "nhan": "Positioning"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Gốm đỏ Vĩnh Long"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Không phải slogan"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Trả lời"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ngoi_sao",
+     "nhan": "USP"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Phân tích đối thủ"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Thị trường ngách"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Vị thế cạnh tranh"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "Segmentation"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Targeting"
+    },
+    {
+     "bt": "co",
+     "nhan": "Positioning"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Khoai lang chị Hoa"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Không nhắm nhóm yếu thế"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Không bịa hình ảnh"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Mất lòng tin"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Bản sắc thật"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "Phân khúc"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Mục tiêu & chân dung"
+    },
+    {
+     "bt": "co",
+     "nhan": "Định vị khác biệt"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "Đã học: 5.1"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Đang học: 5.2"
+    },
+    {
+     "bt": "sach",
+     "nhan": "Sắp học: Ôn tập"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Nối cả học phần"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "co",
+     "nhan": "Chủ đề 5.2"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Nhận diện, 4P, 7P"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "co",
+     "nhan": "Nhận diện đồng bộ"
+    },
+    {
+     "bt": "bang_mau",
+     "nhan": "Màu thương hiệu"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Slogan"
+    },
+    {
+     "bt": "can",
+     "nhan": "Nhất quán"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Brand story"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Ví dụ gốm đỏ"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Chuyện thật, cảm xúc"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Khách nhận ra giả tạo"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "heo_dat",
+     "nhan": "Vốn ít"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Định vị 0 đồng"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "Canva, Google Trends"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Theo dõi, điều chỉnh"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "hop_banh",
+     "nhan": "Product"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Giá xâm nhập"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Giá hớt váng"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Quay lại Targeting"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "xe_tai",
+     "nhan": "Place"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "Thương mại điện tử"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Promotion"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Khuyến mãi ngắn hạn"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "TikTok, Facebook"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Chọn sai kênh"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ chị Hoa"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Product"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Price"
+    },
+    {
+     "bt": "xe_tai",
+     "nhan": "Place"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Promotion"
+    }
+   ]
+  },
+  "23": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "the_gia",
+     "nhan": "4P + 3P"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "People"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Process"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Physical Evidence"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Du lịch cộng đồng"
+    }
+   ]
+  },
+  "24": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khien",
+     "nhan": "Quảng cáo trung thực"
+    },
+    {
+     "bt": "la",
+     "nhan": "Greenwashing"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Bị phát hiện"
+    },
+    {
+     "bt": "can",
+     "nhan": "Đúng giá trị định vị"
+    }
+   ]
+  },
+  "25": {
+   "kieu": "vong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "trai_tim",
+     "nhan": "Brand Loyalty"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Feedback"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "Digital Marketing"
+    },
+    {
+     "bt": "loa",
+     "nhan": "IMC"
+    }
+   ],
+   "giua": "Giữ khách"
+  },
+  "26": {
+   "kieu": "chuoi",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Ch1 · Ý tưởng"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Ch2 · Cơ hội"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Ch3 · Vốn"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Ch4 · Mô hình"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Ch5 · Marketing"
+    }
+   ]
+  },
+  "27": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "Câu 1"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Câu 2"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Câu 3"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Câu 4"
+    },
+    {
+     "bt": "la",
+     "nhan": "Câu 5"
+    }
+   ]
+  },
+  "28": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Truyền thống, hiện đại"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Giảm giá, ghi sai"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Khớp định vị?"
+    },
+    {
+     "bt": "the_gia",
+     "nhan": "Đề xuất lại 4P"
+    }
+   ]
+  },
+  "29": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "muc_tieu",
+     "nhan": "STP đi trước"
+    },
+    {
+     "bt": "co",
+     "nhan": "Nhất quán thương hiệu"
+    },
+    {
+     "bt": "khien",
+     "nhan": "4P, 7P trung thực"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Việc cần làm"
+    }
+   ]
+  },
+  "30": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Giáo trình chính"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tài liệu tham khảo"
+    }
+   ]
+  }
+ }
+}

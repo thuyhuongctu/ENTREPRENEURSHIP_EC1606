@@ -1,0 +1,403 @@
+{
+ "chuong": 5,
+ "slides": [
+  {
+   "video": 1,
+   "so": 1,
+   "tieu_de": "TRANG BÌA",
+   "tren_slide": [
+    "CHƯƠNG 5: MARKETING CHO DOANH NGHIỆP MỚI",
+    "Học phần: Khởi sự doanh nghiệp (EC1606)",
+    "Khoa: Kinh doanh và Luật",
+    "Trường Đại học Công nghệ Kỹ thuật Vĩnh Long"
+   ],
+   "goi_y_hinh": "Hương AI đứng giảng (assets/huong-ai/HUONG_AI_GIANG_BAI.jpg) + chú thích \"nhân vật minh họa do AI tạo\"",
+   "loi_doc": "Cô xin chào các em! Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em quay lại với học phần Khởi sự doanh nghiệp. Ở Chương bốn, chúng ta đã tìm hiểu bốn loại hình doanh nghiệp theo Luật Doanh nghiệp, phân biệt trách nhiệm hữu hạn với trách nhiệm vô hạn, và cách chọn mô hình pháp lý phù hợp với năng lực, nguồn vốn và mức rủi ro của mình. Hôm nay chúng ta bước vào Chương năm — chương cuối cùng của học phần: Marketing cho doanh nghiệp mới."
+  },
+  {
+   "video": 1,
+   "so": 2,
+   "tieu_de": "MỤC TIÊU CHƯƠNG 5",
+   "tren_slide": [
+    "Vận dụng được quy trình STP cho dự án",
+    "Xây dựng được chân dung khách hàng và USP",
+    "Thiết kế được bộ nhận diện thương hiệu",
+    "Triển khai được 4P/7P đúng định vị, trung thực"
+   ],
+   "goi_y_hinh": "Hương AI đứng toàn thân (assets/huong-ai/HUONG_AI_DUNG.jpg) + chú thích; dấu tick trước mỗi mục tiêu",
+   "loi_doc": "Sau chương này, các em cần đạt bốn mục tiêu. Thứ nhất, vận dụng được quy trình STP cho dự án của mình. Thứ hai, xây dựng được chân dung khách hàng và điểm bán hàng độc nhất, USP. Thứ ba, thiết kế được một bộ nhận diện thương hiệu nhất quán. Và thứ tư, triển khai được 4P, 7P bám sát định vị và trung thực với khách hàng."
+  },
+  {
+   "video": 1,
+   "so": 3,
+   "tieu_de": "NỘI DUNG CHƯƠNG 5",
+   "tren_slide": [
+    "1. 5.1. Thị trường mục tiêu, định vị và đối tượng khách hàng (STP)",
+    "2. 5.2. Xây dựng nhãn hiệu và Marketing hỗn hợp",
+    "3. Ôn tập – Tình huống – Tổng kết chương"
+   ],
+   "goi_y_hinh": "Danh sách đánh số 1-2-3",
+   "loi_doc": "Chương năm gồm hai chủ đề. Chủ đề năm chấm một: Thị trường mục tiêu, định vị và đối tượng khách hàng, tức STP. Chủ đề năm chấm hai: Xây dựng nhãn hiệu và Marketing hỗn hợp, gồm bộ nhận diện thương hiệu, 4P và 7P. Cuối chương có ôn tập, tình huống minh họa và tổng kết. Bây giờ chúng ta bắt đầu với chủ đề thứ nhất."
+  },
+  {
+   "video": 1,
+   "so": 4,
+   "tieu_de": "5.1. THỊ TRƯỜNG MỤC TIÊU, ĐỊNH VỊ VÀ ĐỐI TƯỢNG KHÁCH HÀNG (STP)",
+   "tren_slide": [
+    "Chủ đề 5.1: Bước đầu tiên của Marketing — biết nói với ai, nói điều gì.",
+    "Ba bước STP: Segmentation, Targeting, Positioning."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 1/10); nhãn nhỏ: —",
+   "loi_doc": "Chương năm — Marketing cho doanh nghiệp mới — trả lời một câu hỏi rất thực tế. Dù đã có ý tưởng tốt, đánh giá được cơ hội, huy động được vốn và chọn đúng mô hình pháp lý, nếu không có Marketing, sản phẩm vẫn chỉ nằm trong xưởng chứ không đến được tay khách hàng. Ở chủ đề đầu tiên này, các em sẽ học cách xác định thị trường mục tiêu, định vị doanh nghiệp, và hiểu rõ đối tượng khách hàng mình muốn phục vụ — ba việc phải làm trước khi nghĩ đến logo hay giá bán."
+  },
+  {
+   "video": 1,
+   "so": 5,
+   "tieu_de": "STP: NỀN TẢNG CỦA MỌI HOẠT ĐỘNG MARKETING",
+   "tren_slide": [
+    "Sai lầm phổ biến: Làm logo, slogan trước khi biết bán cho ai.",
+    "STP = Segmentation → Targeting → Positioning, đúng thứ tự.",
+    "Định vị mà không biết nhắm ai sẽ mơ hồ, không hiệu quả.",
+    "Doanh nghiệp mới không nên cố làm hài lòng tất cả mọi người."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 2/10); nhãn nhỏ: Vì sao cần STP trước",
+   "loi_doc": "Rất nhiều người mới khởi nghiệp mắc một sai lầm phổ biến: vừa có sản phẩm là lo thiết kế logo, nghĩ slogan, rồi mới tính xem bán cho ai. Thứ tự đúng phải ngược lại. Công cụ nền tảng của Marketing mang tên STP, viết tắt của ba bước: Segmentation — phân khúc thị trường, Targeting — chọn thị trường mục tiêu, và Positioning — định vị. Ba bước này phải làm theo đúng thứ tự, vì định vị mà không biết trước mình đang nhắm vào ai thì hình ảnh thương hiệu sẽ mơ hồ, không chạm được vào đúng nhóm khách hàng nào. Hiểu đơn giản: trước khi quyết định sẽ 'nói gì' để gây ấn tượng với khách hàng (Positioning), doanh nghiệp phải biết rõ thị trường có những nhóm khách hàng nào (Segmentation), và trong số đó, mình chọn phục vụ nhóm nào (Targeting). Một doanh nghiệp mới, nguồn lực còn hạn hẹp, không thể và không nên cố gắng làm hài lòng tất cả mọi người — càng cố ôm đồm nhiều nhóm khách hàng khác nhau, thông điệp Marketing sẽ càng loãng và không ai thấy mình được nhắm đến."
+  },
+  {
+   "video": 1,
+   "so": 6,
+   "tieu_de": "PHÂN KHÚC THỊ TRƯỜNG THEO BỐN TIÊU CHÍ",
+   "tren_slide": [
+    "Địa lý: Thành thị / nông thôn.",
+    "Nhân khẩu học: Tuổi, giới tính, thu nhập, nghề nghiệp.",
+    "Hành vi: Thói quen mua sắm, mức độ sử dụng.",
+    "Tâm lý: Phong cách sống, giá trị theo đuổi.",
+    "Ví dụ minh họa: Trà sữa chọn TikTok = nhân khẩu học + hành vi."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 3/10); nhãn nhỏ: S — Segmentation",
+   "loi_doc": "Segmentation — phân khúc thị trường — là việc chia tổng thể thị trường rộng lớn thành những nhóm khách hàng nhỏ hơn, có đặc điểm chung, để doanh nghiệp dễ nghiên cứu và phục vụ. Có bốn tiêu chí phân khúc phổ biến: theo địa lý — ví dụ phân theo khách hàng ở thành thị hay nông thôn, theo nhân khẩu học — độ tuổi, giới tính, thu nhập, nghề nghiệp, theo hành vi — thói quen mua sắm, mức độ sử dụng sản phẩm, và theo tâm lý — phong cách sống, giá trị theo đuổi. Ví dụ, một doanh nghiệp bán trà sữa chọn quảng bá qua TikTok là đang nhắm vào tiêu chí nhân khẩu học (độ tuổi trẻ) kết hợp tiêu chí hành vi (thói quen dùng mạng xã hội nhiều video ngắn) của nhóm khách hàng trẻ tuổi — đây là một ví dụ minh họa thường gặp, không phải số liệu khảo sát thật. Phân khúc không cần quá cầu kỳ với doanh nghiệp nhỏ: chỉ cần chọn một hoặc hai tiêu chí phù hợp nhất với sản phẩm của mình, đủ để nhìn ra những nhóm khách hàng khác nhau rõ rệt, là đã đủ cơ sở để bước sang Targeting."
+  },
+  {
+   "video": 1,
+   "so": 7,
+   "tieu_de": "CHỌN THỊ TRƯỜNG MỤC TIÊU: VÍ DỤ CHỊ HOA",
+   "tren_slide": [
+    "Targeting: Tập trung vào nhóm mang lại giá trị cao nhất.",
+    "Ví dụ minh họa: Nữ văn phòng 25-40 tuổi, TP.HCM, ưa thực phẩm sạch.",
+    "Không phải 'bỏ rơi' khách khác, mà tập trung nguồn lực hạn hẹp.",
+    "Tránh phân tán chi phí Marketing vào nhóm khó tiếp cận."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 4/10); nhãn nhỏ: T — Targeting · chị Hoa",
+   "loi_doc": "Sau khi nhìn ra các phân khúc, Targeting — chọn thị trường mục tiêu — là bước doanh nghiệp quyết định sẽ tập trung phục vụ nhóm khách hàng cụ thể nào trong số đó, thường là nhóm mang lại giá trị cao nhất so với nguồn lực mình có. Lấy lại ví dụ chị Hoa chế biến khoai lang ở Bình Tân, Vĩnh Long mà chúng ta đã theo dõi từ đầu học phần: giả sử thị trường thực phẩm chế biến từ nông sản được phân khúc theo khu vực thành thị, nông thôn, kết hợp theo độ tuổi và mối quan tâm đến sức khỏe, thì chị Hoa có thể chọn Targeting là 'phụ nữ văn phòng 25 đến 40 tuổi tại Thành phố Hồ Chí Minh, quan tâm đến thực phẩm sạch, có nguồn gốc rõ ràng' — đây là mô tả minh họa do chúng ta dựng ra để dễ hình dung, không phải dữ liệu khảo sát thật của chị Hoa. Điều quan trọng cần nhớ: việc xác định đối tượng khách hàng mục tiêu không phải để 'bỏ rơi' những khách hàng còn lại, mà để tập trung nguồn lực hạn hẹp của doanh nghiệp mới vào đúng nhóm mang lại hiệu quả cao nhất, tránh phân tán chi phí Marketing vào những nhóm khó tiếp cận hoặc không thật sự cần sản phẩm của mình."
+  },
+  {
+   "video": 1,
+   "so": 8,
+   "tieu_de": "DỰNG CHÂN DUNG KHÁCH HÀNG VÀ 'NỖI ĐAU' (PAIN POINTS)",
+   "tren_slide": [
+    "Không chỉ tuổi, thu nhập, vị trí: Cần cả sở thích, thói quen.",
+    "Pain points: Nỗi lo/khó khăn sản phẩm có thể giải quyết.",
+    "Ví dụ: Bận rộn, lo nguồn gốc thực phẩm ngoài chợ.",
+    "Chân dung đủ sâu mới dẫn tự nhiên sang bước Positioning."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 5/10); nhãn nhỏ: Chân dung khách hàng",
+   "loi_doc": "Để Targeting chính xác, doanh nghiệp cần dựng được 'chân dung khách hàng mục tiêu' càng cụ thể càng tốt — không chỉ độ tuổi, thu nhập, vị trí địa lý, mà còn cả sở thích, thói quen tiêu dùng, và đặc biệt là những 'nỗi đau' — pain points — mà khách hàng đang gặp phải và sản phẩm của mình có thể giải quyết. Với chị Hoa, nỗi đau của nhóm khách hàng mục tiêu có thể là: bận rộn, không có thời gian chế biến món ăn vặt lành mạnh tại nhà, lo lắng về nguồn gốc thực phẩm bán ngoài chợ nhưng vẫn muốn ăn vặt healthy. Một chân dung khách hàng đầy đủ phải trả lời được cả câu hỏi vì sao họ nên chọn sản phẩm của mình thay vì sản phẩm khác — đây chính là cầu nối tự nhiên dẫn sang bước Positioning. Nhiều sinh viên khi làm bài tập hay bỏ qua bước này, chỉ liệt kê độ tuổi và thu nhập rồi coi như xong — như vậy chân dung khách hàng sẽ rất mỏng, không giúp ích gì cho việc viết nội dung quảng cáo hay chọn đúng kênh truyền thông ở chủ đề sau."
+  },
+  {
+   "video": 1,
+   "so": 9,
+   "tieu_de": "ĐỊNH VỊ THƯƠNG HIỆU: VÍ DỤ GỐM ĐỎ VĨNH LONG",
+   "tren_slide": [
+    "Positioning: Hình ảnh, giá trị khác biệt trong tâm trí khách hàng.",
+    "Ví dụ minh họa: Kỹ thuật nung truyền thống + thiết kế hiện đại.",
+    "Không phải một slogan: Phải chi phối cả 4P ở chủ đề sau.",
+    "Trả lời: Vì sao khách hàng nên chọn mình, không chọn đối thủ."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 6/10); nhãn nhỏ: P — Positioning · gốm đỏ",
+   "loi_doc": "Positioning — định vị — là bước cuối trong STP: tạo ra hình ảnh và giá trị khác biệt trong tâm trí khách hàng mục tiêu, trả lời rõ câu hỏi vì sao họ nên chọn mình chứ không chọn đối thủ. Lấy ví dụ dự án gốm đỏ Vĩnh Long mà học phần dùng xuyên suốt — một dự án giả định về việc hiện đại hóa làng nghề gốm đỏ truyền thống: nếu nhóm khách hàng mục tiêu là người tiêu dùng đô thị, trẻ, yêu thích nội thất mang dấu ấn văn hóa bản địa, thì Positioning có thể là 'gốm đỏ Vĩnh Long — giữ kỹ thuật nung truyền thống hơn trăm năm của làng nghề, khoác thêm thiết kế hiện đại để vào được không gian sống của người trẻ thành thị'. Đây là ví dụ minh họa do chúng ta dựng ra để giảng dạy, không phải chiến lược định vị thật của bất kỳ cơ sở sản xuất gốm đỏ nào. Điều cần nhớ là Positioning không phải một câu slogan hay — nó phải là một lựa chọn chiến lược nhất quán, chi phối luôn cả Product, Price, Place và Promotion ở chủ đề sau, chứ không chỉ nằm trên giấy."
+  },
+  {
+   "video": 1,
+   "so": 10,
+   "tieu_de": "USP, PHÂN TÍCH ĐỐI THỦ VÀ THỊ TRƯỜNG NGÁCH",
+   "tren_slide": [
+    "USP: Điểm khác biệt đối thủ không có, hoặc không làm tốt bằng.",
+    "Phân tích đối thủ để tìm góc độ chưa ai khai thác.",
+    "Niche Market: Phục vụ thật tốt một nhóm nhỏ, cụ thể.",
+    "Vị thế cạnh tranh = vị trí riêng trong ngách, không so quy mô."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 7/10); nhãn nhỏ: USP & thị trường ngách",
+   "loi_doc": "Muốn định vị rõ ràng, doanh nghiệp cần trả lời được câu hỏi về Unique Selling Point — USP, tức điểm bán hàng độc nhất: điều gì ở sản phẩm của mình mà đối thủ không có, hoặc có nhưng không làm tốt bằng. Để tìm ra USP chính xác, bước phân tích đối thủ cạnh tranh trực tiếp là không thể bỏ qua: xem đối thủ đang nói gì, nhấn mạnh điều gì trong quảng cáo của họ, rồi chọn một góc độ khác biệt mà họ chưa khai thác, thay vì lặp lại chính những gì họ đã làm. Với nguồn lực hạn chế, doanh nghiệp mới hầu như không thể cạnh tranh trực diện về quy mô với các thương hiệu lớn đã có sẵn tập khách hàng đông đảo — vì vậy chiến lược phổ biến và khả thi hơn là tập trung vào thị trường ngách, Niche Market: chọn phục vụ thật tốt một nhóm nhỏ, cụ thể, mà các đối thủ lớn chưa chú ý hoặc chưa phục vụ tốt. 'Vị thế cạnh tranh' của một doanh nghiệp khởi nghiệp, vì vậy, nên được hiểu là vị trí riêng của mình trong tâm trí khách hàng ở một ngách thị trường, không phải là việc so sánh quy mô trực diện với đối thủ lớn."
+  },
+  {
+   "video": 1,
+   "so": 11,
+   "tieu_de": "STP ĐẦY ĐỦ CHO SẢN PHẨM KHOAI LANG CHỊ HOA",
+   "tren_slide": [
+    "Segmentation: Nông sản chế biến, thành thị/nông thôn.",
+    "Targeting: Nữ văn phòng 25-40 tuổi, TP.HCM, ưa thực phẩm sạch.",
+    "Positioning: 'ăn vặt lành mạnh, rõ nguồn gốc từ Vĩnh Long'.",
+    "Ví dụ minh họa: Không phải khảo sát thị trường thật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 8/10); nhãn nhỏ: Áp dụng — chị Hoa",
+   "loi_doc": "Để các em thấy rõ ba bước STP gắn với nhau như thế nào, hãy áp dụng đầy đủ cho ví dụ chị Hoa một lần nữa. Segmentation: thị trường thực phẩm chế biến từ nông sản, phân theo khu vực thành thị và nông thôn. Targeting: trong các phân khúc đó, chị Hoa chọn nhóm nhân viên văn phòng, phụ nữ 25 đến 40 tuổi tại Thành phố Hồ Chí Minh, quan tâm đến thực phẩm sạch. Positioning: định vị sản phẩm là 'món ăn vặt lành mạnh, nguồn gốc rõ ràng từ nông dân Vĩnh Long' — khác hẳn các sản phẩm ăn vặt công nghiệp đại trà không rõ xuất xứ. Đây tiếp tục là mô tả minh họa chúng ta dựng ra để dễ hình dung, không phải khảo sát thị trường thật. Các em có thể thấy: nếu bỏ qua Segmentation và Targeting, định vị 'món ăn vặt lành mạnh' sẽ rất chung, không ai biết nó dành cho ai; còn nếu biết rõ mình đang nói với 'phụ nữ văn phòng bận rộn, quan tâm sức khỏe', câu định vị sẽ chạm đúng mối lo và mong muốn của họ hơn rất nhiều."
+  },
+  {
+   "video": 1,
+   "so": 12,
+   "tieu_de": "STP PHẢI TRUNG THỰC, KHÔNG ĐỊNH VỊ GIAN DỐI",
+   "tren_slide": [
+    "Targeting không nhắm vào nhóm dễ bị thông tin sai lệch thuyết phục.",
+    "Positioning không bịa hình ảnh không đúng thực tế sản phẩm.",
+    "Bị phát hiện gian dối: Thiệt hại uy tín lớn hơn lợi ích ngắn hạn.",
+    "Định vị theo bản sắc văn hóa thật luôn bền vững hơn chiêu trò."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 9/10); nhãn nhỏ: Đạo đức trong STP",
+   "loi_doc": "Một điều cần nhắc lại ở chủ đề này, vì nó xuất hiện xuyên suốt cả năm chương của học phần: STP phải luôn gắn với đạo đức kinh doanh. Targeting không có nghĩa là nhắm vào nhóm khách hàng dễ bị thuyết phục bằng thông tin sai lệch, và Positioning không có nghĩa là bịa ra một hình ảnh không đúng với thực tế sản phẩm để gây ấn tượng. Một dự án tự xưng là 'gốm đỏ nung bằng lò truyền thống một trăm phần trăm' trong khi thực tế đã chuyển sang lò điện công nghiệp, hay một sản phẩm tự xưng 'hoàn toàn hữu cơ' mà không có bất kỳ xác nhận nào, đều là định vị gian dối — về ngắn hạn có thể thu hút chú ý, nhưng một khi bị phát hiện, thiệt hại cho uy tín thương hiệu luôn lớn hơn nhiều so với lợi ích ban đầu. Với các dự án của phụ nữ và người dân tộc thiểu số mà học phần đặc biệt quan tâm, định vị dựa trên bản sắc văn hóa và câu chuyện thật của cộng đồng mình luôn bền vững hơn bất kỳ chiêu trò quảng cáo phóng đại nào, vì nó không thể bị 'bóc mẽ' — bản sắc đó là có thật."
+  },
+  {
+   "video": 1,
+   "so": 13,
+   "tieu_de": "TỔNG KẾT: BA BƯỚC STP LÀ NỀN CHO CHỦ ĐỀ TIẾP THEO",
+   "tren_slide": [
+    "Phân khúc theo tiêu chí phù hợp với sản phẩm.",
+    "Chọn đúng mục tiêu, dựng chân dung khách hàng đủ sâu.",
+    "Định vị khác biệt, trung thực, dựa trên USP và thị trường ngách.",
+    "Làm bài tập tự đánh giá cuối chủ đề trước khi sang phần tiếp theo."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.1 (mục 10/10); nhãn nhỏ: Tổng kết 5.1",
+   "loi_doc": "Tóm lại, chủ đề này chúng ta đã đi qua ba việc cần làm trước khi bắt tay vào bất kỳ hoạt động Marketing cụ thể nào: thứ nhất, phân khúc thị trường theo những tiêu chí phù hợp với sản phẩm của mình; thứ hai, chọn đúng nhóm khách hàng mục tiêu và dựng được chân dung khách hàng đủ cụ thể, bao gồm cả những nỗi đau họ đang gặp; và thứ ba, định vị doanh nghiệp bằng một hình ảnh khác biệt, trung thực, dựa trên USP và một chỗ đứng riêng trong thị trường ngách. Ba bước STP này là nền tảng cho toàn bộ chủ đề tiếp theo của chương, nơi chúng ta sẽ học cách xây dựng nhãn hiệu và triển khai Marketing hỗn hợp dựa đúng trên nền STP đã xác định ở đây. Trước khi sang phần tiếp theo, các em hãy làm bài tập tự đánh giá cuối chủ đề này để chắc chắn đã nắm được ba khái niệm Segmentation, Targeting, Positioning và cách áp dụng vào một trường hợp cụ thể."
+  },
+  {
+   "video": 2,
+   "so": 14,
+   "tieu_de": "CHÚNG TA ĐANG Ở ĐÂU",
+   "tren_slide": [
+    "✓ Đã học — Chủ đề 5.1: STP: phân khúc thị trường, chọn khách hàng mục tiêu, dựng chân dung khách hàng, định vị bằng USP trong thị trường ngách.",
+    "▶ Đang học — Chủ đề 5.2: Bộ nhận diện và câu chuyện thương hiệu, Marketing 0 đồng, 4P, 7P, đạo đức Marketing, Brand Loyalty và Marketing số.",
+    "○ Sắp học — Ôn tập và tình huống: Năm câu hỏi ôn tập, tình huống minh họa gốm đỏ Vĩnh Long, tổng kết chương và tài liệu học tập.",
+    "Mạch nối cả học phần: Chương 1–4: ý tưởng, cơ hội, vốn, mô hình pháp lý. Chương 5 đưa sản phẩm đến khách hàng — mảnh cuối cho bài thu hoạch."
+   ],
+   "goi_y_hinh": "Trục tiến độ chương: chủ đề 5.1 đã học, 5.2 đang học, ôn tập sắp học",
+   "loi_doc": "Trước khi sang chủ đề mới, chúng ta xem mình đang ở đâu. Ở chủ đề năm chấm một, các em đã học ba bước STP — phân khúc thị trường, chọn thị trường mục tiêu và định vị — để biết rõ mình nói với ai, nói điều gì. Bây giờ là chủ đề năm chấm hai: biến định vị thành thương hiệu và hành động. Sau đó là ôn tập và tình huống."
+  },
+  {
+   "video": 2,
+   "so": 15,
+   "tieu_de": "5.2. XÂY DỰNG NHÃN HIỆU VÀ MARKETING HỖN HỢP",
+   "tren_slide": [
+    "Chủ đề 5.2: Biến định vị thành bộ nhận diện và hành động cụ thể.",
+    "Bộ nhận diện thương hiệu, 4P, mở rộng 7P cho dịch vụ."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 1/12); nhãn nhỏ: —",
+   "loi_doc": "Chủ đề thứ hai của Chương năm, cũng là chủ đề cuối cùng của toàn học phần Khởi sự doanh nghiệp, là Xây dựng nhãn hiệu và Marketing hỗn hợp. Nếu STP trả lời câu hỏi 'nói với ai, nói điều gì', thì chủ đề này sẽ trả lời câu hỏi tiếp theo: làm sao biến định vị đó thành một bộ nhận diện thương hiệu cụ thể, và triển khai ra hành động bằng công cụ Marketing hỗn hợp — 4P và mở rộng 7P — để đưa được sản phẩm đến đúng tay khách hàng mục tiêu đã xác định ở chủ đề trước."
+  },
+  {
+   "video": 2,
+   "so": 16,
+   "tieu_de": "BỘ NHẬN DIỆN: LOGO, SLOGAN, MÀU SẮC, FONT CHỮ",
+   "tren_slide": [
+    "Nhận diện đồng bộ: Logo, slogan, màu, font, ấn phẩm nhất quán.",
+    "Màu thương hiệu mang ý nghĩa tâm lý, giúp khách nhớ, liên tưởng.",
+    "Slogan: Ngắn gọn, dễ nhớ, đúng giá trị cốt lõi đã định vị.",
+    "Nhất quán quan trọng hơn đầu tư lệch vào một thành phần."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 2/12); nhãn nhỏ: Bộ nhận diện thương hiệu",
+   "loi_doc": "Một thương hiệu không chỉ là một cái logo. Bộ nhận diện thương hiệu chuyên nghiệp cần đồng bộ nhiều thành phần: logo, một slogan ngắn gọn dễ nhớ, bảng màu chủ đạo, bộ font chữ, và các ấn phẩm truyền thông — bao bì, danh thiếp, hình ảnh trên mạng xã hội — được thiết kế thống nhất với nhau. Màu sắc thương hiệu không chỉ để đẹp mắt: nó mang ý nghĩa tâm lý, tác động đến cảm xúc và khả năng ghi nhớ của khách hàng mỗi khi nhìn thấy màu đó. Một slogan tốt phải đạt ba yêu cầu: ngắn gọn, dễ nhớ, và quan trọng nhất là truyền tải đúng giá trị cốt lõi đã chọn ở bước Positioning của chủ đề trước — một slogan nghe hay nhưng không liên quan gì đến định vị thương hiệu thì chỉ gây rối cho khách hàng. Với doanh nghiệp mới, giữ sự nhất quán giữa các thành phần này ngay từ đầu quan trọng hơn việc đầu tư quá nhiều vào một thành phần duy nhất."
+  },
+  {
+   "video": 2,
+   "so": 17,
+   "tieu_de": "CÂU CHUYỆN THƯƠNG HIỆU CHÂN THỰC: VÍ DỤ GỐM ĐỎ",
+   "tren_slide": [
+    "Brand Story chân thực: Vũ khí sắc bén cho sản phẩm bản sắc văn hóa.",
+    "Ví dụ minh họa: Ba đời giữ nghề, đất sét đỏ, kỹ thuật nung + thiết kế mới.",
+    "Phải là chuyện thật, có cảm xúc: Không phải quảng cáo sáo rỗng.",
+    "Khách hàng hiện nay rất nhạy khi nhận ra sự giả tạo."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 3/12); nhãn nhỏ: Brand Story · gốm đỏ",
+   "loi_doc": "Với các sản phẩm gắn liền với bản sắc văn hóa — đặc biệt là sản phẩm của phụ nữ và người dân tộc thiểu số mà học phần quan tâm — một 'câu chuyện thương hiệu', Brand Story, chân thực chính là vũ khí Marketing sắc bén, vì nó mang lại chiều sâu mà sản phẩm công nghiệp đại trà không có được. Lấy lại ví dụ dự án gốm đỏ Vĩnh Long: một câu chuyện thương hiệu hiệu quả không chỉ nói 'gốm đỏ của chúng tôi đẹp', mà có thể kể về người thợ gốm ba đời giữ nghề, về đất sét đỏ đặc trưng của vùng, về cách kết hợp kỹ thuật nung truyền thống với thiết kế mới — đây tiếp tục là ví dụ minh họa dựng ra để giảng dạy, không phải câu chuyện thật của một cơ sở gốm cụ thể. Nguyên tắc cần nhớ: một câu chuyện thương hiệu hiệu quả luôn phải là câu chuyện thật, có cảm xúc thật, không phải quảng cáo sáo rỗng khoác lên vài chi tiết văn hóa cho có vẻ cảm động."
+  },
+  {
+   "video": 2,
+   "so": 18,
+   "tieu_de": "MARKETING 0 ĐỒNG VÀ CÔNG CỤ SỐ HỖ TRỢ",
+   "tren_slide": [
+    "Vốn ít: Ưu tiên truyền miệng, mạng xã hội, nội dung chia sẻ tự nhiên.",
+    "'Định vị 0 đồng': Kể chuyện thật đều đặn, nhất quán.",
+    "Canva cho thiết kế; Google Trends, Facebook Insights/Analytics cho dữ liệu.",
+    "Theo dõi công cụ phân tích thường xuyên để điều chỉnh kịp thời."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 4/12); nhãn nhỏ: Marketing 0 đồng",
+   "loi_doc": "Với doanh nghiệp mới có nguồn vốn hạn hẹp, xây dựng thương hiệu không bắt buộc phải đi kèm ngân sách lớn. 'Marketing 0 đồng' là cách gọi cho chiến lược ưu tiên truyền miệng và mạng xã hội, tận dụng nội dung sáng tạo để được chia sẻ tự nhiên, thay vì phải trả tiền cho quảng cáo. 'Định vị 0 đồng' thường được thực hiện bằng cách kể câu chuyện thật của mình một cách đều đặn, nhất quán trên mạng xã hội, để dần xây dựng hình ảnh trong tâm trí khách hàng mà không cần ngân sách lớn cho quảng cáo trả tiền. Về công cụ số hỗ trợ, Canva giúp thiết kế logo và bộ nhận diện mà không cần thuê thiết kế chuyên nghiệp; Google Trends giúp nghiên cứu xu hướng tìm kiếm của khách hàng; Facebook Insights và Google Analytics giúp hiểu hành vi khách hàng đang theo dõi mình. Theo dõi các công cụ phân tích này thường xuyên giúp doanh nghiệp mới điều chỉnh chiến lược kịp thời, vì hành vi khách hàng trên mạng luôn thay đổi liên tục."
+  },
+  {
+   "video": 2,
+   "so": 19,
+   "tieu_de": "PRODUCT VÀ PRICE: GIÁ TRỊ, GIÁ XÂM NHẬP, GIÁ HỚT VÁNG",
+   "tren_slide": [
+    "Product: Giá trị, trải nghiệm — không chỉ tính năng kỹ thuật.",
+    "Giá xâm nhập: Thấp, chiếm thị phần nhanh.",
+    "Giá hớt váng: Cao, cho sản phẩm độc đáo, mới lạ.",
+    "Chọn chiến lược giá phải quay lại hỏi Targeting đã chọn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 5/12); nhãn nhỏ: 4P — Product & Price",
+   "loi_doc": "Sau khi đã có bộ nhận diện thương hiệu dựa trên định vị, bước tiếp theo là triển khai Marketing hỗn hợp — công cụ kinh điển mang tên 4P. Product — sản phẩm — không chỉ là tính năng kỹ thuật, mà là toàn bộ giá trị và trải nghiệm mang lại cho khách hàng; với một Startup dịch vụ, Product còn bao gồm cả cách phục vụ, không chỉ là 'món hàng' hữu hình khách hàng cầm về. Price — giá — là quyết định ảnh hưởng trực tiếp đến doanh thu, lợi nhuận và khả năng chấp nhận của khách hàng, nên không thể định giá tùy ý. Doanh nghiệp mới thường chọn giữa hai chiến lược: giá xâm nhập — Penetration Pricing, đặt giá thấp để thu hút khách hàng đầu tiên và chiếm thị phần nhanh, phù hợp khi muốn phổ biến sản phẩm rộng; hoặc giá hớt váng — Skimming Pricing, đặt giá cao cho sản phẩm có tính độc đáo, mới lạ, nhắm vào nhóm khách hàng sẵn sàng trả nhiều để sở hữu sớm. Lựa chọn chiến lược giá nào phải quay lại hỏi Targeting đã chọn ở chủ đề trước: nhóm khách hàng mục tiêu đó nhạy cảm với giá đến mức nào, và họ coi trọng điều gì hơn — giá rẻ hay sự độc đáo."
+  },
+  {
+   "video": 2,
+   "so": 20,
+   "tieu_de": "PLACE VÀ PROMOTION: KÊNH PHÂN PHỐI VÀ CHIÊU THỊ",
+   "tren_slide": [
+    "Place: Trực tiếp hoặc qua trung gian/thương mại điện tử.",
+    "Thương mại điện tử rút ngắn khoảng cách với nông sản vùng sâu.",
+    "Promotion: Quảng cáo, PR, khuyến mãi kích thích mua sắm.",
+    "Khuyến mãi chỉ là công cụ ngắn hạn, không thay chất lượng."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 6/12); nhãn nhỏ: 4P — Place & Promotion",
+   "loi_doc": "Place — phân phối — quyết định kênh đưa sản phẩm từ nơi sản xuất đến tay người tiêu dùng: có thể trực tiếp, chẳng hạn bán qua trang cá nhân hoặc website riêng, hoặc gián tiếp qua đại lý, cửa hàng, hoặc các nền tảng thương mại điện tử. Với nông sản đặc sản ở vùng sâu, vùng xa, kênh thương mại điện tử giúp rút ngắn đáng kể khoảng cách giữa người sản xuất và người tiêu dùng đô thị. Promotion — chiêu thị — là hoạt động truyền thông để khách hàng biết đến và muốn mua sản phẩm: quảng cáo trên Facebook hay TikTok, quan hệ công chúng, và các chương trình khuyến mãi kích thích nhu cầu mua sắm tức thì. Cần phân biệt rõ: khuyến mãi giảm giá không thể thay thế cho chất lượng sản phẩm, nó chỉ nên là công cụ kích thích ngắn hạn, chứ không phải chiến lược dài hạn để giữ khách."
+  },
+  {
+   "video": 2,
+   "so": 21,
+   "tieu_de": "CHỌN ĐÚNG KÊNH SỐ CHO ĐÚNG ĐỐI TƯỢNG",
+   "tren_slide": [
+    "TikTok phù hợp sản phẩm trẻ trung; Facebook hội nhóm cần lòng tin.",
+    "Chọn sai kênh: Nội dung hay vẫn khó tiếp cận đúng khách hàng.",
+    "Ví dụ chị Hoa: Hội nhóm Facebook ăn sạch phù hợp hơn TikTok đại trà."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 7/12); nhãn nhỏ: Chọn đúng kênh số",
+   "loi_doc": "Một lưu ý quan trọng khi triển khai Promotion trong thời đại số: chọn đúng kênh cho đúng đối tượng khách hàng đã Targeting còn quan trọng hơn việc có mặt trên càng nhiều kênh càng tốt. TikTok phù hợp với sản phẩm trẻ trung, nơi nội dung video ngắn dễ lan tỏa; các hội nhóm Facebook phù hợp hơn với sản phẩm cần xây dựng lòng tin cộng đồng, nơi khách hàng đọc kỹ bình luận và trải nghiệm của người mua trước. Chọn sai kênh — ví dụ một sản phẩm cần xây dựng lòng tin cộng đồng lại chỉ chạy TikTok ngắn hạn mà không có nơi nào để khách hàng đọc phản hồi thật — thì dù nội dung hay đến đâu cũng khó tiếp cận đúng khách hàng mục tiêu. Với chị Hoa, nếu Targeting là nhân viên văn phòng quan tâm thực phẩm sạch, kênh phù hợp hơn có thể là các hội nhóm Facebook về ăn sạch, nơi mọi người hay chia sẻ và hỏi nhau về nguồn gốc thực phẩm, thay vì chạy quảng cáo đại trà không đúng đối tượng."
+  },
+  {
+   "video": 2,
+   "so": 22,
+   "tieu_de": "4P ĐẦY ĐỦ CHO SẢN PHẨM KHOAI LANG CHỊ HOA",
+   "tren_slide": [
+    "Product: Bánh khoai đóng gói nhỏ, tiện mang theo.",
+    "Price: Giá xâm nhập, mức vừa phải khi thương hiệu còn mới.",
+    "Place: Trang cá nhân, hội nhóm Facebook ăn sạch.",
+    "Promotion: Câu chuyện trồng/chế biến thủ công, không cần ngân sách lớn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 8/12); nhãn nhỏ: Áp dụng 4P — chị Hoa",
+   "loi_doc": "Để thấy rõ 4P vận hành cùng nhau, hãy áp dụng đầy đủ cho ví dụ chị Hoa, tiếp nối STP đã xác định ở chủ đề trước. Product: bánh khoai lang chế biến, đóng gói nhỏ gọn, tiện mang theo làm món ăn vặt văn phòng. Price: áp dụng giá xâm nhập, đặt mức giá vừa phải để thu hút nhóm khách hàng đầu tiên, chưa đặt giá cao ngay khi thương hiệu còn mới. Place: bán qua trang cá nhân và các hội nhóm mua sắm, ăn sạch trên Facebook, chưa cần mở cửa hàng vật lý tốn chi phí thuê mặt bằng. Promotion: tận dụng việc chia sẻ câu chuyện trồng khoai, quy trình chế biến thủ công để tạo nội dung tự nhiên, được chia sẻ mà không cần ngân sách quảng cáo lớn — đúng với tinh thần Marketing 0 đồng đã nói ở trên. Toàn bộ mô tả này tiếp tục là minh họa dựng ra để giảng dạy, giúp các em hình dung cách bốn chữ P gắn kết với nhau trong một trường hợp cụ thể, không phải dữ liệu kinh doanh thật của chị Hoa."
+  },
+  {
+   "video": 2,
+   "so": 23,
+   "tieu_de": "7P CHO DỊCH VỤ: PEOPLE, PROCESS, PHYSICAL EVIDENCE",
+   "tren_slide": [
+    "Thêm 3P vào 4P: People, Process, Physical Evidence.",
+    "People: Con người trực tiếp phục vụ, hướng dẫn.",
+    "Process: Quy trình cung cấp dịch vụ mạch lạc hay lộn xộn.",
+    "Physical Evidence: Không gian, vật dụng khách thấy và chạm được.",
+    "Phù hợp dịch vụ như du lịch cộng đồng dân tộc thiểu số."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 9/12); nhãn nhỏ: Mở rộng 7P",
+   "loi_doc": "Ngoài 4P cơ bản áp dụng cho sản phẩm hữu hình, lĩnh vực dịch vụ thường cần mở rộng thêm thành Marketing Mix 7P, bổ sung ba chữ P: People — con người trực tiếp phục vụ khách hàng, Process — quy trình cung cấp dịch vụ diễn ra như thế nào, và Physical Evidence — bằng chứng vật lý, tức những gì khách hàng nhìn thấy và chạm vào được để cảm nhận chất lượng của một dịch vụ vốn vô hình. 7P đặc biệt phù hợp với dịch vụ như du lịch cộng đồng của người dân tộc thiểu số: trải nghiệm phụ thuộc vào người hướng dẫn có nhiệt tình, hiểu văn hóa địa phương hay không (People), chương trình tham quan mạch lạc hay lộn xộn (Process), và không gian, homestay có phản ánh đúng văn hóa bản địa hay không (Physical Evidence) — chứ không chỉ một 'sản phẩm' hữu hình như 4P truyền thống. Khi làm bài tập, các em nên tự hỏi dự án của mình là sản phẩm hữu hình hay dịch vụ, để biết nên dừng ở 4P hay cần phân tích cả 7P."
+  },
+  {
+   "video": 2,
+   "so": 24,
+   "tieu_de": "ĐẠO ĐỨC MARKETING VÀ TRÁNH GREENWASHING",
+   "tren_slide": [
+    "Quảng cáo trung thực, tôn trọng khách hàng, không phóng đại.",
+    "Greenwashing: Định vị xanh giả, không có hành động thực.",
+    "Bị phát hiện: Thiệt hại uy tín lớn hơn lợi ích ngắn hạn.",
+    "Mọi hoạt động 4P/7P phải phản ánh đúng giá trị đã định vị."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 10/12); nhãn nhỏ: Đạo đức & Greenwashing",
+   "loi_doc": "Dù triển khai 4P hay 7P, Marketing luôn phải đi cùng đạo đức kinh doanh — nguyên tắc chúng ta đã nhắc đi nhắc lại xuyên suốt cả năm chương của học phần: quảng cáo trung thực về tính năng sản phẩm, tôn trọng người tiêu dùng, không phóng đại công dụng chỉ để bán được hàng. Một ví dụ cụ thể cần cảnh giác là 'greenwashing' — quảng cáo xanh giả tạo: một doanh nghiệp tự định vị là 'thân thiện môi trường' qua bao bì tái chế hay quy trình sản xuất xanh, nhưng trên thực tế lại không có hành động thực chất nào đi kèm. Khách hàng ngày càng tinh ý trong việc phát hiện greenwashing, và một khi bị phát hiện, thiệt hại cho uy tín thương hiệu thường lớn hơn nhiều so với lợi ích ngắn hạn thu được từ việc 'tô vẽ' hình ảnh xanh. Nguyên tắc chung rất đơn giản: nếu đã định vị mình theo một giá trị nào — xanh, sạch, truyền thống, nhân văn — thì mọi hoạt động trong 4P hay 7P phải thực sự phản ánh đúng giá trị đó, chứ không chỉ là một câu slogan trên bao bì."
+  },
+  {
+   "video": 2,
+   "so": 25,
+   "tieu_de": "GIỮ KHÁCH HÀNG: BRAND LOYALTY, FEEDBACK, DIGITAL MARKETING",
+   "tren_slide": [
+    "Brand Loyalty: Giữ khách ổn định, giảm chi phí tìm khách mới.",
+    "Feedback là dữ liệu quý để điều chỉnh, không phải điều cần né.",
+    "Digital Marketing: Tương tác hai chiều, cá nhân hóa, đo bằng dữ liệu.",
+    "IMC: Phối hợp nhiều kênh để thông điệp nhất quán mọi nơi."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 11/12); nhãn nhỏ: Brand Loyalty & Digital Marketing",
+   "loi_doc": "Sau khi bán được hàng lần đầu, công việc Marketing chưa dừng lại. Xây dựng 'Brand Loyalty' — lòng trung thành với thương hiệu — giúp doanh nghiệp duy trì lượng khách hàng ổn định và giảm chi phí tìm khách hàng mới, vì giữ một khách hàng cũ luôn rẻ hơn tìm một khách hàng mới. Muốn vậy, doanh nghiệp phải luôn lắng nghe phản hồi khách hàng — Feedback — coi đó là nguồn dữ liệu quý để điều chỉnh sản phẩm và chiến lược tiếp cận, không phải điều cần né tránh hay xem là lời chê trách. Trong bối cảnh kinh tế số, Marketing khởi nghiệp cần chuyển dịch từ quảng cáo truyền thống một chiều sang Digital Marketing — tương tác hai chiều, cá nhân hóa thông điệp theo từng nhóm khách hàng, đo lường hiệu quả bằng dữ liệu thực tế thay vì cảm tính; việc nhiều phụ nữ khởi nghiệp địa phương dùng livestream để bán hàng là một ví dụ tiêu biểu, vừa tiết kiệm chi phí mặt bằng, vừa tạo được sự gần gũi, tin tưởng trực tiếp với khách hàng. Cuối cùng, 'Kênh chiêu thị hỗn hợp' — Integrated Marketing Communication — nghĩa là phối hợp đồng bộ nhiều kênh truyền thông khác nhau, để thông điệp thương hiệu nhất quán dù khách hàng gặp doanh nghiệp ở bất kỳ đâu, từ Facebook, TikTok, đến một buổi chợ phiên địa phương."
+  },
+  {
+   "video": 2,
+   "so": 26,
+   "tieu_de": "TỔNG KẾT: MARKETING LÀ MẮT XÍCH CUỐI CÙNG",
+   "tren_slide": [
+    "Nhận diện + Brand Story chân thực → 4P/7P có đạo đức → giữ khách.",
+    "Ch1 ý tưởng → Ch2 cơ hội → Ch3 vốn/tài chính → Ch4 mô hình → Ch5 Marketing.",
+    "Marketing đưa mọi nỗ lực trước đó đến tay khách hàng thật.",
+    "Làm bài tập tự đánh giá; chúc các em thành công với dự án khởi nghiệp."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 5.2 (mục 12/12); nhãn nhỏ: Tổng kết chủ đề & toàn học phần",
+   "loi_doc": "Tóm lại, chủ đề này chúng ta đã đi từ việc xây dựng bộ nhận diện và câu chuyện thương hiệu chân thực, đến triển khai 4P — hoặc 7P với dịch vụ — luôn đi kèm đạo đức kinh doanh, và cuối cùng là giữ chân khách hàng qua Brand Loyalty cùng Marketing số. Một dự án có ý tưởng hay, vốn đủ, mô hình đúng, nhưng Marketing yếu, thì khách hàng vẫn không biết đến sự tồn tại của nó. Các em hãy làm bài tập tự đánh giá cuối chủ đề này để chắc chắn đã nắm được cách bộ nhận diện thương hiệu, 4P và 7P gắn liền với STP đã học ở chủ đề trước."
+  },
+  {
+   "video": 2,
+   "so": 27,
+   "tieu_de": "CÂU HỎI ÔN TẬP CHƯƠNG 5",
+   "tren_slide": [
+    "1. Vì sao phải làm STP trước khi thiết kế logo hay định giá sản phẩm?",
+    "2. Ngoài độ tuổi và thu nhập, chân dung khách hàng cần làm rõ thêm điều gì?",
+    "3. USP là gì, và vì sao doanh nghiệp mới nên chọn thị trường ngách?",
+    "4. Khi nào nên dùng giá xâm nhập, khi nào nên dùng giá hớt váng?",
+    "5. Greenwashing là gì, và vì sao định vị gian dối gây hại cho thương hiệu?"
+   ],
+   "goi_y_hinh": "Năm câu đánh số",
+   "loi_doc": "Bây giờ các em hãy dừng video và tự trả lời năm câu hỏi ôn tập trên màn hình. Đừng chỉ nhớ định nghĩa — với mỗi câu, hãy thử lấy một ví dụ từ chính ý tưởng kinh doanh của mình. Trả lời xong, chúng ta cùng sang tình huống minh họa."
+  },
+  {
+   "video": 2,
+   "so": 28,
+   "tieu_de": "TÌNH HUỐNG MINH HỌA",
+   "tren_slide": [
+    "Bối cảnh: Ví dụ minh họa, không phải dữ liệu thật: dự án gốm đỏ Vĩnh Long định vị 'nung truyền thống, thiết kế hiện đại' cho người trẻ đô thị.",
+    "Vấn đề: Đơn hàng chậm. Nhóm muốn giảm giá sâu, khuyến mãi liên tục, quảng cáo đại trà mọi kênh, ghi 'nung lò truyền thống' cả cho hàng nung lò điện.",
+    "Câu hỏi 1: Các quyết định này có khớp với định vị và khách hàng mục tiêu đã chọn không? Vì sao?",
+    "Câu hỏi 2: Đề xuất lại 4P để vừa bán được hàng, vừa trung thực về cách nung và câu chuyện làng nghề."
+   ],
+   "goi_y_hinh": "Bốn thẻ; ghi rõ \"ví dụ dựng ra để giảng dạy, không phải số liệu thật\"",
+   "loi_doc": "Tình huống sau là ví dụ minh họa để giảng dạy, không phải dữ liệu thật: dự án gốm đỏ Vĩnh Long định vị là giữ kỹ thuật nung truyền thống, khoác thiết kế hiện đại cho người trẻ đô thị. Khi đơn hàng chậm, nhóm muốn giảm giá thật sâu, khuyến mãi liên tục, quảng cáo đại trà trên mọi kênh, và ghi 'nung lò truyền thống' cho cả hàng nung lò điện. Các em hãy trả lời: những quyết định này có khớp với định vị và khách hàng mục tiêu không; và em sẽ đề xuất lại 4P thế nào để vừa bán được hàng, vừa trung thực."
+  },
+  {
+   "video": 2,
+   "so": 29,
+   "tieu_de": "TỔNG KẾT CHƯƠNG 5",
+   "tren_slide": [
+    "STP đi trước mọi hoạt động: Phân khúc, chọn khách hàng mục tiêu, rồi mới định vị bằng USP trong một thị trường ngách vừa sức doanh nghiệp.",
+    "Thương hiệu là sự nhất quán: Logo, slogan, màu sắc và câu chuyện thương hiệu thật cùng truyền tải một giá trị đã định vị.",
+    "4P, 7P phải trung thực: Sản phẩm, giá, kênh, chiêu thị phản ánh đúng định vị; tránh greenwashing và quảng cáo phóng đại.",
+    "Việc cần làm: Làm bài tập tự đánh giá hai chủ đề, bài ôn tập tự luận, và đưa STP cùng 4P vào kế hoạch kinh doanh của bài thu hoạch."
+   ],
+   "goi_y_hinh": "Bốn thẻ",
+   "loi_doc": "Tổng kết Chương năm, các em nhớ ba điều. Một, STP luôn đi trước. Hai, thương hiệu là sự nhất quán giữa logo, slogan, màu sắc và một câu chuyện thật. Ba, 4P hay 7P phải phản ánh đúng định vị và luôn trung thực. Việc cần làm: bài tập tự đánh giá hai chủ đề, bài ôn tập tự luận, và đưa STP cùng 4P vào bài thu hoạch."
+  },
+  {
+   "video": 2,
+   "so": 30,
+   "tieu_de": "TÀI LIỆU HỌC TẬP",
+   "tren_slide": [
+    "Giáo trình chính: [1] Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga (2024), Giáo trình khởi sự kinh doanh (tái bản lần thứ hai), NXB Đại học Kinh tế Quốc dân.",
+    "Tài liệu tham khảo: [3] Trường Đại học Bách khoa Hà Nội (2023), Tài liệu tư vấn: Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số."
+   ],
+   "goi_y_hinh": "Hai khối: giáo trình chính | tài liệu tham khảo",
+   "loi_doc": "Các em đọc thêm các nội dung về Marketing trong giáo trình chính: Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga, tái bản lần thứ hai, và tài liệu tư vấn Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số của Trường Đại học Bách Khoa Hà Nội."
+  },
+  {
+   "video": 2,
+   "so": 31,
+   "tieu_de": "KẾT THÚC CHƯƠNG",
+   "tren_slide": [
+    "CẢM ƠN CÁC EM ĐÃ THEO DÕI",
+    "HỌC LIỆU SỐ · KHỞI SỰ DOANH NGHIỆP",
+    "Khoa Kinh doanh và Luật – Trường Đại học Công nghệ Kỹ thuật Vĩnh Long",
+    "fel@vlute.edu.vn · https://vlute.edu.vn"
+   ],
+   "goi_y_hinh": "Nền xanh đậm như trang bìa",
+   "loi_doc": "Vậy là chúng ta đã đi hết năm chương: từ ý tưởng, cơ hội, vốn, mô hình, đến Marketing đưa sản phẩm tới khách hàng. Cô cảm ơn các em đã đồng hành cùng học phần Khởi sự doanh nghiệp. Chúc các em làm tốt bài thu hoạch, và chúc dự án khởi nghiệp của các em, dù còn trên giấy hay đã triển khai, thật nhiều thành công!"
+  }
+ ]
+}

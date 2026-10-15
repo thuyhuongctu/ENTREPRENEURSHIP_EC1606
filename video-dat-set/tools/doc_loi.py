@@ -43,12 +43,21 @@ SO_LAN = 3
 DOC_LA = {
     'EC1606': 'E C một sáu không sáu',
     'MVP': 'em vi pi',
+    '4P': 'bốn pê',
+    '7P': 'bảy pê',
+    'STP': 'ét ti pi',
+    'USP': 'iu ét pi',
+    'D2C': 'đi tu xi',
+    'VC': 'vi xi',
+    'OCOP': 'ô cốp',
+    'SUM': 'xăm',
 }
 
 
 def chuan_hoa(van):
+    # theo ranh giới từ: thay chuỗi thô thì "VC" ăn cả vào giữa chữ khác
     for k, v in DOC_LA.items():
-        van = van.replace(k, v)
+        van = re.sub(r'(?<![\w])' + re.escape(k) + r'(?![\w])', v, van)
     return van
 
 
