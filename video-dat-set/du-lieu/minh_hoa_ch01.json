@@ -1,0 +1,609 @@
+{
+ "chuong": 1,
+ "ghi_chu": "Hình minh họa 3D đất sét từng slide (khóa = số slide). Biểu tượng: xem BIEU_TUONG trong remotion/src/minh-hoa/BieuTuong.tsx. theo_the = mục i hiện cùng thẻ chữ i; false = các mục hiện lần lượt ngay đầu slide.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Khởi nghiệp"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Kiểm chứng ý tưởng"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Kế hoạch kinh doanh"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Thế mạnh địa phương"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "1.1 · Ý tưởng & kế hoạch"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "1.2 · Phụ nữ, DTTS, hệ sinh thái"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ôn tập · Tổng kết"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Khởi nghiệp & ý tưởng"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Kế hoạch kinh doanh"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Start-up"
+    },
+    {
+     "bt": "xuc_xac",
+     "nhan": "Dám nhận rủi ro"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Chọn hướng đi"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Chuẩn bị nguồn lực"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "hang",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Sản phẩm, công nghệ"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Quy trình"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Marketing"
+    },
+    {
+     "bt": "mo_hinh",
+     "nhan": "Mô hình kinh doanh"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "vong",
+   "theo_the": false,
+   "giua": "MVP",
+   "muc": [
+    {
+     "bt": "hop_banh",
+     "nhan": "Làm nhỏ"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Bán thử, đo phản ứng"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Học & sửa ngay"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Nhu cầu thật"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Khách chịu trả tiền"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Vừa sức mình"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Hiểu đối thủ"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Khoai lang thô"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Bị ép giá"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Bánh, mứt khoai"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "Bán qua mạng"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do",
+     "nhan": "Xu hướng tìm kiếm"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Hỏi khách hàng"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "MVP · bán thử"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Mẻ nhỏ của chị Hoa"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "Bản lộ trình"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Giảm rủi ro"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Căn cứ gọi vốn"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tóm tắt dự án"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Sản phẩm"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Thị trường"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Tài chính"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dau_hoi",
+     "nhan": "Bán gì, cho ai, vì sao"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Linh hoạt điều chỉnh"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Sở hữu trí tuệ"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Đổi mới & rủi ro"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Kiểm chứng bằng dữ liệu"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Bản lộ trình"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "1.1 · Đã học"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "1.2 · Đang học"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Ôn tập"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Sang Chương 2"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Phụ nữ & DTTS"
+    },
+    {
+     "bt": "la",
+     "nhan": "Xanh, xã hội, hệ sinh thái"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Thế mạnh địa phương"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Khoai lang Bình Tân"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Gốm đỏ"
+    },
+    {
+     "bt": "cay",
+     "nhan": "Du lịch miệt vườn"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "can",
+     "nhan": "Cân bằng việc & nhà"
+    },
+    {
+     "bt": "cay",
+     "nhan": "Thích nghi"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Thế mạnh bù vốn"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Chính sách hỗ trợ"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "la",
+     "nhan": "Bảo vệ môi trường"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Bao bì phân hủy"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Khách thành thị"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Lợi thế cạnh tranh"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "trai_tim",
+     "nhan": "Vấn đề cộng đồng"
+    },
+    {
+     "bt": "can",
+     "nhan": "Lợi nhuận + xã hội"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Thu nhập phụ nữ"
+    },
+    {
+     "bt": "la",
+     "nhan": "Bản sắc + xanh"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Gốm đỏ lâu đời"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Mẫu mã cũ"
+    },
+    {
+     "bt": "la",
+     "nhan": "Mẫu mới, bao bì xanh"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Việc làm thợ gốm"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Rủi ro tài chính"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Rủi ro thị trường"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Rủi ro đội ngũ"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Học từ thất bại"
+    }
+   ]
+  },
+  "23": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "can",
+     "nhan": "Lợi nhuận, con người, môi trường"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Trung thực với khách"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Trung thực với mình"
+    }
+   ]
+  },
+  "24": {
+   "kieu": "trung_tam",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Người khởi nghiệp"
+    },
+    {
+     "bt": "mu_tot_nghiep",
+     "nhan": "Trường đại học"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Quỹ hỗ trợ"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Hội phụ nữ"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Chương trình địa phương"
+    }
+   ]
+  },
+  "25": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Mạng xã hội"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Thương mại điện tử"
+    },
+    {
+     "bt": "but",
+     "nhan": "Thiết kế trực tuyến"
+    },
+    {
+     "bt": "dam_may",
+     "nhan": "Công cụ đám mây"
+    }
+   ]
+  },
+  "26": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Bản sắc địa phương"
+    },
+    {
+     "bt": "la",
+     "nhan": "Xanh & xã hội"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Hệ sinh thái, công cụ số"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "27": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Câu 1"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Câu 2"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Câu 3"
+    },
+    {
+     "bt": "la",
+     "nhan": "Câu 4"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Câu 5"
+    }
+   ]
+  },
+  "28": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Bán thử: tích cực"
+    },
+    {
+     "bt": "xuc_xac",
+     "nhan": "Muốn vay ngay"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Kiểm chứng gì?"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Rủi ro & hỗ trợ"
+    }
+   ]
+  },
+  "29": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Đổi mới có kiểm chứng"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Bản lộ trình"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Thế mạnh, hệ sinh thái"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Việc cần làm"
+    }
+   ]
+  },
+  "30": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Giáo trình chính"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tài liệu tham khảo"
+    }
+   ]
+  }
+ }
+}

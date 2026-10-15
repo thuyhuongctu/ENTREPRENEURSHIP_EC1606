@@ -1,0 +1,27 @@
+{
+  "name": "ec1606-video-dat-set",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Video bài giảng EC1606 phong cách 3D đất sét, có Hương AI dẫn bài và giọng đọc tổng hợp.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "nen": "remotion still src/index.ts",
+    "dung": "remotion render src/index.ts"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.518",
+    "@remotion/three": "4.0.518",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.518",
+    "three": "0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/three": "0.169.0",
+    "typescript": "~5.8.2"
+  }
+}

@@ -1,0 +1,398 @@
+{
+ "chuong": 1,
+ "slides": [
+  {
+   "video": 1,
+   "so": 1,
+   "tieu_de": "TRANG BÌA",
+   "tren_slide": [
+    "CHƯƠNG 1: TỔNG QUAN VỀ KHỞI SỰ DOANH NGHIỆP",
+    "Học phần: Khởi sự doanh nghiệp (EC1606)",
+    "Khoa: Kinh doanh và Luật",
+    "Trường Đại học Công nghệ Kỹ thuật Vĩnh Long"
+   ],
+   "goi_y_hinh": "Hương AI đứng giảng (assets/huong-ai/HUONG_AI_GIANG_BAI.jpg) + chú thích \"nhân vật minh họa do AI tạo\"",
+   "loi_doc": "Cô xin chào các em. Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em đến với học phần Khởi sự doanh nghiệp, mã học phần EC1606. Hôm nay chúng ta bắt đầu với Chương một — Tổng quan về khởi sự doanh nghiệp. Trước khi bàn đến vốn, mô hình hay marketing, các em cần hiểu khởi nghiệp là gì, một ý tưởng tốt ra đời và được kiểm chứng như thế nào, và ai có thể đồng hành cùng mình trên con đường đó."
+  },
+  {
+   "video": 1,
+   "so": 2,
+   "tieu_de": "MỤC TIÊU CHƯƠNG 1",
+   "tren_slide": [
+    "Hiểu được khởi nghiệp khác kinh doanh thông thường",
+    "Kiểm chứng được ý tưởng theo Lean Start-up",
+    "Nêu được bốn phần của kế hoạch kinh doanh",
+    "Khai thác được thế mạnh và hệ sinh thái"
+   ],
+   "goi_y_hinh": "Hương AI đứng toàn thân (assets/huong-ai/HUONG_AI_DUNG.jpg) + chú thích; dấu tick trước mỗi mục tiêu",
+   "loi_doc": "Đây là bốn mục tiêu của chương. Học xong Chương một, các em cần hiểu được khởi nghiệp khác một hoạt động kinh doanh chỉ sao chép mô hình có sẵn ở đâu; kiểm chứng được một ý tưởng theo tinh thần khởi nghiệp tinh gọn; nêu được bốn phần cơ bản của một bản kế hoạch kinh doanh; và khai thác được thế mạnh địa phương cùng hệ sinh thái khởi nghiệp xung quanh mình."
+  },
+  {
+   "video": 1,
+   "so": 3,
+   "tieu_de": "NỘI DUNG CHƯƠNG 1",
+   "tren_slide": [
+    "1. 1.1. Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh",
+    "2. 1.2. Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp",
+    "3. Ôn tập – Tình huống – Tổng kết chương"
+   ],
+   "goi_y_hinh": "Danh sách đánh số 1-2-3",
+   "loi_doc": "Chương một gồm hai chủ đề. Chủ đề thứ nhất: Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh. Chủ đề thứ hai: Khởi nghiệp cho phụ nữ, người dân tộc thiểu số và hệ sinh thái khởi nghiệp. Cuối chương có câu hỏi ôn tập, một tình huống minh họa và phần tổng kết. Bây giờ chúng ta bắt đầu với chủ đề thứ nhất."
+  },
+  {
+   "video": 1,
+   "so": 4,
+   "tieu_de": "1.1. KHÁI NIỆM KHỞI NGHIỆP, Ý TƯỞNG VÀ KẾ HOẠCH KINH DOANH",
+   "tren_slide": [
+    "Khởi nghiệp là gì, đổi mới sáng tạo đến từ đâu, tiêu chí ý tưởng tốt.",
+    "Cách kiểm chứng ý tưởng và vai trò, nội dung của kế hoạch kinh doanh."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 1/11); nhãn nhỏ: —",
+   "loi_doc": "Chủ đề thứ nhất của chương có tên: Khái niệm khởi nghiệp, ý tưởng và kế hoạch kinh doanh. Trong chủ đề này, các em sẽ nắm được khởi nghiệp là gì, đổi mới sáng tạo đến từ đâu, một ý tưởng kinh doanh tốt cần những tiêu chí nào, cách kiểm chứng ý tưởng trước khi bỏ công bỏ vốn, và vì sao mọi dự án khởi nghiệp — dù lớn hay nhỏ — đều cần một bản kế hoạch kinh doanh."
+  },
+  {
+   "video": 1,
+   "so": 5,
+   "tieu_de": "KHỞI NGHIỆP LÀ GÌ",
+   "tren_slide": [
+    "Start-up: Bắt đầu doanh nghiệp từ ý tưởng mới, tiềm năng tăng trưởng nhanh.",
+    "Khác kinh doanh thông thường: Dám chấp nhận rủi ro, khát vọng giá trị đột phá.",
+    "Không chỉ lặp lại mô hình có sẵn — cần xác định mình theo hướng nào.",
+    "Từ đó chuẩn bị nguồn lực, kỹ năng, tâm lý cho phù hợp."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 2/11); nhãn nhỏ: 1.1 — Khái niệm khởi nghiệp",
+   "loi_doc": "Trước hết, chúng ta cần phân biệt rõ hai khái niệm hay bị nhầm lẫn: kinh doanh thông thường và khởi nghiệp — Start-up. Kinh doanh thông thường thường lặp lại một mô hình đã có sẵn, ví dụ mở thêm một quán cà phê theo đúng công thức một quán đã thành công ở nơi khác. Khởi nghiệp, theo đúng nghĩa được dùng trong học phần này, là quá trình bắt đầu một doanh nghiệp dựa trên một ý tưởng mới, có tiềm năng tăng trưởng nhanh và quy mô lớn. Sự khác biệt lớn nhất giữa một nhà khởi nghiệp và một người làm kinh doanh thông thường không nằm ở số vốn ban đầu, mà nằm ở tinh thần dám chấp nhận rủi ro và khát vọng tạo ra giá trị đột phá, thay vì chỉ sao chép một khuôn mẫu quen thuộc. Việc phân tích rõ sự khác biệt này ngay từ đầu rất quan trọng, vì nó giúp các em xác định đúng mình đang đi theo hướng nào — và từ đó chuẩn bị nguồn lực, kỹ năng, tâm lý cho phù hợp. Một người mở quán ăn theo công thức gia truyền không sai, nhưng đó là kinh doanh, không hẳn là khởi nghiệp theo nghĩa chúng ta học ở đây."
+  },
+  {
+   "video": 1,
+   "so": 6,
+   "tieu_de": "BỐN HƯỚNG ĐỔI MỚI SÁNG TẠO",
+   "tren_slide": [
+    "Đổi mới: Sản phẩm/công nghệ, quy trình, Marketing, mô hình kinh doanh.",
+    "'Sáng tạo' là nghĩ ra ý tưởng mới; 'đổi mới' biến ý tưởng thành giá trị thực.",
+    "Khởi nghiệp đổi mới sáng tạo tăng trưởng nhanh hơn kinh doanh thông thường.",
+    "Ví dụ: Ứng dụng gọi xe — đổi mới ở mô hình kết nối, không ở phương tiện."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 3/11); nhãn nhỏ: 1.2 — Đổi mới sáng tạo",
+   "loi_doc": "Vậy điều gì làm nên 'cái mới' trong một dự án khởi nghiệp? Đổi mới sáng tạo — Innovation — trong khởi nghiệp có thể đến từ bốn hướng: đổi mới sản phẩm và công nghệ, đổi mới quy trình sản xuất, đổi mới trong Marketing, và đổi mới cả mô hình kinh doanh. Các em cần phân biệt hai khái niệm gần nhau nhưng không đồng nhất: 'sáng tạo' là việc nghĩ ra một ý tưởng mới, còn 'đổi mới' là việc biến ý tưởng đó thành giá trị thực tế, ứng dụng được, mang lại lợi ích cho người dùng. Có ý tưởng sáng tạo mà không triển khai được thì chưa gọi là đổi mới. Một khởi nghiệp đổi mới sáng tạo thường có tiềm năng tăng trưởng nhanh hơn kinh doanh thông thường, bởi nó giải quyết vấn đề theo cách chưa ai làm, nên một khi mô hình đã được kiểm chứng, nó có thể mở rộng quy mô rất nhanh — ứng dụng gọi xe công nghệ là một ví dụ điển hình: không đổi mới ở phương tiện, mà đổi mới ở mô hình kết nối và vận hành."
+  },
+  {
+   "video": 1,
+   "so": 7,
+   "tieu_de": "LEAN START-UP VÀ MVP",
+   "tren_slide": [
+    "Lean Start-up: Thử nghiệm nhanh, chi phí thấp, sai thì sửa ngay.",
+    "MVP: Sản phẩm khả dụng tối thiểu: đủ để khách hàng thật trải nghiệm.",
+    "Ví dụ: Nhóm Zalo nhận đơn thủ công trước khi viết ứng dụng hoàn chỉnh.",
+    "Tiết kiệm thời gian, tiền bạc: Đặc biệt quan trọng với người ít vốn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 4/11); nhãn nhỏ: 1.2 — Khởi nghiệp tinh gọn",
+   "loi_doc": "Từ đây dẫn tới một khái niệm then chốt của khởi nghiệp hiện đại: 'khởi nghiệp tinh gọn' — Lean Start-up. Tư tưởng cốt lõi của Lean Start-up là: đừng đầu tư lớn ngay từ đầu rồi mới biết thị trường có chấp nhận hay không, mà hãy thử nghiệm nhanh với chi phí thấp nhất có thể, thu thập phản hồi thật từ khách hàng, sai thì sửa ngay, rồi mới quyết định mở rộng. Công cụ thường dùng là MVP — sản phẩm khả dụng tối thiểu: một phiên bản đơn giản nhất của sản phẩm, đủ để khách hàng thật trải nghiệm và cho phản hồi, chứ chưa cần hoàn thiện mọi chi tiết. Ví dụ, một nhóm sinh viên muốn làm ứng dụng đặt đồ ăn cho khu vực quanh trường, không cần viết phần mềm hoàn chỉnh ngay, mà có thể bắt đầu bằng một nhóm Zalo nhận đơn thủ công trong hai tuần, để kiểm tra xem nhu cầu thật có đủ lớn không, trước khi bỏ công viết ứng dụng. Cách làm này giúp tiết kiệm đáng kể thời gian và tiền bạc cho người khởi nghiệp, đặc biệt là người có ít vốn."
+  },
+  {
+   "video": 1,
+   "so": 8,
+   "tieu_de": "TIÊU CHÍ MỘT Ý TƯỞNG KINH DOANH TỐT",
+   "tren_slide": [
+    "Bắt nguồn từ nhu cầu chưa đáp ứng, không chỉ sở thích cá nhân.",
+    "Khả thi thực tế; có khách hàng sẵn sàng chi trả; lợi ích thực tế.",
+    "Ưu tiên ý tưởng phù hợp năng lực, hơn ý tưởng 'hoành tráng' quá sức.",
+    "Tìm hiểu đối thủ và xác định thị trường mục tiêu ngay từ đầu."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 5/11); nhãn nhỏ: 1.1 — Tiêu chí ý tưởng tốt",
+   "loi_doc": "Vậy một ý tưởng kinh doanh tốt cần đáp ứng tiêu chí gì? Trước hết, ý tưởng đó nên bắt nguồn từ việc quan sát và giải quyết một nhu cầu chưa được đáp ứng của thị trường, chứ không chỉ xuất phát từ sở thích cá nhân, và cũng không phải sao chép y nguyên mô hình của đối thủ. Thứ hai, ý tưởng cần có tính khả thi thực tế — nghĩa là có đủ nguồn lực, kỹ năng hoặc khả năng học thêm để thực hiện. Thứ ba, phải có khách hàng sẵn sàng chi trả cho giải pháp đó, không chỉ là 'nghe hay' trên lý thuyết. Và thứ tư, ý tưởng phải mang lại lợi ích thực tế, giải quyết được một vấn đề cụ thể, không mơ hồ. Một lưu ý quan trọng khi chọn giữa nhiều ý tưởng: nên ưu tiên ý tưởng phù hợp với năng lực thực tế của bản thân và nhóm, hơn là một ý tưởng nghe 'hoành tráng' nhưng vượt quá khả năng thực hiện ở giai đoạn đầu. Ngay từ bước này, các em cũng nên tìm hiểu sơ bộ đối thủ cạnh tranh và xác định một thị trường mục tiêu — tức nhóm khách hàng cụ thể mình muốn phục vụ — để tránh trùng lặp và nhìn ra khoảng trống mình có thể khai thác tốt hơn đối thủ."
+  },
+  {
+   "video": 1,
+   "so": 9,
+   "tieu_de": "CHỊ HOA VÀ KHOẢNG TRỐNG TRONG CHUỖI GIÁ TRỊ",
+   "tren_slide": [
+    "Ví dụ dựng ra để giảng dạy, không phải số liệu hay câu chuyện thật.",
+    "Khoai lang Bình Tân bị thương lái ép giá vì chỉ bán thô.",
+    "Ý tưởng: Chế biến bánh/mứt khoai, bán trực tiếp qua mạng xã hội.",
+    "Kiểm tra 4 tiêu chí: Khả thi, có sẵn nguyên liệu, thị trường quan tâm."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 6/11); nhãn nhỏ: Tình huống",
+   "loi_doc": "Để các tiêu chí này đỡ trừu tượng, chúng ta cùng theo một tình huống minh họa sẽ xuất hiện xuyên suốt học phần: chị Hoa, một phụ nữ trồng khoai lang ở Bình Tân, Vĩnh Long. Đây là ví dụ dựng ra để giảng dạy, không phải một câu chuyện có thật, nhưng phản ánh đúng những gì nhiều hộ nông dân gặp phải. Chị Hoa nhận thấy khoai lang sau thu hoạch thường bị thương lái ép giá, vì chị chỉ bán thô, không qua chế biến. Đây chính là bước 'quan sát nhu cầu chưa được đáp ứng' chúng ta vừa nói — không phải nhu cầu của người mua, mà là một khoảng trống nằm ngay trong chuỗi giá trị của chính sản phẩm chị đang có. Từ quan sát đó, chị Hoa nảy ra ý tưởng: chế biến khoai lang thành bánh hoặc mứt đóng gói, bán trực tiếp cho người tiêu dùng ở thành thị qua mạng xã hội, thay vì chỉ bán thô cho thương lái với giá thấp. Áp dụng ngay bốn tiêu chí vừa học: ý tưởng này có khả thi không? Có — chị đã có sẵn nguyên liệu, có thể học thêm kỹ năng chế biến, và thị trường thành thị đang quan tâm thực phẩm sạch, có nguồn gốc rõ ràng."
+  },
+  {
+   "video": 1,
+   "so": 10,
+   "tieu_de": "KIỂM CHỨNG Ý TƯỞNG TRƯỚC KHI ĐẦU TƯ",
+   "tren_slide": [
+    "Dùng công cụ xu hướng (vd Google Trends) kiểm tra nhu cầu diện rộng.",
+    "Khảo sát/phỏng vấn khách hàng tiềm năng về khả năng chi trả.",
+    "Làm MVP, bán thử, xem phản ứng thật trước khi đầu tư lớn.",
+    "Chị Hoa: Bán thử mẻ nhỏ trên Facebook địa phương trước khi mua máy."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 7/11); nhãn nhỏ: Kiểm chứng ý tưởng",
+   "loi_doc": "Nhưng có ý tưởng hay chưa đủ — bước tiếp theo bắt buộc phải làm là kiểm chứng ý tưởng trước khi đầu tư nhiều. Có mấy cách kiểm chứng phổ biến các em nên biết. Một, dùng công cụ tìm kiếm xu hướng — ví dụ Google Trends — để xem nhu cầu mình quan sát được có thực sự tồn tại trên diện rộng, hay chỉ là cảm nhận cá nhân. Hai, khảo sát hoặc phỏng vấn trực tiếp một nhóm khách hàng tiềm năng nhỏ, hỏi thật họ có sẵn sàng trả tiền cho giải pháp này không. Ba, áp dụng đúng tinh thần Lean Start-up: làm một mẻ sản phẩm nhỏ — một MVP — rồi bán thử, xem phản ứng thật trước khi đầu tư máy móc lớn. Quay lại với chị Hoa: thay vì vội vàng vay vốn mua máy sấy công nghiệp, chị nên làm thử một mẻ bánh khoai nhỏ, đăng bán thử trên một nhóm Facebook địa phương, xem có bao nhiêu người thật sự đặt mua và phản hồi của họ ra sao. Đây chính là cách một ý tưởng được kiểm chứng dần bằng dữ liệu thực tế, chứ không phải chỉ dựa vào niềm tin hay cảm tính của người sáng lập."
+  },
+  {
+   "video": 1,
+   "so": 11,
+   "tieu_de": "VAI TRÒ CỦA KẾ HOẠCH KINH DOANH",
+   "tren_slide": [
+    "Kế hoạch kinh doanh là 'bản lộ trình' hiện thực hóa ý tưởng.",
+    "Định hướng cho người khởi nghiệp, giảm thiểu rủi ro khi ít vốn.",
+    "Là căn cứ để gọi vốn từ nhà đầu tư, ngân hàng, quỹ hỗ trợ."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 8/11); nhãn nhỏ: 1.6 — Kế hoạch kinh doanh",
+   "loi_doc": "Khi ý tưởng đã được kiểm chứng ở mức độ nhất định, bước tiếp theo là xây dựng kế hoạch kinh doanh — Business Plan. Đây được xem là 'bản lộ trình' để hiện thực hóa ý tưởng, trả lời chi tiết câu hỏi: mình sẽ làm điều đó như thế nào, và cần những gì để làm. Vai trò quan trọng nhất của kế hoạch kinh doanh có hai mặt. Thứ nhất, nó giúp định hướng cho chính người khởi nghiệp — buộc người lập kế hoạch phải suy nghĩ thấu đáo về sản phẩm, khách hàng, chi phí trước khi bỏ tiền ra làm thật, nhờ vậy giảm thiểu được rủi ro, đặc biệt quan trọng với người khởi nghiệp có ít vốn như chị Hoa. Thứ hai, nó là căn cứ để gọi vốn từ nhà đầu tư, ngân hàng hoặc các quỹ hỗ trợ — không ai bỏ tiền vào một ý tưởng chỉ được trình bày bằng lời nói, họ cần một văn bản có cấu trúc, số liệu và lộ trình rõ ràng để đánh giá."
+  },
+  {
+   "video": 1,
+   "so": 12,
+   "tieu_de": "BỐN PHẦN CẦN CÓ TRONG KẾ HOẠCH KINH DOANH",
+   "tren_slide": [
+    "Tóm tắt dự án: Viết sau cùng, đọc trong vài phút.",
+    "Mô tả sản phẩm/dịch vụ và điểm khác biệt với đối thủ.",
+    "Phân tích thị trường mục tiêu, quy mô, đối thủ cạnh tranh.",
+    "Kế hoạch tài chính: Chi phí, doanh thu dự kiến, điểm hòa vốn.",
+    "Ví dụ minh họa (số liệu dựng ra): vốn 15 triệu, hòa vốn sau 6 tháng."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 9/11); nhãn nhỏ: 1.7 — Nội dung kế hoạch kinh doanh",
+   "loi_doc": "Một bản kế hoạch kinh doanh, dù sơ lược, cần có bốn phần nội dung cơ bản. Một, tóm tắt dự án: tuy đặt ở đầu nhưng thường được viết sau cùng, vì mục đích của nó là cô đọng toàn bộ kế hoạch thành vài đoạn ngắn, giúp người đọc — đặc biệt là nhà đầu tư bận rộn — nắm được ý chính trong vài phút. Hai, mô tả sản phẩm hoặc dịch vụ: sản phẩm là gì, giải quyết vấn đề nào, điểm khác biệt so với đối thủ. Ba, phân tích thị trường: thị trường mục tiêu là ai, quy mô ước tính, đối thủ cạnh tranh, và vì sao khách hàng sẽ chọn mình. Bốn, kế hoạch tài chính: chi phí ban đầu, doanh thu dự kiến, và thời điểm hòa vốn. Lấy ví dụ minh họa dựng ra cho chị Hoa — hoàn toàn là số liệu giả định để giảng dạy, không phải số liệu thật: vốn ban đầu khoảng mười lăm triệu đồng cho máy sấy nhỏ và bao bì, giá bán mỗi hộp bánh khoai sáu mươi nghìn đồng, nếu bán được khoảng một trăm hộp mỗi tháng thì sau sáu tháng có thể thu hồi vốn ban đầu. Những con số như vậy, dù chỉ là giả định, giúp bản kế hoạch trở nên cụ thể và đáng tin hơn rất nhiều so với việc chỉ nói 'sản phẩm này sẽ bán tốt'."
+  },
+  {
+   "video": 1,
+   "so": 13,
+   "tieu_de": "TRẢ LỜI ĐÚNG BA CÂU HỎI CỐT LÕI",
+   "tren_slide": [
+    "Bán gì: Bán cho ai — vì sao khách hàng chọn mình.",
+    "Kế hoạch cần linh hoạt, điều chỉnh khi thị trường thay đổi.",
+    "Quan tâm bảo vệ sở hữu trí tuệ ngay từ giai đoạn lập kế hoạch."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 10/11); nhãn nhỏ: 1.7 — Kế hoạch linh hoạt",
+   "loi_doc": "Một bản kế hoạch kinh doanh tốt cũng cần trả lời rõ ba câu hỏi cốt lõi: mình bán gì, mình bán cho ai, và vì sao khách hàng chọn mình thay vì đối thủ. Đồng thời, kế hoạch cần đủ linh hoạt để điều chỉnh khi thực tế thị trường thay đổi, chứ không phải viết một lần rồi đóng khung mãi mãi — thị trường, hành vi khách hàng và cả đối thủ đều có thể thay đổi nhanh, nhất là trong môi trường chuyển đổi số hiện nay. Ngay từ giai đoạn lập kế hoạch, các em cũng nên quan tâm đến việc bảo vệ sở hữu trí tuệ — ví dụ đăng ký nhãn hiệu, bao bì riêng — để tránh bị sao chép khi dự án bắt đầu có kết quả tốt. Đây là một chi tiết nhỏ nhưng nhiều người khởi nghiệp mới hay bỏ sót, đến khi ý tưởng thành công rồi mới nhận ra đã bị người khác làm theo mà không có cách bảo vệ."
+  },
+  {
+   "video": 1,
+   "so": 14,
+   "tieu_de": "TỔNG KẾT CHỦ ĐỀ 1.1",
+   "tren_slide": [
+    "Khởi nghiệp khác kinh doanh thông thường ở đổi mới và rủi ro có tính toán.",
+    "Ý tưởng tốt cần xuất phát từ nhu cầu thật, được kiểm chứng bằng dữ liệu.",
+    "Kế hoạch kinh doanh là bản lộ trình bắt buộc, để định hướng và gọi vốn.",
+    "Làm bài tập tự đánh giá cuối chủ đề này trước khi sang phần tiếp theo."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 11/11); nhãn nhỏ: —",
+   "loi_doc": "Tổng kết lại chủ đề này, các em cần nhớ ba điều: một, khởi nghiệp khác kinh doanh thông thường ở tinh thần đổi mới sáng tạo và chấp nhận rủi ro có tính toán; hai, một ý tưởng tốt phải xuất phát từ nhu cầu thật và được kiểm chứng bằng dữ liệu, theo tinh thần khởi nghiệp tinh gọn, trước khi đầu tư lớn; ba, kế hoạch kinh doanh là bản lộ trình bắt buộc phải có, vừa để định hướng cho chính mình, vừa để gọi vốn từ người khác. Các em làm bài tập tự đánh giá cuối chủ đề này trước khi sang phần tiếp theo nhé."
+  },
+  {
+   "video": 2,
+   "so": 15,
+   "tieu_de": "CHÚNG TA ĐANG Ở ĐÂU",
+   "tren_slide": [
+    "✓ Đã học — Chủ đề 1.1: Khởi nghiệp và đổi mới sáng tạo, Lean Start-up, tiêu chí và cách kiểm chứng ý tưởng, vai trò và bốn phần của kế hoạch kinh doanh.",
+    "▶ Đang học — Chủ đề 1.2: Khởi nghiệp cho phụ nữ, người dân tộc thiểu số; khởi nghiệp xanh, xã hội; rủi ro, đạo đức kinh doanh; hệ sinh thái và công cụ số.",
+    "○ Sắp học — Ôn tập và tình huống: Năm câu hỏi ôn tập, một tình huống minh họa về chị Hoa, tổng kết chương và tài liệu học tập.",
+    "Mạch nối với chương sau: Chương 1 cho ta ý tưởng và cách kiểm chứng; Chương 2 dạy đánh giá cơ hội bài bản để phát triển kế hoạch kinh doanh."
+   ],
+   "goi_y_hinh": "Trục tiến độ chương: chủ đề 1.1 đã học, 1.2 đang học, ôn tập sắp học",
+   "loi_doc": "Chúng ta cùng xem mình đang ở đâu trong chương. Ở chủ đề thứ nhất, các em đã học khái niệm khởi nghiệp và đổi mới sáng tạo, tinh thần khởi nghiệp tinh gọn, cách chọn và kiểm chứng một ý tưởng, cùng vai trò và bốn phần của kế hoạch kinh doanh. Bây giờ là chủ đề thứ hai, dành cho khởi nghiệp của phụ nữ và người dân tộc thiểu số. Sau đó là phần ôn tập và tình huống. Đây là nền để Chương hai dạy các em đánh giá cơ hội kinh doanh."
+  },
+  {
+   "video": 2,
+   "so": 16,
+   "tieu_de": "1.2. KHỞI NGHIỆP CHO PHỤ NỮ, NGƯỜI DÂN TỘC THIỂU SỐ VÀ HỆ SINH THÁI KHỞI NGHIỆP",
+   "tren_slide": [
+    "Nguồn ý tưởng, kỹ năng khởi nghiệp cho phụ nữ và người dân tộc thiểu số.",
+    "Khởi nghiệp xanh/xã hội, rủi ro, đạo đức kinh doanh, hệ sinh thái khởi nghiệp."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 1/11); nhãn nhỏ: —",
+   "loi_doc": "Chủ đề thứ hai này đi sâu vào một trọng tâm của học phần: khởi nghiệp cho phụ nữ và người dân tộc thiểu số trong bối cảnh chuyển đổi số, cùng với khởi nghiệp xanh, khởi nghiệp xã hội, đạo đức kinh doanh, rủi ro cần lường trước, và hệ sinh thái khởi nghiệp mà mọi người khởi nghiệp, dù lớn hay nhỏ, đều nên biết cách tận dụng."
+  },
+  {
+   "video": 2,
+   "so": 17,
+   "tieu_de": "NGUỒN Ý TƯỞNG TỪ BẢN SẮC ĐỊA PHƯƠNG",
+   "tren_slide": [
+    "Thế mạnh, sản vật địa phương là nguồn ý tưởng tốt — khó nơi khác sao chép.",
+    "Ví dụ Vĩnh Long: Khoai lang Bình Tân, gốm đỏ, du lịch sinh thái miệt vườn.",
+    "Du lịch cộng đồng dựa bản sắc văn hóa dân tộc thiểu số: thu nhập và bảo tồn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 2/11); nhãn nhỏ: 1.3 — Nguồn ý tưởng",
+   "loi_doc": "Với phụ nữ và người dân tộc thiểu số — đối tượng mà học phần này đặc biệt chú trọng — nguồn ý tưởng tốt nhất thường không phải tìm ở đâu xa, mà nằm ngay ở thế mạnh và sản vật độc đáo của địa phương mình đang sống. Lý do là vì đây là bản sắc văn hóa, kỹ năng truyền thống hoặc sản vật đặc thù mà nơi khác không dễ sao chép — một lợi thế cạnh tranh tự nhiên mà không phải ai cũng có. Ví dụ ngay tại Vĩnh Long, đó có thể là chế biến sâu khoai lang Bình Tân như trường hợp chị Hoa chúng ta đã học ở chủ đề trước, có thể là gốm đỏ — một nghề truyền thống lâu đời của vùng, hoặc du lịch sinh thái miệt vườn, văn hóa sông nước. Với người dân tộc thiểu số, mô hình du lịch cộng đồng dựa trên bản sắc văn hóa riêng — trang phục, lễ hội, nghề thủ công, ẩm thực — cũng là một hướng có lợi thế tự nhiên, vừa tạo thu nhập vừa góp phần bảo tồn văn hóa, tránh để những giá trị đó bị mai một theo thời gian."
+  },
+  {
+   "video": 2,
+   "so": 18,
+   "tieu_de": "KỸ NĂNG CẦN THIẾT CHO PHỤ NỮ, DÂN TỘC THIỂU SỐ",
+   "tren_slide": [
+    "Cân bằng công việc kinh doanh và trách nhiệm gia đình.",
+    "Năng lực thích nghi: Quan trọng ở vùng nông thôn, miền núi.",
+    "Thiếu vốn: Ưu tiên khai thác thế mạnh bản thân và bản sắc địa phương.",
+    "Tìm hiểu chính sách, nguồn hỗ trợ đặc thù ở cấp huyện, cấp tỉnh."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 3/11); nhãn nhỏ: 1.3 — Kỹ năng khởi nghiệp",
+   "loi_doc": "Bên cạnh nguồn ý tưởng, phụ nữ và người dân tộc thiểu số khi khởi nghiệp cần chú trọng một số kỹ năng đặc thù. Trước hết là kỹ năng cân bằng giữa công việc kinh doanh và trách nhiệm gia đình — một thực tế mà nhiều phụ nữ khởi nghiệp gặp phải nhiều hơn so với nam giới, nên cần có cách tổ chức thời gian và phân chia công việc hợp lý ngay từ đầu. Thứ hai là năng lực thích nghi, đặc biệt quan trọng với người khởi nghiệp ở vùng nông thôn hoặc miền núi, nơi điều kiện thị trường, giá cả nông sản, thời tiết hay cả chính sách có thể thay đổi nhanh ngoài tầm kiểm soát. Thứ ba, khi gặp khó khăn về vốn — vốn vẫn là rào cản phổ biến với nhóm đối tượng này — nguồn lực nên được ưu tiên khai thác đầu tiên chính là thế mạnh bản thân và bản sắc địa phương, song song với việc tìm hiểu kỹ các chính sách và nguồn hỗ trợ đặc thù dành riêng cho phụ nữ, người dân tộc thiểu số, thường có sẵn ở cấp huyện, cấp tỉnh nhưng ít người biết đến."
+  },
+  {
+   "video": 2,
+   "so": 19,
+   "tieu_de": "KHỞI NGHIỆP XANH",
+   "tren_slide": [
+    "Phát triển kinh doanh gắn với bảo vệ môi trường, tài nguyên bền vững.",
+    "Ví dụ: Bao bì phân hủy, tận dụng phụ phẩm nông nghiệp.",
+    "Người tiêu dùng thành thị quan tâm nguồn gốc, tác động môi trường.",
+    "Lợi thế cạnh tranh thực sự, không chỉ là xu hướng đạo đức."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 4/11); nhãn nhỏ: 1.4 — Khởi nghiệp xanh",
+   "loi_doc": "Hai xu hướng khởi nghiệp đang nổi lên rất phù hợp với bối cảnh gắn liền cộng đồng và bản sắc địa phương mà chúng ta vừa nói, đầu tiên là khởi nghiệp xanh. Khởi nghiệp xanh tập trung vào việc phát triển kinh doanh gắn liền với bảo vệ môi trường, sử dụng tài nguyên bền vững — ví dụ dùng bao bì có thể phân hủy, tận dụng phụ phẩm nông nghiệp thay vì bỏ đi, hoặc áp dụng quy trình sản xuất ít gây ô nhiễm hơn cách làm truyền thống. Đây không chỉ là một xu hướng mang tính đạo đức, mà còn ngày càng là một lợi thế cạnh tranh thực sự, vì người tiêu dùng — đặc biệt ở thành thị — ngày càng quan tâm đến nguồn gốc và tác động môi trường của sản phẩm mình mua, sẵn sàng trả giá cao hơn cho sản phẩm 'xanh' nếu được kể một câu chuyện đủ thuyết phục."
+  },
+  {
+   "video": 2,
+   "so": 20,
+   "tieu_de": "KHỞI NGHIỆP XÃ HỘI (SOCIAL ENTREPRENEURSHIP)",
+   "tren_slide": [
+    "Ưu tiên giải quyết vấn đề xã hội/cộng đồng qua chính mô hình kinh doanh.",
+    "Lợi nhuận và giá trị xã hội không tách rời nhau.",
+    "Ví dụ: Tạo thu nhập cho phụ nữ địa phương, bảo tồn nghề truyền thống.",
+    "Dự án mang bản sắc + thân thiện môi trường: được đánh giá cao hơn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 5/11); nhãn nhỏ: 1.4 — Khởi nghiệp xã hội",
+   "loi_doc": "Xu hướng thứ hai là khởi nghiệp xã hội — Social Entrepreneurship. Khác với khởi nghiệp thông thường chỉ nhằm tối đa hóa lợi nhuận, khởi nghiệp xã hội ưu tiên giải quyết một vấn đề xã hội hoặc cộng đồng cụ thể thông qua chính mô hình kinh doanh của mình, chứ không tách rời lợi nhuận và giá trị xã hội thành hai việc khác nhau. Ví dụ, một dự án vừa tạo thu nhập cho phụ nữ ở địa phương, vừa giúp bảo tồn một nghề truyền thống đang mai một, chính là đang thực hiện khởi nghiệp xã hội, dù vẫn cần có lợi nhuận để duy trì hoạt động lâu dài. Một dự án vừa mang đậm bản sắc văn hóa, vừa thân thiện với môi trường theo hướng khởi nghiệp xanh, thường được thị trường và cả nhà đầu tư đánh giá cao hơn, vì nó kể được một câu chuyện có ý nghĩa, chứ không chỉ đơn thuần bán một sản phẩm."
+  },
+  {
+   "video": 2,
+   "so": 21,
+   "tieu_de": "GỐM ĐỎ VĨNH LONG: HIỆN ĐẠI HÓA LÀNG NGHỀ",
+   "tren_slide": [
+    "Ví dụ dựng ra để giảng dạy, không phải số liệu hay sự kiện thật.",
+    "Nghề gốm đỏ lâu đời nhưng mẫu mã cũ, khó tiếp cận khách trẻ.",
+    "Giữ kỹ thuật nung truyền thống, đổi mẫu mã, bao bì thân thiện môi trường.",
+    "Tạo việc làm cho nhiều hộ thợ gốm — kết hợp khởi nghiệp xanh và xã hội."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 6/11); nhãn nhỏ: Tình huống",
+   "loi_doc": "Để hình dung rõ hơn cả hai xu hướng này cùng lúc, chúng ta nhìn vào tình huống minh họa thứ hai của học phần: dự án gốm đỏ Vĩnh Long — đây cũng là một ví dụ dựng ra để giảng dạy, không phải số liệu hay sự kiện thật, nhưng phản ánh đúng thực trạng nhiều làng nghề truyền thống đang gặp phải. Gốm đỏ là một nghề thủ công lâu đời của vùng, nhưng như nhiều làng nghề khác, đang gặp khó khăn vì mẫu mã cũ, khó tiếp cận khách hàng trẻ và thị trường xuất khẩu. Giả sử một nhóm khởi nghiệp trẻ ở địa phương quyết định hiện đại hóa làng nghề này: giữ nguyên kỹ thuật nung gốm truyền thống — chính là bản sắc khó sao chép — nhưng thiết kế lại mẫu mã cho phù hợp thị hiếu hiện đại, dùng vật liệu đóng gói thân thiện môi trường, đồng thời tạo thêm việc làm cho nhiều hộ thợ gốm trong vùng thay vì chỉ làm riêng lẻ. Đây chính là một dự án kết hợp cả khởi nghiệp xanh và khởi nghiệp xã hội: vừa thương mại hóa được một tài sản văn hóa địa phương, vừa bảo tồn nghề truyền thống, vừa tạo giá trị xã hội và thu nhập bền vững cho cộng đồng làng nghề."
+  },
+  {
+   "video": 2,
+   "so": 22,
+   "tieu_de": "BA NHÓM RỦI RO CẦN LƯỜNG TRƯỚC",
+   "tren_slide": [
+    "Rủi ro tài chính: Thiếu vốn lưu động giai đoạn đầu.",
+    "Rủi ro thị trường: Đánh giá sai nhu cầu, thiếu người mua.",
+    "Rủi ro đội ngũ: Mất đoàn kết, phụ thuộc một khách hàng/kênh bán.",
+    "Xem thất bại là dữ liệu để rút kinh nghiệm, không phải điểm dừng."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 7/11); nhãn nhỏ: Rủi ro",
+   "loi_doc": "Dù ý tưởng tốt đến đâu, khởi nghiệp luôn đi kèm rủi ro, và người khởi nghiệp cần lường trước ba nhóm rủi ro phổ biến. Một, rủi ro về tài chính — thiếu vốn lưu động để duy trì hoạt động trong giai đoạn đầu khi doanh thu còn chưa ổn định. Hai, rủi ro về thị trường — đánh giá sai nhu cầu, hoặc không có đủ người mua như kỳ vọng ban đầu. Ba, rủi ro về đội ngũ — mất đoàn kết, hoặc phụ thuộc quá nhiều vào một khách hàng, một kênh bán hoặc một cá nhân duy nhất. Với dự án gốm đỏ ở trên, một rủi ro cụ thể có thể là phụ thuộc vào một đơn vị thu mua duy nhất, khiến cả làng nghề bị ép giá nếu đơn vị đó gặp vấn đề. Nhận diện sớm những rủi ro này không phải để các em nản lòng, mà để chuẩn bị phương án ứng phó trước khi vấn đề thực sự xảy ra. Tư duy đúng đắn về thất bại cũng rất quan trọng: xem thất bại là dữ liệu để rút kinh nghiệm và hoàn thiện dự án tốt hơn, chứ không phải là điểm dừng hay dấu hiệu cho thấy mình không nên làm kinh doanh."
+  },
+  {
+   "video": 2,
+   "so": 23,
+   "tieu_de": "ĐẠO ĐỨC KINH DOANH VÀ PHÁT TRIỂN BỀN VỮNG",
+   "tren_slide": [
+    "Cân bằng lợi nhuận kinh tế, lợi ích con người, bảo vệ môi trường.",
+    "Trung thực với khách hàng về chất lượng sản phẩm.",
+    "Trung thực với chính mình về năng lực thực tế của nhóm."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 8/11); nhãn nhỏ: Đạo đức kinh doanh",
+   "loi_doc": "Song song với việc quản trị rủi ro, khởi sự doanh nghiệp không chỉ nhằm tạo ra lợi nhuận. Một dự án khởi nghiệp bền vững phải không vi phạm đạo đức kinh doanh, và luôn hướng đến sự cân bằng giữa ba yếu tố: lợi nhuận kinh tế, lợi ích con người, và bảo vệ môi trường — đó cũng chính là cách một dự án thể hiện trách nhiệm với cộng đồng xung quanh mình. Khi xây dựng ý tưởng kinh doanh, tính trung thực cần được cam kết ngay từ đầu, ở hai chiều: trung thực với khách hàng về chất lượng thật của sản phẩm, không phóng đại hay quảng cáo sai sự thật; và trung thực với chính mình về năng lực thực tế của bản thân và nhóm khởi nghiệp, vì một dự án thành công bền lâu luôn cần sự cân bằng giữa khát vọng lớn và khả năng thực thi thực tế, không chạy theo lợi nhuận bằng mọi giá."
+  },
+  {
+   "video": 2,
+   "so": 24,
+   "tieu_de": "HỆ SINH THÁI KHỞI NGHIỆP",
+   "tren_slide": [
+    "Toàn bộ nguồn lực, tổ chức, chính sách xung quanh người khởi nghiệp.",
+    "Trường đại học, quỹ hỗ trợ, hội phụ nữ, chương trình địa phương.",
+    "Không ai khởi nghiệp một mình: Tận dụng để tránh sai lầm phổ biến."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 9/11); nhãn nhỏ: 1.4 — Hệ sinh thái khởi nghiệp",
+   "loi_doc": "Một khái niệm nữa các em cần nắm chắc là 'hệ sinh thái khởi nghiệp' — Start-up Ecosystem. Đây là toàn bộ môi trường nguồn lực, tổ chức và chính sách xung quanh người khởi nghiệp, bao gồm trường đại học, các quỹ hỗ trợ khởi nghiệp, hội phụ nữ, chương trình hỗ trợ của chính quyền địa phương, và cả cộng đồng những người khởi nghiệp khác mà mình có thể học hỏi lẫn nhau. Không một dự án khởi nghiệp nào nên cố gắng tự làm hết mọi thứ một mình — việc biết tận dụng hệ sinh thái xung quanh giúp rút ngắn đáng kể thời gian tự mò mẫm và chi phí phải trả cho những sai lầm có thể tránh được. Ngay cả một dự án quy mô nhỏ như của chị Hoa hay nhóm khởi nghiệp gốm đỏ cũng được lợi rất nhiều từ hệ sinh thái này: một hội phụ nữ ở địa phương, một chương trình hỗ trợ khởi nghiệp cấp huyện, hay đơn giản là một người đi trước sẵn sàng chỉ dẫn, đều có thể giúp người khởi nghiệp mới tránh được những sai lầm phổ biến ngay từ đầu."
+  },
+  {
+   "video": 2,
+   "so": 25,
+   "tieu_de": "CÔNG CỤ SỐ HỖ TRỢ KHỞI NGHIỆP",
+   "tren_slide": [
+    "Mạng xã hội: Thử nghiệm phản ứng thị trường, chi phí gần như bằng không.",
+    "Thương mại điện tử: Bán hàng không cần mặt bằng cố định.",
+    "Công cụ thiết kế trực tuyến (vd Canva): bao bì, hình ảnh chuyên nghiệp.",
+    "Công cụ đám mây: Làm việc nhóm hiệu quả dù ở xa nhau."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 10/11); nhãn nhỏ: Công cụ số",
+   "loi_doc": "Cuối cùng, trong bối cảnh chuyển đổi số hiện nay, công cụ số chính là phần không thể thiếu trong hệ sinh thái khởi nghiệp, đặc biệt hữu ích với người khởi nghiệp có ít vốn. Ở giai đoạn ý tưởng, mạng xã hội giúp thử nghiệm phản ứng thị trường với chi phí gần như bằng không — như cách chị Hoa đăng bán thử mẻ bánh khoai đầu tiên. Các nền tảng thương mại điện tử giúp bán hàng mà không cần mặt bằng cố định. Công cụ thiết kế trực tuyến, ví dụ Canva, giúp làm bao bì và hình ảnh quảng bá chuyên nghiệp dù không có kỹ năng thiết kế chuyên sâu — rất hữu ích cho một sản phẩm như gốm đỏ, nơi hình ảnh đẹp có thể quyết định việc khách hàng thành thị có chọn mua hay không. Và các công cụ lưu trữ, làm việc nhóm trên nền tảng đám mây giúp các thành viên trong nhóm khởi nghiệp — kể cả khi không ở cùng một nơi — vẫn phối hợp hiệu quả với nhau. Biết ứng dụng thành thạo những công cụ số và phần mềm hỗ trợ này chính là một trong những kỹ năng chuẩn đầu ra quan trọng của học phần này."
+  },
+  {
+   "video": 2,
+   "so": 26,
+   "tieu_de": "TỔNG KẾT CHƯƠNG 1",
+   "tren_slide": [
+    "Nguồn ý tưởng tốt nhất: Thế mạnh, bản sắc, sản vật địa phương mình có.",
+    "Khởi nghiệp xanh/xã hội phù hợp, nếu đảm bảo đạo đức và lường rủi ro.",
+    "Tận dụng hệ sinh thái khởi nghiệp và công cụ số quanh mình.",
+    "Làm bài tập tự đánh giá cuối chủ đề trước khi sang phần ôn tập chương."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 11/11); nhãn nhỏ: —",
+   "loi_doc": "Tổng kết chủ đề này, các em cần nhớ ba điều: một, nguồn ý tưởng tốt nhất cho phụ nữ và người dân tộc thiểu số thường nằm ngay ở thế mạnh, bản sắc và sản vật địa phương mình đang có; hai, khởi nghiệp xanh và khởi nghiệp xã hội là hai hướng đi rất phù hợp với bối cảnh này, miễn là vẫn đảm bảo đạo đức kinh doanh và lường trước được rủi ro; ba, không ai khởi nghiệp một mình — biết tận dụng hệ sinh thái khởi nghiệp và công cụ số xung quanh mình sẽ giúp con đường khởi sự doanh nghiệp đỡ gian nan hơn rất nhiều. Các em làm bài tập tự đánh giá cuối chủ đề này trước khi sang phần tiếp theo."
+  },
+  {
+   "video": 2,
+   "so": 27,
+   "tieu_de": "CÂU HỎI ÔN TẬP CHƯƠNG 1",
+   "tren_slide": [
+    "1. Khởi nghiệp khác kinh doanh thông thường ở điểm nào? Cho một ví dụ của riêng em.",
+    "2. Vì sao nên làm MVP và bán thử trước khi vay vốn đầu tư lớn?",
+    "3. Kế hoạch kinh doanh gồm bốn phần nào? Vì sao phần tóm tắt thường viết sau cùng?",
+    "4. Một dự án vừa là khởi nghiệp xanh vừa là khởi nghiệp xã hội cần có đặc điểm gì?",
+    "5. Ở địa phương em, ai trong hệ sinh thái khởi nghiệp có thể hỗ trợ người mới bắt đầu?"
+   ],
+   "goi_y_hinh": "Năm câu đánh số",
+   "loi_doc": "Để tự kiểm tra, các em dừng video và thử trả lời năm câu hỏi trên màn hình. Hai câu đầu ôn lại khái niệm khởi nghiệp và cách kiểm chứng ý tưởng bằng sản phẩm khả dụng tối thiểu. Câu thứ ba là về kế hoạch kinh doanh. Hai câu cuối gắn với chủ đề thứ hai: khởi nghiệp xanh, khởi nghiệp xã hội và hệ sinh thái khởi nghiệp. Các em cố gắng trả lời bằng ví dụ của chính mình, đừng chép lại ví dụ trong bài."
+  },
+  {
+   "video": 2,
+   "so": 28,
+   "tieu_de": "TÌNH HUỐNG MINH HỌA",
+   "tren_slide": [
+    "Bối cảnh: Ví dụ minh họa: chị Hoa ở Bình Tân bán thử mẻ bánh khoai đầu tiên qua một nhóm Facebook địa phương, phản hồi khá tích cực.",
+    "Vấn đề: Chị muốn vay vốn mua máy sấy lớn ngay, chỉ bán qua một kênh, và chưa viết ra kế hoạch kinh doanh nào.",
+    "Câu hỏi 1: Theo tinh thần Lean Start-up, chị Hoa nên kiểm chứng thêm điều gì trước khi quyết định vay vốn?",
+    "Câu hỏi 2: Rủi ro nào chị cần lường trước? Hệ sinh thái và công cụ số nào giúp chị giảm rủi ro?"
+   ],
+   "goi_y_hinh": "Bốn thẻ; ghi rõ \"ví dụ dựng ra để giảng dạy, không phải số liệu thật\"",
+   "loi_doc": "Bây giờ chúng ta cùng vận dụng cả chương vào một tình huống. Cô nhắc lại: đây là ví dụ minh họa dựng ra để giảng dạy, không phải chuyện thật. Chị Hoa ở Bình Tân đã làm thử mẻ bánh khoai đầu tiên, đăng bán trên một nhóm Facebook địa phương và nhận được phản hồi khá tích cực. Phấn khởi, chị muốn vay vốn mua ngay máy sấy lớn, dù mới bán qua một kênh và chưa có kế hoạch kinh doanh. Các em suy nghĩ hai câu hỏi. Một, theo tinh thần khởi nghiệp tinh gọn, chị nên kiểm chứng thêm điều gì trước khi vay vốn — chẳng hạn khách có quay lại mua lần hai không? Hai, chị đang đối mặt những rủi ro nào, và hội phụ nữ hay công cụ số có thể giúp chị thế nào?"
+  },
+  {
+   "video": 2,
+   "so": 29,
+   "tieu_de": "TỔNG KẾT CHƯƠNG 1",
+   "tren_slide": [
+    "Khởi nghiệp: đổi mới có kiểm chứng: Khởi nghiệp khác kinh doanh thông thường ở đổi mới sáng tạo và rủi ro có tính toán; ý tưởng phải từ nhu cầu thật, kiểm chứng bằng MVP.",
+    "Kế hoạch kinh doanh: bản lộ trình: Bốn phần: tóm tắt, sản phẩm, thị trường, tài chính. Vừa định hướng cho mình, vừa là căn cứ gọi vốn, cần linh hoạt điều chỉnh.",
+    "Dựa thế mạnh, không đi một mình: Khởi nghiệp từ bản sắc địa phương; theo hướng xanh, xã hội; giữ đạo đức, lường rủi ro; tận dụng hệ sinh thái và công cụ số.",
+    "Việc cần làm: Làm bài tập tự đánh giá hai chủ đề, trả lời bài ôn tập tự luận Chương 1, ghi lại một ý tưởng cho bài thu hoạch."
+   ],
+   "goi_y_hinh": "Bốn thẻ",
+   "loi_doc": "Khép lại Chương một, các em nhớ ba điều. Một, khởi nghiệp là đổi mới sáng tạo với rủi ro có tính toán, và ý tưởng tốt phải từ nhu cầu thật, được kiểm chứng trước khi đầu tư lớn. Hai, kế hoạch kinh doanh là bản lộ trình bắt buộc, vừa định hướng cho chính mình, vừa là căn cứ để gọi vốn. Ba, hãy khởi nghiệp từ thế mạnh địa phương, giữ đạo đức kinh doanh và đừng đi một mình. Việc cần làm: làm bài tập tự đánh giá, bài ôn tập tự luận, và ghi lại ý tưởng cho bài thu hoạch cuối học phần."
+  },
+  {
+   "video": 2,
+   "so": 30,
+   "tieu_de": "TÀI LIỆU HỌC TẬP",
+   "tren_slide": [
+    "Giáo trình chính: [1] Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga (2024), Giáo trình khởi sự kinh doanh (tái bản lần thứ hai), NXB Đại học Kinh tế Quốc dân.",
+    "Tài liệu tham khảo: [3] Trường Đại học Bách khoa Hà Nội (2023), Tài liệu tư vấn: Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số."
+   ],
+   "goi_y_hinh": "Hai khối: giáo trình chính | tài liệu tham khảo",
+   "loi_doc": "Các em đọc Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga, Nhà xuất bản Đại học Kinh tế Quốc dân. Với chủ đề thứ hai, đọc thêm tài liệu Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số của Trường Đại học Bách khoa Hà Nội."
+  },
+  {
+   "video": 2,
+   "so": 31,
+   "tieu_de": "KẾT THÚC CHƯƠNG",
+   "tren_slide": [
+    "CẢM ƠN CÁC EM ĐÃ THEO DÕI",
+    "HỌC LIỆU SỐ · KHỞI SỰ DOANH NGHIỆP",
+    "Khoa Kinh doanh và Luật – Trường Đại học Công nghệ Kỹ thuật Vĩnh Long",
+    "fel@vlute.edu.vn · https://vlute.edu.vn"
+   ],
+   "goi_y_hinh": "Nền xanh đậm như trang bìa",
+   "loi_doc": "Cảm ơn các em đã theo dõi Chương một. Chúc các em tìm được một ý tưởng thật sự khiến mình muốn bắt tay vào làm. Hẹn gặp lại các em ở Chương hai — Đánh giá cơ hội, ý tưởng phát triển kế hoạch kinh doanh. Chào các em."
+  }
+ ]
+}
