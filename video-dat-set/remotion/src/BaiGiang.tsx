@@ -11,6 +11,8 @@ import {
   useVideoConfig,
 } from 'remotion';
 import { CHU, CHU_TIEU_DE, MAU } from './mau';
+import { MINH_HOA } from './duLieu';
+import { KHUNG, MinhHoa, chanNhan, diemGiua } from './minh-hoa/boCuc';
 
 export const FPS = 30;
 
@@ -184,8 +186,65 @@ const TrangBia: React.FC<{ s: Slide; video: number }> = ({ s, video }) => {
   );
 };
 
-const TrangThe: React.FC<{ s: Slide; dai: number; dinh_vi: string | null; tien: [number, number] | null }> = ({
-  s, dai, dinh_vi, tien,
+/** Hình minh họa 3D đất sét: từng lớp ảnh (dựng sẵn bằng dung_minh_hoa.mjs)
+ *  hiện ra theo lời đọc, mục đang giảng nảy nhẹ, nhãn chữ đặt đúng chân mục. */
+const HinhMinhHoa: React.FC<{ chuong: number; so: number; mh: MinhHoa; moc_the: number[]; dang_doc: number }> = ({
+  chuong, so, mh, moc_the, dang_doc,
+}) => {
+  const f = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const thu_muc = `minh-hoa/ch${String(chuong).padStart(2, '0')}/s${String(so).padStart(2, '0')}_`;
+  const co_nen = ['vong', 'chuoi', 'duong', 'trung_tam'].includes(mh.kieu);
+  const moc = mh.muc.map((_, i) =>
+    mh.theo_the !== false && moc_the.length ? moc_the[Math.min(i, moc_the.length - 1)] : 10 + i * 12);
+  // Mục đang giảng: theo thẻ đang đọc; slide không gắn thẻ thì không nhấn mục nào.
+  const nhan_manh = mh.theo_the !== false ? Math.min(dang_doc, mh.muc.length - 1) : -1;
+  return (
+    <>
+      {co_nen && (
+        <Img src={staticFile(`${thu_muc}nen.png`)} style={{
+          position: 'absolute', left: KHUNG.trai, top: KHUNG.tren, width: KHUNG.rong, height: KHUNG.cao,
+          opacity: interpolate(f, [moc[0], moc[0] + 20], [0, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }),
+        }} />
+      )}
+      {mh.giua && (() => {
+        const [x, y] = diemGiua(mh);
+        const b = Bat(f, moc[mh.muc.length - 1] + 10, fps, 10);
+        return (
+          <div style={{
+            position: 'absolute', left: x, top: y, zIndex: 5, transform: `translate(-50%, -50%) scale(${0.6 + 0.4 * b})`,
+            ...phong(MAU.xanh_dam, 999), padding: '8px 22px', fontFamily: CHU, fontWeight: 800, fontSize: 26,
+            color: MAU.giay, opacity: Math.min(1, b * 1.5),
+          }}>{mh.giua}</div>
+        );
+      })()}
+      {mh.muc.map((m, i) => {
+        const b = Bat(f, moc[i], fps, 9);
+        const [x, y] = chanNhan(mh, i);
+        const nay = i === nhan_manh ? Math.abs(Math.sin(((f - moc[i]) / fps) * 2.4)) * 10 : 0;
+        return (
+          <React.Fragment key={i}>
+            <Img src={staticFile(`${thu_muc}${i}.png`)} style={{
+              position: 'absolute', left: KHUNG.trai, top: KHUNG.tren, width: KHUNG.rong, height: KHUNG.cao,
+              opacity: Math.min(1, b * 1.6),
+              transform: `translateY(${-nay}px) scale(${0.6 + 0.4 * b})`,
+              transformOrigin: `${x - KHUNG.trai}px ${y - KHUNG.tren}px`,
+            }} />
+            <div style={{
+              position: 'absolute', left: x, top: y + 6, transform: `translateX(-50%) scale(${0.8 + 0.2 * b})`,
+              ...phong(i === nhan_manh ? MAU.vang : MAU.giay, 999), padding: '6px 16px',
+              fontFamily: CHU, fontWeight: 700, fontSize: 19, color: MAU.muc, whiteSpace: 'nowrap',
+              opacity: Math.min(1, b * 1.4),
+            }}>{m.nhan}</div>
+          </React.Fragment>
+        );
+      })}
+    </>
+  );
+};
+
+const TrangThe: React.FC<{ s: Slide; dai: number; dinh_vi: string | null; tien: [number, number] | null; chuong: number }> = ({
+  s, dai, dinh_vi, tien, chuong,
 }) => {
   const f = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -193,14 +252,19 @@ const TrangThe: React.FC<{ s: Slide; dai: number; dinh_vi: string | null; tien: 
   const moc = thoiDiemThe(s, the, dai);
   const dang_doc = moc.reduce((k, m, i) => (f >= m ? i : k), -1);
   const n = the.length;
-  const hai_cot = n >= 4;
+  const mh = MINH_HOA[chuong]?.[String(s.so)];
   const tong_chu = the.reduce((a, t) => a + t.nhan.length + t.than.length, 0);
-  // Chữ nhiều thì thu cỡ; mốc 420/600 ký tự đo trên các slide dài nhất chương 1.
-  const co = tong_chu > 600 ? 27 : tong_chu > 420 ? 30 : 33;
+  // Có hình minh họa thì thẻ dồn xuống nửa dưới, chữ nhỏ lại; mốc ký tự đo
+  // trên các slide dài nhất chương 1 (slide 15, 28, 29 trên 650 ký tự).
+  const so_cot = mh ? (n >= 4 ? 2 : n) : n >= 4 ? 2 : 1;
+  const co = mh
+    ? (tong_chu > 650 ? 19 : tong_chu > 420 ? 22 : 25)
+    : (tong_chu > 600 ? 27 : tong_chu > 420 ? 30 : 33);
+  const hai_cot = so_cot === 2;
   const a = Bat(f, 2, fps);
   return (
     <>
-      <Vien style={{ left: 640, top: 104, right: 70, padding: '22px 36px', opacity: Math.min(1, a * 1.4), transform: `translateY(${(1 - a) * 20}px)` }}>
+      <Vien style={{ left: 640, top: 96, right: 70, padding: '16px 32px', opacity: Math.min(1, a * 1.4), transform: `translateY(${(1 - a) * 20}px)` }}>
         {dinh_vi && (
           <div style={{ display: 'flex', alignItems: 'center', gap: 14, marginBottom: 8 }}>
             <div style={{ fontFamily: CHU, fontSize: 19, fontWeight: 800, letterSpacing: 2.5, color: MAU.dat }}>{dinh_vi}</div>
@@ -218,15 +282,15 @@ const TrangThe: React.FC<{ s: Slide; dai: number; dinh_vi: string | null; tien: 
         </div>
       </Vien>
       <div style={{
-        position: 'absolute', left: 640, right: 70, top: 280, bottom: 90,
-        display: 'grid', gridTemplateColumns: hai_cot ? '1fr 1fr' : '1fr', gap: 24, alignContent: 'center',
+        position: 'absolute', left: 640, right: 70, top: mh ? KHUNG.tren + KHUNG.cao + 44 : 280, bottom: mh ? 62 : 90,
+        display: 'grid', gridTemplateColumns: `repeat(${so_cot}, 1fr)`, gap: mh ? 14 : 24, alignContent: 'center',
       }}>
         {the.map((t, i) => {
           const b = Bat(f, moc[i], fps, 12);
           const dang = i === dang_doc;
           return (
             <div key={i} style={{
-              ...phong(MAU.giay, 26), padding: '20px 26px',
+              ...phong(MAU.giay, 26), padding: mh ? '12px 20px' : '20px 26px',
               border: `4px solid ${dang ? MAU.vang : 'transparent'}`,
               opacity: Math.min(1, b * 1.4), transform: `translateY(${(1 - b) * 30}px) scale(${0.94 + 0.06 * b})`,
               gridColumn: hai_cot && n % 2 === 1 && i === n - 1 ? 'span 2' : undefined,
@@ -239,6 +303,7 @@ const TrangThe: React.FC<{ s: Slide; dai: number; dinh_vi: string | null; tien: 
           );
         })}
       </div>
+      {mh && <HinhMinhHoa chuong={chuong} so={s.so} mh={mh} moc_the={moc} dang_doc={dang_doc} />}
     </>
   );
 };
@@ -255,7 +320,7 @@ const Trang: React.FC<{ s: Slide; i: number; dai: number; tham: ThamSo; dinh_vi:
       <Img src={staticFile(bia ? 'nen/rong.png' : 'nen/giang.png')} style={{ position: 'absolute', inset: 0, transform: `scale(${zoom})` }} />
       <Dau chuong={tham.chuong} video={tham.video} so={i + 1} tong={tong} />
       <HuongAI dang={chonDang(s, i)} dai={dai} />
-      {/TRANG BÌA/.test(s.tieu_de) ? <TrangBia s={s} video={tham.video} /> : <TrangThe s={s} dai={dai} dinh_vi={dinh_vi} tien={tien} />}
+      {/TRANG BÌA/.test(s.tieu_de) ? <TrangBia s={s} video={tham.video} /> : <TrangThe s={s} dai={dai} dinh_vi={dinh_vi} tien={tien} chuong={tham.chuong} />}
     </AbsoluteFill>
   );
 };

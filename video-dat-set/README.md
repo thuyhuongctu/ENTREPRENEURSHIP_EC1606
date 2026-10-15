@@ -49,6 +49,7 @@ cd video-dat-set/remotion && npm install
 cp <thư mục âm thanh>/*.wav <thư mục âm thanh>/so_do.json public/am-thanh/ch01/
 npx remotion still src/index.ts nen-rong  public/nen/rong.png  --gl=swangle
 npx remotion still src/index.ts nen-giang public/nen/giang.png --gl=swangle
+node dung_minh_hoa.mjs 1        # hình minh họa 3D từng slide → public/minh-hoa/ch01/
 npx remotion render src/index.ts EC1606-SX01 out/EC1606_SX01_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
 npx remotion render src/index.ts EC1606-SX02 out/EC1606_SX02_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
 
@@ -78,6 +79,27 @@ Máy không có Chrome riêng của Remotion thì thêm `--browser-executable=<�
   thời điểm; thẻ đang được giảng có viền vàng.
 - **Dáng Hương AI chọn theo tiêu đề slide** (`LUAT_DANG` trong `BaiGiang.tsx`):
   bìa thì chào, câu hỏi thì suy nghĩ, kiểm chứng thì cầm kính lúp...
+
+### Hình minh họa 3D đất sét từng slide
+
+Mỗi slide (trừ bìa và lời kết) có một hình minh họa diễn tả nội dung bằng
+biểu tượng nặn đất sét: khởi nghiệp là tên lửa, kiểm chứng là kính lúp, chị
+Hoa là củ khoai lang, gốm đỏ là bình gốm... Cấu hình nằm ở
+`du-lieu/minh_hoa_ch01.json` (bố cục + biểu tượng + nhãn cho từng slide);
+thư viện 31 biểu tượng ở `remotion/src/minh-hoa/BieuTuong.tsx`.
+
+- **Năm bố cục:** `hang` (một hàng bệ), `duong` (bậc thang nâng dần — thứ tự,
+  các bước), `chuoi` (chuỗi có mũi tên — quá trình), `vong` (vòng lặp — Lean
+  Start-up), `trung_tam` (một tâm, các vệ tinh — hệ sinh thái).
+- **Mục `i` hiện ra cùng thẻ chữ `i`** và nảy nhẹ, nhãn tô vàng khi thẻ ấy đang
+  được giảng (`theo_the: false` thì các mục hiện lần lượt ngay đầu slide).
+- **Dựng từng mục thành một lớp ảnh trong suốt** (`dung_minh_hoa.mjs`) chứ
+  không gộp: gộp thì chỉ hiện được cả cụm một lúc.
+- **Máy quay và vị trí khai ở một chỗ** (`minh-hoa/boCuc.ts`), dùng chung cho
+  lúc dựng ảnh và lúc đặt nhãn trong video, để nhãn luôn nằm đúng chân mục.
+  Máy quay trực giao nên phép chiếu tuyến tính, không méo ở hai mép.
+- `dung_minh_hoa.mjs` đặt trong `remotion/` chứ không trong `tools/`: Node tìm
+  gói theo chỗ đặt tệp. Nó đóng gói một lần rồi dựng cả trăm ảnh (~5 phút).
 
 ### Ảnh Hương AI
 

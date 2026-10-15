@@ -3,6 +3,9 @@ import { CalculateMetadataFunction, Composition, Still, staticFile } from 'remot
 import { Am, BaiGiang, FPS, Slide, ThamSo, soKhung } from './BaiGiang';
 import { SanKhau } from './SanKhau';
 import ch01 from '../../du-lieu/ch01.json';
+import { LopMinhHoa } from './minh-hoa/MinhHoa';
+import { KHUNG } from './minh-hoa/boCuc';
+import { MINH_HOA } from './duLieu';
 
 const CHUONG: Record<number, { slides: Slide[] }> = { 1: ch01 as { slides: Slide[] } };
 
@@ -24,6 +27,15 @@ export const Goc: React.FC = () => (
   <>
     <Still id="nen-rong" component={() => <SanKhau kieu="rong" />} width={1920} height={1080} />
     <Still id="nen-giang" component={() => <SanKhau kieu="giang" />} width={1920} height={1080} />
+    <Still
+      id="minh-hoa"
+      component={({ chuong, so, lop }: { chuong: number; so: number; lop: number }) => (
+        <LopMinhHoa mh={MINH_HOA[chuong][String(so)]} lop={lop} />
+      )}
+      width={KHUNG.rong}
+      height={KHUNG.cao}
+      defaultProps={{ chuong: 1, so: 6, lop: 0 }}
+    />
     {[1, 2].map((v) => (
       <Composition
         key={v}
