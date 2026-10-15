@@ -49,8 +49,12 @@ cd video-dat-set/remotion && npm install
 cp <thư mục âm thanh>/*.wav <thư mục âm thanh>/so_do.json public/am-thanh/ch01/
 npx remotion still src/index.ts nen-rong  public/nen/rong.png  --gl=swangle
 npx remotion still src/index.ts nen-giang public/nen/giang.png --gl=swangle
-npx remotion render src/index.ts EC1606-SX01 out/EC1606_SX01.mp4 --codec=h264 --crf=26 --image-format=jpeg --jpeg-quality=92 --pixel-format=yuv420p
-npx remotion render src/index.ts EC1606-SX02 out/EC1606_SX02.mp4 --codec=h264 --crf=26 --image-format=jpeg --jpeg-quality=92 --pixel-format=yuv420p
+npx remotion render src/index.ts EC1606-SX01 out/EC1606_SX01_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
+npx remotion render src/index.ts EC1606-SX02 out/EC1606_SX02_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
+
+# 4. Hoàn thiện: dải màu "tv" cho điện thoại, độ to -16 LUFS (xem ghi chú trong tệp)
+sh ../tools/hoan_thien.sh out/EC1606_SX01_tho.mp4 out/EC1606_SX01.mp4
+sh ../tools/hoan_thien.sh out/EC1606_SX02_tho.mp4 out/EC1606_SX02.mp4
 ```
 
 Máy không có Chrome riêng của Remotion thì thêm `--browser-executable=<đường dẫn Chromium>`.

@@ -103,6 +103,8 @@ def main(duong_json, thu_muc_ra):
                 if sai <= NGUONG:
                     break
             doan += [tot[1], np.zeros(int(sr * NGHI_CAU), np.float32)]
+            # so_lan: lần đọc được GIỮ (lần tốt nhất), không phải số lần đã thử —
+            # câu sai nhiều mà so_lan = 1 nghĩa là đã đọc lại nhưng các lần sau còn tệ hơn.
             ghi.append({'cau': cau, 'sai': round(tot[0], 3), 'so_lan': tot[2]})
         doan[-1] = np.zeros(int(sr * NGHI_CUOI), np.float32)
         am = np.concatenate(doan)
