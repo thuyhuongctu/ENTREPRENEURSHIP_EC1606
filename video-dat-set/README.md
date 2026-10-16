@@ -73,6 +73,12 @@ Máy không có Chrome riêng của Remotion thì đặt `REMOTION_BROWSER_EXECU
 - **Đọc từng câu rồi chèn khoảng nghỉ 0,55 giây.** Mô hình đọc khoảng 238 từ/phút,
   không có nút chỉnh tốc độ; đọc liền một mạch thì video 1 chỉ chừng 10 phút,
   dưới mức 12 phút. Khoảng nghỉ giữa câu như lúc giảng thật vừa đủ bù.
+- **Video nào kịch bản quá ngắn thì giãn khoảng nghỉ, không đọc lại**
+  (`tools/gian_nghi.py`): chỉ chèn thêm lặng vào đúng các khoảng nghỉ đã đặt,
+  lời nói giữ nguyên từng mẫu. Đã dùng một lần cho SX07 (Chương 4, video 1):
+  kịch bản 2.226 từ chỉ ra 11,5 phút, giãn nghỉ giữa câu 0,55 → 1,15 giây và
+  cuối slide 0,9 → 1,5 giây thì được 12,07 phút. Nhịp video này vì thế chậm hơn
+  các video khác; bổ sung lời giảng vẫn là cách đúng hơn.
 - **Mỗi câu được nhận dạng lại để soát**, câu sai quá 12% thì đọc lại tối đa ba
   lần. Đây là lưới thô — bộ nhận dạng chép sai cả giọng thật của cô 5–8% —
   không thay việc nghe duyệt.
