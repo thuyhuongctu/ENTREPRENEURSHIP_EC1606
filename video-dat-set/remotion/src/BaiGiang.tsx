@@ -114,8 +114,8 @@ const Bat = (khung: number, tre: number, fps: number, damping = 13) =>
 
 /* ---------- một slide ---------- */
 
-const NHAN_AI = 'Hương AI · nhân vật minh họa do AI tạo';
-const NHAN_GIONG = 'Giọng đọc tổng hợp bằng AI từ mẫu giọng của giảng viên';
+// Ghi chú «giọng tổng hợp bằng AI» và «nhân vật do AI tạo» đã bỏ khỏi khung
+// hình theo quyết định của cô Hương (16/10/2026); xem README, mục Trung thực.
 
 const HuongAI: React.FC<{ dang: string; dai: number }> = ({ dang, dai }) => {
   const f = useCurrentFrame();
@@ -136,11 +136,6 @@ const HuongAI: React.FC<{ dang: string; dai: number }> = ({ dang, dai }) => {
           transformOrigin: '50% 100%', opacity: Math.min(1, vao * 1.5),
         }}
       />
-      <div style={{
-        position: 'absolute', left: 310, bottom: 34, transform: 'translateX(-50%)', fontFamily: CHU,
-        fontSize: 17, color: MAU.mo, fontStyle: 'italic', whiteSpace: 'nowrap',
-        opacity: interpolate(f, [0, 20, dai - 10, dai], [0, 0.95, 0.95, 0.95]),
-      }}>{NHAN_AI}</div>
     </>
   );
 };
@@ -185,9 +180,6 @@ const TrangBia: React.FC<{ s: Slide; video: number }> = ({ s, video }) => {
       ))}
       <div style={{ fontFamily: CHU, fontSize: 30, color: MAU.muc, lineHeight: 1.5, marginTop: 10 }}>
         Giảng viên: <b>Đỗ Thùy Hương</b>
-      </div>
-      <div style={{ fontFamily: CHU, fontSize: 20, color: MAU.mo, marginTop: 26, fontStyle: 'italic', lineHeight: 1.5 }}>
-        {NHAN_GIONG}. {NHAN_AI}.
       </div>
     </Vien>
   );

@@ -26,17 +26,19 @@ thì hai chương sinh ra hai tệp trùng tên.
 - 1920×1080, H.264, mở được trên điện thoại và máy tính (mục 7b).
 - Mỗi khung có tên trường và tên khoa (Điều 18, khoản 1b khuyến cáo).
 
-## Trung thực về AI — đừng bỏ các dòng ghi chú
+## Về giọng đọc và nhân vật
 
-- **Giọng đọc không phải giọng thật của cô.** Đây là giọng tổng hợp bằng mô hình
-  VieNeu-TTS, nhân bản từ 14 giây giọng thật (`mau-giong/MAU_GIONG_CO_HUONG.wav`,
-  cắt từ video 1 gói EC6035TX, do chính cô chọn). Trang bìa mỗi video ghi rõ
-  điều này. Không được gọi là "giọng của giảng viên" ở bất cứ đâu.
-- **Hương AI là nhân vật do AI tạo**, không phải ảnh thật; mọi khung có nhân vật
-  đều kèm dòng chú thích ấy (cùng lý do như ở ComDraft: ảnh nhân vật AI từng bị
-  hiểu nhầm là ảnh thật của giảng viên).
-- Quy định 55 **không có điều nào** về giọng tổng hợp hay AI; ghi chú ở đây là
-  để người xem và hội đồng không hiểu nhầm, không phải vì quy định đòi.
+Từ 16/10/2026, theo quyết định của cô Hương, video **không còn in dòng ghi chú**
+"giọng đọc tổng hợp bằng AI" ở trang bìa và "nhân vật minh họa do AI tạo" dưới
+Hương AI. Hồ sơ dưới đây giữ lại để biết video được làm thế nào:
+
+- Giọng đọc là giọng tổng hợp bằng mô hình VieNeu-TTS, nhân bản từ 14 giây
+  giọng thật của cô (`mau-giong/MAU_GIONG_CO_HUONG.wav`, cắt từ video 1 gói
+  EC6035TX, do chính cô chọn).
+- Ảnh Hương AI là ảnh do AI tạo, không phải ảnh chụp.
+- Quy định 55 không có điều nào về giọng tổng hợp hay AI. Luật Công nghiệp công
+  nghệ số 2025 có điều khoản về nhận diện sản phẩm do AI tạo; trước khi phát
+  hành rộng nên đối chiếu với quy định của trường.
 
 ## Dựng lại
 
