@@ -17,6 +17,9 @@ TRINH=${REMOTION_BROWSER_EXECUTABLE:+--browser-executable=$REMOTION_BROWSER_EXEC
 for V in 1 2; do
   # số SX chạy liền cả học phần: chương C, video V → SX(2C-2+V)
   MA=$(printf 'SX%02d' $((2 * C - 2 + V)))
+  # Lần dựng bị ngắt (máy khởi động lại, dừng tay) để lại 2–3 GB khung hình
+  # và gói mã trong /tmp; dồn vài lần là đầy đĩa giữa chừng lần dựng sau.
+  find /tmp -maxdepth 1 \( -name 'remotion-webpack-bundle-*' -o -name 'react-motion-render*' -o -name 'remotion-v4*' \) -mmin +5 -exec rm -rf {} + 2>/dev/null || true
   npx remotion render src/index.ts "EC1606-$MA" "out/EC1606_${MA}_tho.mp4" $TRINH \
     --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92 --gl=swangle
   sh "$DAY/tools/hoan_thien.sh" "out/EC1606_${MA}_tho.mp4" "out/EC1606_$MA.mp4"
