@@ -23,8 +23,8 @@ for V in 1 2; do
   # Dựng theo từng đoạn 2 000 khung, mỗi đoạn một tệp, đoạn đã có thì
   # bỏ qua. Một video dựng 4–5 giờ; máy chủ khởi động lại giữa chừng (đã xảy
   # ra ở SX03, mất 12 563 khung = hơn 2 giờ) thì chỉ mất đúng đoạn đang dở.
-  # Tiếng dựng riêng một lần (--codec=wav) rồi ghép vào sau, để không có
-  # khoảng lặng hay tiếng tách ở chỗ nối các đoạn AAC.
+  # Tiếng ghép riêng bằng ghep_am.py rồi mới đưa vào, để không có khoảng
+  # lặng hay tiếng tách ở chỗ nối các đoạn AAC.
   P="out/phan_$MA"; mkdir -p "$P"
   # Số khung tính đúng như doDai() trong Goc.tsx: ceil(giây × 30) từng slide.
   TONG=$(python3 -c "
@@ -45,10 +45,9 @@ print(sum(math.ceil(am.get(s['so'],8)*30) for s in sl))")
     echo "file '$(basename "$T")'" >> "$P/ds.txt"
     A=$((Z + 1)); N=$((N + 1))
   done
-  [ -s "$P/am.wav" ] || { npx remotion render src/index.ts "EC1606-$MA" "$P/am.dang.wav" $TRINH \
-    --codec=wav --gl=swangle && mv "$P/am.dang.wav" "$P/am.wav"; }
+  python3 "$DAY/tools/ghep_am.py" "$DAY/du-lieu/ch$CC.json" "public/am-thanh/ch$CC/so_do.json" $V "$P/am.wav"
   ffmpeg -loglevel error -y -f concat -safe 0 -i "$P/ds.txt" -i "$P/am.wav" \
-    -map 0:v -map 1:a -c:v copy -c:a pcm_s16le "out/EC1606_${MA}_tho.mov"
+    -map 0:v -map 1:a -c:v copy -ac 2 -c:a pcm_s16le "out/EC1606_${MA}_tho.mov"
   sh "$DAY/tools/hoan_thien.sh" "out/EC1606_${MA}_tho.mov" "out/EC1606_$MA.mp4"
   mkdir -p "$GOC/chuong-$CC/chu-de-$V/bai-giang"
   cp "out/EC1606_$MA.mp4" "$GOC/chuong-$CC/chu-de-$V/bai-giang/"
