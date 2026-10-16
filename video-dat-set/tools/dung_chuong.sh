@@ -8,6 +8,8 @@ C=$1; AM=$2
 CC=$(printf '%02d' "$C")
 DAY=$(cd "$(dirname "$0")/.." && pwd)
 GOC=$(dirname "$DAY")
+# lời đọc lệch so_do.json thì dừng ngay, đừng dựng ra video cắt cụt câu
+python3 "$DAY/tools/kiem_am.py" "$AM"
 cd "$DAY/remotion"
 mkdir -p "public/am-thanh/ch$CC" out
 cp "$AM"/*.wav "$AM"/so_do.json "public/am-thanh/ch$CC/"
