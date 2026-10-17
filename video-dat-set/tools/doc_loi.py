@@ -43,12 +43,21 @@ SO_LAN = 3
 DOC_LA = {
     'EC1606': 'E C một sáu không sáu',
     'MVP': 'em vi pi',
+    '4P': 'bốn pê',
+    '7P': 'bảy pê',
+    'STP': 'ét ti pi',
+    'USP': 'iu ét pi',
+    'D2C': 'đi tu xi',
+    'VC': 'vi xi',
+    'OCOP': 'ô cốp',
+    'SUM': 'xăm',
 }
 
 
 def chuan_hoa(van):
+    # theo ranh giới từ: thay chuỗi thô thì "VC" ăn cả vào giữa chữ khác
     for k, v in DOC_LA.items():
-        van = van.replace(k, v)
+        van = re.sub(r'(?<![\w])' + re.escape(k) + r'(?![\w])', v, van)
     return van
 
 
@@ -85,10 +94,24 @@ def main(duong_json, thu_muc_ra):
     tts = Vieneu()
     sr = getattr(tts, 'sample_rate', 48000)
     nghe = WhisperModel('small', device='cpu', compute_type='int8')
+    # Đọc tiếp từ chỗ dừng: máy làm việc có thể khởi động lại giữa chừng (đã
+    # xảy ra ở Chương 4, mất nửa chương), mà mỗi slide tốn vài phút. Slide nào
+    # đã có trong so_do.json VÀ tệp đúng độ dài ghi ở đó thì giữ, không đọc lại.
+    cu = {}
+    duong_so_do = os.path.join(thu_muc_ra, 'so_do.json')
+    if os.path.exists(duong_so_do):
+        for x in json.load(open(duong_so_do, encoding='utf-8'))['slides']:
+            tep = os.path.join(thu_muc_ra, x['tep'])
+            if os.path.exists(tep) and abs(sf.info(tep).duration - x['giay']) <= 0.05:
+                cu[x['tep']] = x
     so_do = []
     for s in du_lieu['slides']:
         ten = 'v%d_s%02d.wav' % (s['video'], s['so'])
         duong = os.path.join(thu_muc_ra, ten)
+        if ten in cu:
+            so_do.append(cu[ten])
+            print('%s đã có, giữ nguyên' % ten, flush=True)
+            continue
         t0 = time.time()
         doan, ghi = [], []
         for cau in chia_cau(chuan_hoa(s['loi_doc'])):

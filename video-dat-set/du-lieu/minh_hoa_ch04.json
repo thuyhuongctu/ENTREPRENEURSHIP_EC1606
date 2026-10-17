@@ -1,0 +1,448 @@
+{
+ "chuong": 4,
+ "ghi_chu": "Hình minh họa 3D đất sét từng slide (khóa = số slide). Biểu tượng: xem BIEU_TUONG trong remotion/src/minh-hoa/BieuTuong.tsx. theo_the = mục i hiện cùng thẻ chữ i; false = các mục hiện lần lượt ngay đầu slide.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Bốn loại hình"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Hữu hạn & vô hạn"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Hợp tác, nhượng quyền"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Vừa với năng lực"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "4.1 · Loại hình & hợp tác"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "4.2 · Chọn cho phù hợp"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ôn tập"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Chủ đề 4.1"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Hộ KD, hợp tác xã"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Doanh nghiệp tư nhân"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Công ty TNHH"
+    },
+    {
+     "bt": "bieu_do_tron",
+     "nhan": "Công ty cổ phần"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Công ty hợp danh"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khien",
+     "nhan": "Hữu hạn"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Vô hạn"
+    },
+    {
+     "bt": "bua_go",
+     "nhan": "Tư cách pháp nhân"
+    },
+    {
+     "bt": "can",
+     "nhan": "Biểu quyết"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Người đại diện"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "cua_hang",
+     "nhan": "Hộ kinh doanh"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Tổ hợp tác"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Hợp tác xã"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ minh họa"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tai_lieu",
+     "nhan": "Quy trình chuẩn SOP"
+    },
+    {
+     "bt": "chia_khoa",
+     "nhan": "Hợp đồng & phí"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Nhược điểm"
+    },
+    {
+     "bt": "cua_hang",
+     "nhan": "Nhượng quyền từng phần"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "mu_tot_nghiep",
+     "nhan": "Startup đại học"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "E-commerce"
+    },
+    {
+     "bt": "xe_tai",
+     "nhan": "D2C"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Kinh tế chia sẻ"
+    },
+    {
+     "bt": "bua_go",
+     "nhan": "Nền pháp lý"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khien",
+     "nhan": "Trách nhiệm, pháp nhân"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Hộ KD, HTX"
+    },
+    {
+     "bt": "chia_khoa",
+     "nhan": "Nhượng quyền, mô hình số"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "Đã học: 4.1"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Đang học: 4.2"
+    },
+    {
+     "bt": "sach",
+     "nhan": "Sắp học: Ôn tập"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Nối chương trước, sau"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Chủ đề 4.2"
+    },
+    {
+     "bt": "can",
+     "nhan": "Năng lực, đăng ký, đạo đức"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Thời gian, vốn, kỹ năng"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ minh họa"
+    },
+    {
+     "bt": "bua_go",
+     "nhan": "Rào cản pháp lý"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Tốc độ, linh hoạt"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "may_tinh",
+     "nhan": "Đăng ký trực tuyến"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Vốn điều lệ"
+    },
+    {
+     "bt": "con_dau",
+     "nhan": "Con dấu"
+    },
+    {
+     "bt": "co",
+     "nhan": "Bảo hộ nhãn hiệu"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "canh_bao",
+     "nhan": "Đúng luật, thiếu đạo đức"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Minh bạch, trung thực"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Du lịch cộng đồng"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Tổ hợp tác, HTX"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Phối hợp nhóm"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "Cập nhật pháp luật"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Chính sách ưu đãi"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Chị Hoa"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "D2C qua Facebook"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Gốm đỏ Vĩnh Long"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Xem lại khi lớn"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Năng lực bản thân"
+    },
+    {
+     "bt": "con_dau",
+     "nhan": "Đăng ký, vốn, con dấu"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Đạo đức"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khien",
+     "nhan": "Câu 1"
+    },
+    {
+     "bt": "bua_go",
+     "nhan": "Câu 2"
+    },
+    {
+     "bt": "can",
+     "nhan": "Câu 3"
+    },
+    {
+     "bt": "chia_khoa",
+     "nhan": "Câu 4"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Câu 5"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Hộ KD bán D2C"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Bạn rủ góp vốn"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Lập TNHH?"
+    },
+    {
+     "bt": "chia_khoa",
+     "nhan": "Nhận nhượng quyền?"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khien",
+     "nhan": "Trách nhiệm quyết định"
+    },
+    {
+     "bt": "cua_hang",
+     "nhan": "Mô hình nhỏ đi xa"
+    },
+    {
+     "bt": "can",
+     "nhan": "Vừa sức, minh bạch"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Việc cần làm"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Giáo trình chính"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tài liệu tham khảo"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,762 @@
+{
+ "chuong": 3,
+ "ghi_chu": "Hình minh họa 3D đất sét từng slide (khóa = số slide). Biểu tượng: xem BIEU_TUONG trong remotion/src/minh-hoa/BieuTuong.tsx. theo_the = mục i hiện cùng thẻ chữ i; false = các mục hiện lần lượt ngay đầu slide.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "Nguồn vốn theo giai đoạn"
+    },
+    {
+     "bt": "gia_ve",
+     "nhan": "Pitch Deck"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Hòa vốn, burn rate, runway"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Lợi nhuận ≠ dòng tiền"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "3.1 · Huy động vốn"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "3.2 · Chỉ số tài chính"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Ôn tập"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "Chủ đề 3.1"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Câu hỏi cần trả lời"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "heo_dat",
+     "nhan": "Giai đoạn thai nghén"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Bootstrapping"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Lợi ích"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Nhược điểm"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "hop_banh",
+     "nhan": "Có sản phẩm, khách trả tiền"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Cá nhân giàu kinh nghiệm"
+    },
+    {
+     "bt": "sach",
+     "nhan": "Kinh nghiệm & mạng lưới"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Giới thiệu đối tác"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Mô hình đã chứng minh"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Vốn lớn hơn nhiều"
+    },
+    {
+     "bt": "bieu_do_tron",
+     "nhan": "Đổi lại: cổ phần"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Thoái vốn 5-7 năm"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "trung_tam",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Dự án"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Nhiều người"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Số tiền nhỏ"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Câu chuyện cảm xúc"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Ủng hộ"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do_tron",
+     "nhan": "Equity"
+    },
+    {
+     "bt": "can",
+     "nhan": "Valuation"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Định giá quá cao"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Định giá quá thấp"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tai_lieu",
+     "nhan": "Vay nợ"
+    },
+    {
+     "bt": "bieu_do_tron",
+     "nhan": "Vốn cổ phần"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Khó vay ngân hàng"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Equity, thiên thần, crowdfunding"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "gia_ve",
+     "nhan": "Ngắn gọn, thuyết phục"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Năm câu hỏi"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Thiếu một mảnh"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "gia_ve",
+     "nhan": "Các slide"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Trang tài chính"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Không la liệt số liệu"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Biểu đồ tăng trưởng"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Thẩm định"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Số liệu có căn cứ"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Đàm phán"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Biết giới hạn"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bat_tay",
+     "nhan": "Nhà đầu tư phù hợp"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Chọn sai: rủi ro hơn"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "LinkedIn"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Linh hoạt, nhanh"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Tăng trưởng vượt bậc"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Kể đúng câu chuyện"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Máy sấy 10 triệu"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Vay người thân"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Vay ngân hàng"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Crowdfunding"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ minh họa"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "canh_bao",
+     "nhan": "Che giấu số liệu xấu"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Thẩm định sẽ lộ"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Trung thực, kỷ luật"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "Đúng giai đoạn"
+    },
+    {
+     "bt": "gia_ve",
+     "nhan": "Pitch Deck tốt"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Đúng nhà đầu tư"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "Đã học: 3.1"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "Đang học: 3.2"
+    },
+    {
+     "bt": "sach",
+     "nhan": "Sắp học: Ôn tập"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Nối chương trước, sau"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do",
+     "nhan": "Chủ đề 3.2"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Hòa vốn, runway, dòng tiền"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Định phí"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Biến phí"
+    },
+    {
+     "bt": "can",
+     "nhan": "Phân biệt rõ"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Gộp lẫn là sai"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "may_tinh",
+     "nhan": "Công thức hòa vốn"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ví dụ"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "50 nghìn → 200 sp"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Dưới 200 sp: lỗ"
+    }
+   ]
+  },
+  "23": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "hop_banh",
+     "nhan": "Giảm biến phí"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Biên lãi tăng"
+    },
+    {
+     "bt": "bat_tay",
+     "nhan": "Đàm phán giá"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Hòa vốn sớm"
+    }
+   ]
+  },
+  "24": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do",
+     "nhan": "Trục ngang: sản lượng"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Giao điểm hòa vốn"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Trái giao điểm: lỗ"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Quá xa: rủi ro"
+    }
+   ]
+  },
+  "25": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ngon_lua",
+     "nhan": "Burn rate"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Runway"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "Ví dụ"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Gọi vốn trước khi cạn"
+    }
+   ]
+  },
+  "26": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Lợi nhuận gộp"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Lợi nhuận ròng"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Ròng âm kéo dài"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Chi phí vận hành"
+    }
+   ]
+  },
+  "27": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tai_lieu",
+     "nhan": "Lãi trên sổ sách"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Nguyên nhân"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Dòng tiền"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Kế hoạch dòng tiền"
+    }
+   ]
+  },
+  "28": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "may_tinh",
+     "nhan": "Nhập dữ liệu"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Hàm SUM"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Tự cập nhật"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Thấy ngay tác động"
+    }
+   ]
+  },
+  "29": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "xuc_xac",
+     "nhan": "Ba kịch bản"
+    },
+    {
+     "bt": "may_tinh",
+     "nhan": "Google Sheets"
+    },
+    {
+     "bt": "bang_mau",
+     "nhan": "Canva"
+    }
+   ]
+  },
+  "30": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "canh_bao",
+     "nhan": "Thổi phồng: sai lầm"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Dòng tiền lộ sự thật"
+    },
+    {
+     "bt": "ngon_lua",
+     "nhan": "Đốt tiền có kế hoạch"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Minh bạch"
+    }
+   ]
+  },
+  "31": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "may_tinh",
+     "nhan": "Dashboard dòng tiền"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Chị Hoa"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "~334 gói hòa vốn"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Ví dụ minh họa"
+    }
+   ]
+  },
+  "32": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "200 triệu tiền mặt"
+    },
+    {
+     "bt": "ngon_lua",
+     "nhan": "Đốt 15 triệu/tháng"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Runway ≈ 13 tháng"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Ví dụ minh họa"
+    }
+   ]
+  },
+  "33": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Hòa vốn"
+    },
+    {
+     "bt": "dong_ho_cat",
+     "nhan": "Burn rate, runway"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Dòng tiền, minh bạch"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Tự đánh giá"
+    }
+   ]
+  },
+  "34": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "Câu 1"
+    },
+    {
+     "bt": "bieu_do_tron",
+     "nhan": "Câu 2"
+    },
+    {
+     "bt": "gia_ve",
+     "nhan": "Câu 3"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Câu 4"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Câu 5"
+    }
+   ]
+  },
+  "35": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Mở cơ sở chế biến"
+    },
+    {
+     "bt": "canh_bao",
+     "nhan": "Cần vốn lớn"
+    },
+    {
+     "bt": "tui_tien",
+     "nhan": "Chọn nguồn vốn?"
+    },
+    {
+     "bt": "gia_ve",
+     "nhan": "Trang tài chính"
+    }
+   ]
+  },
+  "36": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tui_tien",
+     "nhan": "Vốn đúng giai đoạn"
+    },
+    {
+     "bt": "gia_ve",
+     "nhan": "Pitching có căn cứ"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Đọc đúng chỉ số"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Việc cần làm"
+    }
+   ]
+  },
+  "37": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Giáo trình chính"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Tài liệu tham khảo"
+    }
+   ]
+  }
+ }
+}

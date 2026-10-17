@@ -1,0 +1,489 @@
+{
+ "chuong": 3,
+ "slides": [
+  {
+   "video": 1,
+   "so": 1,
+   "tieu_de": "TRANG BÌA",
+   "tren_slide": [
+    "CHƯƠNG 3: MỘT SỐ KỸ THUẬT HUY ĐỘNG VỐN",
+    "Học phần: Khởi sự doanh nghiệp (EC1606)",
+    "Khoa: Kinh doanh và Luật",
+    "Trường Đại học Công nghệ Kỹ thuật Vĩnh Long"
+   ],
+   "goi_y_hinh": "Hương AI đứng giảng (assets/huong-ai/HUONG_AI_GIANG_BAI.jpg) + chú thích \"nhân vật minh họa do AI tạo\"",
+   "loi_doc": "Cô xin chào các em. Cô là Đỗ Thùy Hương, giảng viên Khoa Kinh doanh và Luật, Trường Đại học Công nghệ Kỹ thuật Vĩnh Long. Chào mừng các em quay lại với học phần Khởi sự doanh nghiệp. Ở Chương hai, chúng ta đã học cách đánh giá một cơ hội kinh doanh: phân biệt ý tưởng với cơ hội thực sự, xác định khách hàng mục tiêu qua Customer Persona, rồi đánh giá tính khả thi trước khi triển khai. Hôm nay, chúng ta bước sang Chương ba — Một số kỹ thuật huy động vốn."
+  },
+  {
+   "video": 1,
+   "so": 2,
+   "tieu_de": "MỤC TIÊU CHƯƠNG 3",
+   "tren_slide": [
+    "Phân biệt được nguồn vốn theo từng giai đoạn",
+    "Xây dựng được Pitch Deck gọi vốn thuyết phục",
+    "Tính được điểm hòa vốn, burn rate và runway",
+    "Phân biệt được lợi nhuận và dòng tiền"
+   ],
+   "goi_y_hinh": "Hương AI đứng toàn thân (assets/huong-ai/HUONG_AI_DUNG.jpg) + chú thích; dấu tick trước mỗi mục tiêu",
+   "loi_doc": "Sau chương này, cô mong các em làm được bốn việc. Một, phân biệt được nguồn vốn phù hợp với từng giai đoạn của dự án. Hai, xây dựng được một Pitch Deck gọi vốn thuyết phục. Ba, tính được điểm hòa vốn, burn rate và runway. Bốn, phân biệt được lợi nhuận và dòng tiền."
+  },
+  {
+   "video": 1,
+   "so": 3,
+   "tieu_de": "NỘI DUNG CHƯƠNG 3",
+   "tren_slide": [
+    "1. 3.1. Huy động vốn đầu tư và các kỹ thuật huy động vốn",
+    "2. 3.2. Các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm",
+    "3. Ôn tập – Tình huống – Tổng kết chương"
+   ],
+   "goi_y_hinh": "Danh sách đánh số 1-2-3",
+   "loi_doc": "Chương ba gồm hai chủ đề. Chủ đề ba chấm một: huy động vốn đầu tư và các kỹ thuật huy động vốn — nguồn vốn theo giai đoạn, pitching, Pitch Deck, vốn cổ phần và định giá. Chủ đề ba chấm hai: các chỉ số tài chính cốt yếu mà nhà đầu tư quan tâm. Cuối chương có câu hỏi ôn tập và một tình huống vận dụng."
+  },
+  {
+   "video": 1,
+   "so": 4,
+   "tieu_de": "3.1. HUY ĐỘNG VỐN ĐẦU TƯ VÀ CÁC KỸ THUẬT HUY ĐỘNG VỐN",
+   "tren_slide": [
+    "Chủ đề 3.1: Cách tiếp cận nguồn vốn và thuyết phục nhà đầu tư.",
+    "Trả lời câu hỏi: Cần tiền thì lấy ở đâu, và thuyết phục ai đưa tiền."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 1/15); nhãn nhỏ: —",
+   "loi_doc": "Chương ba là chương ngắn nhất của học phần, chỉ hai tiết lý thuyết, nhưng lại là chương nhiều bạn e ngại nhất vì đụng đến tiền và số liệu. Chủ đề đầu tiên — huy động vốn đầu tư và các kỹ thuật huy động vốn — sẽ trả lời câu hỏi: khi đã có một cơ hội kinh doanh tốt, lấy tiền ở đâu để biến nó thành hiện thực, và làm sao thuyết phục người khác đưa tiền cho mình? Chủ đề sau của chương, các em sẽ học đọc những chỉ số tài chính nhà đầu tư nhìn vào trước khi rót vốn. Nhưng trước khi có chỉ số để đọc, phải có vốn để huy động đã — và đó là nội dung hôm nay."
+  },
+  {
+   "video": 1,
+   "so": 5,
+   "tieu_de": "GIAI ĐOẠN ĐẦU: VỐN TỰ CÓ, GIA ĐÌNH, BOOTSTRAPPING",
+   "tren_slide": [
+    "Giai đoạn thai nghén: Vốn tự có, vay gia đình/bạn bè.",
+    "'Bootstrapping': Tự xoay vốn bằng doanh thu, hạn chế vay mượn.",
+    "Lợi ích: Giữ quyền kiểm soát, không pha loãng cổ phần sớm.",
+    "Nhược điểm: Tốc độ tăng trưởng chậm hơn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 2/15); nhãn nhỏ: Nguồn vốn theo giai đoạn",
+   "loi_doc": "Nguồn vốn của một startup hầu như luôn đi theo từng giai đoạn phát triển, không phải lúc nào cũng gõ cửa ngân hàng xin vay là xong. Giai đoạn thai nghén ban đầu — khi dự án mới chỉ là ý tưởng hoặc sản phẩm mẫu thô — nguồn vốn phổ biến nhất là vốn tự có, vay gia đình và bạn bè, hoặc một cách làm được khuyến khích gọi là 'bootstrapping': tự xoay vốn bằng chính doanh thu ban đầu, chi tiêu tiết kiệm, không vay mượn nhiều. Bootstrapping được khuyến khích ở giai đoạn này vì hai lý do: giúp người sáng lập giữ toàn quyền quyết định, không bị pha loãng cổ phần quá sớm khi dự án chưa chứng minh được gì; và buộc dự án phải chứng minh khả năng sinh lời ngay từ quy mô nhỏ, trước khi nghĩ đến mở rộng bằng tiền người khác. Nhược điểm là tốc độ tăng trưởng chậm hơn, vì mọi đồng vốn đều phải tự kiếm ra trước khi chi tiêu tiếp."
+  },
+  {
+   "video": 1,
+   "so": 6,
+   "tieu_de": "THIÊN THẦN KINH DOANH",
+   "tren_slide": [
+    "Xuất hiện khi đã có sản phẩm và khách hàng trả tiền.",
+    "Cá nhân giàu kinh nghiệm, đầu tư vốn nhỏ giai đoạn sớm.",
+    "Mang theo cả kinh nghiệm và mạng lưới quan hệ.",
+    "Có thể giới thiệu khách hàng, nhà cung cấp, nhà đầu tư sau."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 3/15); nhãn nhỏ: Nguồn vốn theo giai đoạn",
+   "loi_doc": "Khi dự án đã có sản phẩm thật, bắt đầu có khách hàng trả tiền và cần thêm vốn để mở rộng sản xuất hay marketing, nguồn vốn từ các 'thiên thần kinh doanh' — business angels — thường xuất hiện. Đây là những cá nhân giàu kinh nghiệm, thường đã từng kinh doanh hoặc đầu tư thành công, bỏ vốn nhỏ ở giai đoạn sớm đổi lại một phần sở hữu, và quan trọng không kém số tiền là kinh nghiệm cùng mạng lưới quan hệ họ mang theo. Một thiên thần kinh doanh tốt có thể giới thiệu khách hàng, nhà cung cấp, hay chính các nhà đầu tư vòng sau cho startup — giá trị của họ không chỉ nằm ở con số trong tài khoản."
+  },
+  {
+   "video": 1,
+   "so": 7,
+   "tieu_de": "QUỸ ĐẦU TƯ MẠO HIỂM (VENTURE CAPITAL)",
+   "tren_slide": [
+    "Vào cuộc khi mô hình đã chứng minh, cần mở rộng lớn.",
+    "Đầu tư số tiền lớn hơn nhiều so với thiên thần kinh doanh.",
+    "Đổi lại: Tỷ lệ sở hữu lớn, tăng trưởng cao, báo cáo định kỳ.",
+    "Kỳ vọng rõ thời điểm thoái vốn (thường 5-7 năm)."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 4/15); nhãn nhỏ: Nguồn vốn theo giai đoạn",
+   "loi_doc": "Khi mô hình kinh doanh đã được chứng minh và dự án cần mở rộng quy mô lớn, các quỹ đầu tư mạo hiểm, Venture Capital, mới thường vào cuộc. Đặc điểm của VC là đầu tư số tiền lớn hơn nhiều so với thiên thần kinh doanh, nhưng đổi lại yêu cầu tỷ lệ sở hữu đáng kể, tốc độ tăng trưởng cao, báo cáo tài chính định kỳ chặt chẽ, và kỳ vọng rõ ràng về thời điểm họ sẽ thoái vốn — thường sau năm đến bảy năm. Nhận vốn từ VC đồng nghĩa với việc chấp nhận áp lực tăng trưởng lớn hơn hẳn giai đoạn tự thân vận động ban đầu, nên không phải mọi dự án nhỏ, ổn định đều cần hay nên tìm đến VC."
+  },
+  {
+   "video": 1,
+   "so": 8,
+   "tieu_de": "GỌI VỐN CỘNG ĐỒNG (CROWDFUNDING)",
+   "tren_slide": [
+    "Huy động số tiền nhỏ từ rất nhiều người qua nền tảng trực tuyến.",
+    "Đổi lại: Sản phẩm sớm hoặc phần thưởng tượng trưng, không cổ phần.",
+    "Phù hợp dự án có câu chuyện cảm xúc, bản sắc văn hóa mạnh.",
+    "Ví dụ minh họa: Gốm đỏ Vĩnh Long — câu chuyện giữ nghề truyền thống."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 5/15); nhãn nhỏ: Tình huống",
+   "loi_doc": "Ngoài ba nguồn vốn theo giai đoạn trên, có một hướng không hoàn toàn theo tầng bậc mà theo đặc điểm của dự án: gọi vốn cộng đồng — crowdfunding. Đây là cách huy động một số tiền nhỏ từ rất nhiều người ủng hộ qua nền tảng trực tuyến, đổi lại người góp vốn thường nhận sản phẩm sớm hoặc một phần thưởng tượng trưng, không phải cổ phần công ty. Crowdfunding phù hợp đặc biệt với dự án có câu chuyện cảm xúc mạnh, bản sắc văn hóa hay giá trị cộng đồng rõ nét. Lấy ví dụ minh họa dự án gốm đỏ Vĩnh Long — một dự án giả định hiện đại hóa làng nghề gốm đỏ truyền thống: câu chuyện giữ nghề, bảo tồn văn hóa địa phương là chất liệu rất phù hợp để kêu gọi vốn cộng đồng, nơi người góp tiền không chỉ mua một sản phẩm gốm mà còn cảm thấy mình đang góp phần giữ lại một nghề truyền thống. Đây là ví dụ dựng ra để giảng dạy, không phải số liệu hay dự án thật."
+  },
+  {
+   "video": 1,
+   "so": 9,
+   "tieu_de": "VỐN CỔ PHẦN (EQUITY) VÀ ĐỊNH GIÁ DOANH NGHIỆP",
+   "tren_slide": [
+    "Equity: Bán một phần quyền sở hữu, không trả lãi như vay.",
+    "Valuation: Ước tính giá trị dự án dựa trên doanh thu, tăng trưởng.",
+    "Định giá quá cao: Nhà đầu tư chùn tay vì rủi ro không tương xứng.",
+    "Định giá quá thấp: Người sáng lập mất quyền sở hữu không cần thiết."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 6/15); nhãn nhỏ: —",
+   "loi_doc": "Khi huy động vốn bằng cách bán một phần quyền sở hữu doanh nghiệp, thay vì vay và trả lãi như vay ngân hàng, startup đang huy động 'vốn cổ phần' — equity. Để bán cổ phần công bằng, cần xác định 'định giá doanh nghiệp' — valuation — quá trình ước tính giá trị hiện tại và tiềm năng của dự án, thường dựa trên doanh thu hiện có, tốc độ tăng trưởng và quy mô thị trường mục tiêu. Định giá quá cao sẽ khiến nhà đầu tư chùn tay vì thấy rủi ro không tương xứng lợi ích; định giá quá thấp lại khiến người sáng lập mất nhiều quyền sở hữu hơn cần thiết để đổi lấy cùng một số tiền. Vì vậy, định giá hợp lý luôn là kết quả của một quá trình đàm phán có căn cứ số liệu, chứ không phải một con số tùy ý đưa ra."
+  },
+  {
+   "video": 1,
+   "so": 10,
+   "tieu_de": "VAY NỢ VÀ BÁN VỐN CỔ PHẦN: KHÁC NHAU RA SAO",
+   "tren_slide": [
+    "Vay nợ: Phải trả gốc + lãi đúng hạn, giữ nguyên quyền sở hữu.",
+    "Vốn cổ phần: Không phải trả lại, nhưng chia sẻ sở hữu và quyết định.",
+    "Startup ít vốn, rủi ro cao thường khó vay ngân hàng lãi suất tốt.",
+    "Vì vậy equity, thiên thần kinh doanh, crowdfunding phổ biến hơn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 7/15); nhãn nhỏ: —",
+   "loi_doc": "Một điểm cần phân biệt rõ là vay nợ và bán vốn cổ phần không phải hai lựa chọn giống nhau về bản chất. Vay nợ — kể cả vay ngân hàng hay vay người thân có lãi — bắt buộc phải trả lại đúng gốc cộng lãi theo đúng hạn, bất kể dự án thành công hay không; nhưng người vay không phải chia sẻ quyền sở hữu hay quyền quyết định. Bán vốn cổ phần thì ngược lại: nếu dự án thất bại, nhà đầu tư cổ phần cùng chịu rủi ro mất tiền, không có nghĩa vụ phải trả lại; đổi lại, người sáng lập phải chia sẻ một phần quyền sở hữu và thường cả quyền quyết định các vấn đề lớn. Một startup ít vốn, rủi ro cao, thường khó vay nợ với lãi suất hợp lý vì ngân hàng e ngại dự án chưa chứng minh được gì — đây là lý do vốn cổ phần, thiên thần kinh doanh hay crowdfunding thường phổ biến hơn vay ngân hàng truyền thống ở giai đoạn đầu khởi nghiệp."
+  },
+  {
+   "video": 1,
+   "so": 11,
+   "tieu_de": "PITCHING: THUYẾT TRÌNH THUYẾT PHỤC NHÀ ĐẦU TƯ",
+   "tren_slide": [
+    "Thuyết trình ngắn gọn, thuyết phục trong thời gian rất hạn chế.",
+    "Trả lời 5 câu hỏi: Vấn đề, giải pháp, thị trường, mô hình, đội ngũ.",
+    "Thiếu một mảnh, bài pitching khó thuyết phục dù trình bày hay."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 8/15); nhãn nhỏ: —",
+   "loi_doc": "Khi đã xác định được nguồn vốn phù hợp để tiếp cận, kỹ thuật tiếp theo cần có là 'pitching' — thuyết trình ngắn gọn, thuyết phục về dự án trong thời gian rất hạn chế, có khi chỉ vài phút. Một bài pitching tốt thường trả lời liên tiếp năm câu hỏi mà nhà đầu tư nào cũng muốn biết: dự án giải quyết vấn đề gì, giải pháp là gì, thị trường lớn đến đâu, mô hình kiếm tiền ra sao, và đội ngũ thực hiện có đủ năng lực không. Thiếu một trong năm mảnh này, bài pitching dù trình bày hay đến đâu cũng khó thuyết phục, vì nhà đầu tư luôn cần một câu chuyện đầy đủ, không phải một ý tưởng hay nhưng rời rạc."
+  },
+  {
+   "video": 1,
+   "so": 12,
+   "tieu_de": "PITCH DECK: CẤU TRÚC HỒ SƠ GỌI VỐN",
+   "tren_slide": [
+    "Các slide: Vấn đề, giải pháp, thị trường, mô hình, đội ngũ, tài chính.",
+    "Trang tài chính: Dự báo doanh thu, nhu cầu vốn, lộ trình sinh lời.",
+    "Tránh liệt kê la liệt số liệu chi tiết gây rối mắt.",
+    "Biểu đồ cột tăng trưởng doanh thu thuyết phục hơn bảng số liệu."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 9/15); nhãn nhỏ: —",
+   "loi_doc": "Để chuẩn bị cho buổi pitching, startup cần một bộ hồ sơ gọi vốn — Pitch Deck — trình bày đúng những câu hỏi nêu trên dưới dạng slide trực quan: slide vấn đề, slide giải pháp, slide quy mô thị trường, slide mô hình kinh doanh, slide đội ngũ, và quan trọng không kém là slide tài chính. Trang tài chính trong Pitch Deck nên tập trung vào ba thứ: dự báo doanh thu trong một vài năm tới, nhu cầu vốn cụ thể — gọi bao nhiêu tiền, dùng vào việc gì — và lộ trình sinh lời, chứ không phải liệt kê la liệt những con số chi tiết khiến nhà đầu tư rối mắt. Một biểu đồ cột thể hiện doanh thu tăng trưởng theo từng giai đoạn thời gian thường thuyết phục hơn hẳn một bảng số liệu dày đặc, vì nhà đầu tư thường chỉ có vài phút để lướt qua hàng chục hồ sơ gọi vốn mỗi tuần."
+  },
+  {
+   "video": 1,
+   "so": 13,
+   "tieu_de": "THẨM ĐỊNH VÀ ĐÀM PHÁN",
+   "tren_slide": [
+    "Due diligence: Nhà đầu tư kiểm tra kỹ số liệu, hợp đồng, pháp lý.",
+    "Mọi con số trong Pitch Deck phải có căn cứ thật.",
+    "Đàm phán: Định giá, tỷ lệ sở hữu, ghế hội đồng quản trị.",
+    "Cần chuẩn bị kỹ và hiểu rõ giới hạn trước khi đàm phán."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 10/15); nhãn nhỏ: —",
+   "loi_doc": "Sau buổi pitching, nếu nhà đầu tư thấy dự án có triển vọng, bước tiếp theo là 'thẩm định và đàm phán'. Thẩm định — due diligence — là quá trình nhà đầu tư kiểm tra kỹ các số liệu, hợp đồng, tình trạng pháp lý của dự án trước khi quyết định rót vốn thật; đây là lúc mọi con số được trình bày trong Pitch Deck phải có căn cứ, vì sai lệch giữa lời nói và thực tế sẽ bị phát hiện ngay. Đàm phán diễn ra song song, xoay quanh định giá doanh nghiệp và quyền lợi của các bên — ai được bao nhiêu phần trăm sở hữu, nhà đầu tư có ghế trong hội đồng quản trị hay không, có điều khoản ưu tiên khi thoái vốn hay không. Người khởi nghiệp cần chuẩn bị kỹ số liệu và hiểu rõ giới hạn mình chấp nhận được trước khi ngồi vào bàn đàm phán, để không bị cuốn theo những điều khoản bất lợi chỉ vì áp lực cần tiền ngay."
+  },
+  {
+   "video": 1,
+   "so": 14,
+   "tieu_de": "CHỌN ĐÚNG NHÀ ĐẦU TƯ PHÙ HỢP",
+   "tren_slide": [
+    "Nhà đầu tư phù hợp: Không chỉ có tiền, mà hiểu lĩnh vực, cùng tầm nhìn.",
+    "Chọn sai nhà đầu tư đôi khi rủi ro hơn thiếu vốn.",
+    "LinkedIn: Xây uy tín cá nhân, tìm cố vấn, kết nối nhà đầu tư."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 11/15); nhãn nhỏ: —",
+   "loi_doc": "Một điều nhiều startup trẻ bỏ qua: không phải cứ có tiền là một 'nhà đầu tư phù hợp'. Nhà đầu tư phù hợp là người không chỉ có vốn, mà còn hiểu lĩnh vực của mình, có mạng lưới hỗ trợ được, và quan trọng nhất là chia sẻ cùng tầm nhìn dài hạn với người sáng lập — vì sau khi nhận tiền, hai bên còn phải làm việc cùng nhau nhiều năm. Chọn sai nhà đầu tư — người chỉ nhìn lợi nhuận ngắn hạn, hoặc can thiệp sai cách vào vận hành — đôi khi còn rủi ro hơn là thiếu vốn. Để tìm và kết nối với những nhà đầu tư như vậy, các mạng xã hội nghề nghiệp như LinkedIn là công cụ hữu ích: giúp người khởi nghiệp xây dựng uy tín cá nhân, chia sẻ tiến độ dự án công khai, tìm kiếm cố vấn, và tiếp cận trực tiếp nhà đầu tư trước khi cần một buổi gặp mặt chính thức."
+  },
+  {
+   "video": 1,
+   "so": 15,
+   "tieu_de": "LỢI THẾ CỦA STARTUP KHI GỌI VỐN",
+   "tren_slide": [
+    "Linh hoạt, ra quyết định nhanh, câu chuyện tăng trưởng hấp dẫn.",
+    "Nhà đầu tư mạo hiểm tìm tiềm năng tăng trưởng vượt bậc.",
+    "Startup nhỏ vẫn thuyết phục được vốn nếu kể đúng câu chuyện."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 12/15); nhãn nhỏ: —",
+   "loi_doc": "Khi so sánh với các công ty lớn đã ổn định, một lợi thế rõ của startup khi gọi vốn là sự linh hoạt, tốc độ ra quyết định nhanh và một câu chuyện tăng trưởng hấp dẫn nếu trình bày tốt. Nhà đầu tư mạo hiểm, đặc biệt, thường tìm kiếm chính tiềm năng tăng trưởng vượt bậc này — nhân đôi, nhân ba quy mô trong vài năm — chứ không phải một doanh nghiệp ổn định nhưng tăng trưởng chậm như các công ty lớn. Đây là lý do một startup nhỏ, chưa có nhiều tài sản, vẫn có thể thuyết phục được vốn nếu kể đúng câu chuyện tăng trưởng và cho thấy mô hình kinh doanh có khả năng nhân rộng nhanh."
+  },
+  {
+   "video": 1,
+   "so": 16,
+   "tieu_de": "CHỊ HOA CHỌN NGUỒN VỐN CHO MÁY SẤY",
+   "tren_slide": [
+    "Cần 10 triệu đồng mua máy sấy: Ba lựa chọn: thân, ngân hàng, cộng đồng.",
+    "Vay người thân: Nhanh, không lãi, nhưng giới hạn số tiền.",
+    "Vay ngân hàng: Lãi cố định, phải trả đúng hạn.",
+    "Crowdfunding từ khách hàng quen: Hợp quy mô nhỏ, rủi ro thấp.",
+    "Ví dụ minh họa để giảng dạy, không phải số liệu thật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 13/15); nhãn nhỏ: Tình huống",
+   "loi_doc": "Quay lại ví dụ chị Hoa với sản phẩm khoai lang chế biến ở Bình Tân: giả sử chị cần 10 triệu đồng mua một máy sấy mới để tăng sản lượng. Với số tiền này, chị có ít nhất ba lựa chọn: vay người thân — nhanh, không lãi, nhưng giới hạn ở số tiền người thân có thể cho mượn; vay ngân hàng — lãi suất cố định, phải trả đúng hạn bất kể bán hàng tốt hay không; hoặc gọi vốn cộng đồng từ chính những khách hàng đã tin tưởng sản phẩm, đổi lại tặng họ vài gói sản phẩm mới. Với quy mô nhỏ, rủi ro thấp và có sẵn khách hàng tin tưởng, crowdfunding hoặc vay người thân thường hợp lý hơn gọi vốn cổ phần hay tiếp cận quỹ đầu tư mạo hiểm — nguồn vốn phải tương xứng với quy mô và giai đoạn của dự án, không phải cứ nguồn nào nghe 'oai' hơn thì tốt hơn. Đây là ví dụ minh họa để dễ hình dung, không phải số liệu hay nhân vật thật."
+  },
+  {
+   "video": 1,
+   "so": 17,
+   "tieu_de": "TRUNG THỰC VỚI NHÀ ĐẦU TƯ",
+   "tren_slide": [
+    "Che giấu số liệu xấu để dễ gọi vốn là sai lầm nghiêm trọng.",
+    "Sự thật sẽ lộ ra ở bước thẩm định hoặc khi vận hành thực tế.",
+    "Giá trị cốt lõi của người sáng lập: trung thực và kỷ luật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 14/15); nhãn nhỏ: —",
+   "loi_doc": "Dù chọn nguồn vốn nào, một nguyên tắc không đổi là trung thực với nhà đầu tư về tình trạng thật của dự án. Che giấu số liệu xấu, phóng đại doanh thu dự kiến để dễ gọi vốn hơn là một sai lầm nghiêm trọng về đạo đức kinh doanh, vì sự thật luôn lộ ra ở bước thẩm định hoặc muộn hơn khi vận hành thực tế, và khi đó niềm tin đã mất gần như không thể xây lại. Giá trị cốt lõi của người sáng lập, qua con mắt nhà đầu tư, nằm nhiều ở sự trung thực và kỷ luật này, không kém gì ý tưởng hay sản phẩm."
+  },
+  {
+   "video": 1,
+   "so": 18,
+   "tieu_de": "TỔNG KẾT CHỦ ĐỀ 3.1",
+   "tren_slide": [
+    "Chọn nguồn vốn theo đúng giai đoạn và quy mô dự án.",
+    "Pitch Deck tốt: Rõ vấn đề, giải pháp, thị trường, tài chính.",
+    "Chọn đúng nhà đầu tư và giữ trung thực xuyên suốt.",
+    "Làm bài tập tự đánh giá cuối chủ đề này trước khi tiếp tục."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.1 (mục 15/15); nhãn nhỏ: —",
+   "loi_doc": "Tóm lại, chủ đề này cho các em ba điều cốt lõi: một, nguồn vốn nên chọn theo đúng giai đoạn và quy mô của dự án — tự có hay bootstrapping lúc mới bắt đầu, thiên thần kinh doanh khi đã có khách hàng, quỹ đầu tư mạo hiểm khi cần mở rộng lớn, và crowdfunding khi dự án có câu chuyện cộng đồng mạnh; hai, một bài pitching và Pitch Deck tốt phải trả lời rõ vấn đề, giải pháp, thị trường, mô hình kiếm tiền và đội ngũ, với trang tài chính tập trung vào dự báo doanh thu và nhu cầu vốn, không phải liệt kê số liệu rối mắt; ba, chọn nhà đầu tư phù hợp và giữ trung thực xuyên suốt quá trình quan trọng không kém số tiền gọi được. Trước khi sang chủ đề tiếp theo về các chỉ số tài chính cốt yếu, các em làm bài tập tự đánh giá cuối chủ đề này để chắc mình đã nắm vững các kỹ thuật huy động vốn vừa học."
+  },
+  {
+   "video": 2,
+   "so": 19,
+   "tieu_de": "CHÚNG TA ĐANG Ở ĐÂU",
+   "tren_slide": [
+    "✓ Đã học — Chủ đề 3.1: Nguồn vốn theo giai đoạn; pitching và Pitch Deck; vốn cổ phần, định giá, crowdfunding; chọn đúng nhà đầu tư.",
+    "▶ Đang học — Chủ đề 3.2: Định phí, biến phí, điểm hòa vốn; burn rate, runway; lợi nhuận và dòng tiền; minh bạch tài chính.",
+    "○ Sắp học — Ôn tập và tình huống: Năm câu hỏi ôn tập, tình huống minh họa chị Hoa và tổng kết chương.",
+    "Mạch nối với chương trước, sau: Chương 2 chọn được cơ hội; Chương 3 tìm vốn và đọc số liệu; Chương 4 chọn loại hình doanh nghiệp."
+   ],
+   "goi_y_hinh": "Trục tiến độ chương: chủ đề 3.1 đã học, 3.2 đang học, ôn tập sắp học",
+   "loi_doc": "Chúng ta đang ở đâu? Chủ đề ba chấm một đã giúp các em chọn nguồn vốn theo giai đoạn — tự có, thiên thần kinh doanh, quỹ mạo hiểm hay crowdfunding — và chuẩn bị một Pitch Deck thuyết phục. Bây giờ là chủ đề ba chấm hai: những chỉ số tài chính nhà đầu tư theo dõi. Cuối video là ôn tập và một tình huống vận dụng."
+  },
+  {
+   "video": 2,
+   "so": 20,
+   "tieu_de": "3.2. CÁC CHỈ SỐ TÀI CHÍNH CỐT YẾU MÀ NHÀ ĐẦU TƯ QUAN TÂM",
+   "tren_slide": [
+    "Chủ đề 3.2: Đọc các chỉ số tài chính nhà đầu tư theo dõi sau khi rót vốn.",
+    "Định phí, biến phí, điểm hòa vốn, burn rate, runway, dòng tiền."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 1/14); nhãn nhỏ: —",
+   "loi_doc": "Gọi được vốn chỉ là bước đầu; nhà đầu tư, sau khi rót vốn, sẽ liên tục theo dõi một vài chỉ số tài chính cốt yếu để biết dự án có đang đi đúng hướng hay không. Chủ đề thứ hai, cũng là chủ đề cuối của Chương ba, sẽ trang bị cho các em đúng những chỉ số đó: định phí, biến phí, điểm hòa vốn, tốc độ tiêu tiền, thời gian tồn tại và dòng tiền. Đây là chủ đề nhiều bạn e ngại nhất vì có công thức và con số, nhưng thực ra chỉ cần nắm chắc vài chỉ số cốt lõi và biết dùng một bảng tính đơn giản, phần còn lại sẽ dễ hơn nhiều so với tưởng tượng."
+  },
+  {
+   "video": 2,
+   "so": 21,
+   "tieu_de": "ĐỊNH PHÍ VÀ BIẾN PHÍ",
+   "tren_slide": [
+    "Định phí: Phải trả dù có bán hàng hay không (ví dụ thuê mặt bằng).",
+    "Biến phí: Thay đổi theo số lượng sản phẩm (ví dụ nguyên liệu).",
+    "Phân biệt rõ hai loại chi phí là bước đầu tiên bắt buộc.",
+    "Gộp lẫn hai loại sẽ làm sai toàn bộ phép tính tài chính sau đó."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 2/14); nhãn nhỏ: —",
+   "loi_doc": "Hai khái niệm nền tảng nhất của quản trị tài chính khởi nghiệp là định phí và biến phí. Định phí — fixed costs — là những chi phí phải trả đều đặn dù bán được hàng hay không, ví dụ tiền thuê mặt bằng, lương nhân viên cố định, tiền khấu hao máy móc. Biến phí — variable costs — thay đổi trực tiếp theo số lượng sản phẩm được làm ra hoặc bán đi, ví dụ nguyên liệu, bao bì, hoa hồng bán hàng tính theo từng đơn. Phân biệt rõ hai loại chi phí này là bước đầu tiên bắt buộc trước khi tính được bất kỳ chỉ số tài chính nào khác, vì gộp lẫn định phí với biến phí sẽ làm sai toàn bộ các phép tính phía sau."
+  },
+  {
+   "video": 2,
+   "so": 22,
+   "tieu_de": "ĐIỂM HÒA VỐN: CÔNG THỨC VÀ VÍ DỤ",
+   "tren_slide": [
+    "Điểm hòa vốn (sản phẩm) = Định phí ÷ Biên lãi gộp mỗi sản phẩm.",
+    "Ví dụ: Định phí 10 triệu, giá bán 100 nghìn, biến phí 50 nghìn.",
+    "Biên lãi gộp = 50 nghìn/sản phẩm → hòa vốn ở 200 sản phẩm.",
+    "Bán dưới 200 sản phẩm: Lỗ. Bán trên 200: có lãi."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 3/14); nhãn nhỏ: Công thức & ví dụ",
+   "loi_doc": "Từ định phí và biến phí, ta tính được 'điểm hòa vốn' — break-even point — là mức doanh thu hoặc số lượng sản phẩm bán ra vừa đủ để bù hết chi phí, lợi nhuận bằng không. Công thức đơn giản: điểm hòa vốn, tính theo số lượng sản phẩm, bằng định phí chia cho biên lãi gộp mỗi sản phẩm — tức giá bán trừ biến phí mỗi sản phẩm. Lấy ví dụ dựng ra để giảng dạy: một dự án có định phí 10 triệu đồng mỗi tháng, giá bán 100 nghìn đồng một sản phẩm, biến phí 50 nghìn đồng một sản phẩm. Biên lãi gộp mỗi sản phẩm là 100 nghìn trừ 50 nghìn, bằng 50 nghìn đồng. Điểm hòa vốn là 10 triệu chia cho 50 nghìn, bằng 200 sản phẩm mỗi tháng — bán ít hơn 200 sản phẩm thì còn lỗ, bán nhiều hơn mới bắt đầu có lãi."
+  },
+  {
+   "video": 2,
+   "so": 23,
+   "tieu_de": "GIẢM BIẾN PHÍ, ĐIỂM HÒA VỐN GIẢM THEO",
+   "tren_slide": [
+    "Biến phí giảm (mua nguyên liệu giá tốt hơn) → biên lãi gộp tăng.",
+    "Ví dụ: Biến phí 50→40 nghìn, hòa vốn giảm từ 200 xuống ~167.",
+    "Đàm phán giá nguyên liệu tốt có tác động đo lường được.",
+    "Quan trọng với startup ít vốn cần hòa vốn sớm."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 4/14); nhãn nhỏ: —",
+   "loi_doc": "Nếu biến phí mỗi sản phẩm giảm đi — ví dụ nhờ đàm phán mua nguyên liệu số lượng lớn với giá tốt hơn, hoặc tìm được nhà cung cấp rẻ hơn — thì biên lãi gộp mỗi sản phẩm tăng lên, và điểm hòa vốn sẽ giảm xuống theo đúng công thức, nghĩa là cần bán ít sản phẩm hơn mới đạt hòa vốn. Vẫn với ví dụ trên, nếu biến phí giảm từ 50 nghìn xuống 40 nghìn đồng, biên lãi gộp tăng lên 60 nghìn, điểm hòa vốn giảm từ 200 xuống chỉ còn khoảng 167 sản phẩm. Đây chính là lý do vì sao đàm phán giá nguyên liệu ngay từ đầu lại quan trọng với một startup ít vốn: giảm được biến phí có tác động trực tiếp, đo lường được, lên tốc độ hòa vốn, chứ không phải chỉ là chuyện 'tiết kiệm cho vui'."
+  },
+  {
+   "video": 2,
+   "so": 24,
+   "tieu_de": "NHÌN ĐIỂM HÒA VỐN TRÊN BIỂU ĐỒ",
+   "tren_slide": [
+    "Trục ngang: Số lượng sản phẩm. Trục đứng: số tiền.",
+    "Đường doanh thu và đường tổng chi phí cắt nhau tại hòa vốn.",
+    "Trái giao điểm: Còn lỗ. Phải giao điểm: đã có lãi.",
+    "Hòa vốn quá xa bên phải là dấu hiệu rủi ro cần cân nhắc."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 5/14); nhãn nhỏ: —",
+   "loi_doc": "Trên một biểu đồ dạng đường, với trục ngang là số lượng sản phẩm và trục đứng là số tiền, đường tổng doanh thu là một đường thẳng đi lên từ gốc, còn đường tổng chi phí là một đường thẳng bắt đầu từ mức định phí rồi đi lên chậm hơn hoặc nhanh hơn tùy biến phí. Điểm hòa vốn chính là giao điểm giữa hai đường này: bên trái giao điểm, đường chi phí nằm trên đường doanh thu — tức còn lỗ; bên phải giao điểm, đường doanh thu vượt lên trên — tức đã có lãi. Nhìn vào biểu đồ này, nhà đầu tư lập tức thấy được mức độ rủi ro của dự án: điểm hòa vốn nằm quá xa bên phải, đòi hỏi bán rất nhiều sản phẩm mới hết lỗ, là một dấu hiệu cần cân nhắc kỹ trước khi rót vốn."
+  },
+  {
+   "video": 2,
+   "so": 25,
+   "tieu_de": "BURN RATE VÀ RUNWAY",
+   "tren_slide": [
+    "Burn rate: Số tiền mặt chi tiêu mỗi tháng.",
+    "Runway = Tiền mặt hiện có ÷ Burn rate.",
+    "Ví dụ: 300 triệu tiền mặt, burn rate 50 triệu/tháng → runway 6 tháng.",
+    "Biết runway để chủ động gọi vốn vòng mới trước khi cạn tiền."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 6/14); nhãn nhỏ: —",
+   "loi_doc": "Hai chỉ số khác nhà đầu tư luôn hỏi là 'tốc độ tiêu tiền' — burn rate — và 'thời gian tồn tại' — runway. Burn rate là số tiền mặt dự án chi tiêu ra mỗi tháng, tính luôn cả những chi phí chưa kịp thu lại bằng doanh thu. Runway bằng số tiền mặt hiện có chia cho burn rate, cho biết còn bao nhiêu tháng nữa thì hết tiền nếu không có thêm doanh thu hay vốn mới. Ví dụ dựng ra để giảng dạy: một startup còn 300 triệu đồng tiền mặt, burn rate mỗi tháng là 50 triệu đồng, thì runway là 300 chia 50, bằng 6 tháng. Một startup nắm rõ runway của mình sẽ biết chính xác thời điểm cần bắt đầu gọi vốn vòng tiếp theo — thường nên bắt đầu từ khi runway còn khoảng ba đến sáu tháng — thay vì để đến khi gần cạn tiền mới hoảng hốt đi tìm nhà đầu tư, lúc đó vị thế đàm phán đã rất yếu."
+  },
+  {
+   "video": 2,
+   "so": 26,
+   "tieu_de": "LỢI NHUẬN GỘP VÀ LỢI NHUẬN RÒNG",
+   "tren_slide": [
+    "Lợi nhuận gộp = Doanh thu − Giá vốn hàng bán.",
+    "Lợi nhuận ròng = Lợi nhuận gộp − mọi chi phí vận hành, thuế.",
+    "Gộp dương nhưng ròng âm kéo dài: Nguy cơ cạn vốn thật sự.",
+    "Vấn đề thường do chi phí vận hành quá lớn so với doanh thu."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 7/14); nhãn nhỏ: —",
+   "loi_doc": "Cũng cần phân biệt rõ 'lợi nhuận gộp' và 'lợi nhuận ròng'. Lợi nhuận gộp — gross profit — bằng doanh thu trừ giá vốn hàng bán, cho biết sản phẩm cốt lõi có thực sự sinh lời hay không, trước khi tính đến các chi phí vận hành khác. Lợi nhuận ròng — net profit — là lợi nhuận gộp trừ tiếp tất cả chi phí vận hành còn lại như thuê mặt bằng, lương, marketing và thuế — đây mới là số tiền thực sự còn lại cuối kỳ. Một dự án có lợi nhuận gộp dương nhưng lợi nhuận ròng âm kéo dài mà không có dấu hiệu cải thiện đang đối mặt nguy cơ cạn vốn thật sự, dù sản phẩm cốt lõi vẫn đang sinh lời — vấn đề nằm ở chi phí vận hành quá lớn so với quy mô doanh thu hiện tại."
+  },
+  {
+   "video": 2,
+   "so": 27,
+   "tieu_de": "LỢI NHUẬN VÀ DÒNG TIỀN: ĐỪNG NHẦM LẪN",
+   "tren_slide": [
+    "Có thể báo lãi trên sổ sách nhưng vẫn hết tiền mặt.",
+    "Nguyên nhân: Khách hàng nợ chưa trả, hàng tồn kho quá nhiều.",
+    "Dòng tiền (Cash Flow): Luân chuyển tiền mặt thật theo thời gian.",
+    "Kế hoạch dòng tiền tốt tránh rủi ro mất khả năng thanh toán."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 8/14); nhãn nhỏ: —",
+   "loi_doc": "Một sai lầm rất thường gặp là không phân biệt lợi nhuận và dòng tiền: một dự án có thể báo lãi trên sổ sách — tức doanh thu ghi nhận lớn hơn chi phí — nhưng vẫn hết tiền mặt để trả lương hay trả nhà cung cấp, nếu khách hàng còn nợ chưa trả hoặc hàng tồn kho quá nhiều chưa bán được. 'Dòng tiền' — cash flow — là sự luân chuyển tiền mặt thật sự vào và ra khỏi doanh nghiệp theo thời gian, khác với lợi nhuận là con số kế toán trên giấy. Một kế hoạch dòng tiền tốt giúp doanh nghiệp tránh được rủi ro mất khả năng thanh toán ngay cả khi đang có lãi trên sổ sách — đây là lý do nhiều startup có lãi trên báo cáo vẫn phải đóng cửa, vì không còn tiền mặt để duy trì hoạt động hằng ngày."
+  },
+  {
+   "video": 2,
+   "so": 28,
+   "tieu_de": "KỸ NĂNG BẢNG TÍNH: NHẬP LIỆU VÀ HÀM SUM",
+   "tren_slide": [
+    "Nhập dữ liệu đầu vào: Giá bán, định phí, biến phí, số lượng bán.",
+    "Hàm SUM: Tính tổng doanh thu hoặc chi phí theo thời gian.",
+    "Công thức tự động cập nhật khi đổi một số liệu đầu vào.",
+    "Giúp thấy ngay tác động của quyết định trước khi áp dụng thật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 9/14); nhãn nhỏ: —",
+   "loi_doc": "Để theo dõi các chỉ số trên một cách có hệ thống, kỹ năng dùng bảng tính là bắt buộc. Bước đầu tiên là 'nhập dữ liệu đầu vào': giá bán, định phí, biến phí mỗi sản phẩm và số lượng dự kiến bán — nhập càng chính xác, các chỉ số tính ra càng đáng tin cậy. Hàm SUM là hàm cơ bản nhất, thường dùng để tính tổng doanh thu hoặc tổng chi phí trong một khoảng thời gian, ví dụ cộng doanh thu của mười hai tháng để ra doanh thu cả năm. Điểm mạnh lớn nhất của bảng tính có công thức là khi thay đổi một số liệu đầu vào, ví dụ giá bán, các chỉ số như điểm hòa vốn hay lợi nhuận ròng sẽ tự động cập nhật theo đúng công thức đã thiết lập, giúp thấy ngay tác động của một quyết định trước khi áp dụng thật ngoài đời."
+  },
+  {
+   "video": 2,
+   "so": 29,
+   "tieu_de": "KỊCH BẢN TÀI CHÍNH VÀ CÔNG CỤ SỐ",
+   "tren_slide": [
+    "Lập ít nhất 3 kịch bản: Lạc quan, trung bình, xấu nhất.",
+    "Google Sheets: Nhiều người cùng chỉnh sửa, hợp làm việc từ xa.",
+    "Canva: Biến số liệu khô khan thành biểu đồ dễ hiểu cho nhà đầu tư."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 10/14); nhãn nhỏ: —",
+   "loi_doc": "Một kế hoạch tài chính tốt không nên chỉ có một con số dự báo duy nhất, mà nên có ít nhất ba kịch bản: lạc quan, trung bình và xấu nhất, để không bị bất ngờ khi thực tế không như kỳ vọng — ví dụ kịch bản xấu nhất giả định doanh số chỉ bằng một nửa dự kiến, để xem dự án còn trụ được bao lâu. Google Sheets, khác với bản Excel cài trên một máy, còn cho phép nhiều thành viên cùng xem và chỉnh sửa một bảng tính tại một thời điểm, rất hữu ích khi nhóm khởi nghiệp làm việc từ xa với nhau. Khi các số liệu đã sẵn sàng, Canva giúp biến những con số tài chính khô khan thành biểu đồ sinh động, dễ hiểu hơn khi trình bày cho nhà đầu tư không có nhiều thời gian đọc số liệu chi tiết — một kỹ năng bổ sung trực tiếp cho việc chuẩn bị Pitch Deck mà chúng ta đã nói ở chủ đề trước."
+  },
+  {
+   "video": 2,
+   "so": 30,
+   "tieu_de": "MINH BẠCH TÀI CHÍNH VÀ ĐẠO ĐỨC KINH DOANH",
+   "tren_slide": [
+    "Che giấu số liệu xấu, thổi phồng doanh thu là sai lầm nghiêm trọng.",
+    "Sự thật lộ ra qua dòng tiền thực tế, phá hủy lòng tin.",
+    "'Đốt tiền' giai đoạn đầu không xấu nếu có kế hoạch hòa vốn rõ.",
+    "Nguy hiểm thật sự là lợi nhuận ròng âm kéo dài, không ai theo dõi."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 11/14); nhãn nhỏ: —",
+   "loi_doc": "Minh bạch tài chính và báo cáo trung thực số liệu cho nhà đầu tư thể hiện đạo đức kinh doanh và trách nhiệm xã hội của người khởi nghiệp. Che giấu số liệu xấu, ví dụ giấu bớt chi phí thật hay thổi phồng doanh thu để báo cáo định kỳ cho nhà đầu tư trông đẹp hơn, là một sai lầm nghiêm trọng — vì sớm muộn sự thật cũng lộ ra qua chính dòng tiền thực tế, và khi đó lòng tin bị phá hủy hoàn toàn, khó gọi vốn vòng sau. Cần nói thêm, một dự án 'đốt tiền' — chi nhiều hơn thu trong giai đoạn đầu — không phải lúc nào cũng là dấu hiệu xấu, miễn là có kế hoạch rõ ràng, hợp lý để đạt đến điểm hòa vốn trong một khung thời gian xác định; vấn đề chỉ thực sự nghiêm trọng khi lợi nhuận ròng âm kéo dài mà không ai theo dõi hay có hướng cải thiện."
+  },
+  {
+   "video": 2,
+   "so": 31,
+   "tieu_de": "DASHBOARD DÒNG TIỀN & VÍ DỤ CHỊ HOA",
+   "tren_slide": [
+    "Dashboard quản trị dòng tiền: Theo dõi thường xuyên, điều chỉnh kịp thời.",
+    "Chị Hoa: Định phí 10 triệu, giá 50 nghìn, biến phí 20 nghìn/gói.",
+    "Biên lãi gộp 30 nghìn → hòa vốn ~334 gói, bán 50/tuần → 7 tuần.",
+    "Ví dụ minh họa để giảng dạy, không phải số liệu thật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 12/14); nhãn nhỏ: Tình huống",
+   "loi_doc": "Các chỉ số tài chính không phải thứ tính một lần rồi bỏ đó, mà cần được theo dõi thường xuyên qua một 'dashboard quản trị dòng tiền' trên công cụ số, để người khởi nghiệp luôn biết mình đang đứng ở đâu so với kế hoạch và điều chỉnh kịp thời. Quay lại ví dụ chị Hoa với sản phẩm khoai lang chế biến: giả sử chị cần 10 triệu đồng để mua thiết bị sấy mới — đó là định phí ban đầu cần thu hồi. Giá bán mỗi gói sản phẩm là 50 nghìn đồng, chi phí nguyên liệu và bao bì mỗi gói là 20 nghìn đồng, biên lãi gộp mỗi gói là 30 nghìn đồng. Điểm hòa vốn là 10 triệu chia 30 nghìn, khoảng 334 gói. Nếu chị bán được 50 gói mỗi tuần, cần khoảng 7 tuần để hòa vốn — một con số cụ thể giúp chị quyết định có nên đầu tư 10 triệu này hay không, thay vì chỉ ước lượng mơ hồ 'chắc sẽ ổn thôi'. Đây là ví dụ minh họa để dễ hình dung, không phải số liệu thật."
+  },
+  {
+   "video": 2,
+   "so": 32,
+   "tieu_de": "RUNWAY CHO DỰ ÁN GỐM ĐỎ VĨNH LONG",
+   "tren_slide": [
+    "200 triệu tiền mặt, chi phí vận hành 40 triệu/tháng.",
+    "Doanh thu mới đạt 25 triệu/tháng → burn rate thực 15 triệu/tháng.",
+    "Runway = 200 ÷ 15 ≈ 13 tháng để tăng doanh thu hoặc gọi vốn tiếp.",
+    "Ví dụ dựng ra để giảng dạy, không phải số liệu thật."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 13/14); nhãn nhỏ: Tình huống",
+   "loi_doc": "Thử áp dụng chỉ số burn rate và runway cho dự án giả định gốm đỏ Vĩnh Long: giả sử hợp tác xã đã gọi được 200 triệu đồng để hiện đại hóa một lò nung, chi phí vận hành — nguyên liệu, nhân công, điện — là 40 triệu đồng mỗi tháng, trong khi doanh thu bán gốm mới đạt khoảng 25 triệu đồng mỗi tháng do sản phẩm còn đang xây dựng thị trường. Burn rate thực chất ở đây là phần chi vượt doanh thu, tức 15 triệu đồng mỗi tháng; với 200 triệu đồng tiền mặt, runway là 200 chia 15, xấp xỉ 13 tháng. Biết được con số này, hợp tác xã có thể đặt mục tiêu rõ ràng: trong 13 tháng đó phải tăng doanh thu đủ để hòa vốn vận hành, hoặc chuẩn bị sẵn kế hoạch gọi vốn vòng tiếp theo trước khi runway cạn, thay vì để tình huống xấu xảy ra bất ngờ. Đây cũng là ví dụ dựng ra để giảng dạy, không phải số liệu thật của một hợp tác xã cụ thể nào."
+  },
+  {
+   "video": 2,
+   "so": 33,
+   "tieu_de": "TỔNG KẾT CHƯƠNG BA",
+   "tren_slide": [
+    "Định phí, biến phí, điểm hòa vốn: Biết cần bán bao nhiêu để không lỗ.",
+    "Burn rate, runway: Biết còn bao lâu và khi nào cần gọi vốn tiếp.",
+    "Phân biệt lợi nhuận gộp/ròng và dòng tiền; giữ minh bạch tài chính.",
+    "Làm bài tập tự đánh giá cuối chủ đề này trước khi sang Chương bốn."
+   ],
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 3.2 (mục 14/14); nhãn nhỏ: —",
+   "loi_doc": "Tóm lại, chủ đề này cho các em nắm ba nhóm chỉ số cốt yếu: một, định phí, biến phí và điểm hòa vốn, giúp biết chính xác cần bán bao nhiêu để không lỗ, và hiểu được giảm biến phí sẽ kéo điểm hòa vốn xuống thấp hơn; hai, burn rate và runway, giúp biết còn bao lâu nữa thì hết tiền và khi nào cần bắt đầu gọi vốn vòng mới; ba, phân biệt lợi nhuận gộp, lợi nhuận ròng và dòng tiền thật, cùng với việc giữ minh bạch tài chính xuyên suốt, để không rơi vào tình trạng báo lãi trên giấy mà vẫn hết tiền mặt ngoài đời. Nắm chắc ba nhóm chỉ số này, cộng với kỹ thuật huy động vốn đã học ở chủ đề trước, các em đã có đủ công cụ để trả lời câu hỏi khó nhất của mọi nhà đầu tư: dự án của bạn kiếm tiền như thế nào, và khi nào thì có lãi. Trước khi sang chương tiếp theo, các em làm bài tập tự đánh giá cuối chủ đề này để chắc mình đã nắm vững toàn bộ Chương ba."
+  },
+  {
+   "video": 2,
+   "so": 34,
+   "tieu_de": "CÂU HỎI ÔN TẬP CHƯƠNG 3",
+   "tren_slide": [
+    "1. Vì sao nên chọn nguồn vốn theo giai đoạn và quy mô của dự án?",
+    "2. Vay nợ và bán vốn cổ phần khác nhau thế nào về nghĩa vụ và quyền sở hữu?",
+    "3. Một Pitch Deck tốt cần trả lời những câu hỏi nào của nhà đầu tư?",
+    "4. Giảm biến phí mỗi sản phẩm tác động thế nào đến điểm hòa vốn?",
+    "5. Vì sao một dự án có lãi trên sổ sách vẫn có thể hết tiền mặt?"
+   ],
+   "goi_y_hinh": "Năm câu đánh số",
+   "loi_doc": "Năm câu hỏi ôn tập trên màn hình, các em dừng video và tự trả lời trước khi xem tiếp. Một, vì sao chọn vốn theo giai đoạn. Hai, vay nợ khác vốn cổ phần ở đâu. Ba, Pitch Deck cần trả lời gì. Bốn, giảm biến phí thì điểm hòa vốn thay đổi ra sao. Năm, vì sao có lãi vẫn hết tiền mặt."
+  },
+  {
+   "video": 2,
+   "so": 35,
+   "tieu_de": "TÌNH HUỐNG MINH HỌA",
+   "tren_slide": [
+    "Bối cảnh: Ví dụ minh họa: chị Hoa chế biến khoai lang ở Bình Tân, máy sấy đã hòa vốn, nay muốn mở một cơ sở chế biến nhỏ.",
+    "Vấn đề: Cần vốn lớn hơn nhiều; người thân không đủ cho mượn; ngân hàng đòi chứng minh khả năng trả nợ; nhà đầu tư thiên thần muốn xem số liệu.",
+    "Câu hỏi 1: Chị nên cân nhắc nguồn vốn nào? Mỗi lựa chọn đánh đổi điều gì về nghĩa vụ trả nợ và quyền sở hữu?",
+    "Câu hỏi 2: Trang tài chính trong Pitch Deck của chị cần những chỉ số nào để nhà đầu tư tin tưởng?"
+   ],
+   "goi_y_hinh": "Bốn thẻ; ghi rõ \"ví dụ dựng ra để giảng dạy, không phải số liệu thật\"",
+   "loi_doc": "Một tình huống vận dụng — đây là ví dụ minh họa dựng ra để giảng dạy, không phải số liệu thật. Chị Hoa chế biến khoai lang ở Bình Tân, máy sấy đã hòa vốn, nay muốn mở một cơ sở chế biến nhỏ. Người thân không đủ cho mượn, ngân hàng đòi chứng minh khả năng trả nợ, một nhà đầu tư thiên thần quan tâm nhưng muốn xem số liệu. Câu hỏi một: chị nên chọn nguồn vốn nào, đánh đổi gì? Câu hỏi hai: trang tài chính trong Pitch Deck cần những chỉ số nào?"
+  },
+  {
+   "video": 2,
+   "so": 36,
+   "tieu_de": "TỔNG KẾT CHƯƠNG 3",
+   "tren_slide": [
+    "Vốn theo đúng giai đoạn: Tự có, bootstrapping, thiên thần kinh doanh, quỹ mạo hiểm, crowdfunding — chọn theo giai đoạn và quy mô; hiểu đánh đổi giữa vay nợ và cổ phần.",
+    "Pitching có căn cứ: Vấn đề, giải pháp, thị trường, mô hình kiếm tiền, đội ngũ; trang tài chính gọn, số liệu chịu được thẩm định.",
+    "Đọc đúng chỉ số: Điểm hòa vốn, burn rate, runway, lợi nhuận và dòng tiền thật; minh bạch tài chính giữ niềm tin nhà đầu tư.",
+    "Việc cần làm: Làm bài tập tự đánh giá cuối chủ đề và kết thúc chương; trả lời bảy câu hỏi ôn tập tự luận."
+   ],
+   "goi_y_hinh": "Bốn thẻ",
+   "loi_doc": "Tổng kết Chương ba. Một, chọn vốn theo giai đoạn và quy mô, hiểu đánh đổi giữa vay nợ và cổ phần. Hai, Pitch Deck kể câu chuyện đầy đủ, số liệu có căn cứ. Ba, theo dõi điểm hòa vốn, runway, dòng tiền thật và luôn minh bạch. Việc cần làm: bài tập tự đánh giá kết thúc chương và các câu hỏi ôn tập tự luận."
+  },
+  {
+   "video": 2,
+   "so": 37,
+   "tieu_de": "TÀI LIỆU HỌC TẬP",
+   "tren_slide": [
+    "Giáo trình chính: [1] Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga (2024), Giáo trình khởi sự kinh doanh (tái bản lần thứ hai), NXB Đại học Kinh tế Quốc dân.",
+    "Tài liệu tham khảo: [3] Trường Đại học Bách khoa Hà Nội (2023), Tài liệu tư vấn: Kỹ năng kinh doanh cho phụ nữ và người dân tộc thiểu số."
+   ],
+   "goi_y_hinh": "Hai khối: giáo trình chính | tài liệu tham khảo",
+   "loi_doc": "Tài liệu học tập các em xem trên màn hình. Giáo trình chính là Giáo trình khởi sự kinh doanh của Nguyễn Thị Ngọc Huyền và Ngô Thị Việt Nga; các em đọc thêm các tài liệu tham khảo được liệt kê."
+  },
+  {
+   "video": 2,
+   "so": 38,
+   "tieu_de": "KẾT THÚC CHƯƠNG",
+   "tren_slide": [
+    "CẢM ƠN CÁC EM ĐÃ THEO DÕI",
+    "HỌC LIỆU SỐ · KHỞI SỰ DOANH NGHIỆP",
+    "Khoa Kinh doanh và Luật – Trường Đại học Công nghệ Kỹ thuật Vĩnh Long",
+    "fel@vlute.edu.vn · https://vlute.edu.vn"
+   ],
+   "goi_y_hinh": "Nền xanh đậm như trang bìa",
+   "loi_doc": "Chương ba đến đây là hết. Cảm ơn các em đã theo dõi. Hẹn gặp lại các em ở Chương bốn — Lựa chọn mô hình kinh doanh."
+  }
+ ]
+}

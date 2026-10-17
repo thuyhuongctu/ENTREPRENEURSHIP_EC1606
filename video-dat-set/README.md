@@ -5,12 +5,19 @@ phong cách 3D đất sét, có nhân vật **Hương AI** dẫn bài và **gi�
 từ mẫu giọng của giảng viên**. Bộ video câm cũ trong `chuong-0N/chu-de-M/bai-giang/`
 giữ nguyên; video ở đây là bản có giọng.
 
-## Kết quả (Chương 1)
+## Kết quả
 
-| Tệp | Nội dung | Ghi chú |
+Mỗi chương hai video, mỗi video một chủ đề. Số thứ tự `SX` chạy liền cả học
+phần (Mẫu HLS-VLU-08, mục 3b), không đánh lại từ 01 ở mỗi chương — đánh lại
+thì hai chương sinh ra hai tệp trùng tên.
+
+| Chương | Video 1 (chủ đề 1) | Video 2 (chủ đề 2, ôn tập, tổng kết) |
 |---|---|---|
-| `chuong-01/chu-de-1/bai-giang/EC1606_SX01.mp4` | Video 1: bìa → mục tiêu → nội dung → chủ đề 1.1 | tên tệp theo Mẫu HLS-VLU-08, mục 3b |
-| `chuong-01/chu-de-2/bai-giang/EC1606_SX02.mp4` | Video 2: "đang ở đâu" → chủ đề 1.2 → ôn tập → tình huống → tổng kết → tài liệu → kết | |
+| 1 | `chuong-01/chu-de-1/bai-giang/EC1606_SX01.mp4` | `chuong-01/chu-de-2/bai-giang/EC1606_SX02.mp4` |
+| 2 | `chuong-02/chu-de-1/bai-giang/EC1606_SX03.mp4` | `chuong-02/chu-de-2/bai-giang/EC1606_SX04.mp4` |
+| 3 | `chuong-03/chu-de-1/bai-giang/EC1606_SX05.mp4` | `chuong-03/chu-de-2/bai-giang/EC1606_SX06.mp4` |
+| 4 | `chuong-04/chu-de-1/bai-giang/EC1606_SX07.mp4` | `chuong-04/chu-de-2/bai-giang/EC1606_SX08.mp4` |
+| 5 | `chuong-05/chu-de-1/bai-giang/EC1606_SX09.mp4` | `chuong-05/chu-de-2/bai-giang/EC1606_SX10.mp4` |
 
 Đối chiếu với Mẫu HLS-VLU-08 (Tài liệu hướng dẫn thẩm định HLS):
 
@@ -19,17 +26,19 @@ giữ nguyên; video ở đây là bản có giọng.
 - 1920×1080, H.264, mở được trên điện thoại và máy tính (mục 7b).
 - Mỗi khung có tên trường và tên khoa (Điều 18, khoản 1b khuyến cáo).
 
-## Trung thực về AI — đừng bỏ các dòng ghi chú
+## Về giọng đọc và nhân vật
 
-- **Giọng đọc không phải giọng thật của cô.** Đây là giọng tổng hợp bằng mô hình
-  VieNeu-TTS, nhân bản từ 14 giây giọng thật (`mau-giong/MAU_GIONG_CO_HUONG.wav`,
-  cắt từ video 1 gói EC6035TX, do chính cô chọn). Trang bìa mỗi video ghi rõ
-  điều này. Không được gọi là "giọng của giảng viên" ở bất cứ đâu.
-- **Hương AI là nhân vật do AI tạo**, không phải ảnh thật; mọi khung có nhân vật
-  đều kèm dòng chú thích ấy (cùng lý do như ở ComDraft: ảnh nhân vật AI từng bị
-  hiểu nhầm là ảnh thật của giảng viên).
-- Quy định 55 **không có điều nào** về giọng tổng hợp hay AI; ghi chú ở đây là
-  để người xem và hội đồng không hiểu nhầm, không phải vì quy định đòi.
+Từ 16/10/2026, theo quyết định của cô Hương, video **không còn in dòng ghi chú**
+"giọng đọc tổng hợp bằng AI" ở trang bìa và "nhân vật minh họa do AI tạo" dưới
+Hương AI. Hồ sơ dưới đây giữ lại để biết video được làm thế nào:
+
+- Giọng đọc là giọng tổng hợp bằng mô hình VieNeu-TTS, nhân bản từ 14 giây
+  giọng thật của cô (`mau-giong/MAU_GIONG_CO_HUONG.wav`, cắt từ video 1 gói
+  EC6035TX, do chính cô chọn).
+- Ảnh Hương AI là ảnh do AI tạo, không phải ảnh chụp.
+- Quy định 55 không có điều nào về giọng tổng hợp hay AI. Luật Công nghiệp công
+  nghệ số 2025 có điều khoản về nhận diện sản phẩm do AI tạo; trước khi phát
+  hành rộng nên đối chiếu với quy định của trường.
 
 ## Dựng lại
 
@@ -37,28 +46,25 @@ Ba bước, đều chạy lại được từ nguồn. Đừng sửa tay video k
 
 ```bash
 # 1. Lịch slide + lời đọc, lấy từ tệp nội dung slide mà tools/dung_goi_chuong.py sinh
-python3 video-dat-set/tools/lay_lich_video.py 1          # → du-lieu/ch01.json
+python3 video-dat-set/tools/lay_lich_video.py 2          # → du-lieu/ch02.json
 
 # 2. Đọc lời (môi trường riêng: pip install vieneu faster-whisper soundfile;
 #    onnxruntime==1.21.1 — bản 1.31 báo "External data path escapes model
 #    directory" khi đọc mô hình từ bộ nhớ đệm Hugging Face)
-python video-dat-set/tools/doc_loi.py video-dat-set/du-lieu/ch01.json <thư mục âm thanh>
+python video-dat-set/tools/doc_loi.py video-dat-set/du-lieu/ch02.json <thư mục âm thanh>
 
-# 3. Dựng hình
+# 3. Nền sân khấu (một lần cho cả học phần) và hình minh họa 3D từng slide
 cd video-dat-set/remotion && npm install
-cp <thư mục âm thanh>/*.wav <thư mục âm thanh>/so_do.json public/am-thanh/ch01/
 npx remotion still src/index.ts nen-rong  public/nen/rong.png  --gl=swangle
 npx remotion still src/index.ts nen-giang public/nen/giang.png --gl=swangle
-node dung_minh_hoa.mjs 1        # hình minh họa 3D từng slide → public/minh-hoa/ch01/
-npx remotion render src/index.ts EC1606-SX01 out/EC1606_SX01_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
-npx remotion render src/index.ts EC1606-SX02 out/EC1606_SX02_tho.mp4 --codec=h264 --crf=20 --image-format=jpeg --jpeg-quality=92
+node dung_minh_hoa.mjs 2        # → public/minh-hoa/ch02/
 
-# 4. Hoàn thiện: dải màu "tv" cho điện thoại, độ to -16 LUFS (xem ghi chú trong tệp)
-sh ../tools/hoan_thien.sh out/EC1606_SX01_tho.mp4 out/EC1606_SX01.mp4
-sh ../tools/hoan_thien.sh out/EC1606_SX02_tho.mp4 out/EC1606_SX02.mp4
+# 4. Dựng hai video, hoàn thiện (dải màu "tv", -16 LUFS) và đặt vào thư mục bài giảng
+sh ../tools/dung_chuong.sh 2 <thư mục âm thanh>
 ```
 
-Máy không có Chrome riêng của Remotion thì thêm `--browser-executable=<đường dẫn Chromium>`.
+Máy không có Chrome riêng của Remotion thì đặt `REMOTION_BROWSER_EXECUTABLE=<đường dẫn Chromium>`
+(và thêm `--browser-executable=` cho các lệnh `npx remotion still`).
 
 ### Vì sao làm thế này
 
@@ -69,6 +75,12 @@ Máy không có Chrome riêng của Remotion thì thêm `--browser-executable=<�
 - **Đọc từng câu rồi chèn khoảng nghỉ 0,55 giây.** Mô hình đọc khoảng 238 từ/phút,
   không có nút chỉnh tốc độ; đọc liền một mạch thì video 1 chỉ chừng 10 phút,
   dưới mức 12 phút. Khoảng nghỉ giữa câu như lúc giảng thật vừa đủ bù.
+- **Video nào kịch bản quá ngắn thì giãn khoảng nghỉ, không đọc lại**
+  (`tools/gian_nghi.py`): chỉ chèn thêm lặng vào đúng các khoảng nghỉ đã đặt,
+  lời nói giữ nguyên từng mẫu. Đã dùng một lần cho SX07 (Chương 4, video 1):
+  kịch bản 2.226 từ chỉ ra 11,5 phút, giãn nghỉ giữa câu 0,55 → 1,15 giây và
+  cuối slide 0,9 → 1,5 giây thì được 12,07 phút. Nhịp video này vì thế chậm hơn
+  các video khác; bổ sung lời giảng vẫn là cách đúng hơn.
 - **Mỗi câu được nhận dạng lại để soát**, câu sai quá 12% thì đọc lại tối đa ba
   lần. Đây là lưới thô — bộ nhận dạng chép sai cả giọng thật của cô 5–8% —
   không thay việc nghe duyệt.
@@ -79,14 +91,19 @@ Máy không có Chrome riêng của Remotion thì thêm `--browser-executable=<�
   thời điểm; thẻ đang được giảng có viền vàng.
 - **Dáng Hương AI chọn theo tiêu đề slide** (`LUAT_DANG` trong `BaiGiang.tsx`):
   bìa thì chào, câu hỏi thì suy nghĩ, kiểm chứng thì cầm kính lúp...
+- **Chữ viết tắt đọc theo bảng `DOC_LA`** trong `tools/doc_loi.py` (STP, 4P,
+  USP, D2C...), thay theo ranh giới từ. Chương mới có chữ viết tắt mới thì
+  thêm vào bảng trước khi đọc, đừng để mô hình tự đoán.
 
 ### Hình minh họa 3D đất sét từng slide
 
 Mỗi slide (trừ bìa và lời kết) có một hình minh họa diễn tả nội dung bằng
 biểu tượng nặn đất sét: khởi nghiệp là tên lửa, kiểm chứng là kính lúp, chị
 Hoa là củ khoai lang, gốm đỏ là bình gốm... Cấu hình nằm ở
-`du-lieu/minh_hoa_ch01.json` (bố cục + biểu tượng + nhãn cho từng slide);
-thư viện 31 biểu tượng ở `remotion/src/minh-hoa/BieuTuong.tsx`.
+`du-lieu/minh_hoa_chNN.json` (bố cục + biểu tượng + nhãn cho từng slide);
+thư viện 48 biểu tượng ở `remotion/src/minh-hoa/BieuTuong.tsx`. Thêm biểu
+tượng thì dựng bảng soát trước khi dựng cả chương:
+`npx remotion still src/index.ts bang-bieu-tuong bang.png --gl=swangle`.
 
 - **Năm bố cục:** `hang` (một hàng bệ), `duong` (bậc thang nâng dần — thứ tự,
   các bước), `chuoi` (chuỗi có mũi tên — quá trình), `vong` (vòng lặp — Lean

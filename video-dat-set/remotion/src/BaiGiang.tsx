@@ -38,11 +38,15 @@ const LUAT_DANG: [RegExp, string][] = [
   [/MỤC TIÊU/, 'chi_len'],
   [/NỘI DUNG CHƯƠNG|ĐANG Ở ĐÂU/, 'gioi_thieu'],
   [/CÂU HỎI|BA CÂU HỎI/, 'suy_nghi'],
-  [/KIỂM CHỨNG|TIÊU CHÍ/, 'kinh_lup'],
+  // Tổng kết đứng trước các luật theo chủ đề: "TỔNG KẾT: ... ĐĂNG KÝ VÀ ĐẠO
+  // ĐỨC" (Chương 4) là trang tổng kết, không phải trang về đạo đức.
+  [/^TỔNG KẾT/, 'chi_gay'],
+  [/KIỂM CHỨNG|TIÊU CHÍ|PHÂN TÍCH|THẨM ĐỊNH|ĐÁNH GIÁ TÍNH/, 'kinh_lup'],
   [/TÀI LIỆU/, 'om_sach'],
-  [/KẾ HOẠCH/, 'ghi_chep'],
-  [/RỦI RO|ĐẠO ĐỨC/, 'cam_khoa'],
-  [/TÌNH HUỐNG|CHỊ HOA|GỐM ĐỎ/, 'cam_giay'],
+  [/KẾ HOẠCH|BẢNG TÍNH|KỊCH BẢN TÀI CHÍNH/, 'ghi_chep'],
+  [/RỦI RO|ĐẠO ĐỨC|TRUNG THỰC|MINH BẠCH/, 'cam_khoa'],
+  [/TÌNH HUỐNG|CHỊ HOA|GỐM ĐỎ|ĐĂNG KÝ/, 'cam_giay'],
+  [/PITCH|BIỂU ĐỒ|DASHBOARD/, 'chi_ngang'],
   [/TỔNG KẾT/, 'chi_gay'],
 ];
 const XOAY = ['chi_ngang', 'gioi_thieu', 'chi_gay', 'chi_len'];
@@ -56,7 +60,10 @@ const chonDang = (s: Slide, i: number) => {
 
 // Cùng quy tắc với tach_y() trong tools/dung_goi_chuong.py: chỉ tách khi
 // phần nhãn ngắn, không thì câu dài bị cắt đôi ở dấu hai chấm giữa câu.
-const tachThe = (dong: string): { nhan: string; than: string } => {
+const tachThe = (dong_goc: string): { nhan: string; than: string } => {
+  // Trang "Nội dung chương" ghi "1. 2.1. Xác định..." — số thứ tự danh sách
+  // chồng lên số chủ đề, lên thẻ thành hai lần đánh số. Giữ số chủ đề thôi.
+  const dong = dong_goc.replace(/^\d+\.\s+(?=\d+\.\d+)/, '');
   for (const dau of [': ', ' — ', ' – ']) {
     const k = dong.indexOf(dau);
     if (k > 0) {
@@ -107,8 +114,8 @@ const Bat = (khung: number, tre: number, fps: number, damping = 13) =>
 
 /* ---------- một slide ---------- */
 
-const NHAN_AI = 'Hương AI · nhân vật minh họa do AI tạo';
-const NHAN_GIONG = 'Giọng đọc tổng hợp bằng AI từ mẫu giọng của giảng viên';
+// Ghi chú «giọng tổng hợp bằng AI» và «nhân vật do AI tạo» đã bỏ khỏi khung
+// hình theo quyết định của cô Hương (16/10/2026); xem README, mục Trung thực.
 
 const HuongAI: React.FC<{ dang: string; dai: number }> = ({ dang, dai }) => {
   const f = useCurrentFrame();
@@ -129,11 +136,6 @@ const HuongAI: React.FC<{ dang: string; dai: number }> = ({ dang, dai }) => {
           transformOrigin: '50% 100%', opacity: Math.min(1, vao * 1.5),
         }}
       />
-      <div style={{
-        position: 'absolute', left: 310, bottom: 34, transform: 'translateX(-50%)', fontFamily: CHU,
-        fontSize: 17, color: MAU.mo, fontStyle: 'italic', whiteSpace: 'nowrap',
-        opacity: interpolate(f, [0, 20, dai - 10, dai], [0, 0.95, 0.95, 0.95]),
-      }}>{NHAN_AI}</div>
     </>
   );
 };
@@ -178,9 +180,6 @@ const TrangBia: React.FC<{ s: Slide; video: number }> = ({ s, video }) => {
       ))}
       <div style={{ fontFamily: CHU, fontSize: 30, color: MAU.muc, lineHeight: 1.5, marginTop: 10 }}>
         Giảng viên: <b>Đỗ Thùy Hương</b>
-      </div>
-      <div style={{ fontFamily: CHU, fontSize: 20, color: MAU.mo, marginTop: 26, fontStyle: 'italic', lineHeight: 1.5 }}>
-        {NHAN_GIONG}. {NHAN_AI}.
       </div>
     </Vien>
   );
@@ -329,7 +328,7 @@ const Trang: React.FC<{ s: Slide; i: number; dai: number; tham: ThamSo; dinh_vi:
  * Nhãn "đang ở đâu": slide nằm trong một chủ đề (sau slide mở chủ đề "1.1.",
  * "1.2." ...) thì ghi tên chủ đề và chấm tiến độ; trang khung thì ghi tên phần.
  */
-const dinhVi = (slides: Slide[]) => {
+const dinhVi = (slides: Slide[], ten_chuong: string) => {
   let bat_dau = -1;
   let ten = '';
   return slides.map((s, i) => {
@@ -348,13 +347,16 @@ const dinhVi = (slides: Slide[]) => {
       }
       return { nhan: `CHỦ ĐỀ ${ten} · ${i - bat_dau}/${cuoi - bat_dau}`, tien: [i - bat_dau - 1, cuoi - bat_dau] as [number, number] };
     }
-    return { nhan: 'CHƯƠNG 1 · TỔNG QUAN VỀ KHỞI SỰ DOANH NGHIỆP', tien: null };
+    return { nhan: ten_chuong, tien: null };
   });
 };
 
 export const BaiGiang: React.FC<ThamSo> = (tham) => {
   const slides = tham.slides.filter((s) => s.video === tham.video);
-  const vi = dinhVi(slides);
+  // Tên chương lấy từ dòng đầu trang bìa ("CHƯƠNG 2: ĐÁNH GIÁ ..."), trang bìa
+  // chỉ nằm ở video 1 nên phải tìm trong cả chương chứ không trong video này.
+  const bia = tham.slides.find((s) => /TRANG BÌA/.test(s.tieu_de));
+  const vi = dinhVi(slides, (bia?.tren_slide[0] ?? `CHƯƠNG ${tham.chuong}`).replace(/:\s*/, ' · '));
   let tu = 0;
   return (
     <AbsoluteFill style={{ background: MAU.nen }}>
