@@ -19,6 +19,11 @@ không thay việc nghe duyệt.
 
 Dùng (trong môi trường có vieneu + faster-whisper):
   python doc_loi.py <ch01.json> <thư mục ra>
+  python doc_loi.py <ch01_en.json> <thư mục ra>     # bản tiếng Anh
+
+Ngôn ngữ lấy từ trường "ngon_ngu" của tệp lịch (lay_lich_video_en.py ghi "en"):
+bảng đọc chữ viết tắt và ngôn ngữ nhận dạng lại đổi theo. Vẫn cùng một mẫu
+giọng của cô; VieNeu-TTS v3 Turbo học song ngữ Việt–Anh.
 """
 import json
 import os
@@ -28,6 +33,7 @@ import time
 
 import numpy as np
 import soundfile as sf
+from scipy.signal import resample_poly
 from faster_whisper import WhisperModel
 from vieneu import Vieneu
 
@@ -54,9 +60,23 @@ DOC_LA = {
 }
 
 
-def chuan_hoa(van):
+# Bản tiếng Anh: viết tách chữ để mô hình đánh vần, không đọc thành một từ.
+DOC_LA_EN = {
+    'EC1606': 'E C sixteen oh six',
+    'MVP': 'M V P',
+    '4P': 'four P',
+    '7P': 'seven P',
+    'STP': 'S T P',
+    'USP': 'U S P',
+    'D2C': 'D to C',
+    'VC': 'V C',
+    'OCOP': 'O C O P',
+}
+
+
+def chuan_hoa(van, bang=DOC_LA):
     # theo ranh giới từ: thay chuỗi thô thì "VC" ăn cả vào giữa chữ khác
-    for k, v in DOC_LA.items():
+    for k, v in bang.items():
         van = re.sub(r'(?<![\w])' + re.escape(k) + r'(?![\w])', v, van)
     return van
 
@@ -91,6 +111,8 @@ def ty_le_sai(goc, nghe):
 def main(duong_json, thu_muc_ra):
     os.makedirs(thu_muc_ra, exist_ok=True)
     du_lieu = json.load(open(duong_json, encoding='utf-8'))
+    en = du_lieu.get('ngon_ngu') == 'en'
+    bang, ngu = (DOC_LA_EN, 'en') if en else (DOC_LA, 'vi')
     tts = Vieneu()
     sr = getattr(tts, 'sample_rate', 48000)
     nghe = WhisperModel('small', device='cpu', compute_type='int8')
@@ -114,12 +136,14 @@ def main(duong_json, thu_muc_ra):
             continue
         t0 = time.time()
         doan, ghi = [], []
-        for cau in chia_cau(chuan_hoa(s['loi_doc'])):
+        for cau in chia_cau(chuan_hoa(s['loi_doc'], bang)):
             tot = None
             for lan in range(SO_LAN):
                 wav = tts.infer(cau, ref_audio=MAU, denoise=False)
-                sf.write('/tmp/_cau.wav', wav, sr)
-                seg, _ = nghe.transcribe('/tmp/_cau.wav', language='vi', beam_size=5)
+                # đưa thẳng mảng 16 kHz cho bộ nhận dạng: đọc lại từ tệp phải
+                # qua PyAV, mà PyAV 15+ bỏ đối số faster-whisper còn dùng
+                seg, _ = nghe.transcribe(resample_poly(wav, 1, sr // 16000).astype(np.float32),
+                                         language=ngu, beam_size=5)
                 sai = ty_le_sai(cau, ' '.join(x.text for x in seg))
                 if tot is None or sai < tot[0]:
                     tot = (sai, wav, lan + 1)

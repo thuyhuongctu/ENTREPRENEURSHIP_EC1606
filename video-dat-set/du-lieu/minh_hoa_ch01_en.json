@@ -1,0 +1,609 @@
+{
+ "chuong": 1,
+ "ghi_chu": "Bản tiếng Anh: cùng biểu tượng và bố cục với minh_hoa_ch01.json, chỉ thay nhãn.",
+ "slides": {
+  "2": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Start-up"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Validate the idea"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Business plan"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Local strengths"
+    }
+   ]
+  },
+  "3": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "1.1 · Ideas & plans"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "1.2 · Women, minorities, ecosystem"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Review · Summary"
+    }
+   ]
+  },
+  "4": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bong_den",
+     "nhan": "Start-ups & ideas"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Business plan"
+    }
+   ]
+  },
+  "5": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Start-up"
+    },
+    {
+     "bt": "xuc_xac",
+     "nhan": "Take risks"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "Choose a path"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Prepare resources"
+    }
+   ]
+  },
+  "6": {
+   "kieu": "hang",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Product, technology"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Process"
+    },
+    {
+     "bt": "loa",
+     "nhan": "Marketing"
+    },
+    {
+     "bt": "mo_hinh",
+     "nhan": "Business model"
+    }
+   ]
+  },
+  "7": {
+   "kieu": "vong",
+   "theo_the": false,
+   "giua": "MVP",
+   "muc": [
+    {
+     "bt": "hop_banh",
+     "nhan": "Start small"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Test-sell, measure"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Learn & fix fast"
+    }
+   ]
+  },
+  "8": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Real need"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Customers will pay"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Within your means"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Know competitors"
+    }
+   ]
+  },
+  "9": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Raw sweet potatoes"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Low prices"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Cakes, candied potato"
+    },
+    {
+     "bt": "dien_thoai",
+     "nhan": "Sell online"
+    }
+   ]
+  },
+  "10": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "bieu_do",
+     "nhan": "Search trends"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Ask customers"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "MVP · test sale"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Ms. Hoa's small batch"
+    }
+   ]
+  },
+  "11": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ban_do",
+     "nhan": "A roadmap"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Lower risk"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Basis for funding"
+    }
+   ]
+  },
+  "12": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tai_lieu",
+     "nhan": "Executive summary"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Product"
+    },
+    {
+     "bt": "muc_tieu",
+     "nhan": "Market"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Finance"
+    }
+   ]
+  },
+  "13": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dau_hoi",
+     "nhan": "What, for whom, why"
+    },
+    {
+     "bt": "banh_rang",
+     "nhan": "Adjust flexibly"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Intellectual property"
+    }
+   ]
+  },
+  "14": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Innovation & risk"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "Test with data"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "A roadmap"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Self-assessment"
+    }
+   ]
+  },
+  "15": {
+   "kieu": "duong",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "tick",
+     "nhan": "1.1 · Done"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "1.2 · Now"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Review"
+    },
+    {
+     "bt": "ten_lua",
+     "nhan": "On to Chapter 2"
+    }
+   ]
+  },
+  "16": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nhom",
+     "nhan": "Women & minorities"
+    },
+    {
+     "bt": "la",
+     "nhan": "Green, social, ecosystem"
+    }
+   ]
+  },
+  "17": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Local strengths"
+    },
+    {
+     "bt": "khoai",
+     "nhan": "Binh Tan sweet potato"
+    },
+    {
+     "bt": "binh_gom",
+     "nhan": "Red pottery"
+    },
+    {
+     "bt": "cay",
+     "nhan": "Orchard tourism"
+    }
+   ]
+  },
+  "18": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "can",
+     "nhan": "Work–home balance"
+    },
+    {
+     "bt": "cay",
+     "nhan": "Adaptability"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Strengths over capital"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Support policies"
+    }
+   ]
+  },
+  "19": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "la",
+     "nhan": "Protect the environment"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Compostable packaging"
+    },
+    {
+     "bt": "nguoi",
+     "nhan": "Urban customers"
+    },
+    {
+     "bt": "ngoi_sao",
+     "nhan": "Competitive edge"
+    }
+   ]
+  },
+  "20": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "trai_tim",
+     "nhan": "Community problem"
+    },
+    {
+     "bt": "can",
+     "nhan": "Profit + social good"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Women's income"
+    },
+    {
+     "bt": "la",
+     "nhan": "Identity + green"
+    }
+   ]
+  },
+  "21": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "binh_gom",
+     "nhan": "Centuries-old pottery"
+    },
+    {
+     "bt": "dau_hoi",
+     "nhan": "Old designs"
+    },
+    {
+     "bt": "la",
+     "nhan": "New designs, green packaging"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Jobs for potters"
+    }
+   ]
+  },
+  "22": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dong_xu",
+     "nhan": "Financial risk"
+    },
+    {
+     "bt": "bieu_do",
+     "nhan": "Market risk"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Team risk"
+    },
+    {
+     "bt": "bong_den",
+     "nhan": "Learn from failure"
+    }
+   ]
+  },
+  "23": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "can",
+     "nhan": "Profit, people, planet"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Honest with customers"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Honest with yourself"
+    }
+   ]
+  },
+  "24": {
+   "kieu": "trung_tam",
+   "theo_the": false,
+   "muc": [
+    {
+     "bt": "nguoi",
+     "nhan": "Entrepreneur"
+    },
+    {
+     "bt": "mu_tot_nghiep",
+     "nhan": "University"
+    },
+    {
+     "bt": "dong_xu",
+     "nhan": "Support funds"
+    },
+    {
+     "bt": "trai_tim",
+     "nhan": "Women's union"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Local programmes"
+    }
+   ]
+  },
+  "25": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "dien_thoai",
+     "nhan": "Social media"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "E-commerce"
+    },
+    {
+     "bt": "but",
+     "nhan": "Online design"
+    },
+    {
+     "bt": "dam_may",
+     "nhan": "Cloud tools"
+    }
+   ]
+  },
+  "26": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "nha",
+     "nhan": "Local identity"
+    },
+    {
+     "bt": "la",
+     "nhan": "Green & social"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Ecosystem, digital tools"
+    },
+    {
+     "bt": "tick",
+     "nhan": "Self-assessment"
+    }
+   ]
+  },
+  "27": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "ten_lua",
+     "nhan": "Q1"
+    },
+    {
+     "bt": "hop_banh",
+     "nhan": "Q2"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Q3"
+    },
+    {
+     "bt": "la",
+     "nhan": "Q4"
+    },
+    {
+     "bt": "nhom",
+     "nhan": "Q5"
+    }
+   ]
+  },
+  "28": {
+   "kieu": "chuoi",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "khoai",
+     "nhan": "Test sale: positive"
+    },
+    {
+     "bt": "xuc_xac",
+     "nhan": "Wants a loan now"
+    },
+    {
+     "bt": "kinh_lup",
+     "nhan": "What to test?"
+    },
+    {
+     "bt": "khien",
+     "nhan": "Risks & support"
+    }
+   ]
+  },
+  "29": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "kinh_lup",
+     "nhan": "Tested innovation"
+    },
+    {
+     "bt": "ban_do",
+     "nhan": "A roadmap"
+    },
+    {
+     "bt": "nha",
+     "nhan": "Strengths, ecosystem"
+    },
+    {
+     "bt": "tick",
+     "nhan": "To do"
+    }
+   ]
+  },
+  "30": {
+   "kieu": "hang",
+   "theo_the": true,
+   "muc": [
+    {
+     "bt": "sach",
+     "nhan": "Main textbook"
+    },
+    {
+     "bt": "tai_lieu",
+     "nhan": "Further reading"
+    }
+   ]
+  }
+ }
+}

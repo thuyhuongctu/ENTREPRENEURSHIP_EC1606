@@ -1,0 +1,430 @@
+{
+ "chuong": 1,
+ "ngon_ngu": "en",
+ "slides": [
+  {
+   "video": 1,
+   "so": 1,
+   "tieu_de_vi": "TRANG BÌA",
+   "tieu_de": "COVER",
+   "tren_slide": [
+    "CHAPTER 1: AN OVERVIEW OF ENTREPRENEURSHIP",
+    "Course: Entrepreneurship (EC1606)",
+    "Faculty of Business and Law",
+    "Vinh Long University of Technology and Engineering"
+   ],
+   "loi_doc": "Hello everyone. I am Do Thuy Huong, a lecturer at the Faculty of Business and Law, Vinh Long University of Technology and Engineering. Welcome to the course Entrepreneurship, course code EC1606. Today we begin with Chapter one, an overview of entrepreneurship. Before we talk about capital, business models or marketing, you need to understand what entrepreneurship is, how a good idea is born and tested, and who can walk alongside you on that journey.",
+   "goi_y_hinh": "Hương AI đứng giảng (assets/huong-ai/HUONG_AI_GIANG_BAI.jpg) + chú thích \"nhân vật minh họa do AI tạo\""
+  },
+  {
+   "video": 1,
+   "so": 2,
+   "tieu_de_vi": "MỤC TIÊU CHƯƠNG 1",
+   "tieu_de": "CHAPTER 1 OBJECTIVES",
+   "tren_slide": [
+    "Explain how a start-up differs from an ordinary business",
+    "Validate an idea with the Lean Start-up approach",
+    "Name the four parts of a business plan",
+    "Draw on local strengths and the ecosystem"
+   ],
+   "loi_doc": "These are the four objectives of the chapter. After Chapter one, you should be able to explain how a start-up differs from a business that simply copies an existing model; validate an idea in the spirit of the lean start-up; name the four basic parts of a business plan; and draw on local strengths and the start-up ecosystem around you.",
+   "goi_y_hinh": "Hương AI đứng toàn thân (assets/huong-ai/HUONG_AI_DUNG.jpg) + chú thích; dấu tick trước mỗi mục tiêu"
+  },
+  {
+   "video": 1,
+   "so": 3,
+   "tieu_de_vi": "NỘI DUNG CHƯƠNG 1",
+   "tieu_de": "CHAPTER 1 CONTENTS",
+   "tren_slide": [
+    "1. 1.1. The concept of entrepreneurship, ideas and business plans",
+    "2. 1.2. Entrepreneurship for women, ethnic-minority people and the start-up ecosystem",
+    "3. Review – Case study – Chapter summary"
+   ],
+   "loi_doc": "Chapter one has two topics. Topic one: the concept of entrepreneurship, ideas and business plans. Topic two: entrepreneurship for women and ethnic-minority people, and the start-up ecosystem. At the end of the chapter there are review questions, a case study and a summary. Now let us begin with the first topic.",
+   "goi_y_hinh": "Danh sách đánh số 1-2-3"
+  },
+  {
+   "video": 1,
+   "so": 4,
+   "tieu_de_vi": "1.1. KHÁI NIỆM KHỞI NGHIỆP, Ý TƯỞNG VÀ KẾ HOẠCH KINH DOANH",
+   "tieu_de": "1.1. THE CONCEPT OF ENTREPRENEURSHIP, IDEAS AND BUSINESS PLANS",
+   "tren_slide": [
+    "What entrepreneurship is, where innovation comes from, criteria for a good idea.",
+    "How to validate an idea, and the role and content of a business plan."
+   ],
+   "loi_doc": "The first topic of this chapter is: the concept of entrepreneurship, ideas, and business plans. In this topic, you will learn what entrepreneurship is, where innovation comes from, the criteria for a good business idea, how to validate an idea before investing time and money in it, and why every start-up project — large or small — needs a business plan.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 1/11); nhãn nhỏ: —"
+  },
+  {
+   "video": 1,
+   "so": 5,
+   "tieu_de_vi": "KHỞI NGHIỆP LÀ GÌ",
+   "tieu_de": "WHAT IS ENTREPRENEURSHIP",
+   "tren_slide": [
+    "Start-up: beginning a business from a new idea with fast growth potential.",
+    "Differs from ordinary business: willing to take risks, seeks breakthrough value.",
+    "Not just repeating an existing model — know which path you are on.",
+    "This shapes how you prepare resources, skills and mindset."
+   ],
+   "loi_doc": "First, we need to clearly distinguish two concepts that are often confused: ordinary business and entrepreneurship — start-up. An ordinary business usually repeats an existing model, for example opening another coffee shop using the exact formula of one that already succeeded elsewhere. Entrepreneurship, in the sense used in this module, is the process of starting a business based on a new idea with the potential for fast growth and large scale. The biggest difference between an entrepreneur and an ordinary business owner lies not in the initial capital, but in the willingness to take risks and the drive to create breakthrough value, rather than simply copying a familiar template. Clarifying this difference from the start matters, because it helps you identify which path you are actually on — and prepare your resources, skills and mindset accordingly. Someone opening a restaurant using a family recipe is not doing anything wrong, but that is business, not necessarily entrepreneurship in the sense we study here.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 2/11); nhãn nhỏ: 1.1 — Khái niệm khởi nghiệp"
+  },
+  {
+   "video": 1,
+   "so": 6,
+   "tieu_de_vi": "BỐN HƯỚNG ĐỔI MỚI SÁNG TẠO",
+   "tieu_de": "FOUR DIRECTIONS OF INNOVATION",
+   "tren_slide": [
+    "Innovation: product/technology, process, marketing, business model.",
+    "'Creativity' is a new idea; 'innovation' turns it into real value.",
+    "An innovative start-up grows faster than an ordinary business.",
+    "Example: ride-hailing apps — innovation in the connection model, not the vehicle."
+   ],
+   "loi_doc": "So what makes a start-up truly 'new'? Innovation in entrepreneurship can come from four directions: product and technology innovation, process innovation, marketing innovation, and business-model innovation. You should distinguish two closely related but different concepts: 'creativity' is coming up with a new idea, while 'innovation' is turning that idea into real, applicable value that benefits users. A creative idea that is never implemented is not yet innovation. An innovative start-up usually has more potential for fast growth than an ordinary business, because it solves a problem in a way nobody else has, so once the model is validated, it can scale up very quickly — a ride-hailing app is a classic example: the innovation is not in the vehicle, but in the connection and operating model.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 3/11); nhãn nhỏ: 1.2 — Đổi mới sáng tạo"
+  },
+  {
+   "video": 1,
+   "so": 7,
+   "tieu_de_vi": "LEAN START-UP VÀ MVP",
+   "tieu_de": "LEAN START-UP AND MVP",
+   "tren_slide": [
+    "Lean Start-up: test fast, low cost, fix mistakes immediately.",
+    "MVP — minimum viable product: enough for real customers to try.",
+    "Example: a Zalo group taking manual orders before building a full app.",
+    "Saves time and money — especially important with limited capital."
+   ],
+   "loi_doc": "This leads to a key concept of modern entrepreneurship: the 'lean start-up'. Its core idea is: do not invest heavily from the start before knowing whether the market will accept it; instead, test quickly at the lowest possible cost, collect real feedback from customers, fix mistakes immediately, and only then decide to scale up. The common tool is the MVP — the minimum viable product: the simplest possible version of a product, just enough for real customers to try and give feedback, without needing every detail finished. For example, a group of students wanting to build a food-ordering app for the area around their school does not need to write full software right away; they can start with a Zalo group manually taking orders for two weeks, to check whether the real demand is large enough before investing effort in building the app. This approach saves considerable time and money for entrepreneurs, especially those with little capital.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 4/11); nhãn nhỏ: 1.2 — Khởi nghiệp tinh gọn"
+  },
+  {
+   "video": 1,
+   "so": 8,
+   "tieu_de_vi": "TIÊU CHÍ MỘT Ý TƯỞNG KINH DOANH TỐT",
+   "tieu_de": "CRITERIA FOR A GOOD BUSINESS IDEA",
+   "tren_slide": [
+    "Starts from an unmet need, not just personal preference.",
+    "Feasible; customers willing to pay; delivers real benefit.",
+    "Prioritise an idea that fits your capability, not an oversized one.",
+    "Study competitors and define a target market from the start."
+   ],
+   "loi_doc": "So what criteria should a good business idea meet? First, the idea should start from observing and solving an unmet market need, not merely from personal preference, and it should not be a plain copy of a competitor's model. Second, the idea needs real feasibility — meaning enough resources, skills, or the ability to learn them, to carry it out. Third, there must be customers willing to pay for that solution, not just an idea that 'sounds good' in theory. Fourth, the idea must deliver real benefit, solving a specific problem rather than something vague. One important note when choosing among several ideas: prioritise one that fits your own and your team's actual capability, rather than an idea that sounds impressive but is beyond what you can execute at the start. From this stage, you should also take a first look at competitors and define a target market — the specific group of customers you want to serve — to avoid duplication and to spot a gap you can exploit better than your competitors.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 5/11); nhãn nhỏ: 1.1 — Tiêu chí ý tưởng tốt"
+  },
+  {
+   "video": 1,
+   "so": 9,
+   "tieu_de_vi": "CHỊ HOA VÀ KHOẢNG TRỐNG TRONG CHUỖI GIÁ TRỊ",
+   "tieu_de": "CASE: MS. HOA AND A GAP IN THE VALUE CHAIN",
+   "tren_slide": [
+    "A case built for teaching, not a true story or real data.",
+    "Binh Tan sweet potatoes underpriced by traders when sold raw.",
+    "Idea: process cakes/jam from sweet potato, sell via social media.",
+    "Checked against the 4 criteria: feasible, raw material, market interest."
+   ],
+   "loi_doc": "To make these criteria less abstract, let's follow an illustrative case that will run throughout the module: Ms. Hoa, a woman growing sweet potatoes in Binh Tan, Vinh Long. This is an example built for teaching purposes, not a true story, but it reflects what many farming households actually face. Ms. Hoa notices that after harvest, her sweet potatoes are often underpriced by traders because she only sells them raw, unprocessed. This is exactly the 'observing an unmet need' step we just discussed — not the buyer's need, but a gap sitting right inside the value chain of the product she already has. From that observation, Ms. Hoa comes up with an idea: process the sweet potatoes into packaged cakes or jam, selling directly to urban consumers via social media instead of selling raw to traders at a low price. Applying the four criteria we just learned: is this idea feasible? Yes — she already has the raw material, can learn processing skills, and the urban market is increasingly interested in clean food with a clear origin.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 6/11); nhãn nhỏ: Tình huống"
+  },
+  {
+   "video": 1,
+   "so": 10,
+   "tieu_de_vi": "KIỂM CHỨNG Ý TƯỞNG TRƯỚC KHI ĐẦU TƯ",
+   "tieu_de": "VALIDATING AN IDEA BEFORE INVESTING",
+   "tren_slide": [
+    "Use a trend tool (e.g. Google Trends) to check broad demand.",
+    "Survey/interview potential customers about willingness to pay.",
+    "Build an MVP, sell on trial, observe real reactions before scaling.",
+    "Ms. Hoa: trial-sells a small batch on a local Facebook group first."
+   ],
+   "loi_doc": "But having a good idea is not enough — the next required step is to validate the idea before investing heavily. There are a few common validation methods you should know. One, use a trend-search tool — for example Google Trends — to see whether the need you observed really exists broadly, or is just a personal impression. Two, survey or directly interview a small group of potential customers, asking honestly whether they would pay for this solution. Three, apply the lean-start-up spirit properly: make a small batch — an MVP — and sell it on a trial basis, observing real reactions before investing in large equipment. Back to Ms. Hoa: instead of rushing to borrow money for an industrial dryer, she should make a small trial batch of sweet-potato cakes, post it for sale in a local Facebook group, and see how many people actually order and how they respond. This is exactly how an idea gets validated gradually with real data, rather than relying only on the founder's belief or gut feeling.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 7/11); nhãn nhỏ: Kiểm chứng ý tưởng"
+  },
+  {
+   "video": 1,
+   "so": 11,
+   "tieu_de_vi": "VAI TRÒ CỦA KẾ HOẠCH KINH DOANH",
+   "tieu_de": "THE ROLE OF A BUSINESS PLAN",
+   "tren_slide": [
+    "A business plan is the 'roadmap' for realising the idea.",
+    "Guides the entrepreneur, reduces risk with limited capital.",
+    "The basis for raising capital from investors, banks, funds."
+   ],
+   "loi_doc": "Once the idea has been validated to some degree, the next step is to build a business plan. This is seen as the 'roadmap' for turning the idea into reality, answering in detail the question: how will I do it, and what do I need to do it. The business plan's most important role has two sides. First, it guides the entrepreneur — forcing the planner to think through the product, customers and costs before putting in real money, which reduces risk, especially important for entrepreneurs with little capital like Ms. Hoa. Second, it is the basis for raising capital from investors, banks or support funds — no one puts money into an idea presented only in words; they need a structured document with data and a clear roadmap to evaluate.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 8/11); nhãn nhỏ: 1.6 — Kế hoạch kinh doanh"
+  },
+  {
+   "video": 1,
+   "so": 12,
+   "tieu_de_vi": "BỐN PHẦN CẦN CÓ TRONG KẾ HOẠCH KINH DOANH",
+   "tieu_de": "FOUR SECTIONS OF A BUSINESS PLAN",
+   "tren_slide": [
+    "Project summary — written last, read in a few minutes.",
+    "Product/service description and difference from competitors.",
+    "Target market analysis, size, competitors.",
+    "Financial plan: costs, projected revenue, break-even point.",
+    "Illustrative example (hypothetical): 15M capital, break-even in 6 months."
+   ],
+   "loi_doc": "A business plan, even a brief one, needs four basic sections. One, the project summary: placed at the start but usually written last, because its purpose is to condense the whole plan into a few short paragraphs, helping the reader — especially a busy investor — grasp the main idea within minutes. Two, the product or service description: what the product is, what problem it solves, and how it differs from competitors. Three, market analysis: who the target market is, the estimated size, competitors, and why customers would choose you. Four, the financial plan: initial costs, projected revenue, and the break-even point. Take an illustrative example built for Ms. Hoa — entirely hypothetical teaching figures, not real data: initial capital of about fifteen million dong for a small dryer and packaging, a selling price of sixty thousand dong per box of sweet-potato cakes, and if about one hundred boxes sell each month, the initial capital could be recovered after six months. Such figures, even if hypothetical, make the plan far more concrete and credible than simply saying 'this product will sell well'.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 9/11); nhãn nhỏ: 1.7 — Nội dung kế hoạch kinh doanh"
+  },
+  {
+   "video": 1,
+   "so": 13,
+   "tieu_de_vi": "TRẢ LỜI ĐÚNG BA CÂU HỎI CỐT LÕI",
+   "tieu_de": "ANSWERING THREE CORE QUESTIONS",
+   "tren_slide": [
+    "What am I selling — to whom — why would they choose me.",
+    "The plan must stay flexible as the market changes.",
+    "Protect intellectual property from the planning stage onward."
+   ],
+   "loi_doc": "A good business plan also needs to clearly answer three core questions: what am I selling, who am I selling to, and why would customers choose me over competitors. At the same time, the plan needs to be flexible enough to adjust as market realities change, rather than being written once and fixed forever — the market, customer behaviour and competitors can all change quickly, especially in today's digital-transformation environment. From the planning stage itself, you should also pay attention to protecting intellectual property — for example registering a trademark or distinctive packaging — to avoid being copied once the project starts showing good results. This is a small detail that many new entrepreneurs overlook, only to realise once the idea succeeds that others have copied it with no way to protect it.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 10/11); nhãn nhỏ: 1.7 — Kế hoạch linh hoạt"
+  },
+  {
+   "video": 1,
+   "so": 14,
+   "tieu_de_vi": "TỔNG KẾT CHỦ ĐỀ 1.1",
+   "tieu_de": "SUMMARY OF TOPIC 1.1",
+   "tren_slide": [
+    "Entrepreneurship differs from ordinary business via innovation and calculated risk.",
+    "A good idea must start from a real need and be validated with data.",
+    "A business plan is an essential roadmap, to guide and to raise capital.",
+    "Complete the self-assessment exercise before moving to the next part."
+   ],
+   "loi_doc": "To sum up this topic, remember three things: one, entrepreneurship differs from ordinary business in its spirit of innovation and calculated risk-taking; two, a good idea must start from a real need and be validated with data, in the lean-start-up spirit, before any large investment; three, a business plan is an essential roadmap, both to guide yourself and to raise capital from others. Please complete the self-assessment exercise at the end of this topic before moving on to the next part.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.1 (mục 11/11); nhãn nhỏ: —"
+  },
+  {
+   "video": 2,
+   "so": 15,
+   "tieu_de_vi": "CHÚNG TA ĐANG Ở ĐÂU",
+   "tieu_de": "WHERE ARE WE NOW",
+   "tren_slide": [
+    "✓ Done — Topic 1.1: Entrepreneurship and innovation, the Lean Start-up, criteria for and ways to validate an idea, the role and four parts of a business plan.",
+    "▶ Now — Topic 1.2: Entrepreneurship for women and ethnic-minority people; green and social entrepreneurship; risk and business ethics; the ecosystem and digital tools.",
+    "○ Next — Review and case study: Five review questions, a case study about Ms. Hoa, the chapter summary and learning materials.",
+    "Link to the next chapter: Chapter 1 gives us an idea and a way to test it; Chapter 2 teaches a systematic way to assess opportunities and develop a business plan."
+   ],
+   "loi_doc": "Let us see where we are in this chapter. In the first topic, you learned the concept of entrepreneurship and innovation, the lean start-up mindset, how to choose and test an idea, and the role and four parts of a business plan. Now comes the second topic, on entrepreneurship for women and ethnic-minority people. After that we have the review and the case study. This is the foundation for Chapter two, where you will learn to assess business opportunities.",
+   "goi_y_hinh": "Trục tiến độ chương: chủ đề 1.1 đã học, 1.2 đang học, ôn tập sắp học"
+  },
+  {
+   "video": 2,
+   "so": 16,
+   "tieu_de_vi": "1.2. KHỞI NGHIỆP CHO PHỤ NỮ, NGƯỜI DÂN TỘC THIỂU SỐ VÀ HỆ SINH THÁI KHỞI NGHIỆP",
+   "tieu_de": "1.2. ENTREPRENEURSHIP FOR WOMEN, ETHNIC-MINORITY PEOPLE AND THE START-UP ECOSYSTEM",
+   "tren_slide": [
+    "Idea sources and skills for women and ethnic-minority entrepreneurs.",
+    "Green/social entrepreneurship, risk, business ethics, the start-up ecosystem."
+   ],
+   "loi_doc": "This second topic goes deeper into a core focus of the module: entrepreneurship for women and ethnic-minority people in the context of digital transformation, together with green entrepreneurship, social entrepreneurship, business ethics, the risks to anticipate, and the start-up ecosystem that every entrepreneur, large or small, should know how to make use of.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 1/11); nhãn nhỏ: —"
+  },
+  {
+   "video": 2,
+   "so": 17,
+   "tieu_de_vi": "NGUỒN Ý TƯỞNG TỪ BẢN SẮC ĐỊA PHƯƠNG",
+   "tieu_de": "IDEA SOURCES FROM LOCAL IDENTITY",
+   "tren_slide": [
+    "Local strengths and produce are good idea sources — hard to copy elsewhere.",
+    "In Vinh Long: Binh Tan sweet potatoes, red pottery, orchard eco-tourism.",
+    "Ethnic-minority community tourism: generates income while preserving culture."
+   ],
+   "loi_doc": "For women and ethnic-minority people — a group this module gives special attention to — the best idea source is often not far away at all, but lies right in the strengths and distinctive produce of the locality where they live. The reason is that this is cultural identity, traditional skill or specific produce that other places cannot easily copy — a natural competitive advantage not everyone has. In Vinh Long, for instance, this could be deep processing of Binh Tan sweet potatoes, as in Ms. Hoa's case from the previous topic, or red pottery — a long-standing traditional craft of the region, or orchard eco-tourism and river culture. For ethnic-minority people, community tourism built on their own cultural identity — costume, festivals, handicrafts, cuisine — is also a naturally advantageous direction, generating income while helping preserve culture and preventing those values from fading over time.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 2/11); nhãn nhỏ: 1.3 — Nguồn ý tưởng"
+  },
+  {
+   "video": 2,
+   "so": 18,
+   "tieu_de_vi": "KỸ NĂNG CẦN THIẾT CHO PHỤ NỮ, DÂN TỘC THIỂU SỐ",
+   "tieu_de": "KEY SKILLS FOR WOMEN AND ETHNIC-MINORITY ENTREPRENEURS",
+   "tren_slide": [
+    "Balancing the business with family responsibilities.",
+    "Adaptability — crucial in rural and mountainous areas.",
+    "Limited capital: draw first on own strengths and local identity.",
+    "Learn about dedicated support policies at district, provincial level."
+   ],
+   "loi_doc": "Besides idea sources, women and ethnic-minority entrepreneurs need to focus on certain specific skills. First is the skill of balancing the business with family responsibilities — a reality many women entrepreneurs face more than men, so a sensible way to organise time and divide tasks is needed from the start. Second is adaptability, especially important for entrepreneurs in rural or mountainous areas, where market conditions, farm-produce prices, weather or even policy can change quickly beyond one's control. Third, when facing capital difficulties — funding remains a common barrier for this group — the resource that should be tapped first is one's own strengths and local identity, alongside carefully learning about policies and dedicated support sources for women and ethnic-minority people, which often exist at district or provincial level but are little known.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 3/11); nhãn nhỏ: 1.3 — Kỹ năng khởi nghiệp"
+  },
+  {
+   "video": 2,
+   "so": 19,
+   "tieu_de_vi": "KHỞI NGHIỆP XANH",
+   "tieu_de": "GREEN ENTREPRENEURSHIP",
+   "tren_slide": [
+    "Growing a business alongside environmental protection and sustainability.",
+    "Example: biodegradable packaging, reusing agricultural by-products.",
+    "Urban consumers care about origin and environmental impact.",
+    "A real competitive advantage, not just an ethical trend."
+   ],
+   "loi_doc": "Two start-up trends on the rise fit very well with the community-and-local-identity context we just discussed; the first is green entrepreneurship. Green entrepreneurship focuses on developing a business alongside environmental protection and sustainable resource use — for example using biodegradable packaging, making use of agricultural by-products instead of discarding them, or applying a production process that pollutes less than the traditional way. This is not only an ethical trend, but increasingly a real competitive advantage, because consumers — especially in cities — care more and more about the origin and environmental impact of what they buy, and are willing to pay a higher price for a 'green' product if told a convincing enough story.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 4/11); nhãn nhỏ: 1.4 — Khởi nghiệp xanh"
+  },
+  {
+   "video": 2,
+   "so": 20,
+   "tieu_de_vi": "KHỞI NGHIỆP XÃ HỘI (SOCIAL ENTREPRENEURSHIP)",
+   "tieu_de": "SOCIAL ENTREPRENEURSHIP",
+   "tren_slide": [
+    "Prioritises a social/community problem through the business model itself.",
+    "Profit and social value are not separated.",
+    "Example: income for local women, preserving a traditional craft.",
+    "A project with identity + eco-friendliness is valued more highly."
+   ],
+   "loi_doc": "The second trend is social entrepreneurship. Unlike ordinary entrepreneurship, which only aims to maximise profit, social entrepreneurship prioritises solving a specific social or community problem through the business model itself, rather than treating profit and social value as two separate things. For example, a project that both creates income for local women and helps preserve a fading traditional craft is practising social entrepreneurship, even though it still needs profit to sustain its operations in the long run. A project that carries both strong cultural identity and environmental friendliness in the green-entrepreneurship direction is usually valued more highly by the market and by investors, because it tells a meaningful story rather than simply selling a product.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 5/11); nhãn nhỏ: 1.4 — Khởi nghiệp xã hội"
+  },
+  {
+   "video": 2,
+   "so": 21,
+   "tieu_de_vi": "GỐM ĐỎ VĨNH LONG: HIỆN ĐẠI HÓA LÀNG NGHỀ",
+   "tieu_de": "CASE: MODERNISING THE VINH LONG RED-POTTERY CRAFT VILLAGE",
+   "tren_slide": [
+    "A case built for teaching, not real data or events.",
+    "A long-standing craft but old designs, hard to reach young buyers.",
+    "Keep traditional firing, redesign products, eco-friendly packaging.",
+    "Jobs for many potter households — combining green and social entrepreneurship."
+   ],
+   "loi_doc": "To picture both trends at once, let's look at the module's second illustrative case: the Vinh Long red-pottery project — also an example built for teaching, not real data or events, but reflecting what many traditional craft villages actually face. Red pottery is a long-standing craft of the region, but like many other craft villages, it struggles with old designs and difficulty reaching young customers and export markets. Suppose a local group of young entrepreneurs decides to modernise this craft village: keeping the traditional firing technique — the identity that is hard to copy — while redesigning the products to suit modern taste, using environmentally friendly packaging, and creating more work for many potter households in the area instead of each working alone. This is a project combining both green and social entrepreneurship: commercialising a local cultural asset, preserving a traditional craft, and creating social value and sustainable income for the craft-village community.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 6/11); nhãn nhỏ: Tình huống"
+  },
+  {
+   "video": 2,
+   "so": 22,
+   "tieu_de_vi": "BA NHÓM RỦI RO CẦN LƯỜNG TRƯỚC",
+   "tieu_de": "THREE GROUPS OF RISK TO ANTICIPATE",
+   "tren_slide": [
+    "Financial risk: lacking working capital in the early stage.",
+    "Market risk: misjudging demand, too few buyers.",
+    "Team risk: losing cohesion, depending on one customer/channel.",
+    "Treat failure as data to learn from, not as an endpoint."
+   ],
+   "loi_doc": "No matter how good an idea is, entrepreneurship always carries risk, and entrepreneurs need to anticipate three common groups of risk. One, financial risk — lacking working capital to sustain operations in the early stage when revenue is not yet stable. Two, market risk — misjudging demand, or not having as many buyers as initially expected. Three, team risk — losing cohesion, or depending too heavily on a single customer, a single sales channel, or a single individual. For the red-pottery project above, a specific risk could be depending on a single buyer, leaving the whole craft village exposed to being underpriced if that buyer runs into trouble. Identifying these risks early is not meant to discourage you, but to prepare a response before the problem actually occurs. A proper mindset toward failure also matters greatly: treating failure as data to learn from and improve the project, rather than as an endpoint or a sign that you should not be in business.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 7/11); nhãn nhỏ: Rủi ro"
+  },
+  {
+   "video": 2,
+   "so": 23,
+   "tieu_de_vi": "ĐẠO ĐỨC KINH DOANH VÀ PHÁT TRIỂN BỀN VỮNG",
+   "tieu_de": "BUSINESS ETHICS AND SUSTAINABLE DEVELOPMENT",
+   "tren_slide": [
+    "Balance economic profit, human benefit, environmental protection.",
+    "Honesty with customers about real product quality.",
+    "Honesty with yourself about the team's real capability."
+   ],
+   "loi_doc": "Alongside risk management, starting a business should not aim only at generating profit. A sustainable start-up project must not violate business ethics, and must always seek balance among three factors: economic profit, human benefit, and environmental protection — this is also how a project shows responsibility to the community around it. When building a business idea, honesty must be committed to from the start, in two directions: honesty with customers about the real quality of the product, without exaggeration or false advertising; and honesty with oneself about the real capability of oneself and the team, because a lastingly successful project always needs balance between big ambition and realistic execution ability, not chasing profit at any cost.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 8/11); nhãn nhỏ: Đạo đức kinh doanh"
+  },
+  {
+   "video": 2,
+   "so": 24,
+   "tieu_de_vi": "HỆ SINH THÁI KHỞI NGHIỆP",
+   "tieu_de": "THE START-UP ECOSYSTEM",
+   "tren_slide": [
+    "All resources, organisations and policies around an entrepreneur.",
+    "Universities, support funds, women's unions, local programmes.",
+    "No one starts alone — use it to avoid common mistakes."
+   ],
+   "loi_doc": "Another concept you need to grasp firmly is the 'start-up ecosystem'. This is the whole environment of resources, organisations and policies around an entrepreneur, including universities, start-up support funds, women's unions, local-government support programmes, and the community of other entrepreneurs one can learn from. No start-up project should try to do everything alone — knowing how to make use of the surrounding ecosystem considerably shortens the time spent figuring things out by trial and error, and the cost of avoidable mistakes. Even a small-scale project like Ms. Hoa's or the red-pottery start-up group benefits greatly from this ecosystem: a local women's union, a district-level start-up support programme, or simply someone with experience willing to guide, can all help a new entrepreneur avoid common mistakes from the outset.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 9/11); nhãn nhỏ: 1.4 — Hệ sinh thái khởi nghiệp"
+  },
+  {
+   "video": 2,
+   "so": 25,
+   "tieu_de_vi": "CÔNG CỤ SỐ HỖ TRỢ KHỞI NGHIỆP",
+   "tieu_de": "DIGITAL TOOLS SUPPORTING ENTREPRENEURSHIP",
+   "tren_slide": [
+    "Social media: test market reaction at almost zero cost.",
+    "E-commerce: sell without a fixed physical location.",
+    "Online design tools (e.g. Canva): professional packaging, imagery.",
+    "Cloud tools: effective teamwork even at a distance."
+   ],
+   "loi_doc": "Finally, in today's digital-transformation context, digital tools are an indispensable part of the start-up ecosystem, especially useful for entrepreneurs with little capital. At the idea stage, social media helps test market reaction at almost zero cost — as when Ms. Hoa posted her first trial batch of sweet-potato cakes for sale. E-commerce platforms allow selling without a fixed physical location. Online design tools such as Canva help create professional packaging and promotional images without deep design skills — very useful for a product like red pottery, where attractive imagery can decide whether urban customers choose to buy. Cloud-based storage and teamwork tools let start-up team members — even when not in the same place — still coordinate effectively. Being able to apply these digital tools and supporting software skilfully is one of this module's important learning outcomes.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 10/11); nhãn nhỏ: Công cụ số"
+  },
+  {
+   "video": 2,
+   "so": 26,
+   "tieu_de_vi": "TỔNG KẾT CHƯƠNG 1",
+   "tieu_de": "SUMMARY OF CHAPTER 1",
+   "tren_slide": [
+    "Best idea source: your own local strengths, identity, produce.",
+    "Green/social entrepreneurship fits, with ethics and risk awareness.",
+    "Make use of the start-up ecosystem and digital tools around you.",
+    "Complete the end-of-topic self-assessment before the chapter review."
+   ],
+   "loi_doc": "To sum up this topic, remember three things: one, the best idea source for women and ethnic-minority people often lies right in the strengths, identity and local produce they already have; two, green entrepreneurship and social entrepreneurship are two directions that fit this context very well, as long as business ethics are upheld and risks are anticipated; three, no one starts a business alone — knowing how to make use of the start-up ecosystem and digital tools around you makes the path of starting a business considerably less difficult. Please complete the self-assessment exercise at the end of this topic before moving on.",
+   "goi_y_hinh": "Trục \"đang ở đâu\" của chủ đề 1.2 (mục 11/11); nhãn nhỏ: —"
+  },
+  {
+   "video": 2,
+   "so": 27,
+   "tieu_de_vi": "CÂU HỎI ÔN TẬP CHƯƠNG 1",
+   "tieu_de": "CHAPTER 1 REVIEW QUESTIONS",
+   "tren_slide": [
+    "1. How does a start-up differ from an ordinary business? Give an example of your own.",
+    "2. Why should you build an MVP and test-sell before borrowing large investment capital?",
+    "3. What are the four parts of a business plan? Why is the summary usually written last?",
+    "4. What does a project need in order to be both a green start-up and a social start-up?",
+    "5. In your locality, who in the start-up ecosystem can support people who are just starting out?"
+   ],
+   "loi_doc": "To check yourself, pause the video and try to answer the five questions on the screen. The first two review the concept of entrepreneurship and how to test an idea with a minimum viable product. The third is about the business plan. The last two connect to the second topic: green entrepreneurship, social entrepreneurship and the start-up ecosystem. Try to answer with your own examples, rather than repeating the examples from the lecture.",
+   "goi_y_hinh": "Năm câu đánh số"
+  },
+  {
+   "video": 2,
+   "so": 28,
+   "tieu_de_vi": "TÌNH HUỐNG MINH HỌA",
+   "tieu_de": "CASE STUDY",
+   "tren_slide": [
+    "Context: Illustrative example: Ms. Hoa in Binh Tan test-sells her first batch of sweet-potato cakes in a local Facebook group, and the response is quite positive.",
+    "Problem: She wants to borrow money to buy a large dryer right away, sells through only one channel, and has not written any business plan.",
+    "Question 1: In the spirit of the Lean Start-up, what else should Ms. Hoa test before deciding to borrow?",
+    "Question 2: Which risks should she anticipate? Which parts of the ecosystem and which digital tools could help her reduce them?"
+   ],
+   "loi_doc": "Now let us apply the whole chapter to one case. A reminder: this is an illustrative example created for teaching, not a real story. Ms. Hoa in Binh Tan made her first batch of sweet-potato cakes, posted them for sale in a local Facebook group, and received quite positive feedback. Excited, she wants to borrow money to buy a large dryer right away, even though she has sold through only one channel and has no business plan yet. Think about two questions. First, in the spirit of the lean start-up, what else should she test before borrowing, for example, do customers come back to buy a second time? Second, what risks is she facing, and how could the women's union or digital tools help her?",
+   "goi_y_hinh": "Bốn thẻ; ghi rõ \"ví dụ dựng ra để giảng dạy, không phải số liệu thật\""
+  },
+  {
+   "video": 2,
+   "so": 29,
+   "tieu_de_vi": "TỔNG KẾT CHƯƠNG 1",
+   "tieu_de": "CHAPTER 1 SUMMARY",
+   "tren_slide": [
+    "Entrepreneurship: tested innovation: A start-up differs from an ordinary business through innovation and calculated risk; the idea must come from a real need and be tested with an MVP.",
+    "Business plan: the roadmap: Four parts: summary, product, market, finance. It guides you and supports fundraising, and it should be adjusted flexibly.",
+    "Build on strengths, never alone: Start from local identity; go green and social; keep your ethics and anticipate risks; use the ecosystem and digital tools.",
+    "To do: Complete the self-assessment for both topics, answer the Chapter 1 written review, and note one idea for your final course report."
+   ],
+   "loi_doc": "To close Chapter one, remember three things. First, entrepreneurship is innovation with calculated risk, and a good idea must come from a real need and be tested before any large investment. Second, the business plan is an essential roadmap: it guides you, and it is the basis for raising capital. Third, start your business from local strengths, keep your business ethics, and do not go it alone. Your tasks: complete the self-assessment exercises and the written review, and note down an idea for your final course report.",
+   "goi_y_hinh": "Bốn thẻ"
+  },
+  {
+   "video": 2,
+   "so": 30,
+   "tieu_de_vi": "TÀI LIỆU HỌC TẬP",
+   "tieu_de": "LEARNING MATERIALS",
+   "tren_slide": [
+    "Main textbook: [1] Nguyen Thi Ngoc Huyen and Ngo Thi Viet Nga (2024), Giáo trình khởi sự kinh doanh (Starting a Business, 2nd reprint), National Economics University Publishing House.",
+    "Further reading: [3] Hanoi University of Science and Technology (2023), Advisory document: Business skills for women and ethnic-minority people (in Vietnamese)."
+   ],
+   "loi_doc": "Please read the textbook on starting a business by Nguyen Thi Ngoc Huyen and Ngo Thi Viet Nga, published by the National Economics University Publishing House. For the second topic, also read the document on business skills for women and ethnic-minority people by Hanoi University of Science and Technology. Both are in Vietnamese.",
+   "goi_y_hinh": "Hai khối: giáo trình chính | tài liệu tham khảo"
+  },
+  {
+   "video": 2,
+   "so": 31,
+   "tieu_de_vi": "KẾT THÚC CHƯƠNG",
+   "tieu_de": "END OF CHAPTER",
+   "tren_slide": [
+    "THANK YOU FOR WATCHING",
+    "DIGITAL LEARNING MATERIALS · ENTREPRENEURSHIP",
+    "Faculty of Business and Law – Vinh Long University of Technology and Engineering",
+    "fel@vlute.edu.vn · https://vlute.edu.vn"
+   ],
+   "loi_doc": "Thank you for following Chapter one. I hope you find an idea that truly makes you want to get started. See you in Chapter two, on assessing opportunities and ideas to develop a business plan. Goodbye for now.",
+   "goi_y_hinh": "Nền xanh đậm như trang bìa"
+  }
+ ]
+}

@@ -126,6 +126,43 @@ sáng (áo kem có max-min ≥ 19, nền trắng < 8), nên lấy nền là vùn
 trung tính; khe kín giữa tay và thân cũng là nền nếu trắng tinh. Dải ngang tầm
 đôi giày xử lý riêng để bỏ bóng sàn.
 
+## Bản tiếng Anh (bắt đầu từ Chương 1)
+
+Cùng sân khấu, cùng Hương AI, cùng mẫu giọng của cô, đọc bằng tiếng Anh.
+Tệp ra nằm cạnh bản tiếng Việt: `chuong-01/chu-de-1/bai-giang/EC1606_SX01_EN.mp4`.
+
+```bash
+python3 video-dat-set/tools/lay_lich_video_en.py 1     # → du-lieu/ch01_en.json, minh_hoa_ch01_en.json
+python video-dat-set/tools/doc_loi.py video-dat-set/du-lieu/ch01_en.json <thư mục âm thanh>
+sh video-dat-set/tools/dung_chuong.sh 1 <thư mục âm thanh> en
+```
+
+- **Lời đọc và chữ trên slide chủ đề lấy bản dịch có sẵn** trong
+  `docs/slide_noi_dung_chu_de_chCC.json` (`title_en`, `bullets_en`) và
+  `docs/kich_ban_chu_de_chCC.json` (`loi_doc_en`). Ghép theo lời đọc tiếng Việt,
+  không theo tiêu đề (trang tổng kết chủ đề và tổng kết chương trùng tiêu đề).
+  Lời đọc tiếng Việt trong lịch phải trùng từng chữ với docs; lệch là bản dịch đã
+  cũ, trình dựng dừng chứ không dùng.
+- **Trang khung** (bìa, mục tiêu, nội dung, đang ở đâu, ôn tập, tình huống, tổng
+  kết, tài liệu, lời kết) và **nhãn hình minh họa** dịch ở `du-lieu/dich_en_chCC.json`.
+- **Tên trường** theo tên giao dịch quốc tế trong Quyết định 2636/QĐ-BGDĐT
+  (07/9/2026): Vinh Long University of Technology and Engineering. "Faculty of
+  Business and Law" là bản dịch tên khoa; đối chiếu với tên tiếng Anh khoa dùng
+  chính thức nếu có.
+- Tiêu đề tiếng Việt giữ ở trường `tieu_de_vi`, vì các luật chọn dáng và nhãn
+  "đang ở đâu" trong `BaiGiang.tsx` khớp theo tiêu đề tiếng Việt.
+- Tài liệu học tập vẫn là sách tiếng Việt; lời đọc nói rõ điều đó.
+
+## Hương AI mấp máy miệng theo giọng
+
+`tools/bien_do.py` đo độ to của từng tệp lời đọc, 30 giá trị mỗi giây, ghi
+`bien_do.json` cạnh `so_do.json`; `dung_chuong.sh` tự chạy nó. Trong video, một
+lòng miệng đất sét sẫm mở to nhỏ theo giá trị ấy, khép lại thì nụ cười gốc
+trong ảnh hiện ra. Không khớp từng âm như mô hình khớp môi, nhưng chạy trong vài
+giây và không cần GPU. Chỗ miệng từng dáng khai ở `remotion/src/mieng.ts`; đổi
+ảnh dáng nào thì đo lại dáng ấy. Áp dụng cho mọi lần dựng sau, kể cả bản tiếng
+Việt; chưa có `bien_do.json` thì Hương AI không mấp máy như trước.
+
 ## Giấy phép công cụ
 
 - VieNeu-TTS: Apache-2.0. (viXTTS cũng đã thử, đọc kém rõ hơn và giấy phép chỉ

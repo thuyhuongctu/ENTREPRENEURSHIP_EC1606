@@ -7,6 +7,7 @@ import ch02 from '../../du-lieu/ch02.json';
 import ch03 from '../../du-lieu/ch03.json';
 import ch04 from '../../du-lieu/ch04.json';
 import ch05 from '../../du-lieu/ch05.json';
+import ch01en from '../../du-lieu/ch01_en.json';
 import { LopMinhHoa } from './minh-hoa/MinhHoa';
 import { KHUNG } from './minh-hoa/boCuc';
 import { MINH_HOA } from './duLieu';
@@ -23,10 +24,17 @@ const VIDEO = [1, 2, 3, 4, 5].flatMap((chuong) => [1, 2].map((video) => ({
   chuong, video, ma: `SX${String((chuong - 1) * 2 + video).padStart(2, '0')}`,
 })));
 
+// Bản tiếng Anh: cùng số SX, thêm đuôi -EN. Chương nào đã dịch mới có ở đây.
+const CHUONG_EN: Record<number, { slides: Slide[] }> = Object.fromEntries(
+  [ch01en].map((c) => [c.chuong, c as { slides: Slide[] }]),
+);
+const VIDEO_EN = VIDEO.filter((v) => CHUONG_EN[v.chuong]);
+
 // Thời lượng từng slide lấy từ CHÍNH bản đọc (so_do.json do tools/doc_loi.py
 // ghi), không ước theo số chữ: video phải khớp lời từng khung.
 const doDai: CalculateMetadataFunction<ThamSo> = async ({ props }) => {
-  const r = await fetch(staticFile(`am-thanh/ch${String(props.chuong).padStart(2, '0')}/so_do.json`));
+  const thu_muc = `am-thanh/ch${String(props.chuong).padStart(2, '0')}${props.en ? '-en' : ''}`;
+  const r = await fetch(staticFile(`${thu_muc}/so_do.json`));
   const am: Am[] = (await r.json()).slides.filter((a: Am) => a.video === props.video);
   const so_slide = props.slides.filter((s) => s.video === props.video).length;
   // Bản nháp (--props '{"nhap":true}') cho xem thử khi lời đọc chưa đủ; bản
@@ -34,7 +42,10 @@ const doDai: CalculateMetadataFunction<ThamSo> = async ({ props }) => {
   if (am.length !== so_slide && !props.nhap) throw new Error(`video ${props.video}: ${am.length}/${so_slide} slide có lời đọc`);
   const tong = props.slides.filter((s) => s.video === props.video)
     .reduce((t, s) => t + soKhung(am.find((a) => a.so === s.so)?.giay ?? 8), 0);
-  return { durationInFrames: tong, props: { ...props, am } };
+  // Độ mở miệng từng khung (tools/bien_do.py); chưa có tệp thì Hương AI không nói.
+  const rb = await fetch(staticFile(`${thu_muc}/bien_do.json`)).catch(() => null);
+  const bd = rb && rb.ok ? await rb.json() : {};
+  return { durationInFrames: tong, props: { ...props, am, bd } };
 };
 
 export const Goc: React.FC = () => (
@@ -61,6 +72,19 @@ export const Goc: React.FC = () => (
         height={1080}
         durationInFrames={FPS * 60}
         defaultProps={{ chuong, video, slides: CHUONG[chuong].slides, am: [] }}
+        calculateMetadata={doDai}
+      />
+    ))}
+    {VIDEO_EN.map(({ chuong, video, ma }) => (
+      <Composition
+        key={`${ma}-EN`}
+        id={`EC1606-${ma}-EN`}
+        component={BaiGiang}
+        fps={FPS}
+        width={1920}
+        height={1080}
+        durationInFrames={FPS * 60}
+        defaultProps={{ chuong, video, slides: CHUONG_EN[chuong].slides, am: [], en: true }}
         calculateMetadata={doDai}
       />
     ))}
