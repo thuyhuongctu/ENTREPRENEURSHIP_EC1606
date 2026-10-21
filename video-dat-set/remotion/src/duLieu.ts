@@ -9,3 +9,10 @@ import type { MinhHoa } from './minh-hoa/boCuc';
 export const MINH_HOA: Record<number, Record<string, MinhHoa>> = Object.fromEntries(
   [mh01, mh02, mh03, mh04, mh05].map((m) => [m.chuong, m.slides as Record<string, MinhHoa>]),
 );
+
+// Bản tiếng Anh: cùng biểu tượng, chỉ khác nhãn (tools/lay_lich_video_en.py).
+// Chương nào chưa dịch thì chưa có ở đây.
+import mh01en from '../../du-lieu/minh_hoa_ch01_en.json';
+export const MINH_HOA_EN: Record<number, Record<string, MinhHoa>> = Object.fromEntries(
+  [mh01en].map((m) => [m.chuong, m.slides as Record<string, MinhHoa>]),
+);

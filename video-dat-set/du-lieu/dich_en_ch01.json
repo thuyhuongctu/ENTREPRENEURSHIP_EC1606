@@ -1,0 +1,82 @@
+{
+ "chuong": 1,
+ "ghi_chu": "Bản dịch tiếng Anh các trang khung của Chương 1 (bìa, mục tiêu, nội dung, đang ở đâu, ôn tập, tình huống, tổng kết, tài liệu, lời kết). Slide chủ đề lấy bản dịch có sẵn trong docs/slide_noi_dung_chu_de_ch01.json và docs/kich_ban_chu_de_ch01.json. Tên trường theo tên giao dịch quốc tế trong Quyết định 2636/QĐ-BGDĐT (07/9/2026).",
+ "slides": {
+  "1": {
+   "tieu_de": "COVER",
+   "tren_slide": ["CHAPTER 1: AN OVERVIEW OF ENTREPRENEURSHIP", "Course: Entrepreneurship (EC1606)", "Faculty of Business and Law", "Vinh Long University of Technology and Engineering"],
+   "loi_doc": "Hello everyone. I am Do Thuy Huong, a lecturer at the Faculty of Business and Law, Vinh Long University of Technology and Engineering. Welcome to the course Entrepreneurship, course code EC1606. Today we begin with Chapter one, an overview of entrepreneurship. Before we talk about capital, business models or marketing, you need to understand what entrepreneurship is, how a good idea is born and tested, and who can walk alongside you on that journey."
+  },
+  "2": {
+   "tieu_de": "CHAPTER 1 OBJECTIVES",
+   "tren_slide": ["Explain how a start-up differs from an ordinary business", "Validate an idea with the Lean Start-up approach", "Name the four parts of a business plan", "Draw on local strengths and the ecosystem"],
+   "loi_doc": "These are the four objectives of the chapter. After Chapter one, you should be able to explain how a start-up differs from a business that simply copies an existing model; validate an idea in the spirit of the lean start-up; name the four basic parts of a business plan; and draw on local strengths and the start-up ecosystem around you."
+  },
+  "3": {
+   "tieu_de": "CHAPTER 1 CONTENTS",
+   "tren_slide": ["1. 1.1. The concept of entrepreneurship, ideas and business plans", "2. 1.2. Entrepreneurship for women, ethnic-minority people and the start-up ecosystem", "3. Review – Case study – Chapter summary"],
+   "loi_doc": "Chapter one has two topics. Topic one: the concept of entrepreneurship, ideas and business plans. Topic two: entrepreneurship for women and ethnic-minority people, and the start-up ecosystem. At the end of the chapter there are review questions, a case study and a summary. Now let us begin with the first topic."
+  },
+  "15": {
+   "tieu_de": "WHERE ARE WE NOW",
+   "tren_slide": ["✓ Done — Topic 1.1: Entrepreneurship and innovation, the Lean Start-up, criteria for and ways to validate an idea, the role and four parts of a business plan.", "▶ Now — Topic 1.2: Entrepreneurship for women and ethnic-minority people; green and social entrepreneurship; risk and business ethics; the ecosystem and digital tools.", "○ Next — Review and case study: Five review questions, a case study about Ms. Hoa, the chapter summary and learning materials.", "Link to the next chapter: Chapter 1 gives us an idea and a way to test it; Chapter 2 teaches a systematic way to assess opportunities and develop a business plan."],
+   "loi_doc": "Let us see where we are in this chapter. In the first topic, you learned the concept of entrepreneurship and innovation, the lean start-up mindset, how to choose and test an idea, and the role and four parts of a business plan. Now comes the second topic, on entrepreneurship for women and ethnic-minority people. After that we have the review and the case study. This is the foundation for Chapter two, where you will learn to assess business opportunities."
+  },
+  "27": {
+   "tieu_de": "CHAPTER 1 REVIEW QUESTIONS",
+   "tren_slide": ["1. How does a start-up differ from an ordinary business? Give an example of your own.", "2. Why should you build an MVP and test-sell before borrowing large investment capital?", "3. What are the four parts of a business plan? Why is the summary usually written last?", "4. What does a project need in order to be both a green start-up and a social start-up?", "5. In your locality, who in the start-up ecosystem can support people who are just starting out?"],
+   "loi_doc": "To check yourself, pause the video and try to answer the five questions on the screen. The first two review the concept of entrepreneurship and how to test an idea with a minimum viable product. The third is about the business plan. The last two connect to the second topic: green entrepreneurship, social entrepreneurship and the start-up ecosystem. Try to answer with your own examples, rather than repeating the examples from the lecture."
+  },
+  "28": {
+   "tieu_de": "CASE STUDY",
+   "tren_slide": ["Context: Illustrative example: Ms. Hoa in Binh Tan test-sells her first batch of sweet-potato cakes in a local Facebook group, and the response is quite positive.", "Problem: She wants to borrow money to buy a large dryer right away, sells through only one channel, and has not written any business plan.", "Question 1: In the spirit of the Lean Start-up, what else should Ms. Hoa test before deciding to borrow?", "Question 2: Which risks should she anticipate? Which parts of the ecosystem and which digital tools could help her reduce them?"],
+   "loi_doc": "Now let us apply the whole chapter to one case. A reminder: this is an illustrative example created for teaching, not a real story. Ms. Hoa in Binh Tan made her first batch of sweet-potato cakes, posted them for sale in a local Facebook group, and received quite positive feedback. Excited, she wants to borrow money to buy a large dryer right away, even though she has sold through only one channel and has no business plan yet. Think about two questions. First, in the spirit of the lean start-up, what else should she test before borrowing, for example, do customers come back to buy a second time? Second, what risks is she facing, and how could the women's union or digital tools help her?"
+  },
+  "29": {
+   "tieu_de": "CHAPTER 1 SUMMARY",
+   "tren_slide": ["Entrepreneurship: tested innovation: A start-up differs from an ordinary business through innovation and calculated risk; the idea must come from a real need and be tested with an MVP.", "Business plan: the roadmap: Four parts: summary, product, market, finance. It guides you and supports fundraising, and it should be adjusted flexibly.", "Build on strengths, never alone: Start from local identity; go green and social; keep your ethics and anticipate risks; use the ecosystem and digital tools.", "To do: Complete the self-assessment for both topics, answer the Chapter 1 written review, and note one idea for your final course report."],
+   "loi_doc": "To close Chapter one, remember three things. First, entrepreneurship is innovation with calculated risk, and a good idea must come from a real need and be tested before any large investment. Second, the business plan is an essential roadmap: it guides you, and it is the basis for raising capital. Third, start your business from local strengths, keep your business ethics, and do not go it alone. Your tasks: complete the self-assessment exercises and the written review, and note down an idea for your final course report."
+  },
+  "30": {
+   "tieu_de": "LEARNING MATERIALS",
+   "tren_slide": ["Main textbook: [1] Nguyen Thi Ngoc Huyen and Ngo Thi Viet Nga (2024), Giáo trình khởi sự kinh doanh (Starting a Business, 2nd reprint), National Economics University Publishing House.", "Further reading: [3] Hanoi University of Science and Technology (2023), Advisory document: Business skills for women and ethnic-minority people (in Vietnamese)."],
+   "loi_doc": "Please read the textbook on starting a business by Nguyen Thi Ngoc Huyen and Ngo Thi Viet Nga, published by the National Economics University Publishing House. For the second topic, also read the document on business skills for women and ethnic-minority people by Hanoi University of Science and Technology. Both are in Vietnamese."
+  },
+  "31": {
+   "tieu_de": "END OF CHAPTER",
+   "tren_slide": ["THANK YOU FOR WATCHING", "DIGITAL LEARNING MATERIALS · ENTREPRENEURSHIP", "Faculty of Business and Law – Vinh Long University of Technology and Engineering", "fel@vlute.edu.vn · https://vlute.edu.vn"],
+   "loi_doc": "Thank you for following Chapter one. I hope you find an idea that truly makes you want to get started. See you in Chapter two, on assessing opportunities and ideas to develop a business plan. Goodbye for now."
+  }
+ },
+ "minh_hoa": {
+  "2": ["Start-up", "Validate the idea", "Business plan", "Local strengths"],
+  "3": ["1.1 · Ideas & plans", "1.2 · Women, minorities, ecosystem", "Review · Summary"],
+  "4": ["Start-ups & ideas", "Business plan"],
+  "5": ["Start-up", "Take risks", "Choose a path", "Prepare resources"],
+  "6": ["Product, technology", "Process", "Marketing", "Business model"],
+  "7": ["Start small", "Test-sell, measure", "Learn & fix fast"],
+  "8": ["Real need", "Customers will pay", "Within your means", "Know competitors"],
+  "9": ["Raw sweet potatoes", "Low prices", "Cakes, candied potato", "Sell online"],
+  "10": ["Search trends", "Ask customers", "MVP · test sale", "Ms. Hoa's small batch"],
+  "11": ["A roadmap", "Lower risk", "Basis for funding"],
+  "12": ["Executive summary", "Product", "Market", "Finance"],
+  "13": ["What, for whom, why", "Adjust flexibly", "Intellectual property"],
+  "14": ["Innovation & risk", "Test with data", "A roadmap", "Self-assessment"],
+  "15": ["1.1 · Done", "1.2 · Now", "Review", "On to Chapter 2"],
+  "16": ["Women & minorities", "Green, social, ecosystem"],
+  "17": ["Local strengths", "Binh Tan sweet potato", "Red pottery", "Orchard tourism"],
+  "18": ["Work–home balance", "Adaptability", "Strengths over capital", "Support policies"],
+  "19": ["Protect the environment", "Compostable packaging", "Urban customers", "Competitive edge"],
+  "20": ["Community problem", "Profit + social good", "Women's income", "Identity + green"],
+  "21": ["Centuries-old pottery", "Old designs", "New designs, green packaging", "Jobs for potters"],
+  "22": ["Financial risk", "Market risk", "Team risk", "Learn from failure"],
+  "23": ["Profit, people, planet", "Honest with customers", "Honest with yourself"],
+  "24": ["Entrepreneur", "University", "Support funds", "Women's union", "Local programmes"],
+  "25": ["Social media", "E-commerce", "Online design", "Cloud tools"],
+  "26": ["Local identity", "Green & social", "Ecosystem, digital tools", "Self-assessment"],
+  "27": ["Q1", "Q2", "Q3", "Q4", "Q5"],
+  "28": ["Test sale: positive", "Wants a loan now", "What to test?", "Risks & support"],
+  "29": ["Tested innovation", "A roadmap", "Strengths, ecosystem", "To do"],
+  "30": ["Main textbook", "Further reading"]
+ }
+}
